@@ -171,7 +171,7 @@ export const RankingsView: React.FC<RankingsViewProps> = ({
     <div className="space-y-6">
       {/* Header Banner */}
       <div className="p-6 bg-white dark:bg-slate-900 rounded-3xl border border-slate-200 dark:border-slate-800 shadow-sm space-y-2">
-        <h2 className="text-xl font-bold text-slate-900 dark:text-white font-serif flex items-center gap-2">
+        <h2 className="text-xl font-bold text-slate-900 dark:text-white flex items-center gap-2">
           <Award className="w-5 h-5 text-amber-500" />
           {t.rankings.title}
         </h2>
@@ -237,7 +237,7 @@ export const RankingsView: React.FC<RankingsViewProps> = ({
                     <span className={`px-2 py-0.5 rounded-full text-[10px] font-bold border ${colors.badgeBg}`}>
                       #{leader.order}
                     </span>
-                    <h3 className="text-sm sm:text-base font-bold text-slate-900 dark:text-white font-serif group-hover:text-amber-600 dark:group-hover:text-amber-400 transition break-words">
+                    <h3 className="text-sm sm:text-base font-bold text-slate-900 dark:text-white group-hover:text-amber-600 dark:group-hover:text-amber-400 transition break-words">
                       {language === 'ja' ? leader.nameJa : leader.nameEn}
                     </h3>
                     <span className="text-xs text-slate-400 hidden sm:inline shrink-0">

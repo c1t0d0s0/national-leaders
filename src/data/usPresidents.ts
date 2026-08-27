@@ -1312,6 +1312,20 @@ export const usPresidents: Leader[] = [
     "keyEvents": [
       {
         "year": "1861",
+        "titleJa": "南北戦争勃発（1861〜1865年）",
+        "titleEn": "American Civil War (1861-1865)",
+        "descriptionJa": "合衆国の分裂を防ぎ奴隷制廃止のため北軍を最高指揮。",
+        "descriptionEn": "Led the Union through the Civil War to preserve the nation and abolish slavery."
+      },
+      {
+        "year": "1863",
+        "titleJa": "奴隷解放宣言およびゲティスバーグ演説",
+        "titleEn": "Emancipation Proclamation & Gettysburg Address",
+        "descriptionJa": "400万人の黒人奴隷を解放。「人民の人民による人民のための政治」演説を執行。",
+        "descriptionEn": "Emancipated 4 million slaves and delivered the Gettysburg Address."
+      },
+      {
+        "year": "1861",
         "titleJa": "第16代合衆国大統領就任",
         "titleEn": "Inaugurated as President of the United States",
         "descriptionJa": "1861-03-04、就任式を執行。",
@@ -1476,6 +1490,13 @@ export const usPresidents: Leader[] = [
       }
     ],
     "keyEvents": [
+      {
+        "year": "1869",
+        "titleJa": "ブラック・フライデー（1869年9月24日・金投機恐慌）",
+        "titleEn": "Black Friday Gold Panic (September 24, 1869)",
+        "descriptionJa": "ウォール街の投機家ジェイ・グールドらによる金買い占め工作に対し、グラント大統領が連邦保有金を電撃売却して金価格を急落させ恐慌を鎮静化。",
+        "descriptionEn": "President Grant released federal gold reserves to break Wall Street cornering scheme on Black Friday."
+      },
       {
         "year": "1869",
         "titleJa": "第18代合衆国大統領就任",
@@ -2557,6 +2578,13 @@ export const usPresidents: Leader[] = [
     "keyEvents": [
       {
         "year": "1929",
+        "titleJa": "ウォール街大暴落（暗黒の木曜日・世界大恐慌の始まり）",
+        "titleEn": "Wall Street Crash of 1929 (Great Depression)",
+        "descriptionJa": "1929年10月24日、ニューヨーク株式市場で株価が大暴落し世界大恐慌に突入。フーバーダム建設等を行うも深刻な不況が継続。",
+        "descriptionEn": "Stock market crashed initiating the Great Depression; launched major public projects like Hoover Dam."
+      },
+      {
+        "year": "1929",
         "titleJa": "第31代合衆国大統領就任",
         "titleEn": "Inaugurated as President of the United States",
         "descriptionJa": "1929-03-04、就任式を執行。",
@@ -2640,6 +2668,20 @@ export const usPresidents: Leader[] = [
     "keyEvents": [
       {
         "year": "1933",
+        "titleJa": "ニューディール政策始動（大恐慌克服）",
+        "titleEn": "Launch of the New Deal (Great Depression Relief)",
+        "descriptionJa": "社会保障法、テネシー川流域開発公社（TVA）、緊急銀行救済法を次々制定。",
+        "descriptionEn": "Pioneered landmark social security, banking reforms, and infrastructure works."
+      },
+      {
+        "year": "1941",
+        "titleJa": "真珠湾攻撃と第二次世界大戦参戦（1941年12月8日）",
+        "titleEn": "Pearl Harbor Attack & Entry into World War II",
+        "descriptionJa": "日本軍の真珠湾攻撃を受け「屈辱の日」演説を行い対日参戦。連合国首脳として対ナチス・日本戦を勝利へ指揮。",
+        "descriptionEn": "Delivered Day of Infamy speech after Pearl Harbor, leading Allies in WWII victory."
+      },
+      {
+        "year": "1933",
         "titleJa": "第32代合衆国大統領就任",
         "titleEn": "Inaugurated as President of the United States",
         "descriptionJa": "1933-03-04、就任式を執行。",
@@ -2721,6 +2763,13 @@ export const usPresidents: Leader[] = [
       }
     ],
     "keyEvents": [
+      {
+        "year": "1945",
+        "titleJa": "広島・長崎への原子爆弾投下命令と第二次世界大戦勝利",
+        "titleEn": "Atomic Bombings of Hiroshima/Nagasaki & WWII Victory",
+        "descriptionJa": "1945年8月、史上初の実戦原爆投下を命令し終戦を決定。国連創設および冷戦期のマーシャル・プランを主導。",
+        "descriptionEn": "Authorized the atomic bombings of Hiroshima and Nagasaki, concluding WWII."
+      },
       {
         "year": "1945",
         "titleJa": "第33代合衆国大統領就任",
@@ -2888,6 +2937,13 @@ export const usPresidents: Leader[] = [
     ],
     "keyEvents": [
       {
+        "year": "1962",
+        "titleJa": "キューバ危機（1962年10月・核戦争の危機回避）",
+        "titleEn": "Cuban Missile Crisis (October 1962)",
+        "descriptionJa": "ソ連のキューバ核ミサイル配備に対し海上封鎖を断行。フルシチョフとの極秘交渉で米ソ核戦争を回避。",
+        "descriptionEn": "Enforced naval blockade against Soviet missiles in Cuba, successfully averting global nuclear war."
+      },
+      {
         "year": "1961",
         "titleJa": "第35代合衆国大統領就任",
         "titleEn": "Inaugurated as President of the United States",
@@ -3053,6 +3109,20 @@ export const usPresidents: Leader[] = [
       }
     ],
     "keyEvents": [
+      {
+        "year": "1972",
+        "titleJa": "米中歴史的和解（1972年2月北京電撃訪問）",
+        "titleEn": "Nixon Visits China (Historic Détente)",
+        "descriptionJa": "毛沢東・周恩来と会談し冷戦下の外交勢力図を一変させる。",
+        "descriptionEn": "Opened relations with Communist China changing the global Cold War balance."
+      },
+      {
+        "year": "1974",
+        "titleJa": "ウォーターゲート事件と合衆国大統領辞任（1974年8月9日）",
+        "titleEn": "Watergate Scandal & Presidential Resignation",
+        "descriptionJa": "民主党本部盗聴と隠蔽工作が暴露。弾劾訴追を前に米史上初となる任期途中での大統領辞任。",
+        "descriptionEn": "First US President to resign from office amid the Watergate cover-up scandal."
+      },
       {
         "year": "1969",
         "titleJa": "第37代合衆国大統領就任",
@@ -3302,6 +3372,13 @@ export const usPresidents: Leader[] = [
       }
     ],
     "keyEvents": [
+      {
+        "year": "1987",
+        "titleJa": "ブラックマンデー（1987年10月19日）とINF条約調印",
+        "titleEn": "Black Monday Crash (1987) & INF Treaty with USSR",
+        "descriptionJa": "史上最大の株価急落（ブラックマンデー）に対し迅速な金融流動性を供給。同年12月、ゴルバチョフと中距離核戦力（INF）全廃条約に調印し冷戦終結を加速。",
+        "descriptionEn": "Stabilized markets during Black Monday and signed historic INF Nuclear Treaty with Gorbachev."
+      },
       {
         "year": "1981",
         "titleJa": "第40代合衆国大統領就任",
@@ -3553,6 +3630,20 @@ export const usPresidents: Leader[] = [
     "keyEvents": [
       {
         "year": "2001",
+        "titleJa": "9.11アメリカ同時多発テロ（2001年9月11日）",
+        "titleEn": "September 11 Terrorist Attacks (9/11)",
+        "descriptionJa": "アルカイダによるハイジャック機がWTCツインタワー・国防総省に激突（犠牲者2,977名）。「対テロ戦争」を宣言。",
+        "descriptionEn": "Al-Qaeda terrorists crashed hijacked airliners into WTC and Pentagon, sparking the War on Terror."
+      },
+      {
+        "year": "2008",
+        "titleJa": "リーマン・ショック（2008年9月・世界金融危機）",
+        "titleEn": "Lehman Brothers Collapse & 2008 Financial Crisis",
+        "descriptionJa": "サブプライム住宅ローン破綻からリーマン・ブラザーズが倒産。7000億ドルの金融安定化法（TARP）を成立させ金融システム崩壊を阻止。",
+        "descriptionEn": "Subprime crisis toppled Lehman Brothers; passed $700B TARP bailout to prevent financial collapse."
+      },
+      {
+        "year": "2001",
         "titleJa": "第43代合衆国大統領就任",
         "titleEn": "Inaugurated as President of the United States",
         "descriptionJa": "2001-01-20、就任式を執行。",
@@ -3717,6 +3808,20 @@ export const usPresidents: Leader[] = [
       }
     ],
     "keyEvents": [
+      {
+        "year": "2020",
+        "titleJa": "新型コロナウイルス感染症（COVID-19）パンデミックと国家非常事態宣言",
+        "titleEn": "COVID-19 Pandemic & National Emergency Declaration",
+        "descriptionJa": "未曾有の感染拡大に対し国家非常事態を宣言。ワクチン超高速開発作戦（ワープ・スピード作戦）を断行。",
+        "descriptionEn": "Declared national emergency against COVID-19 and launched Operation Warp Speed for rapid vaccine development."
+      },
+      {
+        "year": "2021",
+        "titleJa": "2021年合衆国連邦議会議事堂襲撃事件（2021年1月6日）",
+        "titleEn": "January 6 United States Capitol Attack",
+        "descriptionJa": "大統領選挙結果の承認手続き中に支持者集団が連邦議会議事堂に乱入し一時占拠する歴史的前代未聞の事態が発生。",
+        "descriptionEn": "Crowds stormed the US Capitol during electoral vote certification."
+      },
       {
         "year": "2017",
         "titleJa": "第45代合衆国大統領就任",

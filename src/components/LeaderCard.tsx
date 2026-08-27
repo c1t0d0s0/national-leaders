@@ -95,10 +95,10 @@ export const LeaderCard: React.FC<LeaderCardProps> = ({
           <div className="flex-1 min-w-0">
             {language === 'ja' ? (
               <>
-                <p className="text-[11px] text-slate-400 dark:text-slate-500 font-serif tracking-wider break-words leading-tight mb-0.5">
+                <p className="text-[11px] text-slate-400 dark:text-slate-500 font-medium tracking-wider break-words leading-tight mb-0.5">
                   {leader.nameRuby}
                 </p>
-                <h3 className="text-base sm:text-lg font-bold text-slate-900 dark:text-white font-serif tracking-wide break-words leading-snug group-hover:text-amber-600 dark:group-hover:text-amber-400 transition">
+                <h3 className="text-base sm:text-lg font-bold text-slate-900 dark:text-white tracking-wide break-words leading-snug group-hover:text-amber-600 dark:group-hover:text-amber-400 transition">
                   {leader.nameJa}
                 </h3>
                 <p className="text-xs text-slate-500 dark:text-slate-400 break-words leading-tight mt-0.5">
@@ -110,7 +110,7 @@ export const LeaderCard: React.FC<LeaderCardProps> = ({
                 <h3 className="text-base sm:text-lg font-bold text-slate-900 dark:text-white tracking-wide break-words leading-snug group-hover:text-amber-600 dark:group-hover:text-amber-400 transition">
                   {leader.nameEn}
                 </h3>
-                <p className="text-xs text-slate-500 dark:text-slate-400 font-serif break-words leading-tight mt-0.5">
+                <p className="text-xs text-slate-500 dark:text-slate-400 break-words leading-tight mt-0.5">
                   {leader.nameJa} ({leader.nameRuby})
                 </p>
               </>

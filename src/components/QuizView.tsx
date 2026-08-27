@@ -82,7 +82,7 @@ export const QuizView: React.FC<QuizViewProps> = ({
         </div>
 
         <div>
-          <h2 className="text-2xl sm:text-3xl font-extrabold text-slate-900 dark:text-white font-serif mb-2">
+          <h2 className="text-2xl sm:text-3xl font-extrabold text-slate-900 dark:text-white mb-2">
             {score === quizQuestions.length
               ? t.quiz.perfectScore
               : score >= quizQuestions.length * 0.7
@@ -112,7 +112,7 @@ export const QuizView: React.FC<QuizViewProps> = ({
       {/* Header Banner */}
       <div className="p-6 bg-white dark:bg-slate-900 rounded-3xl border border-slate-200 dark:border-slate-800 shadow-sm space-y-2">
         <div className="flex items-center justify-between">
-          <h2 className="text-xl font-bold text-slate-900 dark:text-white font-serif flex items-center gap-2">
+          <h2 className="text-xl font-bold text-slate-900 dark:text-white flex items-center gap-2">
             <HelpCircle className="w-5 h-5 text-amber-500" />
             {t.quiz.title}
           </h2>
@@ -127,7 +127,7 @@ export const QuizView: React.FC<QuizViewProps> = ({
 
       {/* Question Card */}
       <div className="p-6 sm:p-8 bg-white dark:bg-slate-900 rounded-3xl border border-slate-200 dark:border-slate-800 shadow-sm space-y-6">
-        <h3 className="text-lg sm:text-xl font-bold text-slate-900 dark:text-white leading-relaxed font-serif">
+        <h3 className="text-lg sm:text-xl font-bold text-slate-900 dark:text-white leading-relaxed">
           {language === 'ja' ? currentQ.questionJa : currentQ.questionEn}
         </h3>
 

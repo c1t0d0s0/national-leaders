@@ -127,7 +127,7 @@ export const LeaderDetailModal: React.FC<LeaderDetailModalProps> = ({
               </div>
 
               {/* Names */}
-              <h2 className="text-2xl sm:text-3xl font-extrabold text-slate-900 dark:text-white font-serif tracking-tight">
+              <h2 className="text-2xl sm:text-3xl font-extrabold text-slate-900 dark:text-white tracking-tight">
                 {language === 'ja' ? leader.nameJa : leader.nameEn}
               </h2>
               <p className="text-sm text-slate-500 dark:text-slate-400">
@@ -175,7 +175,7 @@ export const LeaderDetailModal: React.FC<LeaderDetailModalProps> = ({
                 <h4 className="text-xs font-bold uppercase tracking-wider text-slate-400 dark:text-slate-500 mb-1.5">
                   {language === 'ja' ? '人物概要' : 'Executive Summary'}
                 </h4>
-                <p className="text-sm sm:text-base text-slate-800 dark:text-slate-200 leading-relaxed font-serif">
+                <p className="text-sm sm:text-base text-slate-800 dark:text-slate-200 leading-relaxed font-normal">
                   {language === 'ja' ? leader.summaryJa : leader.summaryEn}
                 </p>
               </div>

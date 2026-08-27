@@ -40,7 +40,7 @@ export const LeaderComparator: React.FC<LeaderComparatorProps> = ({
     return (
       <div className="p-12 text-center bg-white dark:bg-slate-900 rounded-3xl border border-slate-200 dark:border-slate-800 shadow-sm">
         <GitCompare className="w-14 h-14 text-amber-500/60 mx-auto mb-4" />
-        <h2 className="text-xl font-bold text-slate-900 dark:text-white mb-2 font-serif">
+        <h2 className="text-xl font-bold text-slate-900 dark:text-white mb-2">
           {t.compare.title}
         </h2>
         <p className="text-sm text-slate-500 dark:text-slate-400 max-w-md mx-auto mb-6">
@@ -75,7 +75,7 @@ export const LeaderComparator: React.FC<LeaderComparatorProps> = ({
       {/* Header with clear button */}
       <div className="flex flex-col sm:flex-row items-start sm:items-center justify-between gap-4 p-5 bg-white dark:bg-slate-900 rounded-2xl border border-slate-200 dark:border-slate-800 shadow-sm">
         <div>
-          <h2 className="text-lg sm:text-xl font-bold text-slate-900 dark:text-white font-serif">
+          <h2 className="text-lg sm:text-xl font-bold text-slate-900 dark:text-white">
             {t.compare.title} ({comparedLeaders.length}/3)
           </h2>
           <p className="text-xs text-slate-500 dark:text-slate-400">
@@ -131,7 +131,7 @@ export const LeaderComparator: React.FC<LeaderComparatorProps> = ({
                   </span>
                   <h3 
                     onClick={() => onSelectLeader(leader)}
-                    className="text-base font-bold text-slate-900 dark:text-white font-serif hover:text-amber-600 cursor-pointer transition"
+                    className="text-base font-bold text-slate-900 dark:text-white hover:text-amber-600 cursor-pointer transition"
                   >
                     {language === 'ja' ? leader.nameJa : leader.nameEn}
                   </h3>

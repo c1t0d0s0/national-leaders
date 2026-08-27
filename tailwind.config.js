@@ -47,8 +47,9 @@ export default {
         }
       },
       fontFamily: {
-        serif: ['"Noto Serif JP"', '"Cinzel"', 'Georgia', 'serif'],
-        sans: ['"Inter"', '"Noto Sans JP"', 'system-ui', 'sans-serif'],
+        sans: ['"Noto Sans JP"', '"Inter"', 'system-ui', '-apple-system', 'BlinkMacSystemFont', '"Segoe UI"', 'Roboto', '"Hiragino Sans"', '"Meiryo"', 'sans-serif'],
+        gothic: ['"Noto Sans JP"', '"Inter"', 'sans-serif'],
+        serif: ['"Noto Sans JP"', 'sans-serif'], // Fallback safely to gothic
       }
     },
   },
