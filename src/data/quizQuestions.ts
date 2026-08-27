@@ -1700,5 +1700,345 @@ export const quizQuestions: QuizQuestion[] = [
     "explanationEn": "President Ronald Reagan presided over 1980s economic expansion and signed the historic 1987 Intermediate-Range Nuclear Forces (INF) Treaty with Mikhail Gorbachev.",
     "sourceNoteJa": "レーガン大統領図書館 INF条約公式調印文書",
     "sourceNoteEn": "Ronald Reagan Presidential Library Arms Control Collection"
+  },
+  {
+    "id": "q-51",
+    "category": "tokugawa_shogun",
+    "questionType": "achievement",
+    "questionJa": "1615年に大名を厳格に統制する「武家諸法度」や「禁中並公家諸法度」を公布し、日光東照宮を造営した徳川第2代将軍は誰でしょう？",
+    "questionEn": "Which 2nd Tokugawa Shogun promulgated the 'Buke Shohatto' military code and 'Kinchu Narabini Kuge Shohatto' governing the Imperial Court in 1615?",
+    "options": [
+      {
+        "leaderId": "tokugawa-1",
+        "textJa": "徳川 家康",
+        "textEn": "Tokugawa Ieyasu"
+      },
+      {
+        "leaderId": "tokugawa-2",
+        "textJa": "徳川 秀忠",
+        "textEn": "Tokugawa Hidetada"
+      },
+      {
+        "leaderId": "tokugawa-3",
+        "textJa": "徳川 家光",
+        "textEn": "Tokugawa Iemitsu"
+      },
+      {
+        "leaderId": "tokugawa-4",
+        "textJa": "徳川 家綱",
+        "textEn": "Tokugawa Ietsuna"
+      }
+    ],
+    "correctLeaderId": "tokugawa-2",
+    "explanationJa": "第2代将軍・徳川秀忠は、元和元年（1615年）に武家諸法度と禁中並公家諸法度を制定し、幕府の法制・大名統制の基盤を完成させました。また日光東照宮を建立して父・家康を祀りました。",
+    "explanationEn": "The 2nd Shogun, Tokugawa Hidetada, enacted the fundamental legal codes governing both feudal daimyo lords and the imperial court in 1615, cementing shogunal authority and constructing Nikko Toshogu shrine.",
+    "sourceNoteJa": "『徳川実紀』台徳院殿御実紀",
+    "sourceNoteEn": "Tokugawa Jikki (Official Chronology of Tokugawa Shoguns)"
+  },
+  {
+    "id": "q-52",
+    "category": "tokugawa_shogun",
+    "questionType": "achievement",
+    "questionJa": "由井正雪の乱（慶安の変）を機に、武力制圧の「武断政治」から儒教・道徳を重んじる「文治政治」へと幕政を転換し、大名の末期養子の禁を緩和した第4代将軍は誰でしょう？",
+    "questionEn": "Which 4th Tokugawa Shogun transitioned shogunal governance from military rule (Budan) to Confucian civilian governance (Bunchi) following the Keian Uprising?",
+    "options": [
+      {
+        "leaderId": "tokugawa-3",
+        "textJa": "徳川 家光",
+        "textEn": "Tokugawa Iemitsu"
+      },
+      {
+        "leaderId": "tokugawa-4",
+        "textJa": "徳川 家綱",
+        "textEn": "Tokugawa Ietsuna"
+      },
+      {
+        "leaderId": "tokugawa-5",
+        "textJa": "徳川 綱吉",
+        "textEn": "Tokugawa Tsunayoshi"
+      },
+      {
+        "leaderId": "tokugawa-6",
+        "textJa": "徳川 家宣",
+        "textEn": "Tokugawa Ienobu"
+      }
+    ],
+    "correctLeaderId": "tokugawa-4",
+    "explanationJa": "第4代将軍・徳川家綱は幼少で就任後、保科正之や酒井忠勝らの補佐を受け、牢人の発生を防ぐため末期養子の禁を緩和。武力ではなく礼節と教化による「文治政治」への大転換を主導しました。",
+    "explanationEn": "The 4th Shogun, Tokugawa Ietsuna, guided by Hoshina Masayuki, relaxed restrictions on deathbed adoptions to reduce masterless ronin, shifting the shogunate toward civilian Confucian administration.",
+    "sourceNoteJa": "『徳川実紀』厳有院殿御実紀・辻達也『江戸開府』",
+    "sourceNoteEn": "Historical Records of Tokugawa Ietsuna & Academic Shogunate Studies"
+  },
+  {
+    "id": "q-53",
+    "category": "tokugawa_shogun",
+    "questionType": "achievement",
+    "questionJa": "儒学者・新井白石や側用人・間部詮房を重用し、悪名高かった生類憐みの令を即座に廃止して「正徳の治」と呼ばれる清新な政治を断行した第6代将軍は誰でしょう？",
+    "questionEn": "Which 6th Tokugawa Shogun abolished the strict Edicts on Compassion for Living Things and promoted the 'Shotoku Reforms' with scholar Arai Hakuseki?",
+    "options": [
+      {
+        "leaderId": "tokugawa-5",
+        "textJa": "徳川 綱吉",
+        "textEn": "Tokugawa Tsunayoshi"
+      },
+      {
+        "leaderId": "tokugawa-6",
+        "textJa": "徳川 家宣",
+        "textEn": "Tokugawa Ienobu"
+      },
+      {
+        "leaderId": "tokugawa-7",
+        "textJa": "徳川 家継",
+        "textEn": "Tokugawa Ietsugu"
+      },
+      {
+        "leaderId": "tokugawa-8",
+        "textJa": "徳川 吉宗",
+        "textEn": "Tokugawa Yoshimune"
+      }
+    ],
+    "correctLeaderId": "tokugawa-6",
+    "explanationJa": "第6代将軍・徳川家宣は、就任直後に綱吉の「生類憐みの令」を全廃。新井白石と間部詮房を登用して金銀貨幣の改鋳や朝鮮通信使待遇簡素化など、理性的で格調高い「正徳の治」を推進しました。",
+    "explanationEn": "Upon taking office, 6th Shogun Tokugawa Ienobu promptly abolished Tsunayoshi's animal edicts, collaborating with scholar Arai Hakuseki to implement sound monetary and diplomatic reforms.",
+    "sourceNoteJa": "新井白石『折たく柴の記』・『文昭院殿御実紀』",
+    "sourceNoteEn": "Arai Hakuseki 'Oritaku Shiba no Ki' (Autobiography)"
+  },
+  {
+    "id": "q-54",
+    "category": "tokugawa_shogun",
+    "questionType": "quote_or_event",
+    "questionJa": "わずか満3歳で第7代将軍に就任し、満6歳で病弱のため早世したことで、徳川宗家（初代家康以来の本流直系男子）が途絶えることとなった歴代最年少将軍は誰でしょう？",
+    "questionEn": "Who was the youngest Tokugawa Shogun in history, appointed at age 3 and passing away at age 6, which ended the direct male lineage of Tokugawa Ieyasu's main branch?",
+    "options": [
+      {
+        "leaderId": "tokugawa-6",
+        "textJa": "徳川 家宣",
+        "textEn": "Tokugawa Ienobu"
+      },
+      {
+        "leaderId": "tokugawa-7",
+        "textJa": "徳川 家継",
+        "textEn": "Tokugawa Ietsugu"
+      },
+      {
+        "leaderId": "tokugawa-9",
+        "textJa": "徳川 家重",
+        "textEn": "Tokugawa Ieshige"
+      },
+      {
+        "leaderId": "tokugawa-14",
+        "textJa": "徳川 家茂",
+        "textEn": "Tokugawa Iemochi"
+      }
+    ],
+    "correctLeaderId": "tokugawa-7",
+    "explanationJa": "第7代将軍・徳川家継は満3歳（数え4歳）で就任しましたが、満6歳で急性肺炎のため早世しました。これにより秀忠以来の徳川宗家直系男子が断絶し、紀州徳川家から吉宗が迎えられることとなりました。",
+    "explanationEn": "The 7th Shogun, Tokugawa Ietsugu, assumed office at age 3 and passed away at age 6 from pneumonia, bringing an end to the direct shogunal bloodline and leading to Yoshimune's accession from the Kishu branch.",
+    "sourceNoteJa": "『徳川実紀』有章院殿御実紀",
+    "sourceNoteEn": "Tokugawa Jikki Records of Shogun Ietsugu"
+  },
+  {
+    "id": "q-55",
+    "category": "tokugawa_shogun",
+    "questionType": "achievement",
+    "questionJa": "幕末の政情不安を収拾するため朝廷と幕府の融和を図る「公武合体」を推進し、孝明天皇の妹・皇女和宮を正室に迎えた第14代将軍は誰でしょう？",
+    "questionEn": "Which 14th Tokugawa Shogun pursued the 'Kobu Gattai' (Court-Shogunate Union) policy and married Imperial Princess Kazunomiya during the turbulent Bakumatsu era?",
+    "options": [
+      {
+        "leaderId": "tokugawa-12",
+        "textJa": "徳川 家慶",
+        "textEn": "Tokugawa Ieyoshi"
+      },
+      {
+        "leaderId": "tokugawa-13",
+        "textJa": "徳川 家定",
+        "textEn": "Tokugawa Iesada"
+      },
+      {
+        "leaderId": "tokugawa-14",
+        "textJa": "徳川 家茂",
+        "textEn": "Tokugawa Iemochi"
+      },
+      {
+        "leaderId": "tokugawa-15",
+        "textJa": "徳川 慶喜",
+        "textEn": "Tokugawa Yoshinobu"
+      }
+    ],
+    "correctLeaderId": "tokugawa-14",
+    "explanationJa": "第14代将軍・徳川家茂は13歳で就任後、皇女和宮と政略結婚を結び公武合体を推進。自ら長州征伐の陣頭指揮を執るなど誠実で聡明な人柄から、勝海舟ら多くの幕臣に深く追悼されました。",
+    "explanationEn": "The 14th Shogun, Tokugawa Iemochi, married Princess Kazunomiya to unify imperial and shogunal prestige. Beloved by retainers like Katsu Kaishu for his intelligence, he died young during the Choshu expedition.",
+    "sourceNoteJa": "勝海舟『氷川清話』・『徳川実紀』",
+    "sourceNoteEn": "Katsu Kaishu 'Hikawa Seiwa' & Bakumatsu Archival Documents"
+  },
+  {
+    "id": "q-56",
+    "category": "tokugawa_shogun",
+    "questionType": "achievement",
+    "questionJa": "言語症などの重い身体的ハンディキャップを抱えながらも、側用人・大岡忠光の通訳を介して政務を統括し、後の「田沼時代」を築く田沼意次を抜擢した第9代将軍は誰でしょう？",
+    "questionEn": "Which 9th Tokugawa Shogun overcame severe speech and physical disabilities through advisor Ooka Tadamitsu and appointed Tanuma Okitsugu, laying the groundwork for commercial expansion?",
+    "options": [
+      {
+        "leaderId": "tokugawa-8",
+        "textJa": "徳川 吉宗",
+        "textEn": "Tokugawa Yoshimune"
+      },
+      {
+        "leaderId": "tokugawa-9",
+        "textJa": "徳川 家重",
+        "textEn": "Tokugawa Ieshige"
+      },
+      {
+        "leaderId": "tokugawa-10",
+        "textJa": "徳川 家治",
+        "textEn": "Tokugawa Ieharu"
+      },
+      {
+        "leaderId": "tokugawa-11",
+        "textJa": "徳川 家斉",
+        "textEn": "Tokugawa Ienari"
+      }
+    ],
+    "correctLeaderId": "tokugawa-9",
+    "explanationJa": "第9代将軍・徳川家重は言葉が不自由でしたが、唯一その言葉を正確に解した大岡忠光を側用人として重用。また有能な田沼意次を見出して御小納戸頭取に登用するなど、優れた人事眼を発揮しました。",
+    "explanationEn": "The 9th Shogun, Tokugawa Ieshige, ruled effectively through his trusted chamberlain Ooka Tadamitsu and demonstrated keen talent scouting by promoting the gifted administrator Tanuma Okitsugu.",
+    "sourceNoteJa": "『徳川実紀』惇信院殿御実紀・鈴木尚『骨は語る 徳川将軍・大名家の人びと』",
+    "sourceNoteEn": "Anthropological Examination of Shogunal Graves & Tokugawa Jikki"
+  },
+  {
+    "id": "q-57",
+    "category": "tokugawa_shogun",
+    "questionType": "achievement",
+    "questionJa": "老中・田沼意次を全面信頼して重商主義政策（株仲間の公認・長崎貿易拡大・蝦夷地調査）を推進し、将棋の腕前は専門棋士に匹敵したとされる第10代将軍は誰でしょう？",
+    "questionEn": "Which 10th Tokugawa Shogun backed senior councilor Tanuma Okitsugu's mercantilist policies (guild licensing and foreign trade expansion) and was a master-level Shogi player?",
+    "options": [
+      {
+        "leaderId": "tokugawa-9",
+        "textJa": "徳川 家重",
+        "textEn": "Tokugawa Ieshige"
+      },
+      {
+        "leaderId": "tokugawa-10",
+        "textJa": "徳川 家治",
+        "textEn": "Tokugawa Ieharu"
+      },
+      {
+        "leaderId": "tokugawa-11",
+        "textJa": "徳川 家斉",
+        "textEn": "Tokugawa Ienari"
+      },
+      {
+        "leaderId": "tokugawa-12",
+        "textJa": "徳川 家慶",
+        "textEn": "Tokugawa Ieyoshi"
+      }
+    ],
+    "correctLeaderId": "tokugawa-10",
+    "explanationJa": "第10代将軍・徳川家治は田沼意次を重用し、商業資本を活用した積極的な財政再建と印旛沼・手賀沼の干拓事業を推進しました。また将棋を深く愛し、プロ棋士に匹敵する詰将棋作品集を残しています。",
+    "explanationEn": "The 10th Shogun, Tokugawa Ieharu, empowered Tanuma Okitsugu to modernize state finances through commercial monopolies and reclamation projects, while authoring renowned masterworks in Japanese chess (Shogi).",
+    "sourceNoteJa": "辻達也『田沼意次』・『浚明院殿御実紀』",
+    "sourceNoteEn": "Historical Biography of Tanuma Okitsugu & Shogun Ieharu"
+  },
+  {
+    "id": "q-58",
+    "category": "tokugawa_shogun",
+    "questionType": "achievement",
+    "questionJa": "徳川将軍家の後継者断絶を防ぐため、従来の「御三家（尾張・紀州・水戸）」に加え、新たに「御三卿（田安・一橋・清水）」を創設した第8代将軍は誰でしょう？",
+    "questionEn": "Which 8th Tokugawa Shogun established the 'Gosankyo' cadet branches (Tayasu, Hitotsubashi, Shimizu) in addition to the traditional 'Gosanke' to secure hereditary shogunal succession?",
+    "options": [
+      {
+        "leaderId": "tokugawa-1",
+        "textJa": "徳川 家康",
+        "textEn": "Tokugawa Ieyasu"
+      },
+      {
+        "leaderId": "tokugawa-5",
+        "textJa": "徳川 綱吉",
+        "textEn": "Tokugawa Tsunayoshi"
+      },
+      {
+        "leaderId": "tokugawa-8",
+        "textJa": "徳川 吉宗",
+        "textEn": "Tokugawa Yoshimune"
+      },
+      {
+        "leaderId": "tokugawa-11",
+        "textJa": "徳川 家斉",
+        "textEn": "Tokugawa Ienari"
+      }
+    ],
+    "correctLeaderId": "tokugawa-8",
+    "explanationJa": "第8代将軍・徳川吉宗は、自身の血統から将軍後継者を継続的に供給できるよう、次男・宗武（田安家）、四男・宗尹（一橋家）、孫・重好（清水家）を祖とする「御三卿」を新設しました。後の第11代家斉や第15代慶喜はここから誕生しています。",
+    "explanationEn": "The 8th Shogun, Tokugawa Yoshimune, established the three Gosankyo branches to guarantee future heirs, eventually producing later shoguns including Tokugawa Ienari and Tokugawa Yoshinobu.",
+    "sourceNoteJa": "大石慎三郎『徳川吉宗とその時代』",
+    "sourceNoteEn": "Historical Analysis of the Kyōhō Reforms and Gosankyo"
+  },
+  {
+    "id": "q-59",
+    "category": "tokugawa_shogun",
+    "questionType": "achievement",
+    "questionJa": "1639年にポルトガル船の来航を禁止し、1641年に平戸のオランダ商館を出島へ移転させて、200年以上にわたる日本の「鎖国」体制を完成させた第3代将軍は誰でしょう？",
+    "questionEn": "Which 3rd Tokugawa Shogun completed Japan's national isolation ('Sakoku') policy by banning Portuguese ships in 1639 and confining the Dutch trading post to Dejima in Nagasaki?",
+    "options": [
+      {
+        "leaderId": "tokugawa-1",
+        "textJa": "徳川 家康",
+        "textEn": "Tokugawa Ieyasu"
+      },
+      {
+        "leaderId": "tokugawa-2",
+        "textJa": "徳川 秀忠",
+        "textEn": "Tokugawa Hidetada"
+      },
+      {
+        "leaderId": "tokugawa-3",
+        "textJa": "徳川 家光",
+        "textEn": "Tokugawa Iemitsu"
+      },
+      {
+        "leaderId": "tokugawa-5",
+        "textJa": "徳川 綱吉",
+        "textEn": "Tokugawa Tsunayoshi"
+      }
+    ],
+    "correctLeaderId": "tokugawa-3",
+    "explanationJa": "第3代将軍・徳川家光は、島原の乱を鎮圧後、ポルトガル船来航禁止令や日本人の海外渡航・帰国禁止を徹底。オランダ商館を出島に隔離し、幕府による貿易独占とキリスト教禁教の鎖国体制を確立しました。",
+    "explanationEn": "The 3rd Shogun, Tokugawa Iemitsu, finalized the strict maritime isolation edicts, prohibiting overseas voyages, expelling Portuguese merchants, and restricting Western commerce exclusively to the Dutch at Dejima.",
+    "sourceNoteJa": "『大日本史料』・『大猷院殿御実紀』",
+    "sourceNoteEn": "Historical Archives of the Edo Shogunate Maritime Foreign Policy"
+  },
+  {
+    "id": "q-60",
+    "category": "tokugawa_shogun",
+    "questionType": "quote_or_event",
+    "questionJa": "鳥羽・伏見の戦い後に江戸へ戻り、勝海舟と西郷隆盛の会談によって100万都市・江戸を戦火から救う「江戸城無血開城」を決断して水戸・静岡へ謹慎隠居した徳川最後の将軍は誰でしょう？",
+    "questionEn": "Who was the last Tokugawa Shogun that yielded Edo Castle without bloodshed following talks between Katsu Kaishu and Saigo Takamori, saving the capital from catastrophic destruction?",
+    "options": [
+      {
+        "leaderId": "tokugawa-13",
+        "textJa": "徳川 家定",
+        "textEn": "Tokugawa Iesada"
+      },
+      {
+        "leaderId": "tokugawa-14",
+        "textJa": "徳川 家茂",
+        "textEn": "Tokugawa Iemochi"
+      },
+      {
+        "leaderId": "tokugawa-15",
+        "textJa": "徳川 慶喜",
+        "textEn": "Tokugawa Yoshinobu"
+      },
+      {
+        "leaderId": "tokugawa-1",
+        "textJa": "徳川 家康",
+        "textEn": "Tokugawa Ieyasu"
+      }
+    ],
+    "correctLeaderId": "tokugawa-15",
+    "explanationJa": "第15代将軍・徳川慶喜は、朝敵となることを避けるため恭順の意を示して上野寛永寺で謹慎。勝海舟に全権を委ねて西郷隆盛との会談により江戸城無血開城を実現し、江戸焦土化を防ぎました。",
+    "explanationEn": "The 15th and final Shogun, Tokugawa Yoshinobu, surrendered Edo Castle peacefully to imperial forces, preventing a devastating urban battle and ensuring a peaceful transition into the modern Meiji era.",
+    "sourceNoteJa": "徳川慶喜公伝・勝海舟『海舟日記』",
+    "sourceNoteEn": "Biography of Prince Tokugawa Yoshinobu & Katsu Kaishu Diaries"
   }
 ];

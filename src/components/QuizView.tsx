@@ -182,7 +182,7 @@ export const QuizView: React.FC<QuizViewProps> = ({
                 : 'bg-slate-50 dark:bg-slate-800 text-slate-600 dark:text-slate-300 border-slate-200 dark:border-slate-700 hover:bg-slate-100'
             }`}
           >
-            {language === 'ja' ? '日本の歴代首相 (20問)' : 'Japan PMs (20)'}
+            {language === 'ja' ? `日本の歴代首相 (${quizQuestions.filter((q) => q.category === 'japan_prime_minister').length}問)` : `Japan PMs (${quizQuestions.filter((q) => q.category === 'japan_prime_minister').length})`}
           </button>
           <button
             onClick={() => handleSelectCategory('us_president')}
@@ -192,7 +192,7 @@ export const QuizView: React.FC<QuizViewProps> = ({
                 : 'bg-slate-50 dark:bg-slate-800 text-slate-600 dark:text-slate-300 border-slate-200 dark:border-slate-700 hover:bg-slate-100'
             }`}
           >
-            {language === 'ja' ? '米歴代大統領 (20問)' : 'US Presidents (20)'}
+            {language === 'ja' ? `米歴代大統領 (${quizQuestions.filter((q) => q.category === 'us_president').length}問)` : `US Presidents (${quizQuestions.filter((q) => q.category === 'us_president').length})`}
           </button>
           <button
             onClick={() => handleSelectCategory('tokugawa_shogun')}
@@ -202,7 +202,7 @@ export const QuizView: React.FC<QuizViewProps> = ({
                 : 'bg-slate-50 dark:bg-slate-800 text-slate-600 dark:text-slate-300 border-slate-200 dark:border-slate-700 hover:bg-slate-100'
             }`}
           >
-            {language === 'ja' ? '徳川将軍家 (10問)' : 'Tokugawa (10)'}
+            {language === 'ja' ? `徳川将軍家 (${quizQuestions.filter((q) => q.category === 'tokugawa_shogun').length}問)` : `Tokugawa (${quizQuestions.filter((q) => q.category === 'tokugawa_shogun').length})`}
           </button>
         </div>
 
