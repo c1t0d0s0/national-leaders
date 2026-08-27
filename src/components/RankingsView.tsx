@@ -411,11 +411,11 @@ export const RankingsView: React.FC<RankingsViewProps> = ({
                 {/* Leader Info & Visual Bar */}
                 <div className="flex-1 min-w-0 space-y-1">
                   {/* Line 1: Leader Full Name (Left) & Primary Value (Right) */}
-                  <div className="flex items-baseline justify-between gap-2">
-                    <h3 className="text-[15px] sm:text-base font-bold text-slate-900 dark:text-white group-hover:text-amber-600 dark:group-hover:text-amber-400 transition truncate tracking-tight">
+                  <div className="flex items-start justify-between gap-2">
+                    <h3 className="text-sm sm:text-base font-bold text-slate-900 dark:text-white group-hover:text-amber-600 dark:group-hover:text-amber-400 transition leading-snug break-words">
                       {language === 'ja' ? item.nameJa : item.nameEn}
                     </h3>
-                    <div className="text-right font-black text-[15px] sm:text-lg text-slate-900 dark:text-white shrink-0">
+                    <div className="text-right font-black text-sm sm:text-lg text-slate-900 dark:text-white shrink-0 pt-0.5">
                       {renderPrimaryValue(item)}
                     </div>
                   </div>
