@@ -227,13 +227,13 @@ export const RankingsView: React.FC<RankingsViewProps> = ({
     switch (currentMetric) {
       case 'height':
         return item.heightSource ? (
-          <span className="text-[10px] sm:text-xs text-slate-400 truncate max-w-[140px] sm:max-w-[200px]" title={item.heightSource}>
+          <span className="hidden sm:inline-block text-[10px] text-slate-400 truncate max-w-[180px]" title={item.heightSource}>
             {item.heightSource}
           </span>
         ) : null;
       case 'weight':
         return item.weightSource ? (
-          <span className="text-[10px] sm:text-xs text-slate-400 truncate max-w-[140px] sm:max-w-[200px]" title={item.weightSource}>
+          <span className="hidden sm:inline-block text-[10px] text-slate-400 truncate max-w-[180px]" title={item.weightSource}>
             {item.weightSource}
           </span>
         ) : null;
@@ -245,17 +245,17 @@ export const RankingsView: React.FC<RankingsViewProps> = ({
           </span>
         );
       case 'age_young':
-        return (
-          <span className="text-[10px] sm:text-xs text-slate-400">
-            {item.termCount > 1 ? (language === 'ja' ? '初就任時' : '1st Term') : ''}
+        return item.termCount > 1 ? (
+          <span className="text-[10px] sm:text-xs text-slate-400 shrink-0">
+            {language === 'ja' ? '初就任時' : '1st Term'}
           </span>
-        );
+        ) : null;
       case 'age_old':
-        return (
-          <span className="text-[10px] sm:text-xs text-slate-400">
-            {item.termCount > 1 ? (language === 'ja' ? '最高齢時' : 'Oldest') : ''}
+        return item.termCount > 1 ? (
+          <span className="text-[10px] sm:text-xs text-slate-400 shrink-0">
+            {language === 'ja' ? '最高齢時' : 'Oldest'}
           </span>
-        );
+        ) : null;
     }
   };
 
@@ -421,13 +421,13 @@ export const RankingsView: React.FC<RankingsViewProps> = ({
                   </div>
 
                   {/* Line 2: Badges (Left) & Secondary Sub-Info (Right) */}
-                  <div className="flex items-center justify-between gap-2 text-xs">
-                    <div className="flex items-center gap-1.5 flex-wrap min-w-0">
+                  <div className="flex items-center justify-between gap-2 text-xs min-w-0">
+                    <div className="flex items-center gap-1.5 min-w-0 flex-1">
                       <span className={`px-2 py-0.5 rounded-full text-[10px] sm:text-[11px] font-bold border shrink-0 ${colors.badgeBg}`}>
                         {formatTermBadge(item)}
                       </span>
                       {item.representativeLeader.eraNameJa && (
-                        <span className="text-[11px] text-slate-400 shrink-0">
+                        <span className="text-[11px] text-slate-400 truncate">
                           ({language === 'ja' ? item.representativeLeader.eraNameJa : item.representativeLeader.eraNameEn})
                         </span>
                       )}
