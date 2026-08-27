@@ -41,8 +41,11 @@ Featuring complete historical duality (achievements and controversies), major di
 2. **Historical Timeline**: Visual chronological stream from the Edo Period (1603) through Reiwa.
 3. **Leader Comparator**: Side-by-side comparison matrix for up to 3 leaders across physical stats, achievements, historical duality, and terms.
 4. **Rankings & Statistics**: Dynamic bar chart rankings for reign length, physical height/weight, and inauguration age.
-5. **History Quiz (50 Questions)**: 50 rich multiple-choice questions across 4 categories (All, Japan PMs, US Presidents, Tokugawa Shogunate) with zero-spoiler options, detailed post-answer explanations, primary source citations, real-time progress bar, and celebratory confetti.
-6. **Bilingual & Light/Dark Mode**: Full Japanese and English UI support, with default light theme and persistent dark mode toggle.
+5. **History Quiz (60 Questions)**: 60 rich multiple-choice questions across 4 categories (All, Japan PMs, US Presidents, Tokugawa Shogunate) with zero-spoiler options, detailed post-answer explanations, primary source citations, real-time progress bar, and celebratory confetti.
+6. **Direct URL Hash Deep Linking & Link Sharing**:
+   - Direct access to specific views (`#/timeline`, `#/compare`, `#/rankings`, `#/quiz`, `#/category/japan_prime_minister`).
+   - Deep links for individual leader detail modals (e.g., `#/leader/jp-pm-1`, `#/leader/us-pres-16`), with built-in "Copy Link" / Web Share API sharing.
+7. **Bilingual & Light/Dark Mode**: Full Japanese and English UI support, with default light theme and persistent dark mode toggle.
 
 ---
 

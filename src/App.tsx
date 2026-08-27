@@ -1,4 +1,4 @@
-import React, { useState, useEffect } from 'react';
+import React, { useState, useEffect, useCallback, useRef } from 'react';
 import { Leader, LeaderCategory, ViewMode, Language } from './types';
 import { allLeaders, getLeadersByCategory } from './data';
 import { detectBrowserLanguage, translations } from './i18n/translations';
@@ -11,6 +11,103 @@ import { TimelineView } from './components/TimelineView';
 import { QuizView } from './components/QuizView';
 import { MobileNav } from './components/MobileNav';
 import { Footer } from './components/Footer';
+
+type TabType = 'profile' | 'achievements' | 'duality' | 'timeline' | 'sources';
+
+interface ParsedRoute {
+  view: ViewMode;
+  category: LeaderCategory | 'all';
+  leaderId: string | null;
+  tab?: TabType;
+  compareIds?: string[];
+}
+
+function parseUrlHash(hash: string): ParsedRoute {
+  const clean = hash.replace(/^#\/?/, '').trim();
+  if (!clean) {
+    return { view: 'grid', category: 'all', leaderId: null };
+  }
+
+  const [path, queryString] = clean.split('?');
+  const segments = path.split('/').filter(Boolean);
+  const params = new URLSearchParams(queryString || '');
+
+  // 1. Direct Leader modal deep link: #/leader/:id or #/leader/:id/:tab
+  if (segments[0] === 'leader' && segments[1]) {
+    const validTabs: TabType[] = ['profile', 'achievements', 'duality', 'timeline', 'sources'];
+    const requestedTab = segments[2] as TabType;
+    return {
+      view: 'grid',
+      category: 'all',
+      leaderId: segments[1],
+      tab: validTabs.includes(requestedTab) ? requestedTab : undefined,
+    };
+  }
+
+  // 2. View routes
+  const viewMap: Record<string, ViewMode> = {
+    grid: 'grid',
+    explorer: 'grid',
+    timeline: 'timeline',
+    time: 'timeline',
+    compare: 'compare',
+    comparison: 'compare',
+    rankings: 'rankings',
+    ranking: 'rankings',
+    stats: 'rankings',
+    quiz: 'quiz',
+  };
+
+  const first = segments[0]?.toLowerCase();
+  if (viewMap[first]) {
+    const view = viewMap[first];
+    let category: LeaderCategory | 'all' = 'all';
+    const validCategories: LeaderCategory[] = ['tokugawa_shogun', 'japan_prime_minister', 'us_president'];
+    
+    if (segments[1] && validCategories.includes(segments[1] as LeaderCategory)) {
+      category = segments[1] as LeaderCategory;
+    } else if (params.get('category') && validCategories.includes(params.get('category') as LeaderCategory)) {
+      category = params.get('category') as LeaderCategory;
+    }
+
+    let compareIds: string[] | undefined;
+    if (view === 'compare') {
+      const idsParam = params.get('ids') || (segments[1] && !validCategories.includes(segments[1] as LeaderCategory) ? segments[1] : undefined);
+      if (idsParam) {
+        compareIds = idsParam.split(',').filter(Boolean);
+      }
+    }
+
+    return {
+      view,
+      category,
+      leaderId: null,
+      compareIds,
+    };
+  }
+
+  // 3. Category deep links: #/category/tokugawa_shogun or #/tokugawa_shogun
+  const categoryAlias: Record<string, LeaderCategory> = {
+    tokugawa: 'tokugawa_shogun',
+    tokugawa_shogun: 'tokugawa_shogun',
+    shogun: 'tokugawa_shogun',
+    japan: 'japan_prime_minister',
+    japan_prime_minister: 'japan_prime_minister',
+    pm: 'japan_prime_minister',
+    us: 'us_president',
+    us_president: 'us_president',
+    president: 'us_president',
+  };
+
+  if (first === 'category' && segments[1] && categoryAlias[segments[1]]) {
+    return { view: 'grid', category: categoryAlias[segments[1]], leaderId: null };
+  }
+  if (categoryAlias[first]) {
+    return { view: 'grid', category: categoryAlias[first], leaderId: null };
+  }
+
+  return { view: 'grid', category: 'all', leaderId: null };
+}
 
 export const App: React.FC = () => {
   // 1. Language state: auto-detect browser language or read localStorage
@@ -48,10 +145,11 @@ export const App: React.FC = () => {
     setIsDarkMode((prev) => !prev);
   };
 
-  // 3. Navigation & Category States
+  // 3. Navigation, Category & Leader Selection States
   const [currentCategory, setCurrentCategory] = useState<LeaderCategory | 'all'>('all');
   const [currentView, setCurrentView] = useState<ViewMode>('grid');
   const [selectedLeader, setSelectedLeader] = useState<Leader | null>(null);
+  const [modalInitialTab, setModalInitialTab] = useState<TabType | undefined>(undefined);
 
   // 4. Comparison State (Max 3 leaders)
   const [comparedLeaderIds, setComparedLeaderIds] = useState<string[]>([]);
@@ -60,6 +158,90 @@ export const App: React.FC = () => {
   const showToast = (msg: string) => {
     setToastMessage(msg);
     setTimeout(() => setToastMessage(null), 3000);
+  };
+
+  // Avoid hash-change loops
+  const isUpdatingHashRef = useRef(false);
+
+  // Synchronize state to URL Hash
+  const syncHashToUrl = useCallback((view: ViewMode, category: LeaderCategory | 'all', leader: Leader | null, tab?: TabType) => {
+    isUpdatingHashRef.current = true;
+    let newHash = '';
+
+    if (leader) {
+      newHash = tab && tab !== 'profile' ? `#/leader/${leader.id}/${tab}` : `#/leader/${leader.id}`;
+    } else if (view === 'grid') {
+      newHash = category !== 'all' ? `#/category/${category}` : '#/';
+    } else if (view === 'timeline') {
+      newHash = category !== 'all' ? `#/timeline/${category}` : `#/timeline`;
+    } else if (view === 'rankings') {
+      newHash = category !== 'all' ? `#/rankings/${category}` : `#/rankings`;
+    } else if (view === 'compare') {
+      newHash = `#/compare`;
+    } else if (view === 'quiz') {
+      newHash = `#/quiz`;
+    }
+
+    if (window.location.hash !== newHash) {
+      window.location.hash = newHash;
+    }
+    setTimeout(() => {
+      isUpdatingHashRef.current = false;
+    }, 50);
+  }, []);
+
+  // Listen to hash changes (browser Back / Forward / Direct URL pasting)
+  useEffect(() => {
+    const handleHashChange = () => {
+      if (isUpdatingHashRef.current) return;
+      const route = parseUrlHash(window.location.hash);
+
+      setCurrentView(route.view);
+      setCurrentCategory(route.category);
+
+      if (route.leaderId) {
+        const found = allLeaders.find((l) => l.id === route.leaderId);
+        if (found) {
+          setSelectedLeader(found);
+          setModalInitialTab(route.tab || 'profile');
+        }
+      } else {
+        setSelectedLeader(null);
+      }
+
+      if (route.compareIds && route.compareIds.length > 0) {
+        const validIds = route.compareIds.filter((id) => allLeaders.some((l) => l.id === id));
+        if (validIds.length > 0) {
+          setComparedLeaderIds(validIds.slice(0, 3));
+        }
+      }
+    };
+
+    handleHashChange();
+    window.addEventListener('hashchange', handleHashChange);
+    return () => window.removeEventListener('hashchange', handleHashChange);
+  }, []);
+
+  const handleSelectView = (view: ViewMode) => {
+    setCurrentView(view);
+    setSelectedLeader(null);
+    syncHashToUrl(view, currentCategory, null);
+  };
+
+  const handleSelectCategory = (cat: LeaderCategory | 'all') => {
+    setCurrentCategory(cat);
+    syncHashToUrl(currentView, cat, selectedLeader);
+  };
+
+  const handleSelectLeader = (leader: Leader | null, tab?: TabType) => {
+    setSelectedLeader(leader);
+    setModalInitialTab(tab || 'profile');
+    syncHashToUrl(currentView, currentCategory, leader, tab);
+  };
+
+  const handleCloseModal = () => {
+    setSelectedLeader(null);
+    syncHashToUrl(currentView, currentCategory, null);
   };
 
   const handleToggleCompare = (leader: Leader) => {
@@ -96,9 +278,9 @@ export const App: React.FC = () => {
       {/* Header */}
       <Header
         currentCategory={currentCategory}
-        onSelectCategory={setCurrentCategory}
+        onSelectCategory={handleSelectCategory}
         currentView={currentView}
-        onSelectView={setCurrentView}
+        onSelectView={handleSelectView}
         language={language}
         onToggleLanguage={toggleLanguage}
         isDarkMode={isDarkMode}
@@ -113,7 +295,7 @@ export const App: React.FC = () => {
             leaders={allLeaders}
             language={language}
             selectedCategory={currentCategory}
-            onSelectLeader={setSelectedLeader}
+            onSelectLeader={handleSelectLeader}
             comparedLeaderIds={comparedLeaderIds}
             onToggleCompare={handleToggleCompare}
           />
@@ -124,8 +306,8 @@ export const App: React.FC = () => {
             leaders={allLeaders}
             language={language}
             selectedCategory={currentCategory}
-            onSelectCategory={setCurrentCategory}
-            onSelectLeader={setSelectedLeader}
+            onSelectCategory={handleSelectCategory}
+            onSelectLeader={handleSelectLeader}
           />
         )}
 
@@ -135,8 +317,8 @@ export const App: React.FC = () => {
             language={language}
             onRemoveLeader={handleRemoveComparedLeader}
             onClearAll={handleClearAllCompared}
-            onSelectLeader={setSelectedLeader}
-            onNavigateToExplorer={() => setCurrentView('grid')}
+            onSelectLeader={handleSelectLeader}
+            onNavigateToExplorer={() => handleSelectView('grid')}
           />
         )}
 
@@ -145,15 +327,15 @@ export const App: React.FC = () => {
             leaders={allLeaders}
             language={language}
             selectedCategory={currentCategory}
-            onSelectCategory={setCurrentCategory}
-            onSelectLeader={setSelectedLeader}
+            onSelectCategory={handleSelectCategory}
+            onSelectLeader={handleSelectLeader}
           />
         )}
 
         {currentView === 'quiz' && (
           <QuizView
             language={language}
-            onSelectLeader={setSelectedLeader}
+            onSelectLeader={handleSelectLeader}
           />
         )}
       </main>
@@ -162,9 +344,11 @@ export const App: React.FC = () => {
       <LeaderDetailModal
         leader={selectedLeader}
         language={language}
-        onClose={() => setSelectedLeader(null)}
+        onClose={handleCloseModal}
         isCompared={selectedLeader ? comparedLeaderIds.includes(selectedLeader.id) : false}
         onToggleCompare={handleToggleCompare}
+        initialTab={modalInitialTab}
+        onShowToast={showToast}
       />
 
       {/* Footer */}
@@ -173,7 +357,7 @@ export const App: React.FC = () => {
       {/* Sticky Bottom Navigation for Mobile */}
       <MobileNav
         currentView={currentView}
-        onSelectView={setCurrentView}
+        onSelectView={handleSelectView}
         language={language}
         compareCount={comparedLeaderIds.length}
       />

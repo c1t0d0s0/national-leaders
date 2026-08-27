@@ -79,6 +79,8 @@ export const translations = {
       negativeTitle: '批判・失政・課題（ネガティブ面）',
       sourceDisclaimer: '本アーカイブの記述は、国立公文書館、内閣官邸、ホワイトハウス歴史協会、大学出版会等の公認資料および学術調査に基づいています。',
       close: '閉じる',
+      shareLink: 'リンクをコピー',
+      linkCopied: '共有リンクをクリップボードにコピーしました！',
     },
     compare: {
       title: '指導者の比較 (最大3名)',
@@ -219,6 +221,8 @@ export const translations = {
       negativeTitle: 'Criticisms, Failures & Controversies (Negative Aspects)',
       sourceDisclaimer: 'All descriptions in this archive are strictly sourced from national archives, prime ministerial records, White House historical collections, and peer-reviewed academic publications.',
       close: 'Close',
+      shareLink: 'Copy Link',
+      linkCopied: 'Share link copied to clipboard!',
     },
     compare: {
       title: 'Leader Comparison (Up to 3 Leaders)',

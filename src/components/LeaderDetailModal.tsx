@@ -21,7 +21,8 @@ import {
   Check,
   History,
   Sparkles,
-  Info
+  Info,
+  Share2
 } from 'lucide-react';
 
 interface LeaderDetailModalProps {
@@ -30,6 +31,8 @@ interface LeaderDetailModalProps {
   onClose: () => void;
   isCompared: boolean;
   onToggleCompare: (leader: Leader) => void;
+  initialTab?: TabType;
+  onShowToast?: (message: string) => void;
 }
 
 type TabType = 'profile' | 'achievements' | 'duality' | 'timeline' | 'sources';
@@ -40,9 +43,49 @@ export const LeaderDetailModal: React.FC<LeaderDetailModalProps> = ({
   onClose,
   isCompared,
   onToggleCompare,
+  initialTab,
+  onShowToast,
 }) => {
-  const [activeTab, setActiveTab] = useState<TabType>('profile');
+  const [activeTab, setActiveTab] = useState<TabType>(initialTab || 'profile');
+  const [copiedLink, setCopiedLink] = useState(false);
   const t = translations[language];
+
+  useEffect(() => {
+    if (initialTab) {
+      setActiveTab(initialTab);
+    } else {
+      setActiveTab('profile');
+    }
+  }, [leader?.id, initialTab]);
+
+  const handleShare = async () => {
+    if (!leader) return;
+    const shareUrl = `${window.location.origin}${window.location.pathname}#/leader/${leader.id}`;
+
+    if (navigator.share && /mobile|android|iphone|ipad/i.test(navigator.userAgent)) {
+      try {
+        await navigator.share({
+          title: `${language === 'ja' ? leader.nameJa : leader.nameEn} | ${t.app.title}`,
+          text: language === 'ja' ? leader.summaryJa : leader.summaryEn,
+          url: shareUrl,
+        });
+        return;
+      } catch (err) {
+        // Fallback to clipboard
+      }
+    }
+
+    try {
+      await navigator.clipboard.writeText(shareUrl);
+      setCopiedLink(true);
+      if (onShowToast) {
+        onShowToast(t.modal.linkCopied);
+      }
+      setTimeout(() => setCopiedLink(false), 2500);
+    } catch (e) {
+      console.error('Failed to copy link', e);
+    }
+  };
 
   // Handle ESC key press to close
   useEffect(() => {
@@ -100,8 +143,29 @@ export const LeaderDetailModal: React.FC<LeaderDetailModalProps> = ({
               )}
             </div>
 
-            {/* Action Buttons: Compare & Close */}
+            {/* Action Buttons: Share, Compare & Close */}
             <div className="flex items-center gap-1.5 sm:gap-2 shrink-0">
+              {/* Share / Copy Link Button */}
+              <button
+                onClick={handleShare}
+                title={t.modal.shareLink}
+                className="flex items-center gap-1 px-2.5 sm:px-3 py-1 sm:py-1.5 rounded-xl text-xs font-semibold shadow-sm transition bg-white/80 dark:bg-slate-800/80 backdrop-blur-md text-slate-700 dark:text-slate-200 hover:bg-white dark:hover:bg-slate-800"
+              >
+                {copiedLink ? (
+                  <>
+                    <Check className="w-3.5 h-3.5 text-emerald-600 dark:text-emerald-400" />
+                    <span className="text-emerald-600 dark:text-emerald-400 font-bold hidden xs:inline sm:inline">
+                      {language === 'ja' ? 'コピー完了' : 'Copied!'}
+                    </span>
+                  </>
+                ) : (
+                  <>
+                    <Share2 className="w-3.5 h-3.5" />
+                    <span className="hidden xs:inline sm:inline">{t.modal.shareLink}</span>
+                  </>
+                )}
+              </button>
+
               <button
                 onClick={() => onToggleCompare(leader)}
                 className={`flex items-center gap-1 px-2.5 sm:px-3 py-1 sm:py-1.5 rounded-xl text-xs font-semibold shadow-sm transition ${
