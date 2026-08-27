@@ -95,22 +95,28 @@ export const LeaderCard: React.FC<LeaderCardProps> = ({
           <div className="flex-1 min-w-0">
             {language === 'ja' ? (
               <>
-                <p className="text-[11px] text-slate-400 dark:text-slate-500 font-medium tracking-wider break-words leading-tight mb-0.5">
+                <p className="text-[11px] text-slate-400 dark:text-slate-500 font-medium tracking-normal truncate mb-0.5" title={leader.nameRuby}>
                   {leader.nameRuby}
                 </p>
-                <h3 className="text-base sm:text-lg font-bold text-slate-900 dark:text-white tracking-wide break-words leading-snug group-hover:text-amber-600 dark:group-hover:text-amber-400 transition">
+                <h3 
+                  className="text-[15px] sm:text-base xl:text-[17px] font-bold text-slate-900 dark:text-white tracking-tight truncate leading-tight group-hover:text-amber-600 dark:group-hover:text-amber-400 transition"
+                  title={leader.nameJa}
+                >
                   {leader.nameJa}
                 </h3>
-                <p className="text-xs text-slate-500 dark:text-slate-400 break-words leading-tight mt-0.5">
+                <p className="text-xs text-slate-500 dark:text-slate-400 truncate mt-0.5" title={leader.nameEn}>
                   {leader.nameEn}
                 </p>
               </>
             ) : (
               <>
-                <h3 className="text-base sm:text-lg font-bold text-slate-900 dark:text-white tracking-wide break-words leading-snug group-hover:text-amber-600 dark:group-hover:text-amber-400 transition">
+                <h3 
+                  className="text-[15px] sm:text-base xl:text-[17px] font-bold text-slate-900 dark:text-white tracking-tight truncate leading-tight group-hover:text-amber-600 dark:group-hover:text-amber-400 transition"
+                  title={leader.nameEn}
+                >
                   {leader.nameEn}
                 </h3>
-                <p className="text-xs text-slate-500 dark:text-slate-400 break-words leading-tight mt-0.5">
+                <p className="text-xs text-slate-500 dark:text-slate-400 truncate mt-0.5" title={`${leader.nameJa} (${leader.nameRuby})`}>
                   {leader.nameJa} ({leader.nameRuby})
                 </p>
               </>
@@ -118,9 +124,9 @@ export const LeaderCard: React.FC<LeaderCardProps> = ({
 
             {/* Party or Faction */}
             {(leader.partyOrFactionJa || leader.partyOrFactionEn) && (
-              <p className="mt-1 text-xs text-slate-600 dark:text-slate-400 break-words flex items-center gap-1">
+              <p className="mt-1 text-xs text-slate-600 dark:text-slate-400 truncate flex items-center gap-1" title={language === 'ja' ? leader.partyOrFactionJa : leader.partyOrFactionEn}>
                 <span className="w-1.5 h-1.5 rounded-full bg-slate-400 dark:bg-slate-500 shrink-0"></span>
-                <span>{language === 'ja' ? leader.partyOrFactionJa : leader.partyOrFactionEn}</span>
+                <span className="truncate">{language === 'ja' ? leader.partyOrFactionJa : leader.partyOrFactionEn}</span>
               </p>
             )}
           </div>

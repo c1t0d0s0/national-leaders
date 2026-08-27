@@ -1,5 +1,5 @@
-import React, { useState } from 'react';
-import { QuizQuestion, Language, Leader } from '../types';
+import React, { useState, useMemo } from 'react';
+import { QuizQuestion, Language, Leader, LeaderCategory } from '../types';
 import { translations } from '../i18n/translations';
 import { quizQuestions, getLeaderById } from '../data';
 import { LeaderAvatar } from './LeaderAvatar';
@@ -11,8 +11,8 @@ import {
   RotateCcw, 
   Trophy, 
   ArrowRight,
-  BookOpen,
-  Sparkles
+  Sparkles,
+  Layers
 } from 'lucide-react';
 
 interface QuizViewProps {
@@ -26,16 +26,34 @@ export const QuizView: React.FC<QuizViewProps> = ({
 }) => {
   const t = translations[language];
 
+  const [selectedCategory, setSelectedCategory] = useState<LeaderCategory | 'all'>('all');
   const [currentIndex, setCurrentIndex] = useState(0);
   const [selectedOptionId, setSelectedOptionId] = useState<string | null>(null);
   const [isAnswered, setIsAnswered] = useState(false);
   const [score, setScore] = useState(0);
   const [quizFinished, setQuizFinished] = useState(false);
 
-  const currentQ = quizQuestions[currentIndex];
+  // Filter questions based on selected category
+  const activeQuestions = useMemo(() => {
+    if (selectedCategory === 'all') {
+      return quizQuestions;
+    }
+    return quizQuestions.filter((q) => q.category === selectedCategory);
+  }, [selectedCategory]);
+
+  const currentQ = activeQuestions[currentIndex] || activeQuestions[0];
+
+  const handleSelectCategory = (cat: LeaderCategory | 'all') => {
+    setSelectedCategory(cat);
+    setCurrentIndex(0);
+    setSelectedOptionId(null);
+    setIsAnswered(false);
+    setScore(0);
+    setQuizFinished(false);
+  };
 
   const handleSelectOption = (leaderId: string) => {
-    if (isAnswered) return;
+    if (isAnswered || !currentQ) return;
 
     setSelectedOptionId(leaderId);
     setIsAnswered(true);
@@ -46,13 +64,12 @@ export const QuizView: React.FC<QuizViewProps> = ({
   };
 
   const handleNextQuestion = () => {
-    if (currentIndex + 1 < quizQuestions.length) {
+    if (currentIndex + 1 < activeQuestions.length) {
       setCurrentIndex((prev) => prev + 1);
       setSelectedOptionId(null);
       setIsAnswered(false);
     } else {
       setQuizFinished(true);
-      // Trigger confetti celebration
       try {
         confetti({
           particleCount: 120,
@@ -60,7 +77,7 @@ export const QuizView: React.FC<QuizViewProps> = ({
           origin: { y: 0.6 },
         });
       } catch (e) {
-        // ignore confetti errors in test environments
+        // ignore
       }
     }
   };
@@ -74,7 +91,7 @@ export const QuizView: React.FC<QuizViewProps> = ({
   };
 
   if (quizFinished) {
-    const percentage = Math.round((score / quizQuestions.length) * 100);
+    const percentage = Math.round((score / activeQuestions.length) * 100);
     return (
       <div className="max-w-2xl mx-auto p-8 sm:p-12 text-center bg-white dark:bg-slate-900 rounded-3xl border border-slate-200 dark:border-slate-800 shadow-xl space-y-6 animate-scaleUp">
         <div className="inline-flex p-4 bg-gradient-to-tr from-amber-400 to-amber-600 rounded-3xl text-white shadow-lg">
@@ -83,18 +100,18 @@ export const QuizView: React.FC<QuizViewProps> = ({
 
         <div>
           <h2 className="text-2xl sm:text-3xl font-extrabold text-slate-900 dark:text-white mb-2">
-            {score === quizQuestions.length
+            {score === activeQuestions.length
               ? t.quiz.perfectScore
-              : score >= quizQuestions.length * 0.7
+              : score >= activeQuestions.length * 0.7
               ? t.quiz.greatScore
               : t.quiz.goodTry}
           </h2>
           <p className="text-sm text-slate-500 dark:text-slate-400">
-            {t.quiz.score}: <span className="text-2xl font-black text-amber-600 dark:text-amber-400">{score}</span> / {quizQuestions.length} ({percentage}%)
+            {t.quiz.score}: <span className="text-2xl font-black text-amber-600 dark:text-amber-400">{score}</span> / {activeQuestions.length} ({percentage}%)
           </p>
         </div>
 
-        <div className="pt-4">
+        <div className="pt-4 flex justify-center gap-3">
           <button
             onClick={handleRestartQuiz}
             className="inline-flex items-center gap-2 px-6 py-3 rounded-2xl bg-slate-900 dark:bg-white text-white dark:text-slate-900 font-bold text-sm shadow-md hover:bg-slate-800 dark:hover:bg-slate-100 transition"
@@ -107,22 +124,79 @@ export const QuizView: React.FC<QuizViewProps> = ({
     );
   }
 
+  if (!currentQ) return null;
+
+  const progressPercent = Math.round(((currentIndex + 1) / activeQuestions.length) * 100);
+
   return (
     <div className="max-w-3xl mx-auto space-y-6">
-      {/* Header Banner */}
-      <div className="p-6 bg-white dark:bg-slate-900 rounded-3xl border border-slate-200 dark:border-slate-800 shadow-sm space-y-2">
-        <div className="flex items-center justify-between">
+      {/* Header Banner & Category Filter */}
+      <div className="p-6 bg-white dark:bg-slate-900 rounded-3xl border border-slate-200 dark:border-slate-800 shadow-sm space-y-4">
+        <div className="flex flex-col sm:flex-row sm:items-center justify-between gap-3">
           <h2 className="text-xl font-bold text-slate-900 dark:text-white flex items-center gap-2">
             <HelpCircle className="w-5 h-5 text-amber-500" />
             {t.quiz.title}
           </h2>
-          <span className="px-3 py-1 rounded-full text-xs font-bold bg-amber-50 dark:bg-amber-950/60 text-amber-900 dark:text-amber-300 border border-amber-200 dark:border-amber-800">
-            {t.quiz.question} {currentIndex + 1} {t.quiz.questionOf} {quizQuestions.length}
+          <span className="px-3 py-1 rounded-full text-xs font-bold bg-amber-50 dark:bg-amber-950/60 text-amber-900 dark:text-amber-300 border border-amber-200 dark:border-amber-800 self-start sm:self-auto">
+            {t.quiz.question} {currentIndex + 1} {t.quiz.questionOf} {activeQuestions.length}
           </span>
         </div>
-        <p className="text-xs text-slate-500 dark:text-slate-400">
-          {t.quiz.subtitle}
-        </p>
+
+        {/* Category Filter Pills */}
+        <div className="flex items-center gap-2 flex-wrap text-xs pt-1">
+          <span className="text-slate-400 flex items-center gap-1 font-medium mr-1">
+            <Layers className="w-3.5 h-3.5" />
+            {language === 'ja' ? 'ジャンル:' : 'Category:'}
+          </span>
+          <button
+            onClick={() => handleSelectCategory('all')}
+            className={`px-3 py-1.5 rounded-xl font-bold border transition ${
+              selectedCategory === 'all'
+                ? 'bg-amber-500 text-white border-amber-600 shadow-sm'
+                : 'bg-slate-50 dark:bg-slate-800 text-slate-600 dark:text-slate-300 border-slate-200 dark:border-slate-700 hover:bg-slate-100'
+            }`}
+          >
+            {language === 'ja' ? `全ジャンル (${quizQuestions.length}問)` : `All (${quizQuestions.length})`}
+          </button>
+          <button
+            onClick={() => handleSelectCategory('japan_prime_minister')}
+            className={`px-3 py-1.5 rounded-xl font-bold border transition ${
+              selectedCategory === 'japan_prime_minister'
+                ? 'bg-red-500 text-white border-red-600 shadow-sm'
+                : 'bg-slate-50 dark:bg-slate-800 text-slate-600 dark:text-slate-300 border-slate-200 dark:border-slate-700 hover:bg-slate-100'
+            }`}
+          >
+            {language === 'ja' ? '日本の歴代首相 (20問)' : 'Japan PMs (20)'}
+          </button>
+          <button
+            onClick={() => handleSelectCategory('us_president')}
+            className={`px-3 py-1.5 rounded-xl font-bold border transition ${
+              selectedCategory === 'us_president'
+                ? 'bg-blue-600 text-white border-blue-700 shadow-sm'
+                : 'bg-slate-50 dark:bg-slate-800 text-slate-600 dark:text-slate-300 border-slate-200 dark:border-slate-700 hover:bg-slate-100'
+            }`}
+          >
+            {language === 'ja' ? '米歴代大統領 (20問)' : 'US Presidents (20)'}
+          </button>
+          <button
+            onClick={() => handleSelectCategory('tokugawa_shogun')}
+            className={`px-3 py-1.5 rounded-xl font-bold border transition ${
+              selectedCategory === 'tokugawa_shogun'
+                ? 'bg-emerald-600 text-white border-emerald-700 shadow-sm'
+                : 'bg-slate-50 dark:bg-slate-800 text-slate-600 dark:text-slate-300 border-slate-200 dark:border-slate-700 hover:bg-slate-100'
+            }`}
+          >
+            {language === 'ja' ? '徳川将軍家 (10問)' : 'Tokugawa (10)'}
+          </button>
+        </div>
+
+        {/* Progress Bar */}
+        <div className="w-full bg-slate-100 dark:bg-slate-800 h-2 rounded-full overflow-hidden">
+          <div
+            className="bg-amber-500 h-full transition-all duration-300 rounded-full"
+            style={{ width: `${progressPercent}%` }}
+          />
+        </div>
       </div>
 
       {/* Question Card */}
@@ -203,7 +277,7 @@ export const QuizView: React.FC<QuizViewProps> = ({
                 onClick={handleNextQuestion}
                 className="flex items-center gap-1.5 px-5 py-2.5 rounded-xl bg-slate-900 dark:bg-white text-white dark:text-slate-900 text-xs font-bold shadow-md hover:bg-slate-800 dark:hover:bg-slate-100 transition"
               >
-                <span>{currentIndex + 1 < quizQuestions.length ? t.quiz.nextQuestion : t.quiz.finishQuiz}</span>
+                <span>{currentIndex + 1 < activeQuestions.length ? t.quiz.nextQuestion : t.quiz.finishQuiz}</span>
                 <ArrowRight className="w-4 h-4" />
               </button>
             </div>

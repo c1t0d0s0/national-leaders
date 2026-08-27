@@ -206,9 +206,9 @@ export const LeaderGrid: React.FC<LeaderGridProps> = ({
         </div>
       </div>
 
-      {/* Grid of Leaders */}
+      {/* Grid of Leaders (1 col mobile, 2 cols tablet, 3 cols desktop for optimal full-name readability) */}
       {filteredAndSortedLeaders.length > 0 ? (
-        <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 gap-5">
+        <div className="grid grid-cols-1 md:grid-cols-2 xl:grid-cols-3 gap-5 sm:gap-6">
           {filteredAndSortedLeaders.map((leader) => (
             <LeaderCard
               key={leader.id}
