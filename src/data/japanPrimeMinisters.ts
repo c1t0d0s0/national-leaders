@@ -67,10 +67,31 @@ export const japanPrimeMinisters: Leader[] = [
     "keyEvents": [
       {
         "year": "1885",
-        "titleJa": "第1次伊藤内閣 発足",
-        "titleEn": "Inauguration of 1st Ito Cabinet",
-        "descriptionJa": "1885-12-22、天皇より大命降下を受け組閣を執行。",
-        "descriptionEn": "Formally assumed office following imperial appointment on 1885-12-22."
+        "titleJa": "内閣制度創設・初代首相就任",
+        "titleEn": "Establishment of Cabinet System & 1st PM",
+        "descriptionJa": "太政官制を廃止し近代内閣制度を創設。44歳で初代内閣総理大臣に就任。",
+        "descriptionEn": "Abolished the ancient Dajokan system and became Japan's 1st Prime Minister at age 44."
+      },
+      {
+        "year": "1886",
+        "titleJa": "ノルマントン号事件",
+        "titleEn": "Normanton Incident",
+        "descriptionJa": "英船難破で日本人乗客全員溺死も英人船長らが領事裁判権で無罪となり条約改正世論沸騰。",
+        "descriptionEn": "British ship sinking ignited national fury over extraterritoriality and unequal treaties."
+      },
+      {
+        "year": "1887",
+        "titleJa": "保安条例公布・鹿鳴館外交挫折",
+        "titleEn": "Peace Preservation Ordinance & Rokumeikan Collapse",
+        "descriptionJa": "三大事件建白運動など自由民権派の運動を弾圧。井上馨外相の条約改正案頓挫により辞任へ。",
+        "descriptionEn": "Suppressed Freedom and People's Rights Movement and faced popular outrage over Westernized diplomacy."
+      },
+      {
+        "year": "1888",
+        "titleJa": "枢密院設置・憲法草案審議",
+        "titleEn": "Privy Council Founded & Constitutional Deliberation",
+        "descriptionJa": "憲法草案を審議するため枢密院を創設し自ら初代議長に就任。",
+        "descriptionEn": "Founded the Privy Council and became its first president to deliberate the draft constitution."
       }
     ],
     "sources": [
@@ -150,10 +171,24 @@ export const japanPrimeMinisters: Leader[] = [
     "keyEvents": [
       {
         "year": "1888",
-        "titleJa": "黒田内閣 発足",
-        "titleEn": "Inauguration of Kuroda Cabinet",
-        "descriptionJa": "1888-04-30、天皇より大命降下を受け組閣を執行。",
-        "descriptionEn": "Formally assumed office following imperial appointment on 1888-04-30."
+        "titleJa": "黒田内閣発足・超然主義声明",
+        "titleEn": "Inauguration & Transcendental Cabinet Doctrine",
+        "descriptionJa": "政党の意向に拘束されず政府独自に政策を遂行する超然主義を言明。",
+        "descriptionEn": "Declared government policy would operate independently of political party influence."
+      },
+      {
+        "year": "1889",
+        "titleJa": "大日本帝国憲法発布・皇室典範制定",
+        "titleEn": "Promulgation of Meiji Constitution",
+        "descriptionJa": "明治天皇より大日本帝国憲法が発布され、アジア初の近代立憲国家が誕生。",
+        "descriptionEn": "Promulgated the Constitution of the Empire of Japan, creating Asia's first modern constitutional monarchy."
+      },
+      {
+        "year": "1889",
+        "titleJa": "大隈外相爆弾襲撃遭難・黒田内閣総辞職",
+        "titleEn": "Assassination Attempt on Okuma & Cabinet Resignation",
+        "descriptionJa": "条約改正案に反対する玄洋社・来島恒喜が大隈外相に爆弾投擲。右脚切断の重傷を負い内閣総辞職。",
+        "descriptionEn": "Foreign Minister Okuma was severely wounded in a bomb attack over treaty revision, forcing cabinet resignation."
       }
     ],
     "sources": [
@@ -233,10 +268,24 @@ export const japanPrimeMinisters: Leader[] = [
     "keyEvents": [
       {
         "year": "1889",
-        "titleJa": "第1次山県内閣 発足",
-        "titleEn": "Inauguration of 1st Yamagata Cabinet",
-        "descriptionJa": "1889-12-24、天皇より大命降下を受け組閣を執行。",
-        "descriptionEn": "Formally assumed office following imperial appointment on 1889-12-24."
+        "titleJa": "山県内閣発足・主権線と利益線提唱",
+        "titleEn": "Inauguration & \"Line of Sovereignty and Advantage\"",
+        "descriptionJa": "国土防衛の「主権線」と東アジア勢力圏の「利益線（朝鮮半島）」の防衛方針を表明。",
+        "descriptionEn": "Outlined military doctrine defining Japan's homeland sovereignty and regional sphere of advantage."
+      },
+      {
+        "year": "1890",
+        "titleJa": "教育勅語渙発・第1回帝国議会開会",
+        "titleEn": "Imperial Rescript on Education & 1st Imperial Diet",
+        "descriptionJa": "明治天皇の名で教育勅語を発布。第1回総選挙を経て第1回帝国議会が開会。",
+        "descriptionEn": "Issued the Imperial Rescript on Education and convened the 1st session of the Imperial Diet."
+      },
+      {
+        "year": "1890",
+        "titleJa": "府県制・郡制公布",
+        "titleEn": "Prefectural & County Systems Promulgated",
+        "descriptionJa": "地方自治制度を整備し近代行政統治機構を確立。",
+        "descriptionEn": "Established local administration structures and modern municipal governance."
       }
     ],
     "sources": [
@@ -316,10 +365,31 @@ export const japanPrimeMinisters: Leader[] = [
     "keyEvents": [
       {
         "year": "1891",
-        "titleJa": "第1次松方内閣 発足",
+        "titleJa": "松方内閣発足",
         "titleEn": "Inauguration of 1st Matsukata Cabinet",
-        "descriptionJa": "1891-05-06、天皇より大命降下を受け組閣を執行。",
-        "descriptionEn": "Formally assumed office following imperial appointment on 1891-05-06."
+        "descriptionJa": "財政家として知られる松方が組閣。民党との予算対立に直面。",
+        "descriptionEn": "Appointed prime minister, confronting intense budget battles with opposition party factions."
+      },
+      {
+        "year": "1891",
+        "titleJa": "大津事件（ロシア皇太子襲撃事件）",
+        "titleEn": "Otsu Incident",
+        "descriptionJa": "訪日中の露皇太子ニコライが警官津田三蔵に斬りつけられ負傷。大審院長児島惟謙が司法権の独立を死守。",
+        "descriptionEn": "Russian Crown Prince Nicholas was attacked in Otsu; Chief Justice Kojima upheld judicial independence."
+      },
+      {
+        "year": "1891",
+        "titleJa": "濃尾地震発生（M8.0）",
+        "titleEn": "Mino-Owari Earthquake (M8.0)",
+        "descriptionJa": "内陸直下型巨大地震により死者7,273名・家屋全壊14万戸の甚大被害。震災予防調査会が設置。",
+        "descriptionEn": "Catastrophic M8.0 earthquake killed over 7,200 people, leading to Japan's first disaster prevention council."
+      },
+      {
+        "year": "1892",
+        "titleJa": "第2回総選挙における大規模選挙干渉",
+        "titleEn": "2nd General Election Interference",
+        "descriptionJa": "内相品川弥二郎が警官と壮士を動員し流血の選挙干渉を強行。世論の猛反発を浴び退陣。",
+        "descriptionEn": "Violent government election interference sparked massive public outrage, forcing cabinet resignation."
       }
     ],
     "sources": [
@@ -398,11 +468,32 @@ export const japanPrimeMinisters: Leader[] = [
     ],
     "keyEvents": [
       {
-        "year": "1892",
-        "titleJa": "第2次伊藤内閣 発足",
-        "titleEn": "Inauguration of 2nd Ito Cabinet",
-        "descriptionJa": "1892-08-08、天皇より大命降下を受け組閣を執行。",
-        "descriptionEn": "Formally assumed office following imperial appointment on 1892-08-08."
+        "year": "1894",
+        "titleJa": "日英通商航海条約調印（領事裁判権撤廃）",
+        "titleEn": "Anglo-Japanese Treaty (Abolition of Extraterritoriality)",
+        "descriptionJa": "陸奥宗光外相が英国と調印。幕末以来の不平等条約改正に道を開く。",
+        "descriptionEn": "Foreign Minister Mutsu Munemitsu signed historic treaty ending foreign extraterritorial jurisdiction."
+      },
+      {
+        "year": "1894",
+        "titleJa": "日清戦争勃発・広島大本営設置",
+        "titleEn": "Outbreak of First Sino-Japanese War",
+        "descriptionJa": "朝鮮半島情勢を巡り清国と開戦。広島に大本営を移し戦争指導を統括。",
+        "descriptionEn": "War declared against Qing Empire; Imperial General Headquarters relocated to Hiroshima."
+      },
+      {
+        "year": "1895",
+        "titleJa": "下関条約調印・台湾割譲",
+        "titleEn": "Treaty of Shimonoseki & Cession of Taiwan",
+        "descriptionJa": "伊藤博文・陸奥宗光と李鴻章が講和条約調印。台湾割譲と巨額賠償金を獲得。",
+        "descriptionEn": "Signed peace treaty securing cession of Taiwan, Liaodong Peninsula, and indemnity."
+      },
+      {
+        "year": "1895",
+        "titleJa": "三国干渉受諾（「臥薪嘗胆」）",
+        "titleEn": "Triple Intervention Acceptance (\"Gashin Shotan\")",
+        "descriptionJa": "露仏独の遼東半島返還勧告を受諾。国民的合言葉「臥薪嘗胆」のもと軍備拡張へ。",
+        "descriptionEn": "Forced by Russia, France, and Germany to return Liaodong, sparking national determination to modernize."
       }
     ],
     "sources": [
@@ -482,10 +573,24 @@ export const japanPrimeMinisters: Leader[] = [
     "keyEvents": [
       {
         "year": "1896",
-        "titleJa": "第2次松方内閣 発足",
-        "titleEn": "Inauguration of 2nd Matsukata Cabinet",
-        "descriptionJa": "1896-09-18、天皇より大命降下を受け組閣を執行。",
-        "descriptionEn": "Formally assumed office following imperial appointment on 1896-09-18."
+        "titleJa": "明治三陸地震・大津波（死者2万2000名）",
+        "titleEn": "Meiji Sanriku Earthquake & Tsunami",
+        "descriptionJa": "M8.2の大地震と最大38mの巨大津波が東北太平洋岸を襲い、死者21,959名。",
+        "descriptionEn": "M8.2 earthquake generated a 38-meter tsunami ravaging Tohoku, claiming over 21,900 lives."
+      },
+      {
+        "year": "1897",
+        "titleJa": "貨幣法制定・金本位制の確立",
+        "titleEn": "Coinage Act & Adoption of Gold Standard",
+        "descriptionJa": "日清戦争の清国賠償金（金貨）を準備金に充て金本位制へ移行。国際信用を高める。",
+        "descriptionEn": "Utilized Chinese war indemnity to transition Japan onto the international gold standard."
+      },
+      {
+        "year": "1897",
+        "titleJa": "八幡製鉄所設立決定・足尾鉱毒事件",
+        "titleEn": "Yawata Steel Works Founded & Ashio Mine Incident",
+        "descriptionJa": "近代重工業の基盤として官営八幡製鉄所設置を決定。足尾鉱毒被害で田中正造が国会追及。",
+        "descriptionEn": "Authorized construction of Yawata Steel Works; Tanaka Shozo campaigned against Ashio copper pollution."
       }
     ],
     "sources": [
@@ -565,10 +670,17 @@ export const japanPrimeMinisters: Leader[] = [
     "keyEvents": [
       {
         "year": "1898",
-        "titleJa": "第3次伊藤内閣 発足",
-        "titleEn": "Inauguration of 3rd Ito Cabinet",
-        "descriptionJa": "1898-01-12、天皇より大命降下を受け組閣を執行。",
-        "descriptionEn": "Formally assumed office following imperial appointment on 1898-01-12."
+        "titleJa": "第3次伊藤内閣発足・地租増徴案否決",
+        "titleEn": "3rd Ito Cabinet & Land Tax Increase Rejection",
+        "descriptionJa": "軍備拡張財源のため地租増徴を提起するも、自由党・進歩党の激しい反対で否決され衆議院解散。",
+        "descriptionEn": "Proposed land tax hike to fund military expansion; dissolved parliament after opposition defeat."
+      },
+      {
+        "year": "1898",
+        "titleJa": "憲政党結成・伊藤辞職",
+        "titleEn": "Formation of Kenseito & Resignation",
+        "descriptionJa": "自由党と進歩党が合同し「憲政党」を結成。伊藤は政党内閣の出現を促して辞任。",
+        "descriptionEn": "Opposition parties merged to form Kenseito; Ito resigned to allow a party-led cabinet."
       }
     ],
     "sources": [
@@ -648,10 +760,17 @@ export const japanPrimeMinisters: Leader[] = [
     "keyEvents": [
       {
         "year": "1898",
-        "titleJa": "第1次大隈内閣（隈板内閣） 発足",
-        "titleEn": "Inauguration of 1st Okuma Cabinet",
-        "descriptionJa": "1898-06-30、天皇より大命降下を受け組閣を執行。",
-        "descriptionEn": "Formally assumed office following imperial appointment on 1898-06-30."
+        "titleJa": "隈板内閣発足（憲政史上初の政党内閣）",
+        "titleEn": "Waidan Cabinet (First Party Cabinet in Japan)",
+        "descriptionJa": "大隈重信（首相）と板垣退助（内相）が率いる憲政党による日本初の政党内閣が成立。",
+        "descriptionEn": "Okuma Shigenobu and Itagaki Taisuke formed Japan's historic first-ever party-based government."
+      },
+      {
+        "year": "1898",
+        "titleJa": "尾崎文相の共和演説事件・内閣瓦解",
+        "titleEn": "Ozaki Republican Speech Incident & Collapse",
+        "descriptionJa": "尾崎行雄文相が「もし日本が共和制なら三井・三菱が大統領候補になる」と演説し批判殺到、4ヶ月で総辞職。",
+        "descriptionEn": "Education Minister Ozaki's controversial speech ignited palace backlash, bringing down cabinet after 4 months."
       }
     ],
     "sources": [
@@ -730,11 +849,25 @@ export const japanPrimeMinisters: Leader[] = [
     ],
     "keyEvents": [
       {
-        "year": "1898",
-        "titleJa": "第2次山県内閣 発足",
-        "titleEn": "Inauguration of 2nd Yamagata Cabinet",
-        "descriptionJa": "1898-11-08、天皇より大命降下を受け組閣を執行。",
-        "descriptionEn": "Formally assumed office following imperial appointment on 1898-11-08."
+        "year": "1899",
+        "titleJa": "地租増徴法成立・改正条約全面施行",
+        "titleEn": "Land Tax Law & Unequal Treaties Abolished",
+        "descriptionJa": "憲政党との提携で地租増徴を成立させ、不平等条約改正条約が全面施行（内地雑居開始）。",
+        "descriptionEn": "Passed land tax expansion and implemented revised treaties, ending foreign concessions."
+      },
+      {
+        "year": "1900",
+        "titleJa": "治安警察法制定・文官任用令改正",
+        "titleEn": "Public Order Police Law & Civil Service Reform",
+        "descriptionJa": "労働運動・社会運動を厳しく取り締まる治安警察法を公布。官僚機構を政党から遮断。",
+        "descriptionEn": "Promulgated strict public order laws restricting labor unions and fortified bureaucratic independence."
+      },
+      {
+        "year": "1900",
+        "titleJa": "義和団の乱（北清事変・北京籠城救出）",
+        "titleEn": "Boxer Rebellion Intervention",
+        "descriptionJa": "清国北京の列国公使館救出のため日本軍を主力とする連合軍が出兵。国際的軍事評価を獲得。",
+        "descriptionEn": "Dispatched imperial troops as core of eight-nation alliance relieving the Siege of Peking legations."
       }
     ],
     "sources": [
@@ -814,10 +947,17 @@ export const japanPrimeMinisters: Leader[] = [
     "keyEvents": [
       {
         "year": "1900",
-        "titleJa": "第4次伊藤内閣 発足",
-        "titleEn": "Inauguration of 4th Ito Cabinet",
-        "descriptionJa": "1900-10-19、天皇より大命降下を受け組閣を執行。",
-        "descriptionEn": "Formally assumed office following imperial appointment on 1900-10-19."
+        "titleJa": "立憲政友会結党・第4次伊藤内閣発足",
+        "titleEn": "Founded Rikken Seiyukai & 4th Ito Cabinet",
+        "descriptionJa": "伊藤自ら総裁となり「立憲政友会」を結党。与党政党内閣として発足。",
+        "descriptionEn": "Founded Rikken Seiyukai as Japan's premier ruling party, forming 4th cabinet."
+      },
+      {
+        "year": "1901",
+        "titleJa": "渡辺蔵相の予算対立による内閣総辞職",
+        "titleEn": "Budget Impasse & Cabinet Resignation",
+        "descriptionJa": "貴族院と渡辺国武蔵相の財政予算案対立を収拾できず、7ヶ月で総辞職。",
+        "descriptionEn": "Intra-cabinet deadlock between Finance Minister Watanabe and the House of Peers led to resignation."
       }
     ],
     "sources": [
@@ -897,10 +1037,38 @@ export const japanPrimeMinisters: Leader[] = [
     "keyEvents": [
       {
         "year": "1901",
-        "titleJa": "第1次桂内閣 発足",
-        "titleEn": "Inauguration of 1st Katsura Cabinet",
-        "descriptionJa": "1901-06-02、天皇より大命降下を受け組閣を執行。",
-        "descriptionEn": "Formally assumed office following imperial appointment on 1901-06-02."
+        "titleJa": "官営八幡製鉄所操業開始・田中正造直訴",
+        "titleEn": "Yawata Steel Operational & Tanaka Emperor Petition",
+        "descriptionJa": "八幡製鉄所が火入れ操業開始。足尾鉱毒被害で田中正造が明治天皇に直訴を試みる。",
+        "descriptionEn": "First blast furnace blown at Yawata; Tanaka Shozo attempted a direct appeal to the Meiji Emperor."
+      },
+      {
+        "year": "1902",
+        "titleJa": "日英同盟締結",
+        "titleEn": "Anglo-Japanese Alliance Signed",
+        "descriptionJa": "ロシアの南下政策に対抗し、世界最強の海軍国大英帝国と歴史的同盟条約を調印。",
+        "descriptionEn": "Signed landmark treaty of alliance with the British Empire against Russian expansion in East Asia."
+      },
+      {
+        "year": "1904",
+        "titleJa": "日露戦争開戦",
+        "titleEn": "Outbreak of Russo-Japanese War",
+        "descriptionJa": "旅順港夜襲・仁川沖海戦で開戦。満洲軍を編成し陸海両面作戦を展開。",
+        "descriptionEn": "War launched against Imperial Russia following attacks at Port Arthur and Chemulpo."
+      },
+      {
+        "year": "1905",
+        "titleJa": "日本海海戦・ポーツマス条約調印",
+        "titleEn": "Battle of Tsushima & Treaty of Portsmouth",
+        "descriptionJa": "東郷平八郎率いる連合艦隊がバルチック艦隊を殲滅。セオドア・ローズヴェルト仲介で講和調印。",
+        "descriptionEn": "Admiral Togo annihilated the Russian Baltic Fleet; peace brokered by Teddy Roosevelt at Portsmouth."
+      },
+      {
+        "year": "1905",
+        "titleJa": "日比谷焼打事件（戒厳令布告）・統監府設置",
+        "titleEn": "Hibiya Incendiary Incident & Korea Residency",
+        "descriptionJa": "無賠償に怒る民衆が暴動化し東京に戒厳令。第2次日韓協約で統監府を設置（伊藤初代統監）。",
+        "descriptionEn": "Rioting over lack of war indemnity prompted martial law in Tokyo; established Residency-General in Korea."
       }
     ],
     "sources": [
@@ -980,10 +1148,17 @@ export const japanPrimeMinisters: Leader[] = [
     "keyEvents": [
       {
         "year": "1906",
-        "titleJa": "第1次西園寺内閣 発足",
-        "titleEn": "Inauguration of 1st Saionji Cabinet",
-        "descriptionJa": "1906-01-07、天皇より大命降下を受け組閣を執行。",
-        "descriptionEn": "Formally assumed office following imperial appointment on 1906-01-07."
+        "titleJa": "鉄道国有法公布・南満洲鉄道（満鉄）設立",
+        "titleEn": "Railway Nationalization & Mantetsu Founded",
+        "descriptionJa": "全国主要私鉄17社を買収し幹線鉄道を国有化。満洲経営の中核機関として満鉄を設立。",
+        "descriptionEn": "Nationalized major private rail networks and established the South Manchuria Railway Co."
+      },
+      {
+        "year": "1907",
+        "titleJa": "第3次日韓協約・ハーグ密使事件",
+        "titleEn": "Third Japan-Korea Treaty & Hague Secret Emissary",
+        "descriptionJa": "高宗皇帝の密使派遣を契機に韓国軍隊を解散させ統監政治を強化。",
+        "descriptionEn": "Dissolved the Korean military and consolidated administrative control following Hague emissary affair."
       }
     ],
     "sources": [
@@ -1063,10 +1238,31 @@ export const japanPrimeMinisters: Leader[] = [
     "keyEvents": [
       {
         "year": "1908",
-        "titleJa": "第2次桂内閣 発足",
-        "titleEn": "Inauguration of 2nd Katsura Cabinet",
-        "descriptionJa": "1908-07-14、天皇より大命降下を受け組閣を執行。",
-        "descriptionEn": "Formally assumed office following imperial appointment on 1908-07-14."
+        "titleJa": "戊申詔書渙発・緊縮財政断行",
+        "titleEn": "Boshin Imperial Rescript & Fiscal Austerity",
+        "descriptionJa": "日露戦後の国民道徳引き締めと勤倹尚武を促す詔書を渙発。",
+        "descriptionEn": "Issued moral rescript promoting thrift, national diligence, and post-war fiscal consolidation."
+      },
+      {
+        "year": "1909",
+        "titleJa": "伊藤博文暗殺事件（ハルビン駅）",
+        "titleEn": "Assassination of Ito Hirobumi at Harbin",
+        "descriptionJa": "満洲視察中の伊藤博文前統監が安重根に狙撃され絶命。",
+        "descriptionEn": "Former PM Ito Hirobumi was assassinated at Harbin railway station by Korean nationalist An Jung-geun."
+      },
+      {
+        "year": "1910",
+        "titleJa": "大逆事件（幸徳秋水ら逮捕）・韓国併合",
+        "titleEn": "High Treason Incident & Annexation of Korea",
+        "descriptionJa": "明治天皇暗殺計画容疑で社会主義者・無政府主義者を一斉検挙。日韓併合条約調印（朝鮮総督府設置）。",
+        "descriptionEn": "Crackdown on socialist dissidents over plot against Emperor; signed Japan-Korea Annexation Treaty."
+      },
+      {
+        "year": "1911",
+        "titleJa": "関税自主権の完全回復（条約改正達成）",
+        "titleEn": "Full Restoration of Tariff Autonomy",
+        "descriptionJa": "小村寿太郎外相が新通商航海条約を締結し、幕末以来の不平等条約を完全撤廃。",
+        "descriptionEn": "Foreign Minister Komura Jutaro completed revision of all unequal treaties, regaining tariff autonomy."
       }
     ],
     "sources": [
@@ -1146,10 +1342,24 @@ export const japanPrimeMinisters: Leader[] = [
     "keyEvents": [
       {
         "year": "1911",
-        "titleJa": "第2次西園寺内閣 発足",
-        "titleEn": "Inauguration of 2nd Saionji Cabinet",
-        "descriptionJa": "1911-08-30、天皇より大命降下を受け組閣を執行。",
-        "descriptionEn": "Formally assumed office following imperial appointment on 1911-08-30."
+        "titleJa": "工場法公布",
+        "titleEn": "Factory Act Promulgated",
+        "descriptionJa": "日本初の労働者保護立法として少年・女子労働者の労働時間制限等を規定。",
+        "descriptionEn": "Enacted Japan's first labor protection law regulating working hours for women and minors."
+      },
+      {
+        "year": "1912",
+        "titleJa": "明治天皇崩御・「大正」改元",
+        "titleEn": "Passing of Meiji Emperor & Taisho Era Begins",
+        "descriptionJa": "明治天皇が崩御し嘉仁親王が践祚。「大正」に改元。",
+        "descriptionEn": "The Meiji Emperor passed away; Crown Prince Yoshihito ascended the throne, beginning the Taisho era."
+      },
+      {
+        "year": "1912",
+        "titleJa": "2個師団増設問題と第2次西園寺内閣瓦解",
+        "titleEn": "Two-Division Army Crisis & Cabinet Collapse",
+        "descriptionJa": "陸軍の上原勇作陸相が師団増設拒否に抗議し単独辞任。軍部現役武官制により後任が得られず総辞職。",
+        "descriptionEn": "Army Minister Uehara resigned over rejected expansion demands, bringing down cabinet."
       }
     ],
     "sources": [
@@ -1229,10 +1439,17 @@ export const japanPrimeMinisters: Leader[] = [
     "keyEvents": [
       {
         "year": "1912",
-        "titleJa": "第3次桂内閣 発足",
-        "titleEn": "Inauguration of 3rd Katsura Cabinet",
-        "descriptionJa": "1912-12-21、天皇より大命降下を受け組閣を執行。",
-        "descriptionEn": "Formally assumed office following imperial appointment on 1912-12-21."
+        "titleJa": "第3次桂内閣発足・第1次護憲運動勃発",
+        "titleEn": "3rd Katsura Cabinet & 1st Movement for Constitutional Government",
+        "descriptionJa": "桂が宮中から首相へ復帰。「閥族打破・憲政擁護」を叫ぶ護憲運動が全国で燃え盛る。",
+        "descriptionEn": "Katsura's appointment sparked furious nationwide protests demanding an end to oligarchic rule."
+      },
+      {
+        "year": "1913",
+        "titleJa": "大正政変・桂内閣総辞職（在任53日）",
+        "titleEn": "Taisho Political Crisis & Resignation",
+        "descriptionJa": "尾崎行雄の「玉座を胸壁とし」弾劾演説と数万人の議会包囲デモにより、わずか53日で退陣。",
+        "descriptionEn": "Ozaki Yukio's famous parliamentary speech and massive crowds surrounding the Diet forced Katsura out in 53 days."
       }
     ],
     "sources": [
@@ -1312,10 +1529,24 @@ export const japanPrimeMinisters: Leader[] = [
     "keyEvents": [
       {
         "year": "1913",
-        "titleJa": "第1次山本内閣 発足",
-        "titleEn": "Inauguration of 1st Yamamoto Cabinet",
-        "descriptionJa": "1913-02-20、天皇より大命降下を受け組閣を執行。",
-        "descriptionEn": "Formally assumed office following imperial appointment on 1913-02-20."
+        "titleJa": "軍部大臣現役武官制の緩和",
+        "titleEn": "Relaxation of Active-Duty Military Minister Rule",
+        "descriptionJa": "軍部による倒閣工作を防ぐため、陸海軍大臣に予備役・後備役将官の就任を認める制度改正を断行。",
+        "descriptionEn": "Reformed regulations to permit retired flag officers to serve as service ministers."
+      },
+      {
+        "year": "1914",
+        "titleJa": "桜島大正大噴火",
+        "titleEn": "Sakurajima Great Taisho Eruption",
+        "descriptionJa": "鹿児島県桜島で歴史的大噴火が発生。溶岩流が大隅半島と陸続きに（死者58名）。",
+        "descriptionEn": "Massive volcanic eruption joined Sakurajima island to the Osumi peninsula."
+      },
+      {
+        "year": "1914",
+        "titleJa": "シーメンス事件発覚・山本内閣総辞職",
+        "titleEn": "Siemens Naval Bribery Scandal & Fall",
+        "descriptionJa": "海軍高官への軍艦・通信機納入を巡る巨額リベート汚職が発覚。貴族院で予算否決され辞職。",
+        "descriptionEn": "Naval procurement bribery scandal involving German firm Siemens sparked public riots and fall of cabinet."
       }
     ],
     "sources": [
@@ -1395,10 +1626,24 @@ export const japanPrimeMinisters: Leader[] = [
     "keyEvents": [
       {
         "year": "1914",
-        "titleJa": "第2次大隈内閣 発足",
-        "titleEn": "Inauguration of 2nd Okuma Cabinet",
-        "descriptionJa": "1914-04-16、天皇より大命降下を受け組閣を執行。",
-        "descriptionEn": "Formally assumed office following imperial appointment on 1914-04-16."
+        "titleJa": "第一次世界大戦参戦・青島要塞攻略",
+        "titleEn": "Entry into World War I & Siege of Tsingtao",
+        "descriptionJa": "日英同盟に基づきドイツ帝国へ宣戦布告。中国山東省青島および南洋諸島を攻略・占領。",
+        "descriptionEn": "Declared war on Germany under Anglo-Japanese Alliance; captured German colonial stronghold at Tsingtao."
+      },
+      {
+        "year": "1915",
+        "titleJa": "対華21カ条要求",
+        "titleEn": "Twenty-One Demands on China",
+        "descriptionJa": "袁世凱政権に対し満蒙権益拡張や山東省権益譲渡を要求。中国で反日運動激化。",
+        "descriptionEn": "Issued secret diplomatic demands to Yuan Shikai, sparking long-term Chinese anti-imperialist backlash."
+      },
+      {
+        "year": "1915",
+        "titleJa": "大戦景気の到来（成金ブーム）",
+        "titleEn": "World War I Economic Boom",
+        "descriptionJa": "欧州戦乱により輸出が急拡大し海運・造船・繊維で未曾有の好景気（船成金出現）。",
+        "descriptionEn": "Global demand created unprecedented export manufacturing and shipping boom."
       }
     ],
     "sources": [
@@ -1477,11 +1722,25 @@ export const japanPrimeMinisters: Leader[] = [
     ],
     "keyEvents": [
       {
-        "year": "1916",
-        "titleJa": "寺内地内閣 発足",
-        "titleEn": "Inauguration of Terauchi Cabinet",
-        "descriptionJa": "1916-10-09、天皇より大命降下を受け組閣を執行。",
-        "descriptionEn": "Formally assumed office following imperial appointment on 1916-10-09."
+        "year": "1917",
+        "titleJa": "西原借款供与・ロシア革命",
+        "titleEn": "Nishihara Loans & Russian Revolution",
+        "descriptionJa": "中国段祺瑞政権に巨額の無担保借款を供与。ロシア十月革命によりソビエト政権樹立。",
+        "descriptionEn": "Provided massive loans to Duan Qirui; Bolsheviks seized power in Russian Revolution."
+      },
+      {
+        "year": "1918",
+        "titleJa": "シベリア出兵強行",
+        "titleEn": "Siberian Military Intervention",
+        "descriptionJa": "チェコ軍団救援を名目に米英とともにシベリアへ大規模派兵（日本軍7万3000名派遣）。",
+        "descriptionEn": "Dispatched over 73,000 Japanese troops into Russian Siberia alongside Allied forces."
+      },
+      {
+        "year": "1918",
+        "titleJa": "米騒動の全国波及・寺内内閣総辞職",
+        "titleEn": "1918 Rice Riots & Resignation",
+        "descriptionJa": "米価急騰に怒る富山県魚津の主婦運動から全国に暴動が拡大。軍隊出動で鎮圧後、引責退陣。",
+        "descriptionEn": "Spiking rice prices sparked nationwide popular uprisings that forced cabinet resignation."
       }
     ],
     "sources": [
@@ -1561,10 +1820,38 @@ export const japanPrimeMinisters: Leader[] = [
     "keyEvents": [
       {
         "year": "1918",
-        "titleJa": "原内閣 発足",
-        "titleEn": "Inauguration of Hara Cabinet",
-        "descriptionJa": "1918-09-29、天皇より大命降下を受け組閣を執行。",
-        "descriptionEn": "Formally assumed office following imperial appointment on 1918-09-29."
+        "titleJa": "原敬「平民宰相」政党内閣発足",
+        "titleEn": "Hara Takashi \"Commoner PM\" Party Cabinet",
+        "descriptionJa": "爵位を持たない衆議院議員として初の首相に就任。本格的政党内閣時代が到来。",
+        "descriptionEn": "First commoner elected lawmaker appointed prime minister, opening modern party cabinet era."
+      },
+      {
+        "year": "1919",
+        "titleJa": "パリ講和会議・ベルサイユ条約調印",
+        "titleEn": "Paris Peace Conference & Treaty of Versailles",
+        "descriptionJa": "五大国（常任理事国）として国際連盟創設に参加。人種差別撤廃提案を提起。",
+        "descriptionEn": "Japan recognized as one of the \"Big Five\" global powers; proposed racial equality clause."
+      },
+      {
+        "year": "1919",
+        "titleJa": "三・一独立運動（朝鮮）・五・四運動（中国）",
+        "titleEn": "March 1st & May 4th Movements",
+        "descriptionJa": "植民地統治下の朝鮮と中国で大規模な反日民族独立運動が勃発。武断統治から文化政治へ転換。",
+        "descriptionEn": "Mass anti-colonial demonstrations in Korea and China forced shift toward civilian administrative policies."
+      },
+      {
+        "year": "1920",
+        "titleJa": "戦後恐慌発生・第1回メーデー開催",
+        "titleEn": "Post-WWI Economic Crash & 1st May Day",
+        "descriptionJa": "大戦終結による軍需消失で株価・綿糸価格が暴落。東京上野で日本初のメーデー開催。",
+        "descriptionEn": "Post-war speculative bubble burst, plunging commodity prices; Japan's first May Day labor rally held."
+      },
+      {
+        "year": "1921",
+        "titleJa": "原首相暗殺事件（東京駅丸の内南口）",
+        "titleEn": "Assassination of Prime Minister Hara",
+        "descriptionJa": "国会へ向かう途中の東京駅で右翼青年中岡艮一に短刀で刺殺され現職急死。",
+        "descriptionEn": "PM Hara was stabbed to death at Tokyo Station by a right-wing fanatic, shocking the nation."
       }
     ],
     "sources": [
@@ -1644,10 +1931,17 @@ export const japanPrimeMinisters: Leader[] = [
     "keyEvents": [
       {
         "year": "1921",
-        "titleJa": "高橋内閣 発足",
-        "titleEn": "Inauguration of Takahashi Cabinet",
-        "descriptionJa": "1921-11-13、天皇より大命降下を受け組閣を執行。",
-        "descriptionEn": "Formally assumed office following imperial appointment on 1921-11-13."
+        "titleJa": "高橋是清内閣発足・ワシントン会議調印",
+        "titleEn": "Inauguration & Washington Naval Conference",
+        "descriptionJa": "主力艦保有比率（米英5：日3）の軍縮条約、九カ国条約（中国主権尊重）調印。日英同盟解消。",
+        "descriptionEn": "Signed five-power naval treaty fixing warship ratios and nine-power treaty; ended Anglo-Japanese Alliance."
+      },
+      {
+        "year": "1922",
+        "titleJa": "政友会党内対立激化・内閣総辞職",
+        "titleEn": "Seiyukai Internal Feud & Resignation",
+        "descriptionJa": "改造内閣構想を巡る閣内・党内抗争を統制できず、わずか7ヶ月で総辞職。",
+        "descriptionEn": "Factional infighting within Seiyukai forced resignation after 7 months."
       }
     ],
     "sources": [
@@ -1727,10 +2021,24 @@ export const japanPrimeMinisters: Leader[] = [
     "keyEvents": [
       {
         "year": "1922",
-        "titleJa": "加藤友三郎内閣 発足",
-        "titleEn": "Inauguration of Kato Tomosaburo Cabinet",
-        "descriptionJa": "1922-06-12、天皇より大命降下を受け組閣を執行。",
-        "descriptionEn": "Formally assumed office following imperial appointment on 1922-06-12."
+        "titleJa": "全国水平社結成・日本共産党非合法創立",
+        "titleEn": "National Levelers Association & JCP Founded",
+        "descriptionJa": "部落差別撤廃を目指す全国水平社が創立。コミンテルン指導下で共産党が秘密結成。",
+        "descriptionEn": "Founding of Buraku liberation movement; secret formation of Japanese Communist Party."
+      },
+      {
+        "year": "1922",
+        "titleJa": "シベリア撤兵完了",
+        "titleEn": "Siberian Evacuation Completed",
+        "descriptionJa": "4年余りに及んだシベリア出兵を終了し軍隊を撤収。",
+        "descriptionEn": "Ended 4-year military intervention in Siberia, withdrawing imperial troops."
+      },
+      {
+        "year": "1923",
+        "titleJa": "加藤友三郎首相 現職病死",
+        "titleEn": "PM Kato Tomosaburo Passes in Office",
+        "descriptionJa": "大腸癌の悪化により首相官邸で現職急逝。",
+        "descriptionEn": "Passed away in office from colon cancer at the official residence."
       }
     ],
     "sources": [
@@ -1810,10 +2118,24 @@ export const japanPrimeMinisters: Leader[] = [
     "keyEvents": [
       {
         "year": "1923",
-        "titleJa": "第2次山本内閣（震災恐慌・復興内閣） 発足",
-        "titleEn": "Inauguration of 2nd Yamamoto Cabinet",
-        "descriptionJa": "1923-09-02、天皇より大命降下を受け組閣を執行。",
-        "descriptionEn": "Formally assumed office following imperial appointment on 1923-09-02."
+        "titleJa": "関東大震災発生（M7.9・死者行方不明10万5000名）",
+        "titleEn": "Great Kanto Earthquake (M7.9, 105,000 dead)",
+        "descriptionJa": "就任翌日に相模湾を震源とする巨大地震と大火災が帝都を襲撃。東京・横浜が焦土と化す。",
+        "descriptionEn": "Catastrophic M7.9 earthquake and firestorms destroyed Tokyo and Yokohama one day after appointment."
+      },
+      {
+        "year": "1923",
+        "titleJa": "帝都復興院設置（後藤新平総裁）",
+        "titleEn": "Capital Reconstruction Institute Established",
+        "descriptionJa": "後藤新平内相が復興総裁となり、近代都市東京の幹線道路・公園・土地区画整理を断行。",
+        "descriptionEn": "Gotō Shinpei launched grand master reconstruction plan with modern wide boulevards and parks."
+      },
+      {
+        "year": "1923",
+        "titleJa": "虎ノ門事件・山本内閣総辞職",
+        "titleEn": "Toranomon Incident & Resignation",
+        "descriptionJa": "皇太子裕仁親王（後の昭和天皇）の車列が難波大助に狙撃される。引責総辞職。",
+        "descriptionEn": "Leftist youth fired shotgun at Crown Prince Hirohito; cabinet took responsibility and resigned."
       }
     ],
     "sources": [
@@ -1893,10 +2215,17 @@ export const japanPrimeMinisters: Leader[] = [
     "keyEvents": [
       {
         "year": "1924",
-        "titleJa": "清浦内閣 発足",
-        "titleEn": "Inauguration of Kiyoura Cabinet",
-        "descriptionJa": "1924-01-07、天皇より大命降下を受け組閣を執行。",
-        "descriptionEn": "Formally assumed office following imperial appointment on 1924-01-07."
+        "titleJa": "清浦「特権階級内閣」発足",
+        "titleEn": "Kiyoura \"Privileged Class\" Cabinet",
+        "descriptionJa": "貴族院（研究会）中心の超然内閣を組織。政党側から「憲政の敵」と猛反発。",
+        "descriptionEn": "Formed peerage-dominated cabinet, denounced by elected parties as unconstitutional."
+      },
+      {
+        "year": "1924",
+        "titleJa": "第2次護憲運動・第15回総選挙",
+        "titleEn": "2nd Movement for Constitutional Government",
+        "descriptionJa": "政友会・憲政会・革新倶楽部（護憲三派）が総選挙で過半数を圧勝し清浦退陣。",
+        "descriptionEn": "Three pro-constitution parties swept parliamentary elections, forcing Kiyoura to yield power."
       }
     ],
     "sources": [
@@ -1975,11 +2304,32 @@ export const japanPrimeMinisters: Leader[] = [
     ],
     "keyEvents": [
       {
-        "year": "1924",
-        "titleJa": "加藤高明内閣（護憲三派） 発足",
-        "titleEn": "Inauguration of Kato Takaaki Cabinet",
-        "descriptionJa": "1924-06-11、天皇より大命降下を受け組閣を執行。",
-        "descriptionEn": "Formally assumed office following imperial appointment on 1924-06-11."
+        "year": "1925",
+        "titleJa": "日ソ基本条約締結（国交樹立）",
+        "titleEn": "Soviet-Japanese Basic Convention",
+        "descriptionJa": "ソビエト連邦との間で国交を正常化し北樺太石油利権を獲得。",
+        "descriptionEn": "Established official diplomatic ties with the USSR and secured northern Sakhalin oil concessions."
+      },
+      {
+        "year": "1925",
+        "titleJa": "普通選挙法制定（男子普選）",
+        "titleEn": "Universal Male Suffrage Act Passed",
+        "descriptionJa": "25歳以上の全男子に選挙権を拡大（納税要件撤廃・有権者が300万人から1200万人へ4倍増）。",
+        "descriptionEn": "Abolished tax property qualifications, expanding the electorate from 3 million to 12 million men."
+      },
+      {
+        "year": "1925",
+        "titleJa": "治安維持法制定・ラジオ放送開始",
+        "titleEn": "Peace Preservation Law & Radio Broadcasting Begins",
+        "descriptionJa": "国体変革・私有財産否認を取り締まる治安維持法公布。東京芝浦から初のラジオ試験放送。",
+        "descriptionEn": "Enacted Peace Preservation Law targeting communist movements; launched first radio broadcast."
+      },
+      {
+        "year": "1926",
+        "titleJa": "加藤高明首相 現職急死",
+        "titleEn": "PM Kato Takaaki Passes in Office",
+        "descriptionJa": "激務による肺炎悪化のため現職のまま逝去。",
+        "descriptionEn": "Passed away in office from acute pneumonia."
       }
     ],
     "sources": [
@@ -2059,10 +2409,17 @@ export const japanPrimeMinisters: Leader[] = [
     "keyEvents": [
       {
         "year": "1926",
-        "titleJa": "第1次若槻内閣 発足",
-        "titleEn": "Inauguration of 1st Wakatsuki Cabinet",
-        "descriptionJa": "1926-01-30、天皇より大命降下を受け組閣を執行。",
-        "descriptionEn": "Formally assumed office following imperial appointment on 1926-01-30."
+        "titleJa": "大正天皇崩御・「昭和」改元",
+        "titleEn": "Passing of Taisho Emperor & Showa Era Begins",
+        "descriptionJa": "大正天皇崩御に伴い皇太子裕仁親王が第124代天皇に即位。「昭和」に改元。",
+        "descriptionEn": "Emperor Yoshihito passed away; Crown Prince Hirohito ascended throne, beginning Showa era."
+      },
+      {
+        "year": "1927",
+        "titleJa": "昭和金融恐慌勃発（鈴木商店・台湾銀行破綻）",
+        "titleEn": "Showa Financial Panic (Bank Runs)",
+        "descriptionJa": "片岡蔵相の「東京渡辺銀行破綻」失言から全国で銀行取付騒ぎ。台湾銀行救済勅令案が枢密院で否決され総辞職。",
+        "descriptionEn": "Finance Minister's slip triggered nationwide bank runs; Privy Council rejected bailout, toppling cabinet."
       }
     ],
     "sources": [
@@ -2142,10 +2499,24 @@ export const japanPrimeMinisters: Leader[] = [
     "keyEvents": [
       {
         "year": "1927",
-        "titleJa": "田中義内心閣 発足",
-        "titleEn": "Inauguration of Tanaka Giichi Cabinet",
-        "descriptionJa": "1927-04-20、天皇より大命降下を受け組閣を執行。",
-        "descriptionEn": "Formally assumed office following imperial appointment on 1927-04-20."
+        "titleJa": "モラトリアム施行・第1次山東出兵",
+        "titleEn": "3-Week Moratorium & 1st Shandong Expedition",
+        "descriptionJa": "3週間の支払猶予令（モラトリアム）を断行し金融恐慌を鎮静化。中国国民革命軍北伐に対抗し出兵。",
+        "descriptionEn": "Declared 3-week debt moratorium halting bank panic; sent troops to Shandong against Nationalist Northern Expedition."
+      },
+      {
+        "year": "1928",
+        "titleJa": "第1回普通選挙・三・一五事件",
+        "titleEn": "1st General Election under Universal Suffrage & March 15 Crackdown",
+        "descriptionJa": "男子普選による初の総選挙。非合法共産党員1600名を一斉検挙。",
+        "descriptionEn": "Held first election under universal male suffrage; mass arrests of 1,600 communists."
+      },
+      {
+        "year": "1928",
+        "titleJa": "張作霖爆殺事件（満洲某重大事件）",
+        "titleEn": "Assassination of Zhang Zuolin (Huanggutun Incident)",
+        "descriptionJa": "関東軍河本大作大佐らが満洲軍閥張作霖の列車を爆破殺害。田中首相は昭和天皇の叱責を受け辞任。",
+        "descriptionEn": "Kwantung Army bombed warlord Zhang Zuolin's train; Tanaka resigned after reprimand from Emperor Hirohito."
       }
     ],
     "sources": [
@@ -2224,11 +2595,25 @@ export const japanPrimeMinisters: Leader[] = [
     ],
     "keyEvents": [
       {
-        "year": "1929",
-        "titleJa": "濱口内閣 発足",
-        "titleEn": "Inauguration of Hamaguchi Cabinet",
-        "descriptionJa": "1929-07-02、天皇より大命降下を受け組閣を執行。",
-        "descriptionEn": "Formally assumed office following imperial appointment on 1929-07-02."
+        "year": "1930",
+        "titleJa": "金解禁断行・世界恐慌直撃（昭和恐慌）",
+        "titleEn": "Return to Gold Standard & Showa Depression",
+        "descriptionJa": "井上準之助蔵相が旧平価で金解禁を強行。世界恐慌の津波を受け輸出急減・農業壊滅。",
+        "descriptionEn": "Lifted gold embargo at pre-war parity just as Wall Street Crash spread, causing severe depression in Japan."
+      },
+      {
+        "year": "1930",
+        "titleJa": "ロンドン海軍軍縮条約調印（統帥権干犯問題）",
+        "titleEn": "London Naval Treaty & Command Prerogative Dispute",
+        "descriptionJa": "補助艦比率（対米英69.75%）で条約調印。軍令部や右翼が「統帥権干犯」と猛烈攻撃。",
+        "descriptionEn": "Signed naval treaty limiting cruisers; military hardliners condemned government over imperial command prerogative."
+      },
+      {
+        "year": "1930",
+        "titleJa": "濱口首相狙撃遭難事件（東京駅）",
+        "titleEn": "Assassination Attempt on PM Hamaguchi",
+        "descriptionJa": "東京駅で右翼青年佐郷屋留雄に銃撃され重傷（翌年辞職後に逝去・「ライオン宰相」）。",
+        "descriptionEn": "Shot by right-wing youth at Tokyo Station; succumbed to wounds months later."
       }
     ],
     "sources": [
@@ -2308,10 +2693,17 @@ export const japanPrimeMinisters: Leader[] = [
     "keyEvents": [
       {
         "year": "1931",
-        "titleJa": "第2次若槻内閣 発足",
-        "titleEn": "Inauguration of 2nd Wakatsuki Cabinet",
-        "descriptionJa": "1931-04-14、天皇より大命降下を受け組閣を執行。",
-        "descriptionEn": "Formally assumed office following imperial appointment on 1931-04-14."
+        "titleJa": "満洲事変勃発（柳条湖事件）",
+        "titleEn": "Outbreak of Manchurian Incident (Mukden Incident)",
+        "descriptionJa": "関東軍が南満州鉄道を自作自演爆破し軍事行動開始。政府の不拡大方針を無視し全満洲へ侵攻。",
+        "descriptionEn": "Kwantung Army staged railway bombing at Mukden, seizing Manchuria against cabinet's non-expansion orders."
+      },
+      {
+        "year": "1931",
+        "titleJa": "十月事件・若槻内閣総辞職",
+        "titleEn": "October Incident Plot & Cabinet Resignation",
+        "descriptionJa": "陸軍急進派によるクーデター未遂事件。閣内不一致により若槻内閣は退陣。",
+        "descriptionEn": "Attempted military coup by young officers and cabinet deadlock caused resignation."
       }
     ],
     "sources": [
@@ -2391,10 +2783,24 @@ export const japanPrimeMinisters: Leader[] = [
     "keyEvents": [
       {
         "year": "1931",
-        "titleJa": "犬養内閣 発足",
-        "titleEn": "Inauguration of Inukai Cabinet",
-        "descriptionJa": "1931-12-13、天皇より大命降下を受け組閣を執行。",
-        "descriptionEn": "Formally assumed office following imperial appointment on 1931-12-13."
+        "titleJa": "金輸出再禁止・高橋財政開始",
+        "titleEn": "Gold Re-Embargo & Takahashi Keynesian Policies",
+        "descriptionJa": "就任当日に金輸出を再禁止し金本位制から離脱。積極的財政出動と為替安で世界最速で恐慌脱出。",
+        "descriptionEn": "Banned gold export on day one; Finance Minister Takahashi revived economy via deficit spending."
+      },
+      {
+        "year": "1932",
+        "titleJa": "満洲国建国宣言・第一次上海事変",
+        "titleEn": "Manchukuo Proclaimed & First Shanghai Incident",
+        "descriptionJa": "愛新覚羅溥儀を執政として満洲国を樹立。上海で日中両軍が武力衝突。",
+        "descriptionEn": "Established puppet state of Manchukuo under Puyi; armed clash with Chinese forces in Shanghai."
+      },
+      {
+        "year": "1932",
+        "titleJa": "血盟団事件・五・一五事件（犬養首相暗殺）",
+        "titleEn": "May 15 Incident (Assassination of PM Inukai)",
+        "descriptionJa": "海軍青年将校らが首相官邸に乱入。「話せば分かる」「問答無用」と射殺され政党政治終焉。",
+        "descriptionEn": "Naval officers stormed PM residence and assassinated Inukai, marking the end of pre-war party cabinets."
       }
     ],
     "sources": [
@@ -2474,10 +2880,31 @@ export const japanPrimeMinisters: Leader[] = [
     "keyEvents": [
       {
         "year": "1932",
-        "titleJa": "斎藤内閣（挙国一致） 発足",
-        "titleEn": "Inauguration of Saito Cabinet",
-        "descriptionJa": "1932-05-26、天皇より大命降下を受け組閣を執行。",
-        "descriptionEn": "Formally assumed office following imperial appointment on 1932-05-26."
+        "titleJa": "斎藤挙国一致内閣発足・日満議定書調印",
+        "titleEn": "National Unity Cabinet & Japan-Manchukuo Protocol",
+        "descriptionJa": "軍・政党・官僚を結集した挙国一致内閣を組織。満洲国を正式承認。",
+        "descriptionEn": "Formed cross-party unity cabinet and formally recognized Manchukuo."
+      },
+      {
+        "year": "1933",
+        "titleJa": "国際連盟脱退通告（松岡洋右全権退場）",
+        "titleEn": "Withdrawal from League of Nations",
+        "descriptionJa": "リットン調査団報告書（満洲国不承認）が連盟総会で可決され、松岡全権が議場退場・脱退通告。",
+        "descriptionEn": "Walked out of Geneva Assembly after vote rejecting Manchukuo; announced League withdrawal."
+      },
+      {
+        "year": "1933",
+        "titleJa": "昭和三陸地震・大津波（死者3000名）",
+        "titleEn": "Showa Sanriku Tsunami (3,000 dead)",
+        "descriptionJa": "M8.1の大地震により三陸沿岸に高さ28mの大津波が襲来。",
+        "descriptionEn": "Tsunami triggered by M8.1 quake devastated Sanriku coastline, claiming over 3,000 lives."
+      },
+      {
+        "year": "1934",
+        "titleJa": "帝人事件疑獄による総辞職",
+        "titleEn": "Teijin Financial Scandal & Fall",
+        "descriptionJa": "帝国人造絹絲株式を巡る閣僚汚職容疑が浮上し総辞職（後に全員無罪判決）。",
+        "descriptionEn": "Allegations of insider trading forced cabinet resignation; all defendants later acquitted."
       }
     ],
     "sources": [
@@ -2557,10 +2984,24 @@ export const japanPrimeMinisters: Leader[] = [
     "keyEvents": [
       {
         "year": "1934",
-        "titleJa": "岡田内閣 発足",
-        "titleEn": "Inauguration of Okada Cabinet",
-        "descriptionJa": "1934-07-08、天皇より大命降下を受け組閣を執行。",
-        "descriptionEn": "Formally assumed office following imperial appointment on 1934-07-08."
+        "titleJa": "室戸台風襲来（死者3000名超）",
+        "titleEn": "Muroto Typhoon Catastrophe",
+        "descriptionJa": "最大瞬間風速60m/s超の猛烈な台風が関西を直撃。学校倒壊など未曾有の惨禍。",
+        "descriptionEn": "Violent typhoon struck Kansai, causing massive flooding and school collapses, killing over 3,000."
+      },
+      {
+        "year": "1935",
+        "titleJa": "国体明徴声明（天皇機関説排撃）",
+        "titleEn": "Declaration on National Polity (Emperor Organ Theory)",
+        "descriptionJa": "美濃部達吉の天皇機関説が軍部・右翼から糾弾され、政府は学説を公的に否定・発禁処分。",
+        "descriptionEn": "Banned Minobe Tatsukichi's constitutional theory under pressure from military hardliners."
+      },
+      {
+        "year": "1936",
+        "titleJa": "二・二六事件勃発（岡田首相官邸脱出）",
+        "titleEn": "February 26 Incident (Military Coup Attempt)",
+        "descriptionJa": "陸軍皇道派青年将校が1400名の兵を率いてクーデター。斎藤内大臣・高橋蔵相らを暗殺。岡田は女中機転で脱出。",
+        "descriptionEn": "Imperial Army rebels seized central Tokyo, assassinating key ministers; PM Okada narrowly escaped."
       }
     ],
     "sources": [
@@ -2640,10 +3081,24 @@ export const japanPrimeMinisters: Leader[] = [
     "keyEvents": [
       {
         "year": "1936",
-        "titleJa": "広田内閣 発足",
-        "titleEn": "Inauguration of Hirota Cabinet",
-        "descriptionJa": "1936-03-09、天皇より大命降下を受け組閣を執行。",
-        "descriptionEn": "Formally assumed office following imperial appointment on 1936-03-09."
+        "titleJa": "軍部大臣現役武官制の完全復活",
+        "titleEn": "Restoration of Active-Duty Service Minister Rule",
+        "descriptionJa": "二・二六事件後の軍部統制名目で現役制を復活させ、軍部が内閣生殺与奪の権力を再掌握。",
+        "descriptionEn": "Restored active-duty service minister rule, granting military veto power over future cabinets."
+      },
+      {
+        "year": "1936",
+        "titleJa": "日独防共協定締結",
+        "titleEn": "Anti-Comintern Pact Signed with Nazi Germany",
+        "descriptionJa": "ソビエト・共産インターナショナルに対抗しナチス・ドイツと軍事協定を締結。",
+        "descriptionEn": "Signed pact with Nazi Germany directed against the Communist International."
+      },
+      {
+        "year": "1937",
+        "titleJa": "腹切り問答・広田内閣総辞職",
+        "titleEn": "Harakiri Debate & Cabinet Resignation",
+        "descriptionJa": "衆議院で浜田国松議員と寺内寿一陸相が軍部独裁批判を巡り激突。議会停会となり辞任。",
+        "descriptionEn": "Heated Diet floor clash between Hamada Kunimatsu and Army Minister Terauchi toppled cabinet."
       }
     ],
     "sources": [
@@ -2723,10 +3178,10 @@ export const japanPrimeMinisters: Leader[] = [
     "keyEvents": [
       {
         "year": "1937",
-        "titleJa": "林内閣 発足",
-        "titleEn": "Inauguration of Hayashi Cabinet",
-        "descriptionJa": "1937-02-02、天皇より大命降下を受け組閣を執行。",
-        "descriptionEn": "Formally assumed office following imperial appointment on 1937-02-02."
+        "titleJa": "林内閣発足・「食い逃げ解散」",
+        "titleEn": "Hayashi Cabinet & \"Eat-and-Run Dissolution\"",
+        "descriptionJa": "政党色を排除して組閣するも議会支持を得られず、予算成立直後に衆議院を解散。総選挙惨敗で4ヶ月退陣。",
+        "descriptionEn": "Dissolved Diet immediately after budget passed; suffered landslide defeat and quit after 4 months."
       }
     ],
     "sources": [
@@ -2806,10 +3261,24 @@ export const japanPrimeMinisters: Leader[] = [
     "keyEvents": [
       {
         "year": "1937",
-        "titleJa": "第1次近衛内閣 発足",
-        "titleEn": "Inauguration of 1st Konoe Cabinet",
-        "descriptionJa": "1937-06-04、天皇より大命降下を受け組閣を執行。",
-        "descriptionEn": "Formally assumed office following imperial appointment on 1937-06-04."
+        "titleJa": "日中戦争勃発（盧溝橋事件・南京事件）",
+        "titleEn": "Outbreak of Second Sino-Japanese War",
+        "descriptionJa": "北京郊外・盧溝橋での日中武力衝突から全面戦争に拡大。日本軍が南京を占領。",
+        "descriptionEn": "Clash at Marco Polo Bridge escalated into full-scale war across China; Japanese forces captured Nanjing."
+      },
+      {
+        "year": "1938",
+        "titleJa": "第一次近衛声明（「国民政府を対手とせず」）",
+        "titleEn": "First Konoe Statement",
+        "descriptionJa": "蒋介石の国民政府との和平交渉を打ち切り全面対決を宣言。戦争泥沼化の決定打となる。",
+        "descriptionEn": "Cut off all diplomatic negotiations with Chiang Kai-shek's Nationalist government."
+      },
+      {
+        "year": "1938",
+        "titleJa": "国家総動員法制定・電力国家管理法",
+        "titleEn": "National Mobilization Law Enacted",
+        "descriptionJa": "戦時体制のため人的・物的資源を勅令で一元徴発・統制できる全権を政府に付与。",
+        "descriptionEn": "Granted government unlimited control over national economy, labor, and materials for total war."
       }
     ],
     "sources": [
@@ -2889,10 +3358,17 @@ export const japanPrimeMinisters: Leader[] = [
     "keyEvents": [
       {
         "year": "1939",
-        "titleJa": "平沼内閣 発足",
-        "titleEn": "Inauguration of Hiranuma Cabinet",
-        "descriptionJa": "1939-01-05、天皇より大命降下を受け組閣を執行。",
-        "descriptionEn": "Formally assumed office following imperial appointment on 1939-01-05."
+        "titleJa": "ノモンハン事件勃発（日ソ軍事衝突）",
+        "titleEn": "Nomonhan Incident (Battle of Khalkhin Gol)",
+        "descriptionJa": "満蒙国境で日本軍第23師団とジューコフ率いるソ連・モンゴル軍が激突。日本側大損害。",
+        "descriptionEn": "Fierce tank and air warfare against Soviet-Mongolian forces resulted in catastrophic Japanese casualties."
+      },
+      {
+        "year": "1939",
+        "titleJa": "独ソ不可侵条約締結・平沼内閣総辞職",
+        "titleEn": "Nazi-Soviet Non-Aggression Pact & Resignation",
+        "descriptionJa": "防共協定を結んでいた同盟国ドイツがソ連と電撃不可侵条約調印。「欧州の天地は複雑怪奇」と辞任。",
+        "descriptionEn": "Shock Nazi-Soviet alliance shattered Japan's anti-communist diplomacy; Hiranuma resigned in bewilderment."
       }
     ],
     "sources": [
@@ -2972,10 +3448,17 @@ export const japanPrimeMinisters: Leader[] = [
     "keyEvents": [
       {
         "year": "1939",
-        "titleJa": "阿部内閣 発足",
-        "titleEn": "Inauguration of Abe Nobuyuki Cabinet",
-        "descriptionJa": "1939-08-30、天皇より大命降下を受け組閣を執行。",
-        "descriptionEn": "Formally assumed office following imperial appointment on 1939-08-30."
+        "titleJa": "第二次世界大戦勃発・不介入方針言明",
+        "titleEn": "Outbreak of WWII & Non-Intervention Stance",
+        "descriptionJa": "ナチス・ドイツのポーランド侵攻により第二次大戦勃発。「欧州戦争には不介入」と声明。",
+        "descriptionEn": "Germany invaded Poland, launching World War II; Abe declared Japan would stay out of European conflict."
+      },
+      {
+        "year": "1939",
+        "titleJa": "価格統制令（9・18ストップ令）",
+        "titleEn": "Price Freeze Ordinance (9/18 Stop Edict)",
+        "descriptionJa": "物価・賃金・家賃を9月18日水準で一律凍結する統制令を公布。生活物資不足深刻化。",
+        "descriptionEn": "Froze all prices, wages, and rents to combat wartime inflation, exacerbating shortages."
       }
     ],
     "sources": [
@@ -3055,10 +3538,17 @@ export const japanPrimeMinisters: Leader[] = [
     "keyEvents": [
       {
         "year": "1940",
-        "titleJa": "米内心閣 発足",
-        "titleEn": "Inauguration of Yonai Cabinet",
-        "descriptionJa": "1940-01-16、天皇より大命降下を受け組閣を執行。",
-        "descriptionEn": "Formally assumed office following imperial appointment on 1940-01-16."
+        "titleJa": "米内内閣発足・三国同盟阻止方針",
+        "titleEn": "Yonai Cabinet & Resistance to Axis Alliance",
+        "descriptionJa": "日米英協調派の米内が首相就任。軍部が進める日独伊三国同盟締結に頑強に抵抗。",
+        "descriptionEn": "Resisted army demands for a military alliance with Nazi Germany and Fascist Italy."
+      },
+      {
+        "year": "1940",
+        "titleJa": "畑陸相単独辞任による米内内閣倒閣",
+        "titleEn": "Army Topples Yonai Cabinet",
+        "descriptionJa": "ドイツの電撃戦勝利に沸く陸軍が畑俊六陸相を辞任させ後任を拒否、内閣を瓦解させる。",
+        "descriptionEn": "Army Minister Hata resigned to force cabinet collapse and facilitate military alliance with Germany."
       }
     ],
     "sources": [
@@ -3138,10 +3628,24 @@ export const japanPrimeMinisters: Leader[] = [
     "keyEvents": [
       {
         "year": "1940",
-        "titleJa": "第2次近衛内閣 発足",
-        "titleEn": "Inauguration of 2nd Konoe Cabinet",
-        "descriptionJa": "1940-07-22、天皇より大命降下を受け組閣を執行。",
-        "descriptionEn": "Formally assumed office following imperial appointment on 1940-07-22."
+        "titleJa": "大政翼賛会結成（新体制運動・全政党解散）",
+        "titleEn": "Imperial Rule Assistance Association Formed",
+        "descriptionJa": "立憲政友会・民政党など全政党が解散し大政翼賛会に合流。一国一党独裁的統制組織が完成。",
+        "descriptionEn": "All political parties dissolved into the state-controlled Imperial Rule Assistance Association."
+      },
+      {
+        "year": "1940",
+        "titleJa": "日独伊三国同盟調印・北部仏印進駐",
+        "titleEn": "Tripartite Pact Signed & Northern Indochina Occupied",
+        "descriptionJa": "ベルリンで三国軍事同盟に調印。援蒋ルート遮断のためフランス領インドシナ北部へ進駐。米国の対日制裁発動。",
+        "descriptionEn": "Formed Axis military alliance with Germany and Italy; occupied northern French Indochina."
+      },
+      {
+        "year": "1941",
+        "titleJa": "日ソ中立条約締結",
+        "titleEn": "Soviet-Japanese Neutrality Pact Signed",
+        "descriptionJa": "モスクワで松岡外相とスターリンが調印。相互不可侵・中立を約束。",
+        "descriptionEn": "Signed 5-year neutrality treaty in Moscow ensuring non-aggression on northern frontier."
       }
     ],
     "sources": [
@@ -3221,10 +3725,17 @@ export const japanPrimeMinisters: Leader[] = [
     "keyEvents": [
       {
         "year": "1941",
-        "titleJa": "第3次近衛内閣 発足",
-        "titleEn": "Inauguration of 3rd Konoe Cabinet",
-        "descriptionJa": "1941-07-18、天皇より大命降下を受け組閣を執行。",
-        "descriptionEn": "Formally assumed office following imperial appointment on 1941-07-18."
+        "titleJa": "南部仏印進駐・米国の対日石油全面禁輸",
+        "titleEn": "Southern Indochina Incursion & US Total Oil Embargo",
+        "descriptionJa": "日本軍がサイゴンに進駐。ルーズベルト米大統領は対日資産凍結と石油の全面対日禁輸を断行。",
+        "descriptionEn": "US retaliated against southern Indochina occupation with a complete oil embargo and asset freeze."
+      },
+      {
+        "year": "1941",
+        "titleJa": "帝国国策遂行要領決定・近衛内閣総辞職",
+        "titleEn": "Wartime Resolution & Konoe Resignation",
+        "descriptionJa": "御前会議で「10月下旬までに日米交渉不成立なら開戦」を決定。首脳会談模索も東条陸相の反対で断念し辞任。",
+        "descriptionEn": "Set deadline for war; resigned after failing to reach compromise between diplomacy and army hardliners."
       }
     ],
     "sources": [
@@ -3304,10 +3815,31 @@ export const japanPrimeMinisters: Leader[] = [
     "keyEvents": [
       {
         "year": "1941",
-        "titleJa": "東條内閣 発足",
-        "titleEn": "Inauguration of Tojo Cabinet",
-        "descriptionJa": "1941-10-18、天皇より大命降下を受け組閣を執行。",
-        "descriptionEn": "Formally assumed office following imperial appointment on 1941-10-18."
+        "titleJa": "対米英宣戦布告・太平洋戦争開戦",
+        "titleEn": "Declaration of War & Pearl Harbor Attack",
+        "descriptionJa": "ハル・ノート受諾拒否。ハワイ真珠湾攻撃およびマレー半島上陸作戦により太平洋戦争へ突入。",
+        "descriptionEn": "Launched surprise attack on Pearl Harbor and invaded Malaya, plunging into World War II."
+      },
+      {
+        "year": "1942",
+        "titleJa": "ミッドウェー海戦敗北・翼賛選挙実施",
+        "titleEn": "Battle of Midway Defeat & Yokusan Election",
+        "descriptionJa": "主力空母4隻を喪失し制海空権の転換点に。推薦候補が8割を占める翼賛選挙を実施。",
+        "descriptionEn": "Lost 4 fleet carriers in pivotal naval defeat; held wartime election dominated by approved candidates."
+      },
+      {
+        "year": "1943",
+        "titleJa": "学徒出陣・大東亜会議開催",
+        "titleEn": "Student Conscription & Greater East Asia Conference",
+        "descriptionJa": "文科系学生の徴兵猶予を停止し神宮外苑で出陣学徒壮行会。東京でアジア指導者を招き大東亜宣言採択。",
+        "descriptionEn": "Mobilized university students into military combat; hosted summit of Asian puppet state leaders."
+      },
+      {
+        "year": "1944",
+        "titleJa": "サイパン島陥落・東条内閣総辞職",
+        "titleEn": "Fall of Saipan & Tojo Cabinet Fall",
+        "descriptionJa": "マリアナ沖海戦大敗とサイパン島陥落（絶対国防圏崩壊）。米軍B-29日本本土空襲圏内突入により辞任。",
+        "descriptionEn": "Fall of Saipan brought Japanese mainland within B-29 bombing range, forcing Tojo out."
       }
     ],
     "sources": [
@@ -3387,10 +3919,24 @@ export const japanPrimeMinisters: Leader[] = [
     "keyEvents": [
       {
         "year": "1944",
-        "titleJa": "小磯内閣 発足",
-        "titleEn": "Inauguration of Koiso Cabinet",
-        "descriptionJa": "1944-07-22、天皇より大命降下を受け組閣を執行。",
-        "descriptionEn": "Formally assumed office following imperial appointment on 1944-07-22."
+        "titleJa": "レイテ沖海戦・神風特別攻撃隊開始",
+        "titleEn": "Battle of Leyte Gulf & Kamikaze Attacks Begin",
+        "descriptionJa": "連合艦隊が壊滅的損害を受けフィリピン喪失。航空機による体当たり特攻作戦が本格化。",
+        "descriptionEn": "Decisive naval defeat destroyed imperial fleet; organized kamikaze suicide attacks began."
+      },
+      {
+        "year": "1944",
+        "titleJa": "東南海地震発生（M7.9・情報統制）",
+        "titleEn": "Tonankai Earthquake (M7.9, Wartime Censorship)",
+        "descriptionJa": "中京圏の軍需航空機工場が壊滅。戦意喪失防止のため報道管制。",
+        "descriptionEn": "Massive earthquake destroyed aircraft factories; strict wartime censorship concealed destruction."
+      },
+      {
+        "year": "1945",
+        "titleJa": "東京大空襲（3月10日）・沖縄戦開始",
+        "titleEn": "Great Tokyo Air Raid (March 10) & Battle of Okinawa",
+        "descriptionJa": "米軍B-29の焼夷弾絨毯爆撃により一夜で東京下町死者10万人。米軍が沖縄本島上陸作戦開始。小磯辞任。",
+        "descriptionEn": "Incendiary air raid killed 100,000 in Tokyo; US invasion of Okinawa toppled Koiso cabinet."
       }
     ],
     "sources": [
@@ -3470,10 +4016,24 @@ export const japanPrimeMinisters: Leader[] = [
     "keyEvents": [
       {
         "year": "1945",
-        "titleJa": "鈴木貫太郎内閣（終戦内閣） 発足",
-        "titleEn": "Inauguration of Suzuki Kantaro Cabinet",
-        "descriptionJa": "1945-04-07、天皇より大命降下を受け組閣を執行。",
-        "descriptionEn": "Formally assumed office following imperial appointment on 1945-04-07."
+        "titleJa": "広島・長崎へ原子爆弾投下",
+        "titleEn": "Atomic Bombings of Hiroshima & Nagasaki",
+        "descriptionJa": "8月6日広島、8月9日長崎へ人類史上初のウラン型・プルトニウム型原爆投下。一瞬で数十万人が犠牲。",
+        "descriptionEn": "US dropped atomic bombs on Hiroshima (Aug 6) and Nagasaki (Aug 9), devastating both cities."
+      },
+      {
+        "year": "1945",
+        "titleJa": "ソ連対日参戦・満洲侵攻",
+        "titleEn": "Soviet Invasion of Manchuria",
+        "descriptionJa": "ソ連が中立条約を破棄し満洲・千島列島・樺太へ一斉侵攻。",
+        "descriptionEn": "Soviet Union broke neutrality pact, launching massive invasion across Manchuria and Sakhalin."
+      },
+      {
+        "year": "1945",
+        "titleJa": "ポツダム宣言受諾・玉音放送（終戦）",
+        "titleEn": "Acceptance of Potsdam Declaration & Surrender",
+        "descriptionJa": "御前会議で昭和天皇の「聖断」を仰ぎ無条件降伏を受諾。8月15日玉音放送により国民へ終戦を告知。",
+        "descriptionEn": "Emperor Hirohito accepted Allied surrender terms; broadcasted the historic Jewel Voice end-of-war address."
       }
     ],
     "sources": [
@@ -3553,10 +4113,24 @@ export const japanPrimeMinisters: Leader[] = [
     "keyEvents": [
       {
         "year": "1945",
-        "titleJa": "東久邇宮内閣（降伏・終戦処理） 発足",
-        "titleEn": "Inauguration of Higashikuni Cabinet",
-        "descriptionJa": "1945-08-17、天皇より大命降下を受け組閣を執行。",
-        "descriptionEn": "Formally assumed office following imperial appointment on 1945-08-17."
+        "titleJa": "降伏文書調印（戦艦ミズーリ号）",
+        "titleEn": "Japanese Surrender Signed on USS Missouri",
+        "descriptionJa": "東京湾上の米戦艦ミズーリ号甲板で重光葵外相・梅津美治郎参謀総長が降伏文書に調印。",
+        "descriptionEn": "Signed formal Instrument of Surrender in Tokyo Bay, formally ending World War II."
+      },
+      {
+        "year": "1945",
+        "titleJa": "GHQ進駐・マッカーサー最高司令官着任",
+        "titleEn": "Allied Occupation Begins under MacArthur",
+        "descriptionJa": "連合国軍最高司令官総司令部（GHQ/SCAP）が東京に設置され、日本の占領統治が開始。",
+        "descriptionEn": "General MacArthur established GHQ headquarters in Tokyo, initiating democratic demilitarization."
+      },
+      {
+        "year": "1945",
+        "titleJa": "GHQ人権指令と東久邇宮内閣総辞職",
+        "titleEn": "GHQ Human Rights Directive & Resignation",
+        "descriptionJa": "治安維持法廃止・政治犯釈放・特高警察解体指令を受け、皇族として54日で総辞職。",
+        "descriptionEn": "MacArthur's directive abolishing thought-control laws led royal PM to resign after 54 days."
       }
     ],
     "sources": [
@@ -3636,10 +4210,17 @@ export const japanPrimeMinisters: Leader[] = [
     "keyEvents": [
       {
         "year": "1945",
-        "titleJa": "幣原内閣（戦後復興・新憲法草案） 発足",
-        "titleEn": "Inauguration of Shidehara Cabinet",
-        "descriptionJa": "1945-10-09、天皇より大命降下を受け組閣を執行。",
-        "descriptionEn": "Formally assumed office following imperial appointment on 1945-10-09."
+        "titleJa": "GHQ五大改革指令・女性参政権",
+        "titleEn": "Five Major Democratic Reforms Directive",
+        "descriptionJa": "婦人参政権解放、労働組合結成奨励、教育自由化、秘密警察廃止、経済民主化（農地改革・財閥解体）を指示。",
+        "descriptionEn": "Enacted landmark reforms: female suffrage, labor unionization, educational freedom, and trust-busting."
+      },
+      {
+        "year": "1946",
+        "titleJa": "昭和天皇「人間宣言」・マッカーサー憲法草案",
+        "titleEn": "Emperor \"Humanity Declaration\" & MacArthur Constitution Draft",
+        "descriptionJa": "天皇の神格性を否定する詔書渙発。GHQマッカーサー草案を受け入れ新憲法案を作成。初の女性議員39名誕生。",
+        "descriptionEn": "Emperor renounced divine status; accepted GHQ draft constitution; first women elected to parliament."
       }
     ],
     "sources": [
@@ -3719,10 +4300,31 @@ export const japanPrimeMinisters: Leader[] = [
     "keyEvents": [
       {
         "year": "1946",
-        "titleJa": "第1次吉田内閣 発足",
-        "titleEn": "Inauguration of 1st Yoshida Cabinet",
-        "descriptionJa": "1946-05-22、天皇より大命降下を受け組閣を執行。",
-        "descriptionEn": "Formally assumed office following imperial appointment on 1946-05-22."
+        "titleJa": "極東国際軍事裁判（東京裁判）開廷",
+        "titleEn": "Tokyo War Crimes Trials Convene",
+        "descriptionJa": "東条英機らA級戦犯容疑者28名に対する国際軍事法廷が開廷。",
+        "descriptionEn": "International Military Tribunal for the Far East began trials of wartime Japanese leadership."
+      },
+      {
+        "year": "1946",
+        "titleJa": "日本国憲法公布・第1次農地改革",
+        "titleEn": "Promulgation of Constitution of Japan",
+        "descriptionJa": "国民主権・戦争放棄（第9条）・基本的人権の尊重を柱とする新憲法が11月3日公布。地主制解体へ。",
+        "descriptionEn": "Promulgated new pacifist constitution establishing popular sovereignty and renouncing war; launched land reform."
+      },
+      {
+        "year": "1946",
+        "titleJa": "昭和南海地震発生（M8.0）",
+        "titleEn": "Showa Nankai Earthquake (M8.0)",
+        "descriptionJa": "西日本全域で強い揺れと大津波が発生し死者1,330名・家屋全壊3万戸。",
+        "descriptionEn": "M8.0 earthquake and massive tsunami devastated western Japan coastlines."
+      },
+      {
+        "year": "1947",
+        "titleJa": "二・一ゼネスト中止命令・労働基準法公布",
+        "titleEn": "Feb 1 General Strike Banned & Labor Standards Act",
+        "descriptionJa": "全官公庁250万人のゼネスト直前にマッカーサーが中止命令。労働基準法・教育基本法が公布。",
+        "descriptionEn": "MacArthur forbade planned general strike; enacted basic Labor Standards Act."
       }
     ],
     "sources": [
@@ -3802,10 +4404,24 @@ export const japanPrimeMinisters: Leader[] = [
     "keyEvents": [
       {
         "year": "1947",
-        "titleJa": "片山内閣（日本国憲法下初・社会党首班） 発足",
-        "titleEn": "Inauguration of Katayama Cabinet",
-        "descriptionJa": "1947-05-24、天皇より大命降下を受け組閣を執行。",
-        "descriptionEn": "Formally assumed office following imperial appointment on 1947-05-24."
+        "titleJa": "日本国憲法施行・初の社会党首班内閣",
+        "titleEn": "Constitution in Effect & First Socialist Prime Minister",
+        "descriptionJa": "5月3日日本国憲法が施行。日本社会党が第1党となり片山哲がクリスチャン首相として組閣。",
+        "descriptionEn": "New Constitution took effect; Christian socialist Katayama formed historic coalition government."
+      },
+      {
+        "year": "1947",
+        "titleJa": "独占禁止法・地方自治法・国家公務員法制定",
+        "titleEn": "Antimonopoly Law & Local Autonomy Act Enacted",
+        "descriptionJa": "経済民主化と地方分権を確立する諸基本法を相次いで成立させる。",
+        "descriptionEn": "Passed key democratic pillar legislation establishing fair trade and local autonomy."
+      },
+      {
+        "year": "1948",
+        "titleJa": "炭鉱国家管理法を巡る内部分裂で退陣",
+        "titleEn": "Coal Mines State Control Dispute & Fall",
+        "descriptionJa": "重要基幹産業の炭鉱国管法案に与党内右派が反発し閣内不統一で総辞職。",
+        "descriptionEn": "Left-right split within coalition over state coal administration brought down government."
       }
     ],
     "sources": [
@@ -3885,10 +4501,17 @@ export const japanPrimeMinisters: Leader[] = [
     "keyEvents": [
       {
         "year": "1948",
-        "titleJa": "芦田内閣 発足",
-        "titleEn": "Inauguration of Ashida Cabinet",
-        "descriptionJa": "1948-03-10、天皇より大命降下を受け組閣を執行。",
-        "descriptionEn": "Formally assumed office following imperial appointment on 1948-03-10."
+        "titleJa": "海上保安庁創設・政令201号公布",
+        "titleEn": "Japan Coast Guard Founded & Cabinet Order 201",
+        "descriptionJa": "海の治安維持のため海上保安庁を設置。マッカーサー書簡に基づき公務員のスト権を禁止。",
+        "descriptionEn": "Founded Japan Coast Guard; issued executive decree banning strikes by public servants."
+      },
+      {
+        "year": "1948",
+        "titleJa": "昭和電工疑獄事件・芦田内閣総辞職",
+        "titleEn": "Showa Denko Bribery Scandal & Fall",
+        "descriptionJa": "復興金融金庫からの融資を巡る大規模贈収賄事件で副総理西尾末広らが逮捕され総辞職。",
+        "descriptionEn": "Massive corporate loan kickback scandal toppled cabinet, leading to arrest of Deputy PM Nishio."
       }
     ],
     "sources": [
@@ -3968,10 +4591,17 @@ export const japanPrimeMinisters: Leader[] = [
     "keyEvents": [
       {
         "year": "1948",
-        "titleJa": "第2次吉田内閣 発足",
-        "titleEn": "Inauguration of 2nd Yoshida Cabinet",
-        "descriptionJa": "1948-10-15、天皇より大命降下を受け組閣を執行。",
-        "descriptionEn": "Formally assumed office following imperial appointment on 1948-10-15."
+        "titleJa": "第2次吉田内閣発足・馴れ合い解散",
+        "titleEn": "2nd Yoshida Cabinet & Collusive Dissolution",
+        "descriptionJa": "民主自由党単独内閣として発足。野党と協議の上で衆議院を早期解散。",
+        "descriptionEn": "Formed conservative cabinet; coordinated parliamentary dissolution with opposition."
+      },
+      {
+        "year": "1949",
+        "titleJa": "ドッジ・ライン発表（単一為替レート 1ドル=360円）",
+        "titleEn": "Dodge Line Stabilization (1 USD = 360 JPY)",
+        "descriptionJa": "米特使ドッジによる超均衡予算・復興金融金庫融資停止・単一為替レート設定によるインフレ収束。",
+        "descriptionEn": "Imposed strict fiscal austerity and fixed exchange rate at 360 yen to halt post-war hyperinflation."
       }
     ],
     "sources": [
@@ -4051,10 +4681,17 @@ export const japanPrimeMinisters: Leader[] = [
     "keyEvents": [
       {
         "year": "1949",
-        "titleJa": "第3次吉田内閣（平和条約・安保締結） 発足",
-        "titleEn": "Inauguration of 3rd Yoshida Cabinet",
-        "descriptionJa": "1949-02-16、天皇より大命降下を受け組閣を執行。",
-        "descriptionEn": "Formally assumed office following imperial appointment on 1949-02-16."
+        "titleJa": "国鉄三大ミステリー事件（下山・三鷹・松川事件）",
+        "titleEn": "Three Railway Mystery Incidents",
+        "descriptionJa": "行政整理（人員整理）の嵐の中、国鉄総裁変死（下山）や無人電車暴走（三鷹）・列車脱線（松川）が続発。",
+        "descriptionEn": "Unsolved sabotage and death of rail president struck state railways amid mass labor dismissals."
+      },
+      {
+        "year": "1949",
+        "titleJa": "湯川秀樹 ノーベル物理学賞受賞",
+        "titleEn": "Hideki Yukawa Wins Nobel Prize in Physics",
+        "descriptionJa": "中間子理論の功績により日本人初のノーベル賞を受賞。敗戦に打ちひしがれた国民に勇気を与える。",
+        "descriptionEn": "Awarded Japan's first Nobel Prize for meson theory, restoring national scientific pride."
       }
     ],
     "sources": [
@@ -4133,11 +4770,25 @@ export const japanPrimeMinisters: Leader[] = [
     ],
     "keyEvents": [
       {
-        "year": "1952",
-        "titleJa": "第4次吉田内閣 発足",
-        "titleEn": "Inauguration of 4th Yoshida Cabinet",
-        "descriptionJa": "1952-10-30、天皇より大命降下を受け組閣を執行。",
-        "descriptionEn": "Formally assumed office following imperial appointment on 1952-10-30."
+        "year": "1950",
+        "titleJa": "朝鮮戦争勃発・警察予備隊創設",
+        "titleEn": "Korean War Outbreak & National Police Reserve",
+        "descriptionJa": "北朝鮮軍の韓国侵攻で朝鮮戦争勃発。マッカーサー指令で警察予備隊（自衛隊の前身）7万5000名を新設。",
+        "descriptionEn": "Korean War erupted; MacArthur ordered creation of 75,000-man Police Reserve (embryo of JSDF)."
+      },
+      {
+        "year": "1950",
+        "titleJa": "朝鮮特需・レッドパージ",
+        "titleEn": "Korean War Procurement Boom & Red Purge",
+        "descriptionJa": "米軍の物資調達（特需）により日本経済が奇跡的急回復。共産党員1万人以上の公職追放を断行。",
+        "descriptionEn": "War procurement ignited economic recovery; purged over 10,000 communist workers from public posts."
+      },
+      {
+        "year": "1951",
+        "titleJa": "サンフランシスコ平和条約 & 日米安保条約調印",
+        "titleEn": "San Francisco Peace Treaty & US-Japan Security Treaty",
+        "descriptionJa": "世界48カ国と平和条約を締結し日本の主権回復と国際社会復帰を達成。米軍駐留を認める旧安保条約に調印。",
+        "descriptionEn": "Signed peace treaty restoring national sovereignty and security treaty establishing US alliance."
       }
     ],
     "sources": [
@@ -4216,11 +4867,25 @@ export const japanPrimeMinisters: Leader[] = [
     ],
     "keyEvents": [
       {
+        "year": "1952",
+        "titleJa": "主権回復・平和条約発効・血のメーデー事件",
+        "titleEn": "Restoration of Sovereignty & \"Bloody May Day\"",
+        "descriptionJa": "4月28日平和条約が発効しGHQ占領終結。皇居前広場で警察とデモ隊が衝突（死者2名・負傷者数百名）。",
+        "descriptionEn": "San Francisco treaty took effect, ending 7-year occupation; violent clashes erupted on Bloody May Day."
+      },
+      {
         "year": "1953",
-        "titleJa": "第5次吉田内閣 発足",
-        "titleEn": "Inauguration of 5th Yoshida Cabinet",
-        "descriptionJa": "1953-05-21、天皇より大命降下を受け組閣を執行。",
-        "descriptionEn": "Formally assumed office following imperial appointment on 1953-05-21."
+        "titleJa": "テレビ本放送開始・バカヤロー解散",
+        "titleEn": "TV Broadcasting Begins & \"Bakayaro\" Dissolution",
+        "descriptionJa": "NHKテレビ本放送開始。国会答弁で右派社会党西村栄一に「バカヤロー」とつぶやき解散に発展。",
+        "descriptionEn": "First regular TV broadcast launched; heated Diet floor remark triggered snap general election."
+      },
+      {
+        "year": "1954",
+        "titleJa": "第五福竜丸被爆事件・自衛隊創設・造船疑獄",
+        "titleEn": "Lucky Dragon No. 5 Bikini Fall-Out & JSDF Founded",
+        "descriptionJa": "ビキニ環礁水爆実験でマグロ漁船被爆。防衛庁設置法・自衛隊法成立。造船疑獄で政権退陣。",
+        "descriptionEn": "Fishermen irradiated in US H-bomb test; created modern Self-Defense Forces; fell over shipbuilding scandal."
       }
     ],
     "sources": [
@@ -4300,10 +4965,17 @@ export const japanPrimeMinisters: Leader[] = [
     "keyEvents": [
       {
         "year": "1954",
-        "titleJa": "第1次鳩山一郎内閣 発足",
-        "titleEn": "Inauguration of 1st Hatoyama Ichiro Cabinet",
-        "descriptionJa": "1954-12-10、天皇より大命降下を受け組閣を執行。",
-        "descriptionEn": "Formally assumed office following imperial appointment on 1954-12-10."
+        "titleJa": "日本民主党結党・第1次鳩山内閣発足",
+        "titleEn": "Japan Democratic Party Founded & 1st Hatoyama Cabinet",
+        "descriptionJa": "吉田ワンマン体制を批判する反吉田勢力が結集し民主党を結成。首相指名を受け組閣。",
+        "descriptionEn": "Anti-Yoshida conservative coalition formed Democratic Party and captured premiership."
+      },
+      {
+        "year": "1955",
+        "titleJa": "左右社会党の再統一",
+        "titleEn": "Reunification of Japan Socialist Party",
+        "descriptionJa": "サンフランシスコ講和を巡り分裂していた左派・右派社会党が合同し統一社会党を結成。",
+        "descriptionEn": "Left and Right Socialist parties reunited into a single potent parliamentary opposition bloc."
       }
     ],
     "sources": [
@@ -4383,10 +5055,17 @@ export const japanPrimeMinisters: Leader[] = [
     "keyEvents": [
       {
         "year": "1955",
-        "titleJa": "第2次鳩山一郎内閣 発足",
-        "titleEn": "Inauguration of 2nd Hatoyama Ichiro Cabinet",
-        "descriptionJa": "1955-03-19、天皇より大命降下を受け組閣を執行。",
-        "descriptionEn": "Formally assumed office following imperial appointment on 1955-03-19."
+        "titleJa": "自由民主党結党（保守合同・55年体制確立）",
+        "titleEn": "Liberal Democratic Party Founded (1955 System)",
+        "descriptionJa": "自由党と日本民主党が歴史的合流（保守合同）。自民党が単独過半数を占め55年体制が誕生。",
+        "descriptionEn": "Historic conservative merger created Liberal Democratic Party (LDP), founding the 1955 System."
+      },
+      {
+        "year": "1955",
+        "titleJa": "神武景気の開幕",
+        "titleEn": "Start of Jinmu Economic Boom",
+        "descriptionJa": "神武天皇以来の未曾有の好景気と呼ばれ、高度経済成長が本格的に幕開け。三種の神器（白黒テレビ・洗濯機・冷蔵庫）普及。",
+        "descriptionEn": "Historic economic expansion initiated Japan's post-war miracle; consumer appliance revolution began."
       }
     ],
     "sources": [
@@ -4465,11 +5144,25 @@ export const japanPrimeMinisters: Leader[] = [
     ],
     "keyEvents": [
       {
-        "year": "1955",
-        "titleJa": "第3次鳩山一郎内閣（自民党結党・国連加盟） 発足",
-        "titleEn": "Inauguration of 3rd Hatoyama Ichiro Cabinet",
-        "descriptionJa": "1955-11-22、天皇より大命降下を受け組閣を執行。",
-        "descriptionEn": "Formally assumed office following imperial appointment on 1955-11-22."
+        "year": "1956",
+        "titleJa": "日ソ共同宣言調印（国交回復・北方領土交渉）",
+        "titleEn": "Soviet-Japanese Joint Declaration Signed",
+        "descriptionJa": "鳩山自らモスクワを訪問しフルシチョフと調印。戦争状態を終結させ外交関係を回復。シベリア抑留者帰還実現。",
+        "descriptionEn": "PM Hatoyama visited Moscow to sign joint declaration ending state of war and repatriating POWs."
+      },
+      {
+        "year": "1956",
+        "titleJa": "国際連合（UN）加盟承認（国際社会への完全復帰）",
+        "titleEn": "Japan Joins the United Nations",
+        "descriptionJa": "国連総会で全会一致で第80番目の加盟国として承認。重光外相演説「日本は世界の架け橋となる」。",
+        "descriptionEn": "Unanimously admitted as 80th member state of the UN, completing post-war international integration."
+      },
+      {
+        "year": "1956",
+        "titleJa": "経済白書「もはや戦後ではない」",
+        "titleEn": "Economic White Paper: \"No Longer Post-War\"",
+        "descriptionJa": "戦後復興の完了と技術革新による自律的経済成長時代の到来を宣言。鳩山は公約達成し退陣。",
+        "descriptionEn": "Official government white paper proclaimed end of post-war era; Hatoyama retired after achieving goals."
       }
     ],
     "sources": [
@@ -4549,10 +5242,17 @@ export const japanPrimeMinisters: Leader[] = [
     "keyEvents": [
       {
         "year": "1956",
-        "titleJa": "石橋内閣 発足",
-        "titleEn": "Inauguration of Ishibashi Cabinet",
-        "descriptionJa": "1956-12-23、天皇より大命降下を受け組閣を執行。",
-        "descriptionEn": "Formally assumed office following imperial appointment on 1956-12-23."
+        "titleJa": "自民党総裁選劇的勝利・石橋内閣発足",
+        "titleEn": "Dramatic LDP Election Victory & Inauguration",
+        "descriptionJa": "岸信介を決勝投票で逆転破り総裁就任。「五大政策」（積極財政・完全雇用・日中貿易）を掲げる。",
+        "descriptionEn": "Won dramatic runoff for LDP presidency; advocated Keynesian fiscal stimulus and China trade."
+      },
+      {
+        "year": "1957",
+        "titleJa": "就任65日での脳梗塞発症と電撃辞任",
+        "titleEn": "Stroke After 65 Days & Principled Resignation",
+        "descriptionJa": "過労による脳梗塞で倒れ、「政治的良心に従う」としてわずか65日で潔く辞職。",
+        "descriptionEn": "Suffered stroke 65 days into office and stepped down immediately out of political integrity."
       }
     ],
     "sources": [
@@ -4632,10 +5332,17 @@ export const japanPrimeMinisters: Leader[] = [
     "keyEvents": [
       {
         "year": "1957",
-        "titleJa": "第1次岸内閣 発足",
-        "titleEn": "Inauguration of 1st Kishi Cabinet",
-        "descriptionJa": "1957-02-25、天皇より大命降下を受け組閣を執行。",
-        "descriptionEn": "Formally assumed office following imperial appointment on 1957-02-25."
+        "titleJa": "岸内閣発足・日米首脳会談（安保改定合意）",
+        "titleEn": "Inauguration & Eisenhower Summit on Treaty Revision",
+        "descriptionJa": "アイゼンハウアー米大統領とワシントンで会談。不平等な旧安保条約の対等改定交渉で合意。",
+        "descriptionEn": "Met President Eisenhower in Washington, securing agreement to renegotiate security treaty."
+      },
+      {
+        "year": "1957",
+        "titleJa": "国民年金法・国民健康保険法の準備着手",
+        "titleEn": "Preparations for Universal Pension & Healthcare",
+        "descriptionJa": "国民皆保険・国民皆年金制度の法制化に向け社会保障審議会を始動。",
+        "descriptionEn": "Initiated legislative framework for universal health insurance and national pensions."
       }
     ],
     "sources": [
@@ -4715,10 +5422,31 @@ export const japanPrimeMinisters: Leader[] = [
     "keyEvents": [
       {
         "year": "1958",
-        "titleJa": "第2次岸内閣（新安保改定・国民皆保険） 発足",
-        "titleEn": "Inauguration of 2nd Kishi Cabinet",
-        "descriptionJa": "1958-06-12、天皇より大命降下を受け組閣を執行。",
-        "descriptionEn": "Formally assumed office following imperial appointment on 1958-06-12."
+        "titleJa": "岩戸景気突入・東京タワー完成",
+        "titleEn": "Iwato Economic Boom & Tokyo Tower Completed",
+        "descriptionJa": "天の岩戸以来の大型好景気。高さ333mの総合電波塔「東京タワー」が芝公園に完成。",
+        "descriptionEn": "Massive consumer boom; Tokyo Tower (333m) completed as symbol of post-war rebirth."
+      },
+      {
+        "year": "1959",
+        "titleJa": "皇太子明仁親王御成婚（ミッチー・ブーム）",
+        "titleEn": "Royal Wedding of Crown Prince Akihito",
+        "descriptionJa": "民間出身の正田美智子さまと御成婚。テレビ受像機が家庭に爆発的普及。",
+        "descriptionEn": "Crown Prince married commoner Michiko Shoda, sparking television sales boom."
+      },
+      {
+        "year": "1959",
+        "titleJa": "伊勢湾台風襲来（死者行方不明5098名）",
+        "titleEn": "Isewan Typhoon Disaster (5,098 dead)",
+        "descriptionJa": "超大型台風が高潮を伴い東海地方を直撃。明治以降最悪の風水害被害。災害対策基本法制定へ。",
+        "descriptionEn": "Deadliest storm surge disaster in modern Japanese history led to Basic Disaster Management Act."
+      },
+      {
+        "year": "1960",
+        "titleJa": "新日米安保条約調印 & 60年安保闘争大激化",
+        "titleEn": "New Security Treaty Signed & 1960 Anpo Protests",
+        "descriptionJa": "ワシントンで新安保条約調印。自民党単独強行採決に国会周辺で数十万人のデモ隊（樺美智子さん死亡）。条約自然成立後に辞任。",
+        "descriptionEn": "Signed revised treaty; Diet forced passage sparked massive protests toppling Kishi cabinet."
       }
     ],
     "sources": [
@@ -4798,10 +5526,17 @@ export const japanPrimeMinisters: Leader[] = [
     "keyEvents": [
       {
         "year": "1960",
-        "titleJa": "第1次池田内閣 発足",
-        "titleEn": "Inauguration of 1st Ikeda Cabinet",
-        "descriptionJa": "1960-07-19、天皇より大命降下を受け組閣を執行。",
-        "descriptionEn": "Formally assumed office following imperial appointment on 1960-07-19."
+        "titleJa": "池田内閣発足・「寛容と忍耐」「所得倍増計画」",
+        "titleEn": "Inauguration: \"Tolerance & Patience\" & Income Doubling",
+        "descriptionJa": "安保の対立から経済成長へ舵を切り、10年で国民所得を2倍にする国民所得倍増計画を発表。",
+        "descriptionEn": "Shifted national focus from security conflict to economic growth with 10-year Income Doubling Plan."
+      },
+      {
+        "year": "1960",
+        "titleJa": "浅沼稲次郎社会党委員長 刺殺事件",
+        "titleEn": "Assassination of Inejiro Asanuma",
+        "descriptionJa": "日比谷公会堂の立会演説会で17歳の右翼少年山口二矢に刺殺される（テレビ生中継）。",
+        "descriptionEn": "Socialist Party leader was assassinated by a 17-year-old ultra-nationalist during a live TV debate."
       }
     ],
     "sources": [
@@ -4880,11 +5615,25 @@ export const japanPrimeMinisters: Leader[] = [
     ],
     "keyEvents": [
       {
-        "year": "1960",
-        "titleJa": "第2次池田内閣（所得倍増計画推進） 発足",
-        "titleEn": "Inauguration of 2nd Ikeda Cabinet",
-        "descriptionJa": "1960-12-08、天皇より大命降下を受け組閣を執行。",
-        "descriptionEn": "Formally assumed office following imperial appointment on 1960-12-08."
+        "year": "1961",
+        "titleJa": "国民皆保険・国民皆年金達成・農業基本法",
+        "titleEn": "Universal Healthcare & Pension Achieved",
+        "descriptionJa": "全国民が公的医療保険と公的年金に加入する社会保障大国へ。農業基本法を制定。",
+        "descriptionEn": "Achieved universal health insurance and national pensions coverage for all citizens."
+      },
+      {
+        "year": "1962",
+        "titleJa": "日中LT貿易協定調印",
+        "titleEn": "Sino-Japanese LT Trade Agreement",
+        "descriptionJa": "高碕達之助と廖承志が準政府間覚書に調印。国交断絶下の中国と経済交流再開。",
+        "descriptionEn": "Opened quasi-governmental trade channel with Beijing despite lack of formal diplomatic ties."
+      },
+      {
+        "year": "1963",
+        "titleJa": "三井三池炭鉱炭じん爆発（458名死亡） & 鶴見事故（161名死亡）",
+        "titleEn": "Miike Mine Explosion & Tsurumi Train Crash",
+        "descriptionJa": "11月9日同日に福岡で戦後最悪の炭鉱事故と横浜で国鉄多重列車衝突事故が発生。",
+        "descriptionEn": "Twin disasters on the same day: coal mine dust explosion in Kyushu and triple train crash in Yokohama."
       }
     ],
     "sources": [
@@ -4963,11 +5712,25 @@ export const japanPrimeMinisters: Leader[] = [
     ],
     "keyEvents": [
       {
-        "year": "1963",
-        "titleJa": "第3次池田内閣（東京五輪開催） 発足",
-        "titleEn": "Inauguration of 3rd Ikeda Cabinet",
-        "descriptionJa": "1963-12-09、天皇より大命降下を受け組閣を執行。",
-        "descriptionEn": "Formally assumed office following imperial appointment on 1963-12-09."
+        "year": "1964",
+        "titleJa": "東海道新幹線開業（東京〜新大阪）",
+        "titleEn": "Tokaido Shinkansen Bullet Train Opens",
+        "descriptionJa": "10月1日、世界初の高速鉄道新幹線が営業運転開始（最高時速210km・4時間運転）。",
+        "descriptionEn": "World's first bullet train commenced operation between Tokyo and Osaka at 210 km/h."
+      },
+      {
+        "year": "1964",
+        "titleJa": "東京オリンピック開催（アジア初）",
+        "titleEn": "Tokyo 1964 Summer Olympic Games",
+        "descriptionJa": "10月10日国立競技場で開幕。日本選手団は金メダル16個（女子バレー「東洋の魔女」等）獲得。",
+        "descriptionEn": "First Olympic Games in Asia showcased post-war reconstruction; Japan won 16 gold medals."
+      },
+      {
+        "year": "1964",
+        "titleJa": "IMF8条国移行・OECD加盟（先進国入り・病気退陣）",
+        "titleEn": "OECD Membership & Advanced Nation Status",
+        "descriptionJa": "為替制限を撤廃しOECDに加盟。喉頭癌のため五輪閉会式翌日に退陣表明。",
+        "descriptionEn": "Joined the OECD as developed nation; resigned due to throat cancer following Olympic success."
       }
     ],
     "sources": [
@@ -5047,10 +5810,31 @@ export const japanPrimeMinisters: Leader[] = [
     "keyEvents": [
       {
         "year": "1964",
-        "titleJa": "第1次佐藤内閣 発足",
-        "titleEn": "Inauguration of 1st Sato Eisaku Cabinet",
-        "descriptionJa": "1964-11-09、天皇より大命降下を受け組閣を執行。",
-        "descriptionEn": "Formally assumed office following imperial appointment on 1964-11-09."
+        "titleJa": "佐藤内閣発足・「人間尊重」掲げる",
+        "titleEn": "1st Sato Cabinet: \"Respect for Humanity\"",
+        "descriptionJa": "池田の後継として組閣。実兄・岸信介に続く首相就任。社会開発と外交課題に着手。",
+        "descriptionEn": "Assumed premiership succeeding Ikeda, launching long tenure focusing on social policy and diplomacy."
+      },
+      {
+        "year": "1965",
+        "titleJa": "日韓基本条約締結（国交正常化）",
+        "titleEn": "Treaty on Basic Relations with South Korea",
+        "descriptionJa": "ソウルで調印。戦前の請求権問題を解決し韓国と国交を樹立。",
+        "descriptionEn": "Normalized diplomatic ties with the Republic of Korea, resolving property claim agreements."
+      },
+      {
+        "year": "1965",
+        "titleJa": "いざなぎ景気突入（57ヶ月連続成長）",
+        "titleEn": "Izanagi Economic Boom Begins",
+        "descriptionJa": "戦後最長（当時）の57ヶ月連続好況。3C（カラーテレビ・クーラー・自動車）普及。",
+        "descriptionEn": "Sustained 57-month economic boom; widespread adoption of the \"3 Cs\" (color TV, cooler/AC, cars)."
+      },
+      {
+        "year": "1966",
+        "titleJa": "ビートルズ来日公演（日本武道館）",
+        "titleEn": "The Beatles Concerts at Nippon Budokan",
+        "descriptionJa": "英ロックバンド「ザ・ビートルズ」が初来日公演。若者文化の歴史的転換点に。",
+        "descriptionEn": "The Beatles performed five historic concerts at the Nippon Budokan arena in Tokyo."
       }
     ],
     "sources": [
@@ -5130,10 +5914,45 @@ export const japanPrimeMinisters: Leader[] = [
     "keyEvents": [
       {
         "year": "1967",
-        "titleJa": "第2次佐藤内閣（小笠原返還・非核三原則） 発足",
-        "titleEn": "Inauguration of 2nd Sato Eisaku Cabinet",
-        "descriptionJa": "1967-02-17、天皇より大命降下を受け組閣を執行。",
-        "descriptionEn": "Formally assumed office following imperial appointment on 1967-02-17."
+        "titleJa": "非核三原則表明（持たず、作らず、持ち込ませず）",
+        "titleEn": "Three Non-Nuclear Principles Proclaimed",
+        "descriptionJa": "衆議院予算委員会で日本の国是として非核三原則を言明。",
+        "descriptionEn": "Formally stated national policy: not possessing, not producing, and not permitting nuclear weapons."
+      },
+      {
+        "year": "1968",
+        "titleJa": "小笠原諸島返還・日本のGNP世界第2位浮上",
+        "titleEn": "Ogasawara Islands Returned & GNP #2 in World",
+        "descriptionJa": "米統治下の小笠原諸島が日本に復帰。日本の国民総生産（GNP）が西ドイツを抜き資本主義国第2位へ。",
+        "descriptionEn": "Bonin Islands returned by US; Japan surpassed West Germany to become world's #2 economy."
+      },
+      {
+        "year": "1968",
+        "titleJa": "3億円事件発生（府中市・未解決迷宮入り）",
+        "titleEn": "300 Million Yen Robbery in Fuchu",
+        "descriptionJa": "白バイ警官に変装した犯人が東芝府中工場のボーナス輸送車を強奪。完全犯罪として時効成立。",
+        "descriptionEn": "Heist of Toshiba worker bonuses by fake motorcycle policeman became Japan's most famous cold case."
+      },
+      {
+        "year": "1969",
+        "titleJa": "東大安田講堂事件・全共闘運動ピーク",
+        "titleEn": "Tokyo University Yasuda Auditorium Siege",
+        "descriptionJa": "機動隊が安田講堂を封鎖解除。東大入試中止。大学紛争が全国で社会問題化。",
+        "descriptionEn": "Police riot squads cleared student barricades at Tokyo University; entrance exams canceled."
+      },
+      {
+        "year": "1970",
+        "titleJa": "日本万国博覧会（大阪万博・6421万人来場）",
+        "titleEn": "Expo '70 World's Fair in Osaka",
+        "descriptionJa": "「人類の進歩と調和」をテーマに千里丘陵で開催。岡本太郎「太陽の塔」・月の石展示が大ブーム。",
+        "descriptionEn": "First World Expo in Asia drew 64 million visitors, showcasing technological triumph and \"Tower of the Sun\"."
+      },
+      {
+        "year": "1970",
+        "titleJa": "よど号ハイジャック事件・三島由紀夫割腹事件",
+        "titleEn": "Yodogo Hijacking & Yukio Mishima Suicide",
+        "descriptionJa": "赤軍派が日航機を乗っ取り北朝鮮へ逃亡。作家三島由紀夫が市ヶ谷自衛隊東部方面総監部で割腹自決。",
+        "descriptionEn": "Red Army faction hijacked JAL plane to Pyongyang; author Yukio Mishima committed seppuku at military base."
       }
     ],
     "sources": [
@@ -5212,11 +6031,32 @@ export const japanPrimeMinisters: Leader[] = [
     ],
     "keyEvents": [
       {
-        "year": "1970",
-        "titleJa": "第3次佐藤内閣（沖縄返還達成） 発足",
-        "titleEn": "Inauguration of 3rd Sato Eisaku Cabinet",
-        "descriptionJa": "1970-01-14、天皇より大命降下を受け組閣を執行。",
-        "descriptionEn": "Formally assumed office following imperial appointment on 1970-01-14."
+        "year": "1971",
+        "titleJa": "ニクソン・ショック & 環境庁設置",
+        "titleEn": "Nixon Shock & Environment Agency Founded",
+        "descriptionJa": "金ドル交換停止による急激な円高。四大公害病対策のため環境庁を創設。",
+        "descriptionEn": "US suspended gold standard causing yen appreciation; established Environment Agency to combat pollution."
+      },
+      {
+        "year": "1972",
+        "titleJa": "あさま山荘事件（連合赤軍・生中継）",
+        "titleEn": "Asama-Sanso Hostage Crisis",
+        "descriptionJa": "長野県軽井沢で連合赤軍が人質立てこもり。鉄球作戦と銃撃戦が全国テレビ生中継（視聴率89.7%）。",
+        "descriptionEn": "Police siege of armed Red Army faction hostages in Karuizawa drew historic 89.7% television viewership."
+      },
+      {
+        "year": "1972",
+        "titleJa": "沖縄返還協定発効（沖縄本土復帰達成）",
+        "titleEn": "Okinawa Reversion to Japan Achieved",
+        "descriptionJa": "5月15日、27年におよぶ米軍施政権下から沖縄県が日本本土へ復帰。「核抜き・本土並み」を実現。",
+        "descriptionEn": "Okinawa returned to Japanese sovereignty on May 15 after 27 years of US post-war administration."
+      },
+      {
+        "year": "1974",
+        "titleJa": "佐藤元首相 ノーベル平和賞受賞",
+        "titleEn": "Nobel Peace Prize Awarded to Eisaku Sato",
+        "descriptionJa": "非核三原則の提唱と沖縄返還の達成が高く評価され、日本人初・アジア初の平和賞受賞。",
+        "descriptionEn": "Awarded Nobel Peace Prize for non-nuclear principles and peaceful diplomacy."
       }
     ],
     "sources": [
@@ -5296,10 +6136,17 @@ export const japanPrimeMinisters: Leader[] = [
     "keyEvents": [
       {
         "year": "1972",
-        "titleJa": "第1次田中角栄内閣（日中国交正常化） 発足",
-        "titleEn": "Inauguration of 1st Tanaka Kakuei Cabinet",
-        "descriptionJa": "1972-07-07、天皇より大命降下を受け組閣を執行。",
-        "descriptionEn": "Formally assumed office following imperial appointment on 1972-07-07."
+        "titleJa": "田中内閣発足・『日本列島改造論』ブーム",
+        "titleEn": "Inauguration & \"Building a New Japan\" Plan",
+        "descriptionJa": "「今太閤」「コンピュータ付きブルドーザー」田中角栄が就任。新幹線・高速道路網建設ブーム。",
+        "descriptionEn": "Tanaka took office with bestselling plan to modernize rural infrastructure with bullet trains and highways."
+      },
+      {
+        "year": "1972",
+        "titleJa": "日中国交正常化（北京訪問・日中共同声明調印）",
+        "titleEn": "Normalization of Relations with PR China",
+        "descriptionJa": "北京で毛沢東主席・周恩来首相と会談し日中共同声明に調印。日華平和条約を破棄し国交正常化。",
+        "descriptionEn": "Traveled to Beijing and signed historic Joint Communiqué normalizing diplomatic ties with China."
       }
     ],
     "sources": [
@@ -5378,11 +6225,25 @@ export const japanPrimeMinisters: Leader[] = [
     ],
     "keyEvents": [
       {
-        "year": "1972",
-        "titleJa": "第2次田中角栄内閣（列島改造論） 発足",
-        "titleEn": "Inauguration of 2nd Tanaka Kakuei Cabinet",
-        "descriptionJa": "1972-12-22、天皇より大命降下を受け組閣を執行。",
-        "descriptionEn": "Formally assumed office following imperial appointment on 1972-12-22."
+        "year": "1973",
+        "titleJa": "第1次オイルショック（石油危機・狂乱物価）",
+        "titleEn": "First Oil Crisis & Panic Buying",
+        "descriptionJa": "第四次中東戦争で原油価格高騰。トイレットペーパー買い占め騒動・狂乱物価（インフレ率23%）。高度成長終焉。",
+        "descriptionEn": "OPEC oil embargo sparked hyperinflation and panic buying, bringing an end to the High Growth Era."
+      },
+      {
+        "year": "1973",
+        "titleJa": "変動為替相場制へ完全移行",
+        "titleEn": "Transition to Floating Exchange Rates",
+        "descriptionJa": "スミソニアン体制崩壊により1ドル=308円から市場変動相場制へ移行。",
+        "descriptionEn": "Abolished fixed currency peg, transitioning the Japanese yen into a floating market rate."
+      },
+      {
+        "year": "1974",
+        "titleJa": "文藝春秋「田中角栄研究」金脈追及で総辞職",
+        "titleEn": "Bungeishunju Financial Expose & Resignation",
+        "descriptionJa": "立花隆の調査報道により幽霊会社・土地転がし等の金脈問題が発覚。世論の追及を受け退陣。",
+        "descriptionEn": "Investigative journalism by Takashi Tachibana exposed massive money politics networks, forcing resignation."
       }
     ],
     "sources": [
@@ -5462,10 +6323,24 @@ export const japanPrimeMinisters: Leader[] = [
     "keyEvents": [
       {
         "year": "1974",
-        "titleJa": "三木内閣（政治浄化・防衛費1%枠） 発足",
-        "titleEn": "Inauguration of Miki Cabinet",
-        "descriptionJa": "1974-12-09、天皇より大命降下を受け組閣を執行。",
-        "descriptionEn": "Formally assumed office following imperial appointment on 1974-12-09."
+        "titleJa": "「クリーン三木」内閣発足（椎名裁定）",
+        "titleEn": "Miki \"Clean Politics\" Cabinet (Shiina Ruling)",
+        "descriptionJa": "党内長老椎名悦三郎の裁定により少数派閥の三木武夫が金権政治打破を掲げ首相就任。",
+        "descriptionEn": "Appointed prime minister via mediation to restore public trust following Tanaka money scandals."
+      },
+      {
+        "year": "1975",
+        "titleJa": "第1回主要国首脳会議（ランブイエ・サミット）出席",
+        "titleEn": "First G6 Summit in Rambouillet",
+        "descriptionJa": "フランス・ランブイエで開催された第1回先進国首脳会議に出席。アジア唯一の首脳として参加。",
+        "descriptionEn": "Attended the inaugural summit of major industrialized democracies in France."
+      },
+      {
+        "year": "1976",
+        "titleJa": "ロッキード事件発覚・田中前首相逮捕",
+        "titleEn": "Lockheed Bribery Scandal & Arrest of Former PM",
+        "descriptionJa": "米議会証言から航空機納入汚職が発覚。東京地検特捜部が田中角栄前首相を逮捕。「三木おろし」で退陣。",
+        "descriptionEn": "Aviation bribery scandal led to arrest of former PM Tanaka Kakuei; party rebellion forced Miki out."
       }
     ],
     "sources": [
@@ -5544,11 +6419,25 @@ export const japanPrimeMinisters: Leader[] = [
     ],
     "keyEvents": [
       {
-        "year": "1976",
-        "titleJa": "福田赳夫内閣（日中平和友好条約・福田ドクトリン） 発足",
-        "titleEn": "Inauguration of Fukuda Takeo Cabinet",
-        "descriptionJa": "1976-12-24、天皇より大命降下を受け組閣を執行。",
-        "descriptionEn": "Formally assumed office following imperial appointment on 1976-12-24."
+        "year": "1977",
+        "titleJa": "ダッカ日航機ハイジャック事件（超法規的措置）",
+        "titleEn": "Dacca JAL Hijacking (Extra-Legal Release)",
+        "descriptionJa": "日本赤軍がバングラデシュ・ダッカで日航機を乗っ取り。「人命は地球より重い」と身代金支払い・獄中者釈放。",
+        "descriptionEn": "Japanese Red Army hijacked jetliner; PM Fukuda paid $6M ransom and freed prisoners citing human life supremacy."
+      },
+      {
+        "year": "1977",
+        "titleJa": "福田ドクトリン発表（東南アジア外交方針）",
+        "titleEn": "Fukuda Doctrine on Southeast Asian Diplomacy",
+        "descriptionJa": "マニラ演説で「軍事大国にならない」「ASEAN諸国と心と心の触れ合う信頼関係」を誓約。",
+        "descriptionEn": "Pledged Japan would never become a military superpower and vowed heart-to-heart partnership with ASEAN."
+      },
+      {
+        "year": "1978",
+        "titleJa": "日中平和友好条約調印 & 新東京国際空港（成田空港）開港",
+        "titleEn": "Sino-Japanese Peace Treaty & Narita Airport Opens",
+        "descriptionJa": "日中平和友好条約調印（鄧小平副首相来日）。成田空港激しい反対闘争を越えて開港。",
+        "descriptionEn": "Signed Treaty of Peace and Friendship with China; opened Narita International Airport despite violent protests."
       }
     ],
     "sources": [
@@ -5628,10 +6517,17 @@ export const japanPrimeMinisters: Leader[] = [
     "keyEvents": [
       {
         "year": "1978",
-        "titleJa": "第1次大平内閣 発足",
-        "titleEn": "Inauguration of 1st Ohira Cabinet",
-        "descriptionJa": "1978-12-07、天皇より大命降下を受け組閣を執行。",
-        "descriptionEn": "Formally assumed office following imperial appointment on 1978-12-07."
+        "titleJa": "第1次大平内閣発足・「田園都市国家構想」",
+        "titleEn": "1st Ohira Cabinet: \"Garden City State Concept\"",
+        "descriptionJa": "自民党総裁予備選で福田を破り就任。都市と地方の調和を目指す田園都市国家構想を提唱。",
+        "descriptionEn": "Defeated Fukuda in primary; promoted integrated urban-rural regional development."
+      },
+      {
+        "year": "1979",
+        "titleJa": "第2次オイルショック & 東京サミット開催",
+        "titleEn": "Second Oil Crisis & 5th G7 Summit in Tokyo",
+        "descriptionJa": "イラン革命に伴う原油高騰。アジアで初となる主要国首脳会議（第5回サミット）を赤坂迎賓館で開催。",
+        "descriptionEn": "Second global oil shock hit; hosted the first G7 Summit in Asia at Akasaka Palace."
       }
     ],
     "sources": [
@@ -5711,10 +6607,17 @@ export const japanPrimeMinisters: Leader[] = [
     "keyEvents": [
       {
         "year": "1979",
-        "titleJa": "第2次大平内閣（環太平洋連帯構想） 発足",
-        "titleEn": "Inauguration of 2nd Ohira Cabinet",
-        "descriptionJa": "1979-11-09、天皇より大命降下を受け組閣を執行。",
-        "descriptionEn": "Formally assumed office following imperial appointment on 1979-11-09."
+        "titleJa": "一般消費税導入構想と第35回総選挙苦戦",
+        "titleEn": "General Consumption Tax Proposal & Diet Slump",
+        "descriptionJa": "財政再建のため消費税導入を打ち出すも総選挙で自民党過半数割れ。党内四十日抗争へ突入。",
+        "descriptionEn": "Proposed consumption tax, leading to parliamentary election setbacks and bitter intra-party power struggle."
+      },
+      {
+        "year": "1980",
+        "titleJa": "ハプニング解散 & 衆参同日選挙中の現職急死",
+        "titleEn": "Happening Dissolution & Sudden Death During Campaign",
+        "descriptionJa": "反主流派欠席で内閣不信任案可決（ハプニング解散）。史上初の衆参同日選挙遊説中に心筋梗塞で急逝。自民大勝。",
+        "descriptionEn": "Opposition passed no-confidence motion; Ohira died of heart attack during historic dual elections."
       }
     ],
     "sources": [
@@ -5794,10 +6697,24 @@ export const japanPrimeMinisters: Leader[] = [
     "keyEvents": [
       {
         "year": "1980",
-        "titleJa": "鈴木善幸内閣（増税なき財政再建・土光臨調） 発足",
-        "titleEn": "Inauguration of Suzuki Zenko Cabinet",
-        "descriptionJa": "1980-07-17、天皇より大命降下を受け組閣を執行。",
-        "descriptionEn": "Formally assumed office following imperial appointment on 1980-07-17."
+        "titleJa": "鈴木内閣発足・「和の政治」",
+        "titleEn": "Suzuki Cabinet: \"Politics of Harmony\"",
+        "descriptionJa": "大平急死後の同日選圧勝を受け総裁就任。「増税なき財政再建」を公約。",
+        "descriptionEn": "Succeeded Ohira following election victory, pledging fiscal reconstruction without tax hikes."
+      },
+      {
+        "year": "1981",
+        "titleJa": "第二次臨時行政調査会（土光臨調）発足",
+        "titleEn": "Second Doko Administrative Reform Council",
+        "descriptionJa": "土光敏夫経団連名誉会長をトップに「行革のメス」を振るい国鉄・電電・専売三公社の民営化答申へ。",
+        "descriptionEn": "Launched sweeping administrative reform commission recommending privatization of state monopolies."
+      },
+      {
+        "year": "1982",
+        "titleJa": "ホテルニュージャパン火災（33名死亡） & 日航機羽田沖墜落事故",
+        "titleEn": "Hotel New Japan Fire & JAL Flight 350 Crash",
+        "descriptionJa": "赤坂の高級ホテルで火災報知器不作動による惨事。羽田沖で機長の心身異常（逆噴射）により墜落（死者24名）。",
+        "descriptionEn": "Deadly Tokyo hotel fire disaster and JAL pilot thrust-reverser crash into Tokyo Bay."
       }
     ],
     "sources": [
@@ -5877,10 +6794,17 @@ export const japanPrimeMinisters: Leader[] = [
     "keyEvents": [
       {
         "year": "1982",
-        "titleJa": "第1次中曽根内閣 発足",
-        "titleEn": "Inauguration of 1st Nakasone Cabinet",
-        "descriptionJa": "1982-11-27、天皇より大命降下を受け組閣を執行。",
-        "descriptionEn": "Formally assumed office following imperial appointment on 1982-11-27."
+        "titleJa": "中曽根内閣発足・「戦後政治の総決算」",
+        "titleEn": "1st Nakasone Cabinet: \"Settling Post-War Accounts\"",
+        "descriptionJa": "「風車の宰相」中曽根が就任。防衛力強化と三公社民営化・教育改革を宣言。",
+        "descriptionEn": "Launched conservative reform agenda aiming to settle post-war accounts and privatize state monopolies."
+      },
+      {
+        "year": "1983",
+        "titleJa": "日米共同声明（「ロン＝ヤス関係」「不沈空母」発言）",
+        "titleEn": "Ron-Yasu Relationship & Strategic Alliance",
+        "descriptionJa": "レーガン米大統領と親密な首脳外交を展開。「日米同盟は運命共同体」と表明。",
+        "descriptionEn": "Formed historic personal friendship with Ronald Reagan, strengthening bilateral military alliance."
       }
     ],
     "sources": [
@@ -5959,11 +6883,39 @@ export const japanPrimeMinisters: Leader[] = [
     ],
     "keyEvents": [
       {
-        "year": "1983",
-        "titleJa": "第2次中曽根内閣（電電・専売民営化） 発足",
-        "titleEn": "Inauguration of 2nd Nakasone Cabinet",
-        "descriptionJa": "1983-12-27、天皇より大命降下を受け組閣を執行。",
-        "descriptionEn": "Formally assumed office following imperial appointment on 1983-12-27."
+        "year": "1984",
+        "titleJa": "グリコ・森永事件発生（かい人21面相）",
+        "titleEn": "Glico Morinaga Corporate Extortion Case",
+        "descriptionJa": "江崎グリコ社長誘拐から食品企業への青酸ソーダ入り菓子脅迫が連続発生。劇場型犯罪として未解決。",
+        "descriptionEn": "Mysterious \"Monster with 21 Faces\" terrorized major confectioners with poison candy blackmail."
+      },
+      {
+        "year": "1985",
+        "titleJa": "電電公社（NTT）・専売公社（JT）民営化",
+        "titleEn": "Privatization of NTT and Japan Tobacco",
+        "descriptionJa": "日本電信電話株式会社（NTT）と日本たばこ産業（JT）が民営株式会社として発足。",
+        "descriptionEn": "Successfully transformed state telecommunications and tobacco monopolies into private corporations."
+      },
+      {
+        "year": "1985",
+        "titleJa": "プラザ合意調印（円高進行・バブル経済の起点）",
+        "titleEn": "Plaza Accord Signed (Rapid Yen Surge)",
+        "descriptionJa": "ニューヨーク・プラザホテルでG5蔵相会議合意。1ドル=240円台から1年で150円台へ急激な円高。",
+        "descriptionEn": "G5 accord orchestrated orderly dollar depreciation, triggering dramatic surge of Japanese yen."
+      },
+      {
+        "year": "1985",
+        "titleJa": "日航機123便墜落事故（群馬県御巣鷹山・死者520名）",
+        "titleEn": "JAL Flight 123 Crash (520 dead)",
+        "descriptionJa": "8月12日、羽田発伊丹行きジャンボ機が後部圧力隔壁破損により迷走し墜落。単独機史上最悪の航空惨事。",
+        "descriptionEn": "Boeing 747 crashed into Mount Osutaka, killing 520 in the deadliest single-aircraft accident in history."
+      },
+      {
+        "year": "1986",
+        "titleJa": "衆参同日選挙大勝（死んだふり解散）",
+        "titleEn": "Landslide Double Election Victory",
+        "descriptionJa": "自民党が衆議院304議席の歴史的大勝。中曽根総裁任期1年延長。",
+        "descriptionEn": "Secured landslide 304 seats in lower house, extending Nakasone's term as prime minister."
       }
     ],
     "sources": [
@@ -6042,11 +6994,18 @@ export const japanPrimeMinisters: Leader[] = [
     ],
     "keyEvents": [
       {
-        "year": "1986",
-        "titleJa": "第3次中曽根内閣（国鉄民営化・JR発足） 発足",
-        "titleEn": "Inauguration of 3rd Nakasone Cabinet",
-        "descriptionJa": "1986-07-22、天皇より大命降下を受け組閣を執行。",
-        "descriptionEn": "Formally assumed office following imperial appointment on 1986-07-22."
+        "year": "1987",
+        "titleJa": "日本国有鉄道（国鉄）分割民営化（JR発足）",
+        "titleEn": "Privatization of Japan National Railways (JR Group)",
+        "descriptionJa": "4月1日、巨額累積赤字を抱えた国鉄がJR7社（JR東日本・東海・西日本等）に分割民営化。",
+        "descriptionEn": "Dissolved massive loss-making JNR into seven regional private Japan Railways (JR) companies."
+      },
+      {
+        "year": "1987",
+        "titleJa": "バブル経済突入（地価・株価急騰）",
+        "titleEn": "Bubble Economy Era Begins",
+        "descriptionJa": "超低金利と円高不況対策マネーが不動産・株式に流入し「バブル景気」が本格化。",
+        "descriptionEn": "Ultra-loose monetary policy spurred explosive speculation in real estate and stock markets."
       }
     ],
     "sources": [
@@ -6126,10 +7085,38 @@ export const japanPrimeMinisters: Leader[] = [
     "keyEvents": [
       {
         "year": "1987",
-        "titleJa": "竹下内閣（消費税導入・平成改元） 発足",
-        "titleEn": "Inauguration of Takeshita Cabinet",
-        "descriptionJa": "1987-11-06、天皇より大命降下を受け組閣を執行。",
-        "descriptionEn": "Formally assumed office following imperial appointment on 1987-11-06."
+        "titleJa": "竹下内閣発足・「ふるさと創生」",
+        "titleEn": "Takeshita Cabinet: \"Hometown Revitalization\"",
+        "descriptionJa": "自民党最大派閥「経世会」を率いる竹下が就任。全国自治体に一律1億円を配分する事業を展開。",
+        "descriptionEn": "Assumed office granting 100 million yen grants to every local municipality for revitalization."
+      },
+      {
+        "year": "1988",
+        "titleJa": "青函トンネル・瀬戸大橋開通",
+        "titleEn": "Seikan Tunnel & Seto Ohashi Bridges Open",
+        "descriptionJa": "本州と北海道を結ぶ世界最長の海底トンネル（53.8km）と本州四国連絡橋が相次いで開通。",
+        "descriptionEn": "Opened world's longest undersea railway tunnel and landmark bridge network linking Shikoku."
+      },
+      {
+        "year": "1988",
+        "titleJa": "リクルート事件発覚（未公開株汚職）",
+        "titleEn": "Recruit Stocks Bribery Scandal",
+        "descriptionJa": "リクルートコスモス未公開株が政界・官界有力者に広範に譲渡されていたことが発覚。",
+        "descriptionEn": "Massive pre-flotation stock bribery scandal engulfed leading politicians and bureaucrats."
+      },
+      {
+        "year": "1989",
+        "titleJa": "昭和天皇崩御・「平成」改元",
+        "titleEn": "Passing of Showa Emperor & Heisei Era Begins",
+        "descriptionJa": "1月7日昭和天皇崩御（在位62年）。皇太子明仁親王が即位し「平成」へ改元。",
+        "descriptionEn": "Emperor Hirohito passed away; Emperor Akihito ascended the throne, beginning the Heisei era."
+      },
+      {
+        "year": "1989",
+        "titleJa": "消費税（税率3%）導入・竹下内閣総辞職",
+        "titleEn": "3% Consumption Tax Enacted & Resignation",
+        "descriptionJa": "4月1日、念願の消費税（3%）を初導入。リクルート事件の国民的批判を受け引責辞任。",
+        "descriptionEn": "Implemented Japan's first nationwide 3% sales tax; resigned over Recruit scandal."
       }
     ],
     "sources": [
@@ -6209,10 +7196,17 @@ export const japanPrimeMinisters: Leader[] = [
     "keyEvents": [
       {
         "year": "1989",
-        "titleJa": "宇野内閣 発足",
-        "titleEn": "Inauguration of Uno Cabinet",
-        "descriptionJa": "1989-06-03、天皇より大命降下を受け組閣を執行。",
-        "descriptionEn": "Formally assumed office following imperial appointment on 1989-06-03."
+        "titleJa": "宇野内閣発足 & 天安門事件（中国）",
+        "titleEn": "Uno Cabinet & Tiananmen Square Protests in China",
+        "descriptionJa": "外相から首相に昇格。北京で天安門事件が発生し日本政府は対中借款凍結。",
+        "descriptionEn": "Appointed from foreign minister; Beijing crushed student democracy protests in Tiananmen Square."
+      },
+      {
+        "year": "1989",
+        "titleJa": "女性問題スキャンダル & 参院選惨敗による退陣（69日）",
+        "titleEn": "Sex Scandal & Historic Upper House Defeat (69 Days)",
+        "descriptionJa": "週刊誌報道による女性スキャンダルと消費税・リクルート批判で第15回参院選歴史的大敗。69日で辞任。",
+        "descriptionEn": "Geisha bribery scandal and voter backlash led to crushing Upper House defeat, forcing resignation in 69 days."
       }
     ],
     "sources": [
@@ -6292,10 +7286,24 @@ export const japanPrimeMinisters: Leader[] = [
     "keyEvents": [
       {
         "year": "1989",
-        "titleJa": "第1次海部内閣 発足",
-        "titleEn": "Inauguration of 1st Kaifu Cabinet",
-        "descriptionJa": "1989-08-10、天皇より大命降下を受け組閣を執行。",
-        "descriptionEn": "Formally assumed office following imperial appointment on 1989-08-10."
+        "titleJa": "海部内閣発足・クリーンイメージ",
+        "titleEn": "1st Kaifu Cabinet: Clean Image",
+        "descriptionJa": "リクルート事件で主要領袖が資格喪失の中、青年派の海部俊樹が首相就任。",
+        "descriptionEn": "Elected as clean-cut reform leader following scandals to restore party image."
+      },
+      {
+        "year": "1989",
+        "titleJa": "ベルリンの壁崩壊 & 日経平均株価史上最高値（38,915円）",
+        "titleEn": "Fall of Berlin Wall & Nikkei Peak (38,915 JPY)",
+        "descriptionJa": "冷戦終結を象徴する壁崩壊。12月29日大納会で株価は史上最高値38,915円87銭を記録（バブル頂点）。",
+        "descriptionEn": "Berlin Wall fell; on Dec 29, Nikkei 225 surged to all-time peak of 38,915 points."
+      },
+      {
+        "year": "1990",
+        "titleJa": "第39回総選挙 自民党単独過半数維持",
+        "titleEn": "39th General Election Victory",
+        "descriptionJa": "自民党が衆院275議席を獲得し安定多数を確保。海部が信任を獲得。",
+        "descriptionEn": "Secured stable 275-seat majority in lower house elections, winning public mandate."
       }
     ],
     "sources": [
@@ -6375,10 +7383,31 @@ export const japanPrimeMinisters: Leader[] = [
     "keyEvents": [
       {
         "year": "1990",
-        "titleJa": "第2次海部内閣（自衛隊初の海外実任務派遣） 発足",
-        "titleEn": "Inauguration of 2nd Kaifu Cabinet",
-        "descriptionJa": "1990-02-28、天皇より大命降下を受け組閣を執行。",
-        "descriptionEn": "Formally assumed office following imperial appointment on 1990-02-28."
+        "titleJa": "バブル崩壊の始まり（不動産融資総量規制）",
+        "titleEn": "Bursting of the Bubble Economy",
+        "descriptionJa": "大蔵省が不動産向け融資の総量規制を通達。地価・株価が急落しバブル崩壊局面へ。",
+        "descriptionEn": "Ministry of Finance capped real estate lending, triggering collapse of asset price bubble."
+      },
+      {
+        "year": "1990",
+        "titleJa": "東西ドイツ統一・天皇即位の礼",
+        "titleEn": "German Reunification & Imperial Enthronement",
+        "descriptionJa": "冷戦の東西ドイツが正式統一。東京で今上天皇の即位礼正殿の儀が挙行。",
+        "descriptionEn": "East and West Germany reunited; enthronement ceremonies celebrated for Emperor Akihito."
+      },
+      {
+        "year": "1991",
+        "titleJa": "湾岸戦争勃発（多国籍軍へ130億ドル拠出）",
+        "titleEn": "Gulf War (US $13B Support & Minesweepers)",
+        "descriptionJa": "イラクのクウェート侵攻に多国籍軍が攻撃開始。日本は130億ドルの戦費を拠出、戦後初の自衛隊掃海艇をペルシャ湾へ派遣。",
+        "descriptionEn": "Contributed $13B to multinational coalition and dispatched JSDF minesweepers to Persian Gulf."
+      },
+      {
+        "year": "1991",
+        "titleJa": "雲仙普賢岳火砕流災害（死者行方不明43名）",
+        "titleEn": "Mount Unzen Pyroclastic Flow Disaster",
+        "descriptionJa": "長崎県島原市で大火砕流が発生。火山学者クラフト夫妻や報道関係者らが被災。",
+        "descriptionEn": "Volcanic eruption and pyroclastic surge in Nagasaki killed 43 journalists and volcanologists."
       }
     ],
     "sources": [
@@ -6458,10 +7487,31 @@ export const japanPrimeMinisters: Leader[] = [
     "keyEvents": [
       {
         "year": "1991",
-        "titleJa": "宮澤内閣（PKO協力法成立） 発足",
-        "titleEn": "Inauguration of Miyazawa Cabinet",
-        "descriptionJa": "1991-11-05、天皇より大命降下を受け組閣を執行。",
-        "descriptionEn": "Formally assumed office following imperial appointment on 1991-11-05."
+        "titleJa": "宮澤内閣発足 & ソビエト連邦崩壊（冷戦完全終結）",
+        "titleEn": "Miyazawa Cabinet & Collapse of the Soviet Union",
+        "descriptionJa": "保守本流・政策通の宮澤が就任。12月25日ソビエト連邦が解体消滅し冷戦が完全終結。",
+        "descriptionEn": "Veteran policy intellectual Miyazawa took office as USSR dissolved, officially ending the Cold War."
+      },
+      {
+        "year": "1992",
+        "titleJa": "PKO協力法成立（自衛隊カンボジア海外派遣）",
+        "titleEn": "PKO Cooperation Law & Cambodia JSDF Mission",
+        "descriptionJa": "国連平和維持活動（PKO）に自衛隊参加を認める法案が成立。カンボジアへ部隊初派遣。",
+        "descriptionEn": "Passed landmark law allowing JSDF peacekeepers to join UN mission in Cambodia."
+      },
+      {
+        "year": "1993",
+        "titleJa": "Jリーグ開幕（プロサッカーブーム）",
+        "titleEn": "J.League Professional Soccer Inauguration",
+        "descriptionJa": "日本初のプロサッカーリーグ「Jリーグ」が10クラブで開幕。社会現象的人気。",
+        "descriptionEn": "Japan's first professional soccer league commenced, creating massive nationwide sports boom."
+      },
+      {
+        "year": "1993",
+        "titleJa": "自民党分裂・不信任案可決（「嘘つき解散」・55年体制終焉）",
+        "titleEn": "LDP Split, No-Confidence Vote & Fall of 1955 System",
+        "descriptionJa": "小沢一郎・羽田孜らが自民党を離党。内閣不信任案が可決され総選挙で自民党が下野。",
+        "descriptionEn": "Party faction rebelled over political reform; lost no-confidence vote, ending 38 years of unbroken LDP rule."
       }
     ],
     "sources": [
@@ -6541,10 +7591,31 @@ export const japanPrimeMinisters: Leader[] = [
     "keyEvents": [
       {
         "year": "1993",
-        "titleJa": "細川内閣（非自民8党連立・小選挙区導入） 発足",
-        "titleEn": "Inauguration of Hosokawa Cabinet",
-        "descriptionJa": "1993-08-09、天皇より大命降下を受け組閣を執行。",
-        "descriptionEn": "Formally assumed office following imperial appointment on 1993-08-09."
+        "titleJa": "非自民8党派連立政権発足（38年ぶり政権交代）",
+        "titleEn": "Non-LDP 8-Party Coalition Cabinet (Historic Transition)",
+        "descriptionJa": "日本新党の細川護煕が首相就任。自民党結党以来38年間続いた一党優位体制を打破。",
+        "descriptionEn": "Morihiro Hosokawa formed historic broad coalition, taking power from LDP for first time since 1955."
+      },
+      {
+        "year": "1993",
+        "titleJa": "「平成の米騒動」（冷夏によるタイ米緊急輸入）",
+        "titleEn": "Heisei Rice Shortage & Emergency Imports",
+        "descriptionJa": "歴史的冷夏により東北・北海道の稲作が壊滅。スーパーで米が消えタイ米を緊急輸入。",
+        "descriptionEn": "Record cold summer ruined rice harvests, forcing emergency imports of long-grain Thai rice."
+      },
+      {
+        "year": "1994",
+        "titleJa": "政治改革四法成立（衆院小選挙区比例代表並立制導入）",
+        "titleEn": "Electoral Reform Laws (Single-Member Districts)",
+        "descriptionJa": "中選挙区制を廃止し、小選挙区（300議席）と比例代表（200議席）を組み合わせた新選挙制度を導入。",
+        "descriptionEn": "Enacted historic electoral reform creating single-member district system to encourage two-party democracy."
+      },
+      {
+        "year": "1994",
+        "titleJa": "国民福祉税構想挫折 & 佐川急便借入金問題で辞任",
+        "titleEn": "National Welfare Tax Reversal & Sudden Resignation",
+        "descriptionJa": "消費税7%への引き上げ発表が連立内与党の猛反発で撤回。佐川急便グループからの借入金追及を受け電撃辞任。",
+        "descriptionEn": "Controversial tax hike proposal collapsed; resigned suddenly over past personal loan controversy."
       }
     ],
     "sources": [
@@ -6624,10 +7695,17 @@ export const japanPrimeMinisters: Leader[] = [
     "keyEvents": [
       {
         "year": "1994",
-        "titleJa": "羽田内閣 発足",
-        "titleEn": "Inauguration of Hata Cabinet",
-        "descriptionJa": "1994-04-28、天皇より大命降下を受け組閣を執行。",
-        "descriptionEn": "Formally assumed office following imperial appointment on 1994-04-28."
+        "titleJa": "羽田内閣発足（少数与党内閣）",
+        "titleEn": "Hata Minority Coalition Cabinet",
+        "descriptionJa": "新生党党首の羽田孜が首相就任。社会党が連立を電撃離脱したため少数与党に転落。",
+        "descriptionEn": "Assumed office but Socialists immediately withdrew from coalition, creating unstable minority government."
+      },
+      {
+        "year": "1994",
+        "titleJa": "平成6年度予算成立と64日での総辞職",
+        "titleEn": "Budget Passed & Resignation after 64 Days",
+        "descriptionJa": "予算成立後に内閣不信任決議案を突きつけられ、解散せず総辞職（在任64日）。",
+        "descriptionEn": "Passed annual state budget and resigned under threat of no-confidence vote."
       }
     ],
     "sources": [
@@ -6707,10 +7785,31 @@ export const japanPrimeMinisters: Leader[] = [
     "keyEvents": [
       {
         "year": "1994",
-        "titleJa": "村山内閣（自社さ連立・戦後50年村山談話） 発足",
-        "titleEn": "Inauguration of Murayama Cabinet",
-        "descriptionJa": "1994-06-30、天皇より大命降下を受け組閣を執行。",
-        "descriptionEn": "Formally assumed office following imperial appointment on 1994-06-30."
+        "titleJa": "自社さ連立政権発足（村山富市 社会党首班）",
+        "titleEn": "LDP-JSP-Sakigake Coalition (Socialist PM Murayama)",
+        "descriptionJa": "自民党・社会党・新党さきがけの異例の連立。村山首相は日米安保・自衛隊合憲を明言。",
+        "descriptionEn": "Historic coalition between long-time rivals LDP and Socialists; Murayama recognized JSDF and US Treaty."
+      },
+      {
+        "year": "1995",
+        "titleJa": "阪神・淡路大震災発生（M7.3・死者6434名）",
+        "titleEn": "Great Hanshin-Awaji Earthquake (6,434 dead)",
+        "descriptionJa": "1月17日未明、神戸・淡路島を直下型大地震が直撃。阪神高速倒壊・市街地大火災・インフラ壊滅。",
+        "descriptionEn": "Destructive M7.3 urban earthquake devastated Kobe and Hanshin metropolitan corridor."
+      },
+      {
+        "year": "1995",
+        "titleJa": "地下鉄サリン事件（オウム真理教テロ・14名死亡）",
+        "titleEn": "Tokyo Subway Sarin Gas Attack (Aum Shinrikyo)",
+        "descriptionJa": "3月20日朝、帝都地下鉄3路線5編成で猛毒サリン散布。死者14名・負傷者6000名以上の無差別テロ。",
+        "descriptionEn": "Doomsday cult released lethal nerve agent on Tokyo commuter trains, injuring over 6,000."
+      },
+      {
+        "year": "1995",
+        "titleJa": "戦後50年「村山談話」発表",
+        "titleEn": "Historic 50th Anniversary \"Murayama Statement\"",
+        "descriptionJa": "8月15日閣議決定。「植民地支配と侵略によってアジア諸国に多大の損害と苦痛を与えた」痛切な反省と謝罪を表明。",
+        "descriptionEn": "Official government statement expressing profound remorse and apology for colonial rule and aggression."
       }
     ],
     "sources": [
@@ -6790,10 +7889,17 @@ export const japanPrimeMinisters: Leader[] = [
     "keyEvents": [
       {
         "year": "1996",
-        "titleJa": "第1次橋本内閣 発足",
-        "titleEn": "Inauguration of 1st Hashimoto Cabinet",
-        "descriptionJa": "1996-01-11、天皇より大命降下を受け組閣を執行。",
-        "descriptionEn": "Formally assumed office following imperial appointment on 1996-01-11."
+        "titleJa": "第1次橋本内閣発足・住専国会",
+        "titleEn": "1st Hashimoto Cabinet & Jusen Bailout Diet",
+        "descriptionJa": "自民党総裁の橋本龍太郎が首班就任。不良債権化した住宅金融専門会社に6850億円の公的資金投入。",
+        "descriptionEn": "Took office resolving bad loans of housing loan companies (Jusen) with 685 billion yen public funds."
+      },
+      {
+        "year": "1996",
+        "titleJa": "普天間飛行場全面返還合意（日米首脳会談）",
+        "titleEn": "Futenma Air Station Reversion Agreement",
+        "descriptionJa": "クリントン米大統領と会談。沖縄県宜野湾市の米海兵隊普天間基地の全面返還で歴史的合意。",
+        "descriptionEn": "Reached landmark agreement with President Bill Clinton to return US Marine Corps Air Station Futenma."
       }
     ],
     "sources": [
@@ -6873,10 +7979,38 @@ export const japanPrimeMinisters: Leader[] = [
     "keyEvents": [
       {
         "year": "1996",
-        "titleJa": "第2次橋本内閣（省庁再編・金融ビッグバン） 発足",
-        "titleEn": "Inauguration of 2nd Hashimoto Cabinet",
-        "descriptionJa": "1996-11-07、天皇より大命降下を受け組閣を執行。",
-        "descriptionEn": "Formally assumed office following imperial appointment on 1996-11-07."
+        "titleJa": "在ペルー日本大使公邸占拠事件",
+        "titleEn": "Japanese Embassy Hostage Crisis in Peru",
+        "descriptionJa": "リマの公邸が左翼ゲリラMRTAに襲撃され青木大使ら数百名が人質に（翌年ペルー軍が武力突入救出）。",
+        "descriptionEn": "MRTA Marxist guerrillas stormed diplomatic reception in Lima holding diplomats hostage for 126 days."
+      },
+      {
+        "year": "1997",
+        "titleJa": "消費税率5%引き上げ断行",
+        "titleEn": "Consumption Tax Raised to 5%",
+        "descriptionJa": "財政構造改革のため消費税を3%から5%へ増税。直後にアジア通貨危機と国内金融危機が直撃。",
+        "descriptionEn": "Increased sales tax to 5%, coinciding with Asian Financial Crisis to trigger domestic recession."
+      },
+      {
+        "year": "1997",
+        "titleJa": "山一證券・北海道拓殖銀行破綻（拓銀山一ショック）",
+        "titleEn": "Yamaichi Securities & Takugin Bank Collapse",
+        "descriptionJa": "都市銀行と四大証券の一角が巨額簿外債務で自主廃業・破綻。金融システム不安が極大化。",
+        "descriptionEn": "Historic collapse of major city bank and \"Big Four\" brokerage firm triggered systemic banking panic."
+      },
+      {
+        "year": "1997",
+        "titleJa": "京都議定書採択（気候変動枠組条約COP3）",
+        "titleEn": "Kyoto Protocol Adopted at COP3",
+        "descriptionJa": "京都市で開催された地球温暖化防止会議で先進国の温室効果ガス排出削減目標を法的に義務付け。",
+        "descriptionEn": "International climate treaty adopted establishing legally binding emissions reduction targets."
+      },
+      {
+        "year": "1998",
+        "titleJa": "長野冬季オリンピック開催・参院選大敗で辞職",
+        "titleEn": "Nagano 1998 Winter Olympics & Resignation",
+        "descriptionJa": "スキージャンプ日本団体金メダル。景気低迷批判で第18回参院選敗北し引責辞任。",
+        "descriptionEn": "Hosted Nagano Winter Olympics; resigned following severe Upper House election losses."
       }
     ],
     "sources": [
@@ -6956,10 +8090,31 @@ export const japanPrimeMinisters: Leader[] = [
     "keyEvents": [
       {
         "year": "1998",
-        "titleJa": "小渕内閣（金融危機封じ込め・自自公連立） 発足",
-        "titleEn": "Inauguration of Obuchi Cabinet",
-        "descriptionJa": "1998-07-30、天皇より大命降下を受け組閣を執行。",
-        "descriptionEn": "Formally assumed office following imperial appointment on 1998-07-30."
+        "titleJa": "小渕内閣発足・金融再生法成立",
+        "titleEn": "Obuchi Cabinet & Financial Reconstruction Laws",
+        "descriptionJa": "「人柄の小渕」「平成おじさん」が就任。金融機能早期健全化法など総額60兆円の公的資金枠を設定。",
+        "descriptionEn": "Assumed office setting up 60-trillion-yen public funding framework to rescue banking system."
+      },
+      {
+        "year": "1999",
+        "titleJa": "自自連立・自自公連立政権樹立",
+        "titleEn": "LDP-Liberal-Komeito Coalition Formed",
+        "descriptionJa": "自由党（小沢一郎）、公明党と相次いで連立を合意。自公連立体制の礎を構築。",
+        "descriptionEn": "Formed stable governing coalition with Komeito, creating enduring coalition framework."
+      },
+      {
+        "year": "1999",
+        "titleJa": "東海村JCO臨界事故（日本初の臨界事故・2名死亡）",
+        "titleEn": "Tokaimura Nuclear Criticality Accident",
+        "descriptionJa": "茨城県のウラン加工施設で違法作業により国内初のウラン臨界事故。周辺住民避難・作業員被曝死。",
+        "descriptionEn": "Illegal uranium processing triggered Japan's first fatal nuclear criticality accident in Ibaraki."
+      },
+      {
+        "year": "2000",
+        "titleJa": "2000年問題（Y2K）・小渕首相 脳梗塞で急逝",
+        "titleEn": "Y2K Millenium Bug & PM Obuchi Passes in Office",
+        "descriptionJa": "コンピュータ2000年問題を無事克服。連立協議の激務中に脳梗塞で倒れ現職急逝。",
+        "descriptionEn": "Successfully mitigated Y2K computer bug; suffered fatal stroke during intense coalition negotiations."
       }
     ],
     "sources": [
@@ -7039,10 +8194,17 @@ export const japanPrimeMinisters: Leader[] = [
     "keyEvents": [
       {
         "year": "2000",
-        "titleJa": "第1次森内閣 発足",
-        "titleEn": "Inauguration of 1st Mori Cabinet",
-        "descriptionJa": "2000-04-05、天皇より大命降下を受け組閣を執行。",
-        "descriptionEn": "Formally assumed office following imperial appointment on 2000-04-05."
+        "titleJa": "森内閣発足・密室「5人組」選出批判",
+        "titleEn": "Mori Cabinet Formed (5-Leader Selection)",
+        "descriptionJa": "小渕急病を受け自民党有力幹部5人の密室会合で総裁選定。「密室政治」と世論の反発。",
+        "descriptionEn": "Appointed prime minister after closed-door talks among 5 party elders, facing immediate criticism."
+      },
+      {
+        "year": "2000",
+        "titleJa": "「神の国」発言と第42回総選挙",
+        "titleEn": "\"Divine Nation\" Remark & 42nd General Election",
+        "descriptionJa": "神道政治連盟で「日本は天皇を中心としている神の国」と発言し大論争。総選挙で自民党議席減。",
+        "descriptionEn": "Controversial speech describing Japan as \"divine nation\" sparked constitutional controversy."
       }
     ],
     "sources": [
@@ -7122,10 +8284,24 @@ export const japanPrimeMinisters: Leader[] = [
     "keyEvents": [
       {
         "year": "2000",
-        "titleJa": "第2次森内閣（IT基本法・高速ネット基盤） 発足",
-        "titleEn": "Inauguration of 2nd Mori Cabinet",
-        "descriptionJa": "2000-07-04、天皇より大命降下を受け組閣を執行。",
-        "descriptionEn": "Formally assumed office following imperial appointment on 2000-07-04."
+        "titleJa": "九州・沖縄サミット開催・二千円札発行",
+        "titleEn": "Kyushu-Okinawa G8 Summit & 2,000 Yen Note",
+        "descriptionJa": "名護市万国津津梁館でサミット開催（首里城夕食会）。記念に二千円紙幣を発行。",
+        "descriptionEn": "Hosted G8 Summit in Okinawa and issued new 2,000 yen commemorative banknotes."
+      },
+      {
+        "year": "2001",
+        "titleJa": "中央省庁再編断行（1府22省庁から1府12省庁へ）",
+        "titleEn": "Reorganization of Central Government Ministries",
+        "descriptionJa": "1月6日、内閣府新設、総務省・財務省・国交省など省庁統合を断行。",
+        "descriptionEn": "Implemented historic government overhaul streamlining ministries into Cabinet Office and 12 ministries."
+      },
+      {
+        "year": "2001",
+        "titleJa": "えひめ丸事故（米原潜衝突）と森内閣退陣",
+        "titleEn": "Ehime Maru Collision & Resignation",
+        "descriptionJa": "ハワイ沖で宇和島水産高実習船が米海軍原子力潜水艦に衝突され沈没（死者9名）。ゴルフ継続批判で退陣。",
+        "descriptionEn": "US nuclear submarine struck Japanese fisheries training ship; criticism over golfing led to resignation."
       }
     ],
     "sources": [
@@ -7205,10 +8381,31 @@ export const japanPrimeMinisters: Leader[] = [
     "keyEvents": [
       {
         "year": "2001",
-        "titleJa": "第1次小泉内閣（拉致被害者帰国・構造改革） 発足",
-        "titleEn": "Inauguration of 1st Koizumi Cabinet",
-        "descriptionJa": "2001-04-26、天皇より大命降下を受け組閣を執行。",
-        "descriptionEn": "Formally assumed office following imperial appointment on 2001-04-26."
+        "titleJa": "小泉内閣発足・「聖域なき構造改革」「自民党をぶっ壊す」",
+        "titleEn": "1st Koizumi Cabinet: \"Reform without Sanctuaries\"",
+        "descriptionJa": "圧倒的国民人気で総裁選圧勝。「感動した！」（大相撲貴乃花優勝授与）など国民的支持率85%超。",
+        "descriptionEn": "Swept to power with 85%+ approval rating, promising radical structural reforms and fiscal discipline."
+      },
+      {
+        "year": "2001",
+        "titleJa": "アメリカ同時多発テロ（9.11）・テロ特措法成立",
+        "titleEn": "September 11 Terrorist Attacks & Anti-Terrorism Law",
+        "descriptionJa": "米世界貿易センタービルテロを受け、自衛隊のインド洋補給活動を可能にする特別措置法をスピード成立。",
+        "descriptionEn": "Enacted Anti-Terrorism Special Measures Law dispatching Maritime JSDF refuelers to Indian Ocean."
+      },
+      {
+        "year": "2002",
+        "titleJa": "日韓共催FIFAワールドカップ開催",
+        "titleEn": "2002 FIFA World Cup (Korea/Japan)",
+        "descriptionJa": "アジア初となるサッカーW杯を日韓共催。日本代表が初のベスト16進出。",
+        "descriptionEn": "Co-hosted historic World Cup tournament with South Korea, reaching round of 16."
+      },
+      {
+        "year": "2002",
+        "titleJa": "日朝首脳会談（電撃平壌訪問・拉致被害者5名帰国）",
+        "titleEn": "Pyongyang Summit with Kim Jong Il & Abductees Return",
+        "descriptionJa": "日本の首相として史上初訪朝。金正日総書記が拉致を公式に認め謝罪。蓮池さん夫妻ら5名が帰国。",
+        "descriptionEn": "Historic summit in Pyongyang; Kim Jong Il admitted abductions, leading to return of 5 surviving abductees."
       }
     ],
     "sources": [
@@ -7288,10 +8485,31 @@ export const japanPrimeMinisters: Leader[] = [
     "keyEvents": [
       {
         "year": "2003",
-        "titleJa": "第2次小泉内閣 発足",
-        "titleEn": "Inauguration of 2nd Koizumi Cabinet",
-        "descriptionJa": "2003-11-19、天皇より大命降下を受け組閣を執行。",
-        "descriptionEn": "Formally assumed office following imperial appointment on 2003-11-19."
+        "titleJa": "イラク復興支援特措法成立・自衛隊サマーワ派遣",
+        "titleEn": "Iraq Reconstruction Law & Samawah Ground Mission",
+        "descriptionJa": "自衛隊の陸上部隊を非戦闘地域（イラク南部サマーワ）に派遣し給水・人道復興支援を展開。",
+        "descriptionEn": "Deployed Ground JSDF troops to Samawah for humanitarian water supply and clinic reconstruction."
+      },
+      {
+        "year": "2004",
+        "titleJa": "新潟県中越地震（M6.8・上越新幹線脱線）",
+        "titleEn": "Niigata Chuetsu Earthquake (M6.8)",
+        "descriptionJa": "震度7を観測。営業中の新幹線が史上初めて脱線（死者68名・山古志村全村避難）。",
+        "descriptionEn": "M6.8 quake struck Niigata, derailing a Shinkansen bullet train in passenger service for the first time."
+      },
+      {
+        "year": "2005",
+        "titleJa": "JR福知山線脱線事故（死者107名） & 愛知万博",
+        "titleEn": "JR Fukuchiyama Line Derailment & Aichi Expo",
+        "descriptionJa": "尼崎市で快速電車がマンションに激突する大惨事。愛知県で「愛・地球博」開催（入場者2204万人）。",
+        "descriptionEn": "Commuter train crashed into apartment building in Amagasaki (107 dead); Aichi World Expo held."
+      },
+      {
+        "year": "2005",
+        "titleJa": "郵政民営化法案否決・「郵政解散」（刺客選挙）",
+        "titleEn": "Postal Bill Defeat & Dramatic \"Postal Dissolution\"",
+        "descriptionJa": "参議院での郵政法案否決を受け衆議院を即日解散。反対派に刺客候補を送り込み自民党296議席歴史的圧勝。",
+        "descriptionEn": "Dissolved Diet after Senate rejected postal reform; purged rebels and won crushing 296-seat super-majority."
       }
     ],
     "sources": [
@@ -7371,10 +8589,17 @@ export const japanPrimeMinisters: Leader[] = [
     "keyEvents": [
       {
         "year": "2005",
-        "titleJa": "第3次小泉内閣（郵政民営化法成立） 発足",
-        "titleEn": "Inauguration of 3rd Koizumi Cabinet",
-        "descriptionJa": "2005-09-21、天皇より大命降下を受け組閣を執行。",
-        "descriptionEn": "Formally assumed office following imperial appointment on 2005-09-21."
+        "titleJa": "郵政民営化関連法成立",
+        "titleEn": "Postal Privatization Legislation Enacted",
+        "descriptionJa": "特別国会で郵政民営化法を再提出し圧倒的多数で可決成立。日本郵政公社民営化を確定。",
+        "descriptionEn": "Passed historic legislation privatizing Japan Post into banking, insurance, and postal companies."
+      },
+      {
+        "year": "2006",
+        "titleJa": "道路関係四公団民営化完了・任期満了退陣",
+        "titleEn": "Highway Corporations Privatized & Retirement",
+        "descriptionJa": "日本道路公団をNEXCO各社へ分割民営化完了。自民党総裁任期満了に伴い絶大な人気の中で退任。",
+        "descriptionEn": "Privatized public highway corporations; stepped down voluntarily at peak of political power."
       }
     ],
     "sources": [
@@ -7454,10 +8679,24 @@ export const japanPrimeMinisters: Leader[] = [
     "keyEvents": [
       {
         "year": "2006",
-        "titleJa": "第1次安倍内閣（教育基本法改正・防衛省昇格） 発足",
-        "titleEn": "Inauguration of 1st Abe Shinzo Cabinet",
-        "descriptionJa": "2006-09-26、天皇より大命降下を受け組閣を執行。",
-        "descriptionEn": "Formally assumed office following imperial appointment on 2006-09-26."
+        "titleJa": "第1次安倍内閣発足（戦後生まれ初の首相・「美しい国」）",
+        "titleEn": "1st Abe Cabinet (First Post-War Born PM)",
+        "descriptionJa": "52歳の最年少で就任。「美しい国、日本」を掲げ教育改革・憲法改正方針を表明。",
+        "descriptionEn": "Took office as youngest and first post-war born PM, advocating conservative educational reform."
+      },
+      {
+        "year": "2006",
+        "titleJa": "防衛庁の「防衛省」昇格 & 教育基本法改正",
+        "titleEn": "Defense Agency Elevated to Ministry of Defense",
+        "descriptionJa": "防衛庁を53年ぶりに省へ昇格。教育基本法を戦後初めて抜本改正（愛国心の涵養明記）。",
+        "descriptionEn": "Elevated Defense Agency to full cabinet ministry and amended Fundamental Law of Education."
+      },
+      {
+        "year": "2007",
+        "titleJa": "国民投票法制定・「消えた年金」問題 & 辞任",
+        "titleEn": "National Referendum Act, Pension Crisis & Resignation",
+        "descriptionJa": "憲法改正手続きを定める国民投票法が成立。5000万件の年金記録漏れで参院選惨敗、持病悪化で電撃辞任。",
+        "descriptionEn": "Passed constitutional amendment referendum law; lost Upper House over pension errors; resigned due to illness."
       }
     ],
     "sources": [
@@ -7537,10 +8776,24 @@ export const japanPrimeMinisters: Leader[] = [
     "keyEvents": [
       {
         "year": "2007",
-        "titleJa": "福田康夫内閣（消費者庁設置決定・戦略的互恵関係） 発足",
-        "titleEn": "Inauguration of Fukuda Yasuo Cabinet",
-        "descriptionJa": "2007-09-26、天皇より大命降下を受け組閣を執行。",
-        "descriptionEn": "Formally assumed office following imperial appointment on 2007-09-26."
+        "titleJa": "福田康夫内閣発足・ねじれ国会",
+        "titleEn": "Fukuda Cabinet & Divided Diet (Nejire Kokkai)",
+        "descriptionJa": "参議院で野党民主党が過半数を占める「ねじれ国会」の中で対話重視の政権運営を展開。",
+        "descriptionEn": "Navigated divided parliament with opposition Democratic Party controlling the House of Councillors."
+      },
+      {
+        "year": "2008",
+        "titleJa": "北海道洞爺湖サミット開催",
+        "titleEn": "Hokkaido Toyako G8 Summit",
+        "descriptionJa": "気候変動・温室効果ガス50%削減長期目標を主要議題としてサミットを開催。",
+        "descriptionEn": "Chaired G8 Summit focusing on 2050 climate change targets and African development."
+      },
+      {
+        "year": "2008",
+        "titleJa": "「あなたとは違うんです」会見で辞任",
+        "titleEn": "\"I Am Different from You\" Press Conference Resignation",
+        "descriptionJa": "ねじれ国会の政治膠着打開のため電撃辞任。退陣会見での記者への反論発言が話題に。",
+        "descriptionEn": "Resigned abruptly amid parliamentary gridlock, making famous remark at exit press conference."
       }
     ],
     "sources": [
@@ -7620,10 +8873,24 @@ export const japanPrimeMinisters: Leader[] = [
     "keyEvents": [
       {
         "year": "2008",
-        "titleJa": "麻生内閣（リーマンショック大規模財政出動） 発足",
-        "titleEn": "Inauguration of Aso Cabinet",
-        "descriptionJa": "2008-09-24、天皇より大命降下を受け組閣を執行。",
-        "descriptionEn": "Formally assumed office following imperial appointment on 2008-09-24."
+        "titleJa": "麻生内閣発足 & リーマン・ショック（世界金融危機）",
+        "titleEn": "Aso Cabinet & Lehman Brothers Global Financial Crisis",
+        "descriptionJa": "就任直後に米リーマン・ブラザーズ破綻から世界的金融危機が勃発。定額給付金など大規模景気対策を連発。",
+        "descriptionEn": "Lehman collapse triggered global crisis; enacted massive stimulus including universal cash payouts."
+      },
+      {
+        "year": "2009",
+        "titleJa": "裁判員制度スタート",
+        "titleEn": "Citizen Lay Judge System (Saiban-in) Launches",
+        "descriptionJa": "5月21日、国民から無作為に選ばれた市民が重大刑事裁判に参加する裁判員制度が施行。",
+        "descriptionEn": "Launched citizen lay judge system allowing ordinary citizens to participate in serious criminal trials."
+      },
+      {
+        "year": "2009",
+        "titleJa": "第45回総選挙 民主党308議席圧勝・自民党下野",
+        "titleEn": "45th General Election: DPJ Landslide (308 Seats)",
+        "descriptionJa": "自民党が歴史的大敗（119議席）。民主党が単独308議席を獲得し本格的政権交代が実現。",
+        "descriptionEn": "DPJ won historic 308-seat landslide, ending decades of LDP political dominance."
       }
     ],
     "sources": [
@@ -7703,10 +8970,24 @@ export const japanPrimeMinisters: Leader[] = [
     "keyEvents": [
       {
         "year": "2009",
-        "titleJa": "鳩山由紀夫内閣（政権交代・子ども手当） 発足",
-        "titleEn": "Inauguration of Hatoyama Yukio Cabinet",
-        "descriptionJa": "2009-09-16、天皇より大命降下を受け組閣を執行。",
-        "descriptionEn": "Formally assumed office following imperial appointment on 2009-09-16."
+        "titleJa": "鳩山由紀夫 民主党政権発足（「コンクリートから人へ」）",
+        "titleEn": "DPJ Government Under Yukio Hatoyama Formed",
+        "descriptionJa": "社民党・国民新党との連立内閣発足。行政刷新会議による「事業仕分け」が社会的大ブーム。",
+        "descriptionEn": "Formed coalition pledging \"people over concrete\" and launched public televised budget screening."
+      },
+      {
+        "year": "2010",
+        "titleJa": "子ども手当支給・高校無償化スタート",
+        "titleEn": "Child Allowance & Tuition-Free High Schools",
+        "descriptionJa": "家計支援のため子ども手当の支給を開始し公立高校授業料無償化法を施行。",
+        "descriptionEn": "Introduced direct child allowance cash payments and abolished public high school tuition fees."
+      },
+      {
+        "year": "2010",
+        "titleJa": "普天間飛行場移設問題（「最低でも県外」）迷走で辞任",
+        "titleEn": "Futenma Base Relocation Impasse & Resignation",
+        "descriptionJa": "公約した沖縄普天間基地の県外・国外移設が頓挫し社民党離脱。日米関係悪化を受け就任8ヶ月で退陣。",
+        "descriptionEn": "Resigned after failing to fulfill pledge to move US Futenma Marine base outside Okinawa."
       }
     ],
     "sources": [
@@ -7786,10 +9067,31 @@ export const japanPrimeMinisters: Leader[] = [
     "keyEvents": [
       {
         "year": "2010",
-        "titleJa": "菅直人内閣（東日本大震災対処・再生可能エネ法） 発足",
-        "titleEn": "Inauguration of Kan Naoto Cabinet",
-        "descriptionJa": "2010-06-08、天皇より大命降下を受け組閣を執行。",
-        "descriptionEn": "Formally assumed office following imperial appointment on 2010-06-08."
+        "titleJa": "菅直人内閣発足 & 尖閣諸島中国漁船衝突事件",
+        "titleEn": "Kan Cabinet & Senkaku Island Collision Incident",
+        "descriptionJa": "尖閣諸島沖で中国トロール漁船が海上保安庁巡視船に体当たり。船長釈放と映像流出で騒然。",
+        "descriptionEn": "Chinese fishing trawler rammed Japan Coast Guard cutters off Senkaku Islands, igniting territorial crisis."
+      },
+      {
+        "year": "2011",
+        "titleJa": "東日本大震災発生（3月11日・M9.0・死者行方不明2万2000名）",
+        "titleEn": "Great East Japan Earthquake & Tsunami (3/11)",
+        "descriptionJa": "観測史上最大の超巨大地震と高さ40mの巨大津波が東北太平洋岸を壊滅。",
+        "descriptionEn": "Magnitude 9.0 mega-earthquake and catastrophic tsunami devastated the Tohoku coastline."
+      },
+      {
+        "year": "2011",
+        "titleJa": "東京電力福島第一原子力発電所事故（メルトダウン）",
+        "titleEn": "Fukushima Daiichi Nuclear Disaster (INES Level 7)",
+        "descriptionJa": "全電源喪失により1〜3号機が炉心溶融（メルトダウン）・水素爆発。原子力緊急事態宣言・周辺住民長期避難。",
+        "descriptionEn": "Tsunami caused total station blackout, 3 core meltdowns and hydrogen explosions (Level 7 disaster)."
+      },
+      {
+        "year": "2011",
+        "titleJa": "なでしこジャパンW杯優勝 & 再エネ特措法成立で退陣",
+        "titleEn": "Nadeshiko Japan World Cup & Renewable Energy Law",
+        "descriptionJa": "サッカー女子代表がW杯初優勝。固定価格買い取り制度（FIT）法案を成立させ菅首相辞任。",
+        "descriptionEn": "Japan won FIFA Women's World Cup; Kan resigned after passing feed-in tariff renewable energy bill."
       }
     ],
     "sources": [
@@ -7869,10 +9171,31 @@ export const japanPrimeMinisters: Leader[] = [
     "keyEvents": [
       {
         "year": "2011",
-        "titleJa": "野田内閣（社会保障税一体改革・消費税法） 発足",
-        "titleEn": "Inauguration of Noda Cabinet",
-        "descriptionJa": "2011-09-02、天皇より大命降下を受け組閣を執行。",
-        "descriptionEn": "Formally assumed office following imperial appointment on 2011-09-02."
+        "titleJa": "野田内閣発足・「泥鰌（どじょう）宰相」",
+        "titleEn": "Noda Cabinet: \"Loach Prime Minister\"",
+        "descriptionJa": "財務相から首相就任。「泥鰌のように汗をかく」と堅実姿勢を強調。",
+        "descriptionEn": "Former Finance Minister Noda took office promising pragmatic fiscal responsibility."
+      },
+      {
+        "year": "2012",
+        "titleJa": "東京スカイツリー開業（世界一の電波塔 634m）",
+        "titleEn": "Tokyo Skytree Opens (634m)",
+        "descriptionJa": "墨田区に高さ634mの新電波塔・商業施設が開業。東京の新名所に。",
+        "descriptionEn": "World's tallest freestanding broadcasting tower opened to the public in Tokyo."
+      },
+      {
+        "year": "2012",
+        "titleJa": "社会保障と税の一体改革（三党合意・消費増税法成立）",
+        "titleEn": "Comprehensive Tax & Social Security Reform",
+        "descriptionJa": "自民・公明・民主の三党合意により消費税率を8%、10%へ段階引き上げする法案を成立。",
+        "descriptionEn": "Forged historic grand coalition agreement to raise consumption tax to 8% and 10%."
+      },
+      {
+        "year": "2012",
+        "titleJa": "尖閣諸島国有化 & 党首討論「近いうち解散」",
+        "titleEn": "Senkaku Nationalization & Snap Election Pledge",
+        "descriptionJa": "尖閣諸島3島を地権者から買い取り国有化。党首討論で安倍自民党総裁に対し解散を電撃明言。民主党下野。",
+        "descriptionEn": "Nationalized 3 Senkaku islets; challenged Shinzo Abe in live debate, calling snap election that ended DPJ rule."
       }
     ],
     "sources": [
@@ -7952,10 +9275,45 @@ export const japanPrimeMinisters: Leader[] = [
     "keyEvents": [
       {
         "year": "2012",
-        "titleJa": "第2次安倍内閣（アベノミクス三本の矢始動） 発足",
-        "titleEn": "Inauguration of 2nd Abe Shinzo Cabinet",
-        "descriptionJa": "2012-12-26、天皇より大命降下を受け組閣を執行。",
-        "descriptionEn": "Formally assumed office following imperial appointment on 2012-12-26."
+        "titleJa": "第2次安倍内閣発足・3年3ヶ月ぶり政権奪還",
+        "titleEn": "2nd Abe Cabinet: LDP Returns to Power",
+        "descriptionJa": "第46回総選挙で圧勝し政権奪還。日本憲政史上64年ぶりの首相再登板。",
+        "descriptionEn": "LDP swept general elections, returning Shinzo Abe to premiership in historic comeback."
+      },
+      {
+        "year": "2013",
+        "titleJa": "「アベノミクス（三本の矢）」推進・日銀「異次元金融緩和」",
+        "titleEn": "Abenomics \"Three Arrows\" & BOJ Bazooka Easing",
+        "descriptionJa": "大胆な金融政策・機動的な財政出動・成長戦略を展開。黒田日銀総裁が2%インフレ目標の異次元緩和発動。株高・円安へ。",
+        "descriptionEn": "Launched monetary bazooka, fiscal stimulus, and growth strategy, sparking major stock market rally."
+      },
+      {
+        "year": "2013",
+        "titleJa": "2020年東京オリンピック・パラリンピック招致決定",
+        "titleEn": "Tokyo Selected to Host 2020 Olympic Games",
+        "descriptionJa": "ブエノスアイレスIOC総会でプレゼン。「アンダーコントロール」発言とともに56年ぶりの東京開催決定。",
+        "descriptionEn": "IOC awarded 2020 Summer Games to Tokyo following Abe's final presentation in Buenos Aires."
+      },
+      {
+        "year": "2013",
+        "titleJa": "国家安全保障会議（日本版NSC）創設 & 特定秘密保護法",
+        "titleEn": "National Security Council (NSC) & State Secrets Act",
+        "descriptionJa": "首相官邸主導の安保司令塔NSCを発足。安全保障情報の漏洩を防ぐ特定秘密保護法を制定。",
+        "descriptionEn": "Created National Security Council and enacted strict state secrets protection legislation."
+      },
+      {
+        "year": "2014",
+        "titleJa": "消費税率8%引き上げ & 集団的自衛権行使容認閣議決定",
+        "titleEn": "8% Tax Hike & Collective Self-Defense Cabinet Decision",
+        "descriptionJa": "消費税率を5%から8%へ引き上げ。憲法解釈を変更し限定的な集団的自衛権の行使容認を決定。",
+        "descriptionEn": "Raised sales tax to 8%; reinterpreted constitution to allow limited collective self-defense."
+      },
+      {
+        "year": "2014",
+        "titleJa": "御嶽山噴火災害（死者行方不明63名）",
+        "titleEn": "Mount Ontake Volcanic Eruption (63 dead)",
+        "descriptionJa": "長野・岐阜県境の御嶽山が水蒸気爆発。戦後最悪の火山災害。",
+        "descriptionEn": "Sudden phreatic eruption at Mount Ontake killed 63 hikers in post-war Japan's deadliest volcanic disaster."
       }
     ],
     "sources": [
@@ -8034,11 +9392,39 @@ export const japanPrimeMinisters: Leader[] = [
     ],
     "keyEvents": [
       {
-        "year": "2014",
-        "titleJa": "第3次安倍内閣（平和安全法制成立・FOIP提唱） 発足",
-        "titleEn": "Inauguration of 3rd Abe Shinzo Cabinet",
-        "descriptionJa": "2014-12-24、天皇より大命降下を受け組閣を執行。",
-        "descriptionEn": "Formally assumed office following imperial appointment on 2014-12-24."
+        "year": "2015",
+        "titleJa": "安全保障関連法（平和安全法制）成立",
+        "titleEn": "Peace & Security Legislation Enacted",
+        "descriptionJa": "集団的自衛権の限定行使や米軍等への後方支援を可能にする安保法制を国会可決。",
+        "descriptionEn": "Passed landmark defense laws enabling collective self-defense and enhanced US-Japan alliance cooperation."
+      },
+      {
+        "year": "2016",
+        "titleJa": "熊本地震（M7.3・震度7が2回連続発生）",
+        "titleEn": "Kumamoto Earthquakes (Twin Intensity 7)",
+        "descriptionJa": "益城町で史上初めて震度7が連続発生。熊本城崩落など甚大な被害。",
+        "descriptionEn": "Twin maximum intensity 7 earthquakes struck Kumamoto, damaging historic Kumamoto Castle."
+      },
+      {
+        "year": "2016",
+        "titleJa": "オバマ米大統領 広島訪問 & 安倍首相 真珠湾慰霊訪問",
+        "titleEn": "Obama Visits Hiroshima & Abe Visits Pearl Harbor",
+        "descriptionJa": "現職米大統領として初の広島平和記念公園訪問（原爆慰霊碑献花）。年末に安倍首相がハワイ真珠湾を訪問し和解の力をアピール。",
+        "descriptionEn": "President Obama visited Hiroshima Peace Memorial; PM Abe made historic reciprocal visit to Pearl Harbor."
+      },
+      {
+        "year": "2016",
+        "titleJa": "天皇陛下（現上皇さま）「お気持ち」表明（生前退位）",
+        "titleEn": "Emperor Akihito Video Message on Abdication",
+        "descriptionJa": "8月8日、高齢による公務遂行の困難についてビデオメッセージを公表。退位特例法制定へ。",
+        "descriptionEn": "Emperor Akihito expressed desire to step down due to advancing age, prompting special abdication law."
+      },
+      {
+        "year": "2017",
+        "titleJa": "天皇退位特例法成立",
+        "titleEn": "Imperial Abdication Special Act Passed",
+        "descriptionJa": "約200年ぶりとなる天皇陛下の生前退位を認める一代限りの特例法が全会一致で可決。",
+        "descriptionEn": "Enacted legislation allowing the first imperial abdication in over two centuries."
       }
     ],
     "sources": [
@@ -8117,11 +9503,46 @@ export const japanPrimeMinisters: Leader[] = [
     ],
     "keyEvents": [
       {
-        "year": "2017",
-        "titleJa": "第4次安倍内閣（令和改元・歴代最長在任達成） 発足",
-        "titleEn": "Inauguration of 4th Abe Shinzo Cabinet",
-        "descriptionJa": "2017-11-01、天皇より大命降下を受け組閣を執行。",
-        "descriptionEn": "Formally assumed office following imperial appointment on 2017-11-01."
+        "year": "2018",
+        "titleJa": "西日本豪雨 & 北海道胆振東部地震（全域ブラックアウト）",
+        "titleEn": "Western Japan Floods & Hokkaido Blackout Quake",
+        "descriptionJa": "岡山・広島で河川氾濫（死者200名超）。北海道で震度7・国内初の道内全域停電（ブラックアウト）発生。",
+        "descriptionEn": "Torrential floods killed over 200; M6.7 Hokkaido quake triggered Japan's first island-wide power blackout."
+      },
+      {
+        "year": "2018",
+        "titleJa": "TPP11（環太平洋パートナーシップ協定）発効",
+        "titleEn": "CPTPP (TPP-11) Free Trade Agreement Takes Effect",
+        "descriptionJa": "米国離脱後に日本が主導して11カ国によるメガFTAを発効させる。",
+        "descriptionEn": "Japan led 11 Pacific nations to enact the comprehensive Trans-Pacific Partnership agreement."
+      },
+      {
+        "year": "2019",
+        "titleJa": "天皇陛下御即位・「令和」改元",
+        "titleEn": "Imperial Succession & \"Reiwa\" Era Begins",
+        "descriptionJa": "5月1日、徳仁親王が第126代天皇に即位。「令和（万葉集由来）」に改元。",
+        "descriptionEn": "Emperor Naruhito ascended the Chrysanthemum Throne, opening the new Reiwa imperial era."
+      },
+      {
+        "year": "2019",
+        "titleJa": "G20大阪サミット開催 & 消費税率10%引き上げ",
+        "titleEn": "G20 Osaka Summit & 10% Consumption Tax Hike",
+        "descriptionJa": "日本初開催のG20首脳会議を主催。10月1日消費税率を10%へ引き上げ（軽減税率導入）。",
+        "descriptionEn": "Hosted G20 Leaders Summit; raised national sales tax to 10% with reduced food rates."
+      },
+      {
+        "year": "2020",
+        "titleJa": "新型コロナウイルス（COVID-19）感染拡大 & 初の緊急事態宣言",
+        "titleEn": "COVID-19 Pandemic & 1st State of Emergency",
+        "descriptionJa": "ダイヤモンド・プリンセス号集団感染から全国拡大。4月初の緊急事態宣言・学校一斉休校・東京五輪1年延期決定。",
+        "descriptionEn": "Declared first national state of emergency; postponed Tokyo 2020 Olympic Games by one year."
+      },
+      {
+        "year": "2020",
+        "titleJa": "憲政史上最長 在任3188日達成 & 持病悪化で退陣",
+        "titleEn": "Longest Premiership in History (3,188 Days) & Resignation",
+        "descriptionJa": "通算在任3188日・連続在任2822日の歴代最長記録を樹立。持病（潰瘍性大腸炎）再発のため辞任。",
+        "descriptionEn": "Set all-time record as longest-serving PM in Japanese history before stepping down due to chronic illness."
       }
     ],
     "sources": [
@@ -8201,10 +9622,38 @@ export const japanPrimeMinisters: Leader[] = [
     "keyEvents": [
       {
         "year": "2020",
-        "titleJa": "菅義偉内閣（デジタル庁創設・携帯料金値下げ・東京五輪） 発足",
-        "titleEn": "Inauguration of Suga Yoshihide Cabinet",
-        "descriptionJa": "2020-09-16、天皇より大命降下を受け組閣を執行。",
-        "descriptionEn": "Formally assumed office following imperial appointment on 2020-09-16."
+        "titleJa": "菅義偉内閣発足（「自助・共助・公助」）",
+        "titleEn": "Suga Cabinet: \"Self-Help, Mutual Help, Public Help\"",
+        "descriptionJa": "官房長官から首相就任。不妊治療の保険適用、携帯電話料金大幅引き下げを即座に断行。",
+        "descriptionEn": "Assumed office slashing mobile phone fees and expanding insurance coverage for fertility treatments."
+      },
+      {
+        "year": "2020",
+        "titleJa": "2050年カーボンニュートラル宣言",
+        "titleEn": "2050 Carbon Neutrality Declaration",
+        "descriptionJa": "所信表明演説で2050年までに温室効果ガス排出実質ゼロを目指す方針を国家目標として表明。",
+        "descriptionEn": "Pledged Japan would achieve net-zero greenhouse gas emissions by 2050."
+      },
+      {
+        "year": "2021",
+        "titleJa": "新型コロナワクチン大規模接種推進（1日100万回接種達成）",
+        "titleEn": "Mass COVID-19 Vaccination Campaign",
+        "descriptionJa": "自衛隊大規模接種センター開設などワクチン接種を強力推進。",
+        "descriptionEn": "Mobilized JSDF mass vaccination centers, achieving over 1 million daily vaccination doses."
+      },
+      {
+        "year": "2021",
+        "titleJa": "東京2020オリンピック・パラリンピック無観客開催",
+        "titleEn": "Tokyo 2020 Games Held Without Spectators",
+        "descriptionJa": "1年延期を経てコロナ禍の中で開催。日本選手団は史上最多の金メダル27個を獲得。",
+        "descriptionEn": "Successfully hosted postponed Olympic & Paralympic Games safely under strict COVID protocols."
+      },
+      {
+        "year": "2021",
+        "titleJa": "デジタル庁発足",
+        "titleEn": "Digital Agency Established",
+        "descriptionJa": "9月1日、行政のデジタル化とマイナンバー普及を推進するデジタル庁を新設。自民党総裁選不出馬表明。",
+        "descriptionEn": "Launched Digital Agency to modernize public administration; declined to seek re-election."
       }
     ],
     "sources": [
@@ -8284,10 +9733,17 @@ export const japanPrimeMinisters: Leader[] = [
     "keyEvents": [
       {
         "year": "2021",
-        "titleJa": "第1次岸田内閣 発足",
-        "titleEn": "Inauguration of 1st Kishida Cabinet",
-        "descriptionJa": "2021-10-04、天皇より大命降下を受け組閣を執行。",
-        "descriptionEn": "Formally assumed office following imperial appointment on 2021-10-04."
+        "titleJa": "第1次岸田内閣発足・「新しい資本主義」「聞く力」",
+        "titleEn": "1st Kishida Cabinet: \"New Capitalism\"",
+        "descriptionJa": "自民党総裁選を制し第100代首相就任。成長と分配の好循環を目指す「新しい資本主義」を提唱。",
+        "descriptionEn": "Elected 100th Prime Minister, promoting \"New Capitalism\" focused on growth and equitable distribution."
+      },
+      {
+        "year": "2021",
+        "titleJa": "第49回総選挙 自民党絶対安定多数維持",
+        "titleEn": "49th General Election Victory",
+        "descriptionJa": "就任直後の衆院選で自民党が単独261議席（絶対安定多数）を獲得し信任。",
+        "descriptionEn": "Led LDP to decisive 261-seat absolute stable majority in snap general election."
       }
     ],
     "sources": [
@@ -8366,11 +9822,53 @@ export const japanPrimeMinisters: Leader[] = [
     ],
     "keyEvents": [
       {
-        "year": "2021",
-        "titleJa": "第2次岸田内閣（防衛力抜本強化・G7広島サミット） 発足",
-        "titleEn": "Inauguration of 2nd Kishida Cabinet",
-        "descriptionJa": "2021-11-10、天皇より大命降下を受け組閣を執行。",
-        "descriptionEn": "Formally assumed office following imperial appointment on 2021-11-10."
+        "year": "2022",
+        "titleJa": "ロシアによるウクライナ軍事侵攻と対露制裁",
+        "titleEn": "Russian Invasion of Ukraine & Sanctions",
+        "descriptionJa": "ロシアの侵略を強く非難しG7と結束して厳しい金融・経済制裁を発動。ウクライナ支援を表明。",
+        "descriptionEn": "Imposed sweeping financial sanctions on Russia in coordination with G7 democracies."
+      },
+      {
+        "year": "2022",
+        "titleJa": "安倍晋三元首相 銃撃暗殺事件（奈良市・国葬儀）",
+        "titleEn": "Assassination of Former PM Shinzo Abe",
+        "descriptionJa": "7月8日、参院選遊説中に手製銃で背後から銃撃され死亡。世界100カ国以上の要人が参列し日本武道館で国葬儀挙行。",
+        "descriptionEn": "Former PM Abe was fatally shot during campaign speech in Nara; state funeral held at Nippon Budokan."
+      },
+      {
+        "year": "2022",
+        "titleJa": "安保3文書改定（反撃能力保有 & 防衛費GDP比2%増額）",
+        "titleEn": "Historic Defense Strategy Revision & Counterstrike Capability",
+        "descriptionJa": "国家安全保障戦略を改定。敵基地攻撃能力（反撃能力）の保有と防衛費GDP比2%への倍増を決定。",
+        "descriptionEn": "Approved historic defense policy shift acquiring counterstrike capabilities and doubling defense budget."
+      },
+      {
+        "year": "2023",
+        "titleJa": "G7広島サミット開催（ゼレンスキー大統領対面参加）",
+        "titleEn": "G7 Hiroshima Summit & Zelenskyy Visit",
+        "descriptionJa": "被爆地広島でサミット主催。ウクライナのゼレンスキー大統領が電撃来日し対面参加。核軍縮宣言採択。",
+        "descriptionEn": "Hosted G7 Leaders in Hiroshima with President Volodymyr Zelenskyy attending in person."
+      },
+      {
+        "year": "2023",
+        "titleJa": "新型コロナウイルス感染症「5類」移行",
+        "titleEn": "COVID-19 Downgraded to Category 5",
+        "descriptionJa": "5月8日、感染症法上の位置づけを季節性インフルエンザと同等の5類へ移行。社会経済活動が完全正常化。",
+        "descriptionEn": "Downgraded COVID-19 to Category 5, marking official end of pandemic restrictions."
+      },
+      {
+        "year": "2024",
+        "titleJa": "令和6年能登半島地震発生（M7.6・震度7）",
+        "titleEn": "2024 Noto Peninsula Earthquake (M7.6)",
+        "descriptionJa": "元日午後4時10分、石川県能登地方で震度7の巨大地震。珠洲・輪島で倒壊・大規模火災（死者400名超）。",
+        "descriptionEn": "Major M7.6 earthquake struck Ishikawa Prefecture on New Year's Day, devastating Noto peninsula."
+      },
+      {
+        "year": "2024",
+        "titleJa": "自民党派閥裏金問題・派閥解散と政治資金規正法改正",
+        "titleEn": "LDP Political Funds Scandal & Faction Dissolution",
+        "descriptionJa": "清和研・志帥会等の政治資金パーティー不記載問題を受け、岸田派をはじめ各派閥が解散。岸田総裁選不出馬。",
+        "descriptionEn": "Political party funding kickback scandal prompted dissolution of LDP factions; Kishida opted not to seek reelection."
       }
     ],
     "sources": [
@@ -8450,10 +9948,17 @@ export const japanPrimeMinisters: Leader[] = [
     "keyEvents": [
       {
         "year": "2024",
-        "titleJa": "第1次石破内閣 発足",
-        "titleEn": "Inauguration of 1st Ishiba Cabinet",
-        "descriptionJa": "2024-10-01、天皇より大命降下を受け組閣を執行。",
-        "descriptionEn": "Formally assumed office following imperial appointment on 2024-10-01."
+        "titleJa": "第1次石破内閣発足・「納得と共感」「地方創生2.0」",
+        "titleEn": "1st Ishiba Cabinet: \"Empathy & Consensus\"",
+        "descriptionJa": "5度目の総裁選挑戦で高市早苗を決勝で破り首相就任。防災庁創設準備・地方創生2.0を掲げる。",
+        "descriptionEn": "Veteran defense specialist Ishiba won LDP leadership on 5th attempt, prioritizing disaster agency creation."
+      },
+      {
+        "year": "2024",
+        "titleJa": "第50回総選挙断行（就任後最短解散）",
+        "titleEn": "50th General Election Called",
+        "descriptionJa": "就任わずか8日で衆議院を解散。裏金問題批判の逆風を受け与党過半数割れ。",
+        "descriptionEn": "Called rapid parliamentary election; ruling coalition lost majority amidst public backlash."
       }
     ],
     "sources": [
@@ -8532,11 +10037,18 @@ export const japanPrimeMinisters: Leader[] = [
     ],
     "keyEvents": [
       {
+        "year": "103",
+        "titleJa": "30年ぶり決選投票による首相再指名・第2次石破内閣",
+        "titleEn": "Runoff Vote Prime Minister Re-election & 2nd Ishiba Cabinet",
+        "descriptionJa": "衆院本会議で30年ぶりの決選投票（野田佳彦立憲代表との対決）を制し第103代首相に再任。少数与党として政権運営。",
+        "descriptionEn": "Won historic lower house runoff vote against Yoshihiko Noda, leading minority government."
+      },
+      {
         "year": "2024",
-        "titleJa": "第2次石破内閣（地方創生2.0・防災体制強化） 発足",
-        "titleEn": "Inauguration of 2nd Ishiba Cabinet",
-        "descriptionJa": "2024-11-11、天皇より大命降下を受け組閣を執行。",
-        "descriptionEn": "Formally assumed office following imperial appointment on 2024-11-11."
+        "titleJa": "「103万円の壁」見直し協議 & 防災庁設置法準備",
+        "titleEn": "103-Man Yen Income Barrier & Disaster Management Ministry Plan",
+        "descriptionJa": "国民民主党との政策協議で所得税非課税枠の引き上げ合意。2026年防災庁設置を決定。",
+        "descriptionEn": "Agreed on income tax threshold revisions with opposition and finalized 2026 Disaster Agency launch."
       }
     ],
     "sources": [
@@ -8616,10 +10128,24 @@ export const japanPrimeMinisters: Leader[] = [
     "keyEvents": [
       {
         "year": "2025",
-        "titleJa": "高市内閣（現職・憲政史上初の女性首相） 発足",
-        "titleEn": "Inauguration of Takaichi Cabinet (Incumbent)",
-        "descriptionJa": "2025-10-21、天皇より大命降下を受け組閣を執行。",
-        "descriptionEn": "Formally assumed office following imperial appointment on 2025-10-21."
+        "titleJa": "高市早苗 憲政史上初の女性内閣総理大臣就任",
+        "titleEn": "Sanae Takaichi Inaugurated as Japan's 1st Female Prime Minister",
+        "descriptionJa": "第104代内閣総理大臣に選出。日本の憲政史上初となる女性首相が誕生。",
+        "descriptionEn": "Inaugurated as the 104th Prime Minister, making history as Japan's first female head of government."
+      },
+      {
+        "year": "2025",
+        "titleJa": "経済安全保障の抜本強化・サイバーセキュリティ司令塔設置",
+        "titleEn": "Economic Security Overhaul & National Cybersecurity Center",
+        "descriptionJa": "先端半導体・AI・量子技術・重要鉱物のサプライチェーン強靭化と能動的サイバー防御（ACD）法制化を推進。",
+        "descriptionEn": "Strengthened strategic supply chains in semiconductors/AI and established active cyber defense legal frameworks."
+      },
+      {
+        "year": "2025",
+        "titleJa": "科学技術立国・次世代エネルギー（核融合・SMR）重点投資",
+        "titleEn": "Next-Generation Energy & Advanced Tech Strategic Investment",
+        "descriptionJa": "次世代革新炉（SMR）や核融合発電、宇宙開発・量子コンピューティングへの国家的集中投資を断行。",
+        "descriptionEn": "Launched major national investments in next-generation fusion energy, quantum computing, and space exploration."
       }
     ],
     "sources": [

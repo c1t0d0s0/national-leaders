@@ -67,10 +67,38 @@ export const usPresidents: Leader[] = [
     "keyEvents": [
       {
         "year": "1789",
-        "titleJa": "第1代合衆国大統領就任",
-        "titleEn": "Inaugurated as President of the United States",
-        "descriptionJa": "1789-04-30、就任式を執行。",
-        "descriptionEn": "Took the oath of office on 1789-04-30."
+        "titleJa": "初代合衆国大統領就任・最高裁判所設置",
+        "titleEn": "Inauguration & Judiciary Act of 1789",
+        "descriptionJa": "ニューヨークで初代大統領就任宣誓。連邦最高裁判所・司法省を創設。",
+        "descriptionEn": "Took oath of office in New York; Judiciary Act established federal court system and Supreme Court."
+      },
+      {
+        "year": "1791",
+        "titleJa": "権利章典（憲法修正第1〜10条）批准・合衆国第1銀行設立",
+        "titleEn": "Bill of Rights Ratified & First Bank of the US",
+        "descriptionJa": "信教・言論・集会の自由を保障する権利章典が発効。ハミルトン財務長官の進言で中央銀行設立。",
+        "descriptionEn": "First 10 constitutional amendments ratified guaranteeing civil liberties; chartered national bank."
+      },
+      {
+        "year": "1793",
+        "titleJa": "中立宣言（英仏戦争不介入）",
+        "titleEn": "Proclamation of Neutrality",
+        "descriptionJa": "フランス革命戦争において合衆国の厳正中立を宣言し新国家の安全を確保。",
+        "descriptionEn": "Declared strict neutrality in European conflict between Great Britain and Revolutionary France."
+      },
+      {
+        "year": "1794",
+        "titleJa": "ウィスキー税反乱鎮圧・ジェイ条約調印",
+        "titleEn": "Whiskey Rebellion Quelled & Jay Treaty",
+        "descriptionJa": "ペンシルベニア州のウィスキー蒸留業者武装反乱を民兵1万3000名率いて無血鎮圧。英国と国境通商条約調印。",
+        "descriptionEn": "Led federal militia to peacefully suppress tax rebellion; signed treaty with Britain settling border disputes."
+      },
+      {
+        "year": "1796",
+        "titleJa": "辞任の辞（Farewell Address・大統領2期制の確立）",
+        "titleEn": "Washington's Farewell Address",
+        "descriptionJa": "党派的対立と外国の同盟への巻き込まれに警告。自発的に3期目を辞退し2期制の伝統を確立。",
+        "descriptionEn": "Warned against partisan division and permanent foreign alliances; established two-term precedent."
       }
     ],
     "sources": [
@@ -150,10 +178,24 @@ export const usPresidents: Leader[] = [
     "keyEvents": [
       {
         "year": "1797",
-        "titleJa": "第2代合衆国大統領就任",
-        "titleEn": "Inaugurated as President of the United States",
-        "descriptionJa": "1797-03-04、就任式を執行。",
-        "descriptionEn": "Took the oath of office on 1797-03-04."
+        "titleJa": "第2代大統領就任・XYZ事件",
+        "titleEn": "Inauguration & XYZ Affair",
+        "descriptionJa": "フランス外交官が米使節に賄賂を要求した事件が発覚し対仏感情激化。",
+        "descriptionEn": "French diplomatic bribery attempt sparked nationwide American anti-French outrage."
+      },
+      {
+        "year": "1798",
+        "titleJa": "疑似戦争（対仏無宣言海戦）・外国人・治安諸法制定",
+        "titleEn": "Quasi-War with France & Alien and Sedition Acts",
+        "descriptionJa": "カリブ海で米仏海軍が交戦。政府批判を取り締まる治安法を制定し大きな物議を醸す。",
+        "descriptionEn": "Fought undeclared naval war with France; passed controversial Alien and Sedition Acts."
+      },
+      {
+        "year": "1800",
+        "titleJa": "首都ワシントンD.C.へ移転・モルトフォンテーヌ条約",
+        "titleEn": "Capital Moves to Washington D.C. & Peace with France",
+        "descriptionJa": "フィラデルフィアから新首都ワシントンへ連邦政府移転。ホワイトハウスへ初入居。フランスと平和講和調印。",
+        "descriptionEn": "Government moved to Washington D.C.; first president to reside in White House; ended Quasi-War."
       }
     ],
     "sources": [
@@ -232,11 +274,32 @@ export const usPresidents: Leader[] = [
     ],
     "keyEvents": [
       {
-        "year": "1801",
-        "titleJa": "第3代合衆国大統領就任",
-        "titleEn": "Inaugurated as President of the United States",
-        "descriptionJa": "1801-03-04、就任式を執行。",
-        "descriptionEn": "Took the oath of office on 1801-03-04."
+        "year": "1803",
+        "titleJa": "マーベリー対マディソン判決（違憲審査権確立）",
+        "titleEn": "Marbury v. Madison Landmark Ruling",
+        "descriptionJa": "最高裁が法律の合憲性を審査する「違憲立法審査権」を判例として確立。",
+        "descriptionEn": "Supreme Court established principle of judicial review over acts of Congress."
+      },
+      {
+        "year": "1803",
+        "titleJa": "ルイジアナ買収（領土が2倍に拡大）",
+        "titleEn": "Louisiana Purchase from Napoleonic France",
+        "descriptionJa": "ナポレオン率いるフランスからミシシッピ川以西の広大なルイジアナ植民地を1500万ドルで買収。",
+        "descriptionEn": "Purchased 828,000 square miles of territory from France for $15M, doubling US land area."
+      },
+      {
+        "year": "1804",
+        "titleJa": "ルイス・クラーク探検隊（太平洋到達）",
+        "titleEn": "Lewis and Clark Expedition to the Pacific",
+        "descriptionJa": "北米大陸横断探検隊を派遣し太平洋岸オレゴンまで到達。新領土の地理・資源を調査。",
+        "descriptionEn": "Dispatched Corps of Discovery across Rocky Mountains to map route to the Pacific Ocean."
+      },
+      {
+        "year": "1807",
+        "titleJa": "通商禁止法制定（ナポレオン戦争中立維持）",
+        "titleEn": "Embargo Act of 1807",
+        "descriptionJa": "英仏による米商船拿捕に対抗し全外国との通商を禁止。経済的打撃により後に撤廃。",
+        "descriptionEn": "Prohibited all American foreign trade to protect neutrality, causing severe domestic economic disruption."
       }
     ],
     "sources": [
@@ -315,11 +378,32 @@ export const usPresidents: Leader[] = [
     ],
     "keyEvents": [
       {
-        "year": "1809",
-        "titleJa": "第4代合衆国大統領就任",
-        "titleEn": "Inaugurated as President of the United States",
-        "descriptionJa": "1809-03-04、就任式を執行。",
-        "descriptionEn": "Took the oath of office on 1809-03-04."
+        "year": "1812",
+        "titleJa": "米英戦争（1812年戦争）勃発",
+        "titleEn": "Outbreak of the War of 1812",
+        "descriptionJa": "英国による米船通商妨害と水兵強制徴募に対し宣戦布告。第二次独立戦争と呼ばれる。",
+        "descriptionEn": "Declared war on Great Britain over trade restrictions and impressment of American sailors."
+      },
+      {
+        "year": "1814",
+        "titleJa": "ワシントン放火・『星条旗』誕生・ガン条約調印",
+        "titleEn": "Burning of Washington & Treaty of Ghent",
+        "descriptionJa": "英軍が首都侵攻しホワイトハウスを焼き討ち。マクヘンリー要塞防衛から国歌『星条旗』作詞。現状維持で講和。",
+        "descriptionEn": "British troops burned the White House; national anthem written at Fort McHenry; peace restored."
+      },
+      {
+        "year": "1815",
+        "titleJa": "ニューオーリンズの戦い大勝",
+        "titleEn": "Battle of New Orleans Decisive Victory",
+        "descriptionJa": "アンドリュー・ジャクソン将軍が英軍精鋭部隊を撃退し国民的英雄に。",
+        "descriptionEn": "General Andrew Jackson defeated British assault, fueling post-war American nationalism."
+      },
+      {
+        "year": "1816",
+        "titleJa": "合衆国第2銀行設立",
+        "titleEn": "Second Bank of the United States Chartered",
+        "descriptionJa": "戦後復興と通貨安定のため20年期限の中央銀行を再設立。",
+        "descriptionEn": "Chartered national bank to stabilize chaotic post-war federal currency and public credit."
       }
     ],
     "sources": [
@@ -399,10 +483,31 @@ export const usPresidents: Leader[] = [
     "keyEvents": [
       {
         "year": "1817",
-        "titleJa": "第5代合衆国大統領就任",
-        "titleEn": "Inaugurated as President of the United States",
-        "descriptionJa": "1817-03-04、就任式を執行。",
-        "descriptionEn": "Took the oath of office on 1817-03-04."
+        "titleJa": "「好感情の時代（Era of Good Feelings）」開幕",
+        "titleEn": "\"Era of Good Feelings\" Begins",
+        "descriptionJa": "党派対立が沈静化し挙国一致の国家的一体感が高まった平和期。",
+        "descriptionEn": "Period of national unity, political consensus, and economic expansion following War of 1812."
+      },
+      {
+        "year": "1819",
+        "titleJa": "アダムズ＝オニス条約（フロリダ買収）",
+        "titleEn": "Adams-Onís Treaty (Florida Acquired)",
+        "descriptionJa": "スペインからフロリダ準州を買収しテキサス・太平洋岸の境界を画定。",
+        "descriptionEn": "Acquired Florida from Spain and defined southwestern boundary to the Pacific Ocean."
+      },
+      {
+        "year": "1820",
+        "titleJa": "ミズーリ妥協（奴隷州と自由州の均衡）",
+        "titleEn": "Missouri Compromise of 1820",
+        "descriptionJa": "ミズーリ州を奴隷州、メイン州を自由州として同時に加盟させ北緯36度30分以北の奴隷制を禁止。",
+        "descriptionEn": "Maintained balance in Senate between slave and free states, banning slavery north of latitude 36°30'."
+      },
+      {
+        "year": "1823",
+        "titleJa": "モンロー宣言（モンロー主義）発表",
+        "titleEn": "Monroe Doctrine Proclaimed",
+        "descriptionJa": "ヨーロッパ諸国の米州への干渉を排除し、米国も欧州の内政に不干渉とする外交原則を宣言。",
+        "descriptionEn": "Proclaimed landmark foreign policy warning European powers against colonial intervention in the Americas."
       }
     ],
     "sources": [
@@ -482,10 +587,17 @@ export const usPresidents: Leader[] = [
     "keyEvents": [
       {
         "year": "1825",
-        "titleJa": "第6代合衆国大統領就任",
-        "titleEn": "Inaugurated as President of the United States",
-        "descriptionJa": "1825-03-04、就任式を執行。",
-        "descriptionEn": "Took the oath of office on 1825-03-04."
+        "titleJa": "エリー運河完成（大西洋と五大湖を連結）",
+        "titleEn": "Erie Canal Completed",
+        "descriptionJa": "ハドソン川とエリー湖を結ぶ大運河が開通。ニューヨークが全米最大の商業貿易都市へ急成長。",
+        "descriptionEn": "Completed 363-mile canal connecting Atlantic Ocean with Great Lakes, transforming New York commerce."
+      },
+      {
+        "year": "1828",
+        "titleJa": "「嫌悪の関税（Tariff of Abominations）」制定",
+        "titleEn": "Tariff of 1828 (\"Tariff of Abominations\")",
+        "descriptionJa": "北部製造業保護のため高率関税を課すも、綿花輸出に依存する南部諸州の激しい怒りを呼ぶ。",
+        "descriptionEn": "Protective tariff protected northern industry but sparked furious resistance across the agrarian South."
       }
     ],
     "sources": [
@@ -564,11 +676,39 @@ export const usPresidents: Leader[] = [
     ],
     "keyEvents": [
       {
-        "year": "1829",
-        "titleJa": "第7代合衆国大統領就任",
-        "titleEn": "Inaugurated as President of the United States",
-        "descriptionJa": "1829-03-04、就任式を執行。",
-        "descriptionEn": "Took the oath of office on 1829-03-04."
+        "year": "1830",
+        "titleJa": "インディアン移住法制定（「涙の旅路」）",
+        "titleEn": "Indian Removal Act Passed",
+        "descriptionJa": "先住民族チェロキー族ら南東部諸部族をミシシッピ川以西のオクラホマへ強制移住させる過酷な法案に署名。",
+        "descriptionEn": "Authorized forced relocation of Cherokee and southeastern tribes westward on the deadly \"Trail of Tears\"."
+      },
+      {
+        "year": "1832",
+        "titleJa": "銀行戦争（第2中央銀行特許更新拒否）",
+        "titleEn": "The Bank War (Veto of Second Bank of US)",
+        "descriptionJa": "特権的エリート金融機関とみなした合衆国第2銀行の再特許法案に拒否権を発動し解体へ。",
+        "descriptionEn": "Vetoed recharter of national bank, withdrawing federal deposits and dispersing funds to state banks."
+      },
+      {
+        "year": "1832",
+        "titleJa": "無効化の危機（サウスカロライナ州対立）",
+        "titleEn": "Nullification Crisis Resolved",
+        "descriptionJa": "連邦関税の無効化を宣言したサウスカロライナ州に対し軍事力行使を辞さない強硬姿勢で合衆国の統一を維持。",
+        "descriptionEn": "Faced down South Carolina nullification ordinance, preserving constitutional authority of the Union."
+      },
+      {
+        "year": "1835",
+        "titleJa": "合衆国国家債務の完全完済（史上唯一）",
+        "titleEn": "US National Debt Paid Off in Full",
+        "descriptionJa": "連邦政府の負債をゼロにし全米史上唯一の完全無借金国家を達成。",
+        "descriptionEn": "Eliminated the entire federal national debt for the only time in United States history."
+      },
+      {
+        "year": "1836",
+        "titleJa": "アラモの戦い & テキサス共和国独立",
+        "titleEn": "Battle of the Alamo & Republic of Texas Formed",
+        "descriptionJa": "メキシコ領テキサスで反乱。テキサス共和国が独立を宣言。",
+        "descriptionEn": "Texans declared independence from Mexico following the legendary siege of the Alamo mission."
       }
     ],
     "sources": [
@@ -648,10 +788,24 @@ export const usPresidents: Leader[] = [
     "keyEvents": [
       {
         "year": "1837",
-        "titleJa": "第8代合衆国大統領就任",
-        "titleEn": "Inaugurated as President of the United States",
-        "descriptionJa": "1837-03-04、就任式を執行。",
-        "descriptionEn": "Took the oath of office on 1837-03-04."
+        "titleJa": "1837年恐慌勃発（大恐慌）",
+        "titleEn": "Panic of 1837 Financial Crisis",
+        "descriptionJa": "銀行倒産と失業が全米に拡大し5年間にわたる深刻な大不況へ突入。",
+        "descriptionEn": "Speculative real estate bubble burst, leading to widespread bank failures and prolonged depression."
+      },
+      {
+        "year": "1838",
+        "titleJa": "チェロキー族「涙の旅路（Trail of Tears）」",
+        "titleEn": "Cherokee \"Trail of Tears\" Relocation",
+        "descriptionJa": "連邦軍が1万5000人以上のチェロキー族を強制連行。飢えと寒さで4000人以上が死亡。",
+        "descriptionEn": "Federal troops forcibly marched 15,000 Cherokee to Oklahoma, resulting in 4,000 deaths along the journey."
+      },
+      {
+        "year": "1839",
+        "titleJa": "アミスタッド号奴隷反乱事件裁判",
+        "titleEn": "Amistad Captive Africans Supreme Court Case",
+        "descriptionJa": "拿捕された奴隷船反乱のアフリカ人らの自由を巡る裁判で最高裁が無罪釈放判決。",
+        "descriptionEn": "Supreme Court ruled in favor of rebellious Mende captives who seized Spanish slave ship Amistad."
       }
     ],
     "sources": [
@@ -731,10 +885,10 @@ export const usPresidents: Leader[] = [
     "keyEvents": [
       {
         "year": "1841",
-        "titleJa": "第9代合衆国大統領就任",
-        "titleEn": "Inaugurated as President of the United States",
-        "descriptionJa": "1841-03-04、就任式を執行。",
-        "descriptionEn": "Took the oath of office on 1841-03-04."
+        "titleJa": "史上最長の就任演説 & 史上最短31日での現職死去",
+        "titleEn": "Longest Inaugural Address & Shortest Presidency (31 Days)",
+        "descriptionJa": "氷雨の中で8,445語の演説を行い風邪から肺炎を発症。就任後わずか31日で現職死去。",
+        "descriptionEn": "Delivered 8,445-word speech in freezing rain; died of pneumonia 31 days later, shortest term in history."
       }
     ],
     "sources": [
@@ -814,10 +968,24 @@ export const usPresidents: Leader[] = [
     "keyEvents": [
       {
         "year": "1841",
-        "titleJa": "第10代合衆国大統領就任",
-        "titleEn": "Inaugurated as President of the United States",
-        "descriptionJa": "1841-04-04、就任式を執行。",
-        "descriptionEn": "Took the oath of office on 1841-04-04."
+        "titleJa": "副大統領からの大統領昇格先例確立",
+        "titleEn": "Presidential Succession Precedent Set",
+        "descriptionJa": "大統領急死に伴い副大統領が完全な大統領権限を継承する憲法慣例（タイラーの先例）を確立。",
+        "descriptionEn": "First Vice President to succeed to the presidency, establishing clear constitutional precedent."
+      },
+      {
+        "year": "1842",
+        "titleJa": "ウェブスター＝アシュバートン条約",
+        "titleEn": "Webster-Ashburton Treaty with Britain",
+        "descriptionJa": "メイン州・五大湖周辺の米加国境紛争を英国との外交交渉で平和裏に画定。",
+        "descriptionEn": "Settled northeastern boundary disputes between the United States and British North American colonies."
+      },
+      {
+        "year": "1845",
+        "titleJa": "テキサス併合決議成立",
+        "titleEn": "Annexation of Texas Approved",
+        "descriptionJa": "退任直前にテキサス共和国を合衆国第28番目の州として併合する共同決議に署名。",
+        "descriptionEn": "Signed joint congressional resolution annexing the Republic of Texas as the 28th US state."
       }
     ],
     "sources": [
@@ -896,11 +1064,25 @@ export const usPresidents: Leader[] = [
     ],
     "keyEvents": [
       {
-        "year": "1845",
-        "titleJa": "第11代合衆国大統領就任",
-        "titleEn": "Inaugurated as President of the United States",
-        "descriptionJa": "1845-03-04、就任式を執行。",
-        "descriptionEn": "Took the oath of office on 1845-03-04."
+        "year": "1846",
+        "titleJa": "オレゴン条約調印（北緯49度国境画定）",
+        "titleEn": "Oregon Treaty with Great Britain",
+        "descriptionJa": "太平洋北西部のオレゴン・カントリー境界を北緯49度線で分割合意。",
+        "descriptionEn": "Settled Pacific Northwest boundary dispute with Britain peacefully at the 49th parallel."
+      },
+      {
+        "year": "1846",
+        "titleJa": "米墨戦争（米メキシコ戦争）開戦",
+        "titleEn": "Outbreak of the Mexican-American War",
+        "descriptionJa": "テキサス国境リオグランデ川での衝突を機にメキシコへ宣戦布告。米軍がメキシコシティ攻略。",
+        "descriptionEn": "Declared war following border skirmish; US forces captured Veracruz and occupied Mexico City."
+      },
+      {
+        "year": "1848",
+        "titleJa": "グアダルーペ・イダルゴ条約調印 & カリフォルニア・ゴールドラッシュ",
+        "titleEn": "Treaty of Guadalupe Hidalgo & Gold Rush",
+        "descriptionJa": "カリフォルニア・ネバダ・ユタ・アリゾナ・ニューメキシコを割譲獲得。サッターズミルで金鉱発見。",
+        "descriptionEn": "Acquired 525,000 sq miles of Southwest territory; gold discovered in California sparking massive rush."
       }
     ],
     "sources": [
@@ -980,10 +1162,17 @@ export const usPresidents: Leader[] = [
     "keyEvents": [
       {
         "year": "1849",
-        "titleJa": "第12代合衆国大統領就任",
-        "titleEn": "Inaugurated as President of the United States",
-        "descriptionJa": "1849-03-04、就任式を執行。",
-        "descriptionEn": "Took the oath of office on 1849-03-04."
+        "titleJa": "ゴールドラッシュ「フォーティナイナーズ（49ers）」殺到",
+        "titleEn": "California Gold Rush 49ers Influx",
+        "descriptionJa": "一攫千金を狙う10万人以上の採掘者がカリフォルニアへ殺到し人口爆発。",
+        "descriptionEn": "Over 100,000 gold seekers rushed to California, transforming it into a major economic hub."
+      },
+      {
+        "year": "1850",
+        "titleJa": "クレイトン＝ブルワー条約 & テイラー現職急死",
+        "titleEn": "Clayton-Bulwer Treaty & Sudden Death in Office",
+        "descriptionJa": "米英で将来の中米運河中立を合意。独立記念日式典後に急性胃腸炎を発症し急逝。",
+        "descriptionEn": "Signed treaty with Britain regarding isthmian canal; died suddenly in office after July 4th celebration."
       }
     ],
     "sources": [
@@ -1063,10 +1252,17 @@ export const usPresidents: Leader[] = [
     "keyEvents": [
       {
         "year": "1850",
-        "titleJa": "第13代合衆国大統領就任",
-        "titleEn": "Inaugurated as President of the United States",
-        "descriptionJa": "1850-07-09、就任式を執行。",
-        "descriptionEn": "Took the oath of office on 1850-07-09."
+        "titleJa": "1850年の妥協 & 逃亡奴隷法制定",
+        "titleEn": "Compromise of 1850 & Fugitive Slave Act",
+        "descriptionJa": "カリフォルニアを自由州として編入する一方、北部へ逃亡した黒人奴隷の強制送還を義務化し南北対立激化。",
+        "descriptionEn": "Admitted California as free state while strengthening federal slave capture laws, outraging abolitionists."
+      },
+      {
+        "year": "1852",
+        "titleJa": "ペリー提督の「黒船」日本遠征指令",
+        "titleEn": "Commodore Perry Expedition to Open Japan",
+        "descriptionJa": "海軍東インド艦隊司令長官マシュー・ペリーに親書を託し鎖国下の日本へ派遣。開国を要求。",
+        "descriptionEn": "Dispatched Commodore Perry's steam frigate fleet to Japan carrying presidential letter demanding trade."
       }
     ],
     "sources": [
@@ -1146,10 +1342,24 @@ export const usPresidents: Leader[] = [
     "keyEvents": [
       {
         "year": "1853",
-        "titleJa": "第14代合衆国大統領就任",
-        "titleEn": "Inaugurated as President of the United States",
-        "descriptionJa": "1853-03-04、就任式を執行。",
-        "descriptionEn": "Took the oath of office on 1853-03-04."
+        "titleJa": "ガズデン買収（大陸横断鉄道用地獲得）",
+        "titleEn": "Gadsden Purchase from Mexico",
+        "descriptionJa": "南部大陸横断鉄道ルート確保のためメキシコからアリゾナ南部の土地を1000万ドルで買収。",
+        "descriptionEn": "Purchased 29,670 square miles in southern Arizona and New Mexico from Mexico for transcontinental railway."
+      },
+      {
+        "year": "1854",
+        "titleJa": "日米和親条約（神奈川条約）調印（日本開国）",
+        "titleEn": "Treaty of Kanagawa Opens Japan",
+        "descriptionJa": "ペリー提督が江戸幕府と条約調印。下田・箱館を開港し250年の鎖国を終結させる。",
+        "descriptionEn": "Commodore Perry concluded historic treaty with Tokugawa Shogunate opening Shimoda and Hakodate."
+      },
+      {
+        "year": "1854",
+        "titleJa": "カンザス・ネブラスカ法制定（「血を流すカンザス」）",
+        "titleEn": "Kansas-Nebraska Act & \"Bleeding Kansas\"",
+        "descriptionJa": "奴隷制の可否を住民投票で決めるとしたため、南北から武装勢力が流入し血みどろの内戦勃発。共和党結成へ。",
+        "descriptionEn": "Repealed Missouri Compromise; ignited violent guerrilla warfare over slavery, giving birth to the Republican Party."
       }
     ],
     "sources": [
@@ -1229,10 +1439,24 @@ export const usPresidents: Leader[] = [
     "keyEvents": [
       {
         "year": "1857",
-        "titleJa": "第15代合衆国大統領就任",
-        "titleEn": "Inaugurated as President of the United States",
-        "descriptionJa": "1857-03-04、就任式を執行。",
-        "descriptionEn": "Took the oath of office on 1857-03-04."
+        "titleJa": "ドレッド・スコット判決（最高裁「黒人は市民ではない」）",
+        "titleEn": "Dred Scott v. Sandford Supreme Court Decision",
+        "descriptionJa": "最高裁が黒人奴隷に市民権を認めず、連邦議会が準州の奴隷制を禁止することは違憲と判決。北部激怒。",
+        "descriptionEn": "Supreme Court ruled African Americans could not be citizens and Congress could not prohibit territorial slavery."
+      },
+      {
+        "year": "1859",
+        "titleJa": "ジョン・ブラウンのハーパーズ・フェリー襲撃",
+        "titleEn": "John Brown's Raid on Harpers Ferry",
+        "descriptionJa": "熱狂的奴隷廃止論者ジョン・ブラウンがバージニア州の連邦武器庫を襲撃。処刑され南北緊張頂点へ。",
+        "descriptionEn": "Abolitionist John Brown led armed raid on federal armory in bid to spark slave rebellion; executed for treason."
+      },
+      {
+        "year": "1860",
+        "titleJa": "南部諸州の合衆国脱退・アメリカ連合国結成",
+        "titleEn": "Southern States Secede & Confederacy Formed",
+        "descriptionJa": "リンカン当選を受けサウスカロライナなど南部11州が脱退を宣言しアメリカ連合国（南軍）を結成。",
+        "descriptionEn": "South Carolina and 10 southern states seceded from the Union, forming Confederate States of America."
       }
     ],
     "sources": [
@@ -1312,24 +1536,45 @@ export const usPresidents: Leader[] = [
     "keyEvents": [
       {
         "year": "1861",
-        "titleJa": "南北戦争勃発（1861〜1865年）",
-        "titleEn": "American Civil War (1861-1865)",
-        "descriptionJa": "合衆国の分裂を防ぎ奴隷制廃止のため北軍を最高指揮。",
-        "descriptionEn": "Led the Union through the Civil War to preserve the nation and abolish slavery."
+        "titleJa": "サムター要塞の戦い・南北戦争勃発",
+        "titleEn": "Battle of Fort Sumter & Outbreak of Civil War",
+        "descriptionJa": "南軍の要塞砲撃で南北戦争開戦。リンカンは7万5000名の義勇兵動員を布告し合衆国防衛。",
+        "descriptionEn": "Confederate bombardment of Fort Sumter began 4-year American Civil War; Lincoln mobilized union army."
+      },
+      {
+        "year": "1862",
+        "titleJa": "ホームステッド法・太平洋鉄道法制定",
+        "titleEn": "Homestead Act & Pacific Railway Act",
+        "descriptionJa": "西武開拓者へ160エーカーの国有地を無償払い下げ、最初の大陸横断鉄道建設を承認。",
+        "descriptionEn": "Granted 160 acres of western public land to settlers and chartered the Transcontinental Railroad."
       },
       {
         "year": "1863",
-        "titleJa": "奴隷解放宣言およびゲティスバーグ演説",
-        "titleEn": "Emancipation Proclamation & Gettysburg Address",
-        "descriptionJa": "400万人の黒人奴隷を解放。「人民の人民による人民のための政治」演説を執行。",
-        "descriptionEn": "Emancipated 4 million slaves and delivered the Gettysburg Address."
+        "titleJa": "奴隷解放宣言発布",
+        "titleEn": "Emancipation Proclamation Issued",
+        "descriptionJa": "1月1日、南軍反乱地域におけるすべての黒人奴隷を「永久に自由」と宣言。戦争目的を奴隷廃止へ昇華。",
+        "descriptionEn": "Declared all enslaved persons in Confederate-held territories \"forever free\", transforming war into moral crusade."
       },
       {
-        "year": "1861",
-        "titleJa": "第16代合衆国大統領就任",
-        "titleEn": "Inaugurated as President of the United States",
-        "descriptionJa": "1861-03-04、就任式を執行。",
-        "descriptionEn": "Took the oath of office on 1861-03-04."
+        "year": "1863",
+        "titleJa": "ゲティスバーグの戦い勝利 & ゲティスバーグ演説",
+        "titleEn": "Battle of Gettysburg & Gettysburg Address",
+        "descriptionJa": "東部戦線最大の激戦でリー将軍の南軍を撃退。「人民の、人民による、人民のための政治」不朽の演説。",
+        "descriptionEn": "Defeated Confederate invasion; delivered historic address: \"government of the people, by the people, for the people\"."
+      },
+      {
+        "year": "1865",
+        "titleJa": "アポマトックス講和（南軍降伏）・憲法修正第13条可決",
+        "titleEn": "Confederate Surrender at Appomattox & 13th Amendment",
+        "descriptionJa": "リー将軍がグラント将軍に降伏し南北戦争終結（戦死者62万人）。奴隷制全廃の憲法修正条項可決。",
+        "descriptionEn": "General Lee surrendered to Ulysses S. Grant ending Civil War; Congress passed 13th Amendment abolishing slavery."
+      },
+      {
+        "year": "1865",
+        "titleJa": "リンカン大統領暗殺事件（フォード劇場）",
+        "titleEn": "Assassination of Abraham Lincoln",
+        "descriptionJa": "終戦直後の4月14日、ワシントン・フォード劇場で観劇中に南軍支持者ジョン・ウィルクス・ブースに銃撃され死去。",
+        "descriptionEn": "Shot by actor John Wilkes Booth at Ford's Theatre five days after Confederate surrender; died next morning."
       }
     ],
     "sources": [
@@ -1409,10 +1654,24 @@ export const usPresidents: Leader[] = [
     "keyEvents": [
       {
         "year": "1865",
-        "titleJa": "第17代合衆国大統領就任",
-        "titleEn": "Inaugurated as President of the United States",
-        "descriptionJa": "1865-04-15、就任式を執行。",
-        "descriptionEn": "Took the oath of office on 1865-04-15."
+        "titleJa": "憲法修正第13条批准（奴隷制度の完全廃止）",
+        "titleEn": "13th Amendment Ratified (Abolition of Slavery)",
+        "descriptionJa": "全米全域において奴隷制および本人の意に反する苦役を永久に禁止。",
+        "descriptionEn": "Officially and permanently abolished slavery and involuntary servitude throughout the United States."
+      },
+      {
+        "year": "1867",
+        "titleJa": "アラスカ買収（「スワードの愚行」）",
+        "titleEn": "Alaska Purchase from Russian Empire ($7.2M)",
+        "descriptionJa": "スワード国務長官がロシア帝国からアラスカを720万ドル（1エーカー約2セント）で買収。後に金・石油の宝庫に。",
+        "descriptionEn": "Acquired 586,412 square miles from Russia for $7.2 million, initially mocked as \"Seward's Folly\"."
+      },
+      {
+        "year": "1868",
+        "titleJa": "憲法修正第14条批准 & 大統領弾劾裁判（1票差無罪）",
+        "titleEn": "14th Amendment Ratified & Impeachment Trial",
+        "descriptionJa": "元奴隷を含むすべての人に市民権と法の下の平等を保障。南部復興方針を巡り下院から弾劾訴追されるも上院で1票差無罪。",
+        "descriptionEn": "Guaranteed birthright citizenship and equal protection; first president impeached, acquitted by 1 vote in Senate."
       }
     ],
     "sources": [
@@ -1492,17 +1751,38 @@ export const usPresidents: Leader[] = [
     "keyEvents": [
       {
         "year": "1869",
-        "titleJa": "ブラック・フライデー（1869年9月24日・金投機恐慌）",
-        "titleEn": "Black Friday Gold Panic (September 24, 1869)",
-        "descriptionJa": "ウォール街の投機家ジェイ・グールドらによる金買い占め工作に対し、グラント大統領が連邦保有金を電撃売却して金価格を急落させ恐慌を鎮静化。",
-        "descriptionEn": "President Grant released federal gold reserves to break Wall Street cornering scheme on Black Friday."
+        "titleJa": "第1回大陸横断鉄道開通 & ブラックフライデー（金市場崩壊）",
+        "titleEn": "Transcontinental Railroad Completed & Black Friday Gold Panic",
+        "descriptionJa": "ユタ州プロモントリー・サミットで線路が連結。投機家による金買占め破綻でウォール街大暴落。グラント政府が金放出。",
+        "descriptionEn": "Golden spike driven uniting East and West coasts by rail; Treasury intervened to break Fisk-Gould gold corner."
       },
       {
-        "year": "1869",
-        "titleJa": "第18代合衆国大統領就任",
-        "titleEn": "Inaugurated as President of the United States",
-        "descriptionJa": "1869-03-04、就任式を執行。",
-        "descriptionEn": "Took the oath of office on 1869-03-04."
+        "year": "1870",
+        "titleJa": "憲法修正第15条批准（黒人男性の参政権保障）",
+        "titleEn": "15th Amendment Ratified (Voting Rights)",
+        "descriptionJa": "人種・肌の色・過去の奴隷身分を理由とする投票権制限を禁止。",
+        "descriptionEn": "Prohibited denial of voting rights based on race, color, or previous condition of servitude."
+      },
+      {
+        "year": "1871",
+        "titleJa": "クー・クラックス・クラン（KKK）法制定",
+        "titleEn": "Ku Klux Klan Act Enacted",
+        "descriptionJa": "黒人・共和党員への白人至上主義テロを取り締まるため連邦軍を動員しKKKを壊滅に追い込む。",
+        "descriptionEn": "Authorized federal military intervention to crush white supremacist terrorist violence in the South."
+      },
+      {
+        "year": "1872",
+        "titleJa": "イエローストーン国立公園設立（世界初）",
+        "titleEn": "Yellowstone National Park Established",
+        "descriptionJa": "世界で初めて自然環境保護を目的とする連邦国立公園を創設。",
+        "descriptionEn": "Signed act creating Yellowstone as the world's first national park for public enjoyment."
+      },
+      {
+        "year": "1873",
+        "titleJa": "1873年恐慌 & リトルビッグホーンの戦い（1876年）",
+        "titleEn": "Panic of 1873 & Battle of the Little Bighorn",
+        "descriptionJa": "鉄道投機破綻から大不況。カスター中佐率いる第7騎兵隊が先住民族シッティング・ブルらに全滅させられる。",
+        "descriptionEn": "Severe financial collapse; General Custer's 7th Cavalry wiped out by Lakota Sioux and Cheyenne warriors."
       }
     ],
     "sources": [
@@ -1582,10 +1862,24 @@ export const usPresidents: Leader[] = [
     "keyEvents": [
       {
         "year": "1877",
-        "titleJa": "第19代合衆国大統領就任",
-        "titleEn": "Inaugurated as President of the United States",
-        "descriptionJa": "1877-03-04、就任式を執行。",
-        "descriptionEn": "Took the oath of office on 1877-03-04."
+        "titleJa": "1877年の妥協（南部復興再建の終結）",
+        "titleEn": "Compromise of 1877 (Reconstruction Ends)",
+        "descriptionJa": "大統領選論争の決着として南部から連邦軍を完全撤退させ、レコンストラクション時代が終焉。ジム・クロウ法へ道。",
+        "descriptionEn": "Withdrew federal troops from southern states, ending Reconstruction and leading to Jim Crow segregation."
+      },
+      {
+        "year": "1877",
+        "titleJa": "全米鉄道大ストライキ",
+        "titleEn": "Great Railroad Strike of 1877",
+        "descriptionJa": "賃下げに抗議する鉄道労働者のストが全米に拡大。ヘイズ大統領は連邦軍を投入し鎮圧。",
+        "descriptionEn": "Nationwide rail strike crippled transport; Hayes deployed federal troops to restore rail traffic."
+      },
+      {
+        "year": "1879",
+        "titleJa": "正貨支払再開法発効（金本位制復帰）",
+        "titleEn": "Specie Payment Resumption (Gold Standard)",
+        "descriptionJa": "南北戦争時代の紙幣（グリーンバック）を金貨と等価交換可能にし米ドルの国際的信用を回復。",
+        "descriptionEn": "Resumed gold redemption for US paper currency, placing United States firmly on the gold standard."
       }
     ],
     "sources": [
@@ -1665,10 +1959,10 @@ export const usPresidents: Leader[] = [
     "keyEvents": [
       {
         "year": "1881",
-        "titleJa": "第20代合衆国大統領就任",
-        "titleEn": "Inaugurated as President of the United States",
-        "descriptionJa": "1881-03-04、就任式を執行。",
-        "descriptionEn": "Took the oath of office on 1881-03-04."
+        "titleJa": "ガーフィールド大統領狙撃暗殺事件",
+        "titleEn": "Assassination of President Garfield",
+        "descriptionJa": "就任わずか4ヶ月後、ワシントン駅で猟官運動狂信者チャールズ・ギトーに背後から銃撃され、79日間の闘病の末に死去。",
+        "descriptionEn": "Shot by disappointed office-seeker Charles Guiteau at Washington rail station; died 79 days later from infection."
       }
     ],
     "sources": [
@@ -1747,11 +2041,25 @@ export const usPresidents: Leader[] = [
     ],
     "keyEvents": [
       {
-        "year": "1881",
-        "titleJa": "第21代合衆国大統領就任",
-        "titleEn": "Inaugurated as President of the United States",
-        "descriptionJa": "1881-09-19、就任式を執行。",
-        "descriptionEn": "Took the oath of office on 1881-09-19."
+        "year": "1882",
+        "titleJa": "中国人排斥法制定",
+        "titleEn": "Chinese Exclusion Act Enacted",
+        "descriptionJa": "特定民族の移民を禁止する合衆国史上初の連邦法に署名。中国人労働者の移民を10年間禁止。",
+        "descriptionEn": "First significant federal legislation restricting all immigration of a specific ethnic nationality."
+      },
+      {
+        "year": "1883",
+        "titleJa": "ペンドルトン公務員制度改革法制定",
+        "titleEn": "Pendleton Civil Service Reform Act",
+        "descriptionJa": "猟官制（スポイルズ・システム）を打破し、試験による実力主義（メリット・システム）に基づく近代官僚制度を創設。",
+        "descriptionEn": "Replaced corrupt spoils system with professional, merit-based competitive civil service exams."
+      },
+      {
+        "year": "1883",
+        "titleJa": "ブルックリン橋開通・新海軍近代化（鋼鉄艦隊）着手",
+        "titleEn": "Brooklyn Bridge Opens & Modern Steel Navy Launched",
+        "descriptionJa": "ニューヨークに世界最長の吊り橋が完成。木造艦から近代鋼鉄装甲巡洋艦の建造プログラムを開始。",
+        "descriptionEn": "Opened engineering marvel Brooklyn Bridge and authorized the construction of modern steel-hulled warships."
       }
     ],
     "sources": [
@@ -1830,11 +2138,25 @@ export const usPresidents: Leader[] = [
     ],
     "keyEvents": [
       {
-        "year": "1885",
-        "titleJa": "第22代合衆国大統領就任",
-        "titleEn": "Inaugurated as President of the United States",
-        "descriptionJa": "1885-03-04、就任式を執行。",
-        "descriptionEn": "Took the oath of office on 1885-03-04."
+        "year": "1886",
+        "titleJa": "自由の女神像除幕式（ニューヨーク港）",
+        "titleEn": "Statue of Liberty Dedicated in New York Harbor",
+        "descriptionJa": "フランスから寄贈された独立100周年記念「世界を照らす自由」像の除幕式を主宰。移民の希望の象徴に。",
+        "descriptionEn": "Presided over official dedication of France's gift of the Statue of Liberty Enlightening the World."
+      },
+      {
+        "year": "1886",
+        "titleJa": "ヘイマーケット事件 & アメリカ労働総同盟（AFL）結成",
+        "titleEn": "Haymarket Riot in Chicago & AFL Founded",
+        "descriptionJa": "シカゴの8時間労働デモで爆弾爆発（メーデーの起源）。サミュエル・ゴンパーズがAFLを結党。",
+        "descriptionEn": "Violent labor bombing in Chicago inspired May Day; Samuel Gompers founded American Federation of Labor."
+      },
+      {
+        "year": "1887",
+        "titleJa": "州間通商法制定（ICC設立） & ドーズ法",
+        "titleEn": "Interstate Commerce Act & Dawes General Allotment Act",
+        "descriptionJa": "鉄道運賃カルテルを規制する初の独立連邦規制機関（ICC）を創設。先住民族居留地の個別分割を規定。",
+        "descriptionEn": "Created Interstate Commerce Commission to regulate rail rates; divided Native American tribal lands."
       }
     ],
     "sources": [
@@ -1913,11 +2235,25 @@ export const usPresidents: Leader[] = [
     ],
     "keyEvents": [
       {
-        "year": "1889",
-        "titleJa": "第23代合衆国大統領就任",
-        "titleEn": "Inaugurated as President of the United States",
-        "descriptionJa": "1889-03-04、就任式を執行。",
-        "descriptionEn": "Took the oath of office on 1889-03-04."
+        "year": "1890",
+        "titleJa": "シャーマン反トラスト法制定（独占禁止法）",
+        "titleEn": "Sherman Antitrust Act Enacted",
+        "descriptionJa": "自由競争を阻害する企業合同・トラストを非合法化する全米初の包括的独占禁止法が成立。",
+        "descriptionEn": "Landmark federal statute prohibiting monopolistic trusts and anti-competitive business combinations."
+      },
+      {
+        "year": "1890",
+        "titleJa": "マッキンリー関税法 & ウンデッド・ニーの虐殺",
+        "titleEn": "McKinley Tariff & Wounded Knee Massacre",
+        "descriptionJa": "平均関税率49.5%の高関税法。サウスダコタ州で米第7騎兵隊が先住民族ラコタ族250名以上を虐殺（インディアン戦争終結）。",
+        "descriptionEn": "Enacted record 49.5% tariff; US cavalry massacred over 250 Lakota at Wounded Knee, ending Indian Wars."
+      },
+      {
+        "year": "1890",
+        "titleJa": "森林保護区法制定（国立森林保護区の創設）",
+        "titleEn": "Forest Reserve Act of 1890",
+        "descriptionJa": "連邦政府が公有地を国立森林保護区として恒久的に保護する権限を確立。",
+        "descriptionEn": "Empowered president to set aside public forested lands as permanent federal nature reserves."
       }
     ],
     "sources": [
@@ -1997,10 +2333,24 @@ export const usPresidents: Leader[] = [
     "keyEvents": [
       {
         "year": "1893",
-        "titleJa": "第24代合衆国大統領就任",
-        "titleEn": "Inaugurated as President of the United States",
-        "descriptionJa": "1893-03-04、就任式を執行。",
-        "descriptionEn": "Took the oath of office on 1893-03-04."
+        "titleJa": "1893年恐慌勃発（史上深刻な大不況）",
+        "titleEn": "Panic of 1893 Economic Depression",
+        "descriptionJa": "鉄道破綻と金準備枯渇から500以上の銀行が倒産。クリーブランドは銀購入法を撤廃し金本位制死守。",
+        "descriptionEn": "Catastrophic economic collapse; Cleveland repealed Sherman Silver Purchase Act to save gold reserves."
+      },
+      {
+        "year": "1894",
+        "titleJa": "プルマン・ストライキへの連邦軍投入",
+        "titleEn": "Pullman Strike Crushed with Federal Troops",
+        "descriptionJa": "全米鉄道組合のストライキに対し連邦郵便輸送妨害を理由に陸軍を派遣し実力鎮圧。",
+        "descriptionEn": "Dispatched federal troops and court injunctions to crush Eugene Debs' nationwide railroad strike."
+      },
+      {
+        "year": "1896",
+        "titleJa": "プレッシー対ファーガソン判決（「分離すれども平等」）",
+        "titleEn": "Plessy v. Ferguson (\"Separate but Equal\")",
+        "descriptionJa": "最高裁が人種隔離政策を合憲と認め、南部のジム・クロウ人種隔離体制が司法的に固定化。",
+        "descriptionEn": "Supreme Court upheld racial segregation constitutionality under infamous \"separate but equal\" doctrine."
       }
     ],
     "sources": [
@@ -2079,11 +2429,32 @@ export const usPresidents: Leader[] = [
     ],
     "keyEvents": [
       {
-        "year": "1897",
-        "titleJa": "第25代合衆国大統領就任",
-        "titleEn": "Inaugurated as President of the United States",
-        "descriptionJa": "1897-03-04、就任式を執行。",
-        "descriptionEn": "Took the oath of office on 1897-03-04."
+        "year": "1898",
+        "titleJa": "米西戦争（米スペイン戦争）大勝",
+        "titleEn": "Spanish-American War Victory",
+        "descriptionJa": "戦艦メイン号爆沈を機に開戦。マニラ湾海戦・サンフアンヒルの戦いで圧勝しフィリピン・プエルトリコ・グアムを獲得。",
+        "descriptionEn": "Decisive victory liberated Cuba and ceded Puerto Rico, Guam, and Philippines to the United States."
+      },
+      {
+        "year": "1898",
+        "titleJa": "ハワイ併合",
+        "titleEn": "Annexation of Hawaii",
+        "descriptionJa": "太平洋の戦略拠点ハワイ共和国を連邦領土として正式併合。",
+        "descriptionEn": "Signed Newlands Resolution officially annexing the Hawaiian Islands as a US territory."
+      },
+      {
+        "year": "1899",
+        "titleJa": "対中「門戸開放宣言」",
+        "titleEn": "Open Door Policy in China",
+        "descriptionJa": "ジョン・ヘイ国務長官が列強に対し中国市場への無差別通商・門戸開放・領土保全を提唱。",
+        "descriptionEn": "Advocated equal trade access and commercial opportunity for all nations across Qing dynasty China."
+      },
+      {
+        "year": "1901",
+        "titleJa": "マッキンリー大統領暗殺事件（バッファロー万博）",
+        "titleEn": "Assassination of President McKinley",
+        "descriptionJa": "パン・アメリカン博覧会で無政府主義者レオン・チョルゴッシュに近距離から銃撃され、8日後に死去。",
+        "descriptionEn": "Shot by anarchist Leon Czolgosz in Buffalo, New York; died of gangrene one week later."
       }
     ],
     "sources": [
@@ -2162,11 +2533,39 @@ export const usPresidents: Leader[] = [
     ],
     "keyEvents": [
       {
-        "year": "1901",
-        "titleJa": "第26代合衆国大統領就任",
-        "titleEn": "Inaugurated as President of the United States",
-        "descriptionJa": "1901-09-14、就任式を執行。",
-        "descriptionEn": "Took the oath of office on 1901-09-14."
+        "year": "1902",
+        "titleJa": "無煙炭鉱ストライキ調停（「スクエア・ディール（公平政策）」）",
+        "titleEn": "Anthracite Coal Strike Arbitration (\"Square Deal\")",
+        "descriptionJa": "大統領自ら労働者と資本家の仲介に入り調停。資本の横暴を抑え公平な政策を展開。",
+        "descriptionEn": "First president to mediate a labor dispute, forcing coal barons to arbitrate with miners."
+      },
+      {
+        "year": "1903",
+        "titleJa": "パナマ運河地帯買収・運河建設開始",
+        "titleEn": "Panama Canal Concession Secured",
+        "descriptionJa": "パナマ独立を軍事支援しパナマ運河条約を調印。大西洋と太平洋を結ぶ世紀の大工事を主導。",
+        "descriptionEn": "Backed Panamanian independence from Colombia and secured perpetual canal zone rights."
+      },
+      {
+        "year": "1905",
+        "titleJa": "日露戦争ポーツマス講和仲介（ノーベル平和賞受賞）",
+        "titleEn": "Portsmouth Peace Conference (Nobel Peace Prize)",
+        "descriptionJa": "日露両国の全権をニューハンプシャー州ポーツマスに招き講和条約調印を斡旋。米国人初のノーベル平和賞を受賞。",
+        "descriptionEn": "Mediated end to Russo-Japanese War, becoming the first American to win the Nobel Peace Prize."
+      },
+      {
+        "year": "1906",
+        "titleJa": "純正食品薬品法・食肉検査法制定 & 古物保存法",
+        "titleEn": "Pure Food and Drug Act & Antiquities Act",
+        "descriptionJa": "食品・薬品の安全基準を義務付け消費者保護を確立。グランドキャニオンなど国立記念物を多数保護指定。",
+        "descriptionEn": "Mandated federal food sanitation standards and created 230 million acres of protected national parks."
+      },
+      {
+        "year": "1907",
+        "titleJa": "グレート・ホワイト・フリート（世界一周航海）",
+        "titleEn": "Great White Fleet Global Naval Tour",
+        "descriptionJa": "米海軍新鋭戦艦16隻を白く塗装し世界一周航海（日本にも寄港）。米国の海軍大国化を誇示。",
+        "descriptionEn": "Sent 16 battleships on a global cruise demonstrating rising American naval power worldwide."
       }
     ],
     "sources": [
@@ -2245,11 +2644,32 @@ export const usPresidents: Leader[] = [
     ],
     "keyEvents": [
       {
-        "year": "1909",
-        "titleJa": "第27代合衆国大統領就任",
-        "titleEn": "Inaugurated as President of the United States",
-        "descriptionJa": "1909-03-04、就任式を執行。",
-        "descriptionEn": "Took the oath of office on 1909-03-04."
+        "year": "1910",
+        "titleJa": "マン＝エルキンス法制定（通信規制拡大）",
+        "titleEn": "Mann-Elkins Act Expands ICC Powers",
+        "descriptionJa": "州間通商委員会の権限を電信・電話・通信事業にまで拡大。",
+        "descriptionEn": "Extended Interstate Commerce Commission regulation over telephone, telegraph, and cable companies."
+      },
+      {
+        "year": "1911",
+        "titleJa": "スタンダード・オイル社解体命令（独占禁止法適用）",
+        "titleEn": "Standard Oil Antitrust Monopoly Breakup",
+        "descriptionJa": "最高裁がロックフェラーの石油帝国に対し反トラスト法違反で34社への分割解体を命令。",
+        "descriptionEn": "Supreme Court ordered the antitrust dissolution of Rockefeller's Standard Oil monopoly into 34 firms."
+      },
+      {
+        "year": "1912",
+        "titleJa": "豪華客船タイタニック号沈没",
+        "titleEn": "Sinking of the RMS Titanic",
+        "descriptionJa": "北大西洋で氷山に衝突し沈没（死者1500名以上）。国際的な海上安全基準を制定。",
+        "descriptionEn": "Titanic sank on maiden voyage; US Senate held historic hearings establishing maritime safety rules."
+      },
+      {
+        "year": "1913",
+        "titleJa": "憲法修正第16条批准（連邦所得税創設）",
+        "titleEn": "16th Amendment Ratified (Federal Income Tax)",
+        "descriptionJa": "連邦政府が国民の所得に直接税を課す恒久的な権限を確立。",
+        "descriptionEn": "Authorized Congress to levy a nationwide federal income tax without apportionment among states."
       }
     ],
     "sources": [
@@ -2329,10 +2749,45 @@ export const usPresidents: Leader[] = [
     "keyEvents": [
       {
         "year": "1913",
-        "titleJa": "第28代合衆国大統領就任",
-        "titleEn": "Inaugurated as President of the United States",
-        "descriptionJa": "1913-03-04、就任式を執行。",
-        "descriptionEn": "Took the oath of office on 1913-03-04."
+        "titleJa": "連邦準備制度（FRB）創設 & クレイトン反トラスト法",
+        "titleEn": "Federal Reserve Act & Clayton Antitrust Act",
+        "descriptionJa": "連邦準備法により12の中央銀行とFRBを設置し近代金融体制を確立。独占規制を大幅強化。",
+        "descriptionEn": "Created modern central banking Federal Reserve System and outlawed predatory corporate practices."
+      },
+      {
+        "year": "1914",
+        "titleJa": "パナマ運河開通 & 第一次世界大戦勃発",
+        "titleEn": "Panama Canal Opens & WWI Begins in Europe",
+        "descriptionJa": "8月15日パナマ運河が正式開通。欧州で第一次世界大戦が勃発（当初中立を維持）。",
+        "descriptionEn": "Completed Panama Canal engineering wonder; proclaimed American neutrality as World War I began."
+      },
+      {
+        "year": "1917",
+        "titleJa": "第一次世界大戦参戦（対独宣戦布告）",
+        "titleEn": "US Enters World War I Against Germany",
+        "descriptionJa": "無制限潜水艦作戦とツィンマーマン電報を受け参戦。200万人の米遠征軍（AEF）を欧州戦線へ派遣。",
+        "descriptionEn": "Declared war following German unrestricted submarine warfare and intercepted Zimmermann Telegram."
+      },
+      {
+        "year": "1918",
+        "titleJa": "「十四カ条の平和原則」発表 & スペインかぜ大流行",
+        "titleEn": "Wilson's Fourteen Points & Spanish Flu Pandemic",
+        "descriptionJa": "民族自決・国際連盟創設を柱とする講和原則を提示。世界的大流行で全米67万人が病没。",
+        "descriptionEn": "Outlined visionary blueprint for post-war peace and League of Nations; fought deadly flu pandemic."
+      },
+      {
+        "year": "1919",
+        "titleJa": "ベルサイユ講和条約調印 & 憲法修正第18条（禁酒法）",
+        "titleEn": "Treaty of Versailles & 18th Amendment (Prohibition)",
+        "descriptionJa": "パリ講和会議を主導（ノーベル平和賞受賞）。酒類の製造・販売・輸送を禁じる禁酒法が発効。",
+        "descriptionEn": "Negotiated Versailles Peace Treaty and League Covenant; nationwide ban on alcoholic beverages enacted."
+      },
+      {
+        "year": "1920",
+        "titleJa": "憲法修正第19条批准（女性参政権の完全獲得）",
+        "titleEn": "19th Amendment Ratified (Women's Suffrage)",
+        "descriptionJa": "性別による投票権制限を禁止し、全米の女性が完全な参政権を獲得。",
+        "descriptionEn": "Granted women the constitutional right to vote in all federal and state elections across the US."
       }
     ],
     "sources": [
@@ -2412,10 +2867,24 @@ export const usPresidents: Leader[] = [
     "keyEvents": [
       {
         "year": "1921",
-        "titleJa": "第29代合衆国大統領就任",
-        "titleEn": "Inaugurated as President of the United States",
-        "descriptionJa": "1921-03-04、就任式を執行。",
-        "descriptionEn": "Took the oath of office on 1921-03-04."
+        "titleJa": "ワシントン海軍軍縮会議開催（主力艦比率協定）",
+        "titleEn": "Washington Naval Conference",
+        "descriptionJa": "ワシントンに列強を招き主力艦保有比率（米英5：日3）の軍縮条約を調印。",
+        "descriptionEn": "Convened first international disarmament conference, successfully limiting naval battleship tonnage."
+      },
+      {
+        "year": "1922",
+        "titleJa": "フォードニー＝マッカンバー関税法制定",
+        "titleEn": "Fordney-McCumber Tariff Enacted",
+        "descriptionJa": "国内農業・製造業を保護するため輸入品に対する関税率を大幅に引き上げ。",
+        "descriptionEn": "Raised American import tariffs to historic highs to protect post-war domestic agriculture."
+      },
+      {
+        "year": "1923",
+        "titleJa": "ティーポット・ドーム事件（海軍油田汚職） & ハーディング急死",
+        "titleEn": "Teapot Dome Scandal & Sudden Death in San Francisco",
+        "descriptionJa": "内務長官フォールが海軍石油備蓄基地を賄賂で民間石油会社に不正貸与。サンフランシスコで急死。",
+        "descriptionEn": "Interior Secretary took bribes for naval oil reserves; Harding died suddenly on speaking tour."
       }
     ],
     "sources": [
@@ -2494,11 +2963,25 @@ export const usPresidents: Leader[] = [
     ],
     "keyEvents": [
       {
-        "year": "1923",
-        "titleJa": "第30代合衆国大統領就任",
-        "titleEn": "Inaugurated as President of the United States",
-        "descriptionJa": "1923-08-02、就任式を執行。",
-        "descriptionEn": "Took the oath of office on 1923-08-02."
+        "year": "1924",
+        "titleJa": "インディアン市民権法 & 1924年移民法制定",
+        "titleEn": "Indian Citizenship Act & 1924 Immigration Act",
+        "descriptionJa": "すべての先住民族に米市民権を付与。国別割当制によりアジア系移民を全面排除。",
+        "descriptionEn": "Granted citizenship to all Native Americans; enacted strict national origin quotas barring Asian immigrants."
+      },
+      {
+        "year": "1927",
+        "titleJa": "リンドバーグ 大西洋単独無着陸飛行成功",
+        "titleEn": "Charles Lindbergh Solo Transatlantic Flight",
+        "descriptionJa": "ニューヨークからパリまで33時間30分で飛行。大衆消費社会「狂騒の20年代」が頂点に。",
+        "descriptionEn": "Spirit of St. Louis flew non-stop from NY to Paris, igniting global aviation boom and Roaring Twenties."
+      },
+      {
+        "year": "1928",
+        "titleJa": "ケロッグ＝ブリアン不戦条約調印",
+        "titleEn": "Kellogg-Briand Pact Renounces War",
+        "descriptionJa": "国際紛争解決の手段としての戦争を放棄する多国間平和条約をパリで調印。",
+        "descriptionEn": "Signed treaty with 62 nations renouncing war as an instrument of national policy."
       }
     ],
     "sources": [
@@ -2578,17 +3061,24 @@ export const usPresidents: Leader[] = [
     "keyEvents": [
       {
         "year": "1929",
-        "titleJa": "ウォール街大暴落（暗黒の木曜日・世界大恐慌の始まり）",
-        "titleEn": "Wall Street Crash of 1929 (Great Depression)",
-        "descriptionJa": "1929年10月24日、ニューヨーク株式市場で株価が大暴落し世界大恐慌に突入。フーバーダム建設等を行うも深刻な不況が継続。",
-        "descriptionEn": "Stock market crashed initiating the Great Depression; launched major public projects like Hoover Dam."
+        "titleJa": "ウォール街大暴落（暗黒の木曜日・大恐慌勃発）",
+        "titleEn": "Wall Street Crash of 1929 (Black Tuesday)",
+        "descriptionJa": "10月29日ニューヨーク株式市場が大暴落。連鎖的銀行破綻と未曾有の世界恐慌が世界を直撃。",
+        "descriptionEn": "Stock market crashed on Black Tuesday, wiping out fortunes and launching the Great Depression."
       },
       {
-        "year": "1929",
-        "titleJa": "第31代合衆国大統領就任",
-        "titleEn": "Inaugurated as President of the United States",
-        "descriptionJa": "1929-03-04、就任式を執行。",
-        "descriptionEn": "Took the oath of office on 1929-03-04."
+        "year": "1930",
+        "titleJa": "スムート＝ホーリー関税法制定（世界貿易崩壊）",
+        "titleEn": "Smoot-Hawley Tariff Act",
+        "descriptionJa": "輸入品に2万品目の超高関税を課したため諸外国の報復関税を招き、世界貿易が3分の1に激減。",
+        "descriptionEn": "Raised tariffs to record 60%, triggering retaliatory trade wars that deepened global depression."
+      },
+      {
+        "year": "1932",
+        "titleJa": "ボーナス・アーミー（復員軍人デモ強制排除） & ダストボウル",
+        "titleEn": "Bonus Army March & Dust Bowl Drought",
+        "descriptionJa": "退職金前払いを求める退役軍人キャンプを戦車と催涙ガスで武力排除。大平原で猛烈な砂嵐被害。",
+        "descriptionEn": "General MacArthur cleared WWI veteran protest camp with tanks; massive dust storms devastated Midwest."
       }
     ],
     "sources": [
@@ -2668,24 +3158,45 @@ export const usPresidents: Leader[] = [
     "keyEvents": [
       {
         "year": "1933",
-        "titleJa": "ニューディール政策始動（大恐慌克服）",
-        "titleEn": "Launch of the New Deal (Great Depression Relief)",
-        "descriptionJa": "社会保障法、テネシー川流域開発公社（TVA）、緊急銀行救済法を次々制定。",
-        "descriptionEn": "Pioneered landmark social security, banking reforms, and infrastructure works."
+        "titleJa": "ニューディール政策「最初の100日」 & 禁酒法撤廃",
+        "titleEn": "First 100 Days New Deal & Prohibition Repealed",
+        "descriptionJa": "緊急銀行法、グラス・スティーガル法、TVA、CCC、AAAを矢継ぎ早に成立。憲法修正第21条で禁酒法撤廃。",
+        "descriptionEn": "Enacted sweeping recovery laws (FDIC, TVA, CCC); 21st Amendment ratified ending 13 years of Prohibition."
+      },
+      {
+        "year": "1935",
+        "titleJa": "社会保障法制定（年金・失業保険創設） & ワグナー法",
+        "titleEn": "Social Security Act of 1935 & Wagner Act",
+        "descriptionJa": "全米規模の老齢年金・失業保険制度を創設。労働者の団結権・団体交渉権を法的に確立。",
+        "descriptionEn": "Established US Social Security welfare net and protected labor union collective bargaining rights."
       },
       {
         "year": "1941",
-        "titleJa": "真珠湾攻撃と第二次世界大戦参戦（1941年12月8日）",
-        "titleEn": "Pearl Harbor Attack & Entry into World War II",
-        "descriptionJa": "日本軍の真珠湾攻撃を受け「屈辱の日」演説を行い対日参戦。連合国首脳として対ナチス・日本戦を勝利へ指揮。",
-        "descriptionEn": "Delivered Day of Infamy speech after Pearl Harbor, leading Allies in WWII victory."
+        "titleJa": "武器貸与法制定 & 真珠湾攻撃・第二次世界大戦参戦",
+        "titleEn": "Lend-Lease Act & Pearl Harbor Attack (US Enters WWII)",
+        "descriptionJa": "「民主主義の兵器廠」として連合国へ武器供与。12月7日真珠湾被襲。「屈辱の日」演説で参戦。",
+        "descriptionEn": "Supplied Allied nations; entered WWII after Dec 7 Japanese attack on Pearl Harbor (\"Date which will live in infamy\")."
       },
       {
-        "year": "1933",
-        "titleJa": "第32代合衆国大統領就任",
-        "titleEn": "Inaugurated as President of the United States",
-        "descriptionJa": "1933-03-04、就任式を執行。",
-        "descriptionEn": "Took the oath of office on 1933-03-04."
+        "year": "1942",
+        "titleJa": "大統領令9066号（日系人強制収容） & マンハッタン計画",
+        "titleEn": "Executive Order 9066 & Manhattan Project Begins",
+        "descriptionJa": "西海岸の日系アメリカ人12万人を強制収容所へ隔離。極秘原爆開発計画を承認・開始。",
+        "descriptionEn": "Interned 120,000 Japanese Americans in camps; initiated top-secret project developing atomic bomb."
+      },
+      {
+        "year": "1944",
+        "titleJa": "ノルマンディー上陸作戦（D-Day） & ブレトンウッズ協定",
+        "titleEn": "D-Day Normandy Landings & Bretton Woods System",
+        "descriptionJa": "6月6日史上最大の連合軍上陸作戦で西欧解放へ。戦後通貨体制（IMF・世界銀行・ドル基軸）確立。",
+        "descriptionEn": "Launched massive Allied cross-channel invasion liberating Europe; created post-war IMF/World Bank system."
+      },
+      {
+        "year": "1945",
+        "titleJa": "ヤルタ会談 & ルーズベルト大統領急死（4期目）",
+        "titleEn": "Yalta Conference & Sudden Death of FDR",
+        "descriptionJa": "チャーチル・スターリンと戦後欧州秩序を協議。4期目就任直後の4月12日、脳出血で急逝。",
+        "descriptionEn": "Shaped post-war world order with Churchill and Stalin; died of cerebral hemorrhage at Warm Springs."
       }
     ],
     "sources": [
@@ -2765,17 +3276,45 @@ export const usPresidents: Leader[] = [
     "keyEvents": [
       {
         "year": "1945",
-        "titleJa": "広島・長崎への原子爆弾投下命令と第二次世界大戦勝利",
-        "titleEn": "Atomic Bombings of Hiroshima/Nagasaki & WWII Victory",
-        "descriptionJa": "1945年8月、史上初の実戦原爆投下を命令し終戦を決定。国連創設および冷戦期のマーシャル・プランを主導。",
-        "descriptionEn": "Authorized the atomic bombings of Hiroshima and Nagasaki, concluding WWII."
+        "titleJa": "ナチス・ドイツ降伏（V-E Day） & 原爆投下・終戦（V-J Day）",
+        "titleEn": "German Surrender, Atomic Bombings & WWII Ends",
+        "descriptionJa": "5月欧州勝利。8月広島・長崎へ原爆投下命令を下し第二次世界大戦を完全終結させる。",
+        "descriptionEn": "Victory in Europe achieved; authorized atomic bombing of Hiroshima and Nagasaki, ending World War II."
       },
       {
         "year": "1945",
-        "titleJa": "第33代合衆国大統領就任",
-        "titleEn": "Inaugurated as President of the United States",
-        "descriptionJa": "1945-04-12、就任式を執行。",
-        "descriptionEn": "Took the oath of office on 1945-04-12."
+        "titleJa": "国際連合（UN）憲章調印",
+        "titleEn": "United Nations Charter Signed in San Francisco",
+        "descriptionJa": "サンフランシスコ会議で50カ国が国連憲章に署名。国際平和維持機関が正式発足。",
+        "descriptionEn": "Signed foundational charter in San Francisco, establishing the United Nations organization."
+      },
+      {
+        "year": "1947",
+        "titleJa": "トルーマン・ドクトリン & マーシャル・プラン（冷戦開幕）",
+        "titleEn": "Truman Doctrine & Marshall Plan Aid",
+        "descriptionJa": "ソ連共産主義封じ込め方針を宣言。欧州復興のため130億ドルの大規模経済援助を実施。",
+        "descriptionEn": "Launched Soviet containment policy and funded massive economic reconstruction of democratic Europe."
+      },
+      {
+        "year": "1948",
+        "titleJa": "ベルリン大空輸 & 米軍の人種隔離撤廃令",
+        "titleEn": "Berlin Airlift & Military Desegregation (EO 9981)",
+        "descriptionJa": "ソ連の西ベルリン封鎖に対し空輸作戦で物資を空輸。大統領令9981号で米軍内の人種差別を全廃。",
+        "descriptionEn": "Broke Soviet blockade with 278,000 supply flights; abolished racial discrimination in US Armed Forces."
+      },
+      {
+        "year": "1949",
+        "titleJa": "北大西洋条約機構（NATO）創設",
+        "titleEn": "NATO Military Alliance Founded",
+        "descriptionJa": "欧米12カ国で集団防衛同盟NATOを設立。ソ連原爆実験成功・中華人民共和国成立。",
+        "descriptionEn": "Formed historic transatlantic defense alliance; Soviets tested A-bomb and Communists won China."
+      },
+      {
+        "year": "1950",
+        "titleJa": "朝鮮戦争参戦 & マッカーサー総司令官解任",
+        "titleEn": "Korean War Intervention & MacArthur Relieved",
+        "descriptionJa": "国連軍として米軍を朝鮮半島へ派遣。中国本土爆撃を主張するマッカーサー司令官を文民統制で更迭。",
+        "descriptionEn": "Deployed troops under UN flag; dismissed General MacArthur over strategic insubordination."
       }
     ],
     "sources": [
@@ -2855,10 +3394,52 @@ export const usPresidents: Leader[] = [
     "keyEvents": [
       {
         "year": "1953",
-        "titleJa": "第34代合衆国大統領就任",
-        "titleEn": "Inaugurated as President of the United States",
-        "descriptionJa": "1953-01-20、就任式を執行。",
-        "descriptionEn": "Took the oath of office on 1953-01-20."
+        "titleJa": "朝鮮戦争休戦協定調印",
+        "titleEn": "Korean War Armistice Signed at Panmunjom",
+        "descriptionJa": "板門店で休戦協定調印。軍事境界線（38度線）を設定し戦闘終結。",
+        "descriptionEn": "Ended active hostilities in Korea, establishing the Korean Demilitarized Zone (DMZ)."
+      },
+      {
+        "year": "1954",
+        "titleJa": "ブラウン対教育委員会判決（公立校人種隔離違憲）",
+        "titleEn": "Brown v. Board of Education Landmark Ruling",
+        "descriptionJa": "最高裁が公立学校における白人と黒人の分離教育を「本質的に不平等」として違憲判決。公民権運動前進。",
+        "descriptionEn": "Supreme Court unanimously struck down racial segregation in public schools as unconstitutional."
+      },
+      {
+        "year": "1956",
+        "titleJa": "州間高速道路法制定（全米ハイウェイ網建設）",
+        "titleEn": "Federal-Aid Highway Act (Interstate Highway System)",
+        "descriptionJa": "国防と経済物流のため全米を結ぶ総延長6万6000kmの高速道路網建設を開始。",
+        "descriptionEn": "Authorized 41,000 miles of high-speed Interstate highways, transforming American commerce and suburbs."
+      },
+      {
+        "year": "1957",
+        "titleJa": "リトルロック高校事件（第101空挺師団派遣）",
+        "titleEn": "Little Rock Nine Integration Enforced",
+        "descriptionJa": "アーカンソー州で黒人生徒の登校を妨害する人種差別派に対し連邦軍を派遣し護衛。",
+        "descriptionEn": "Deployed 101st Airborne Division troops to enforce integration of black students at Little Rock High School."
+      },
+      {
+        "year": "1958",
+        "titleJa": "米航空宇宙局（NASA）創設（スプートニク・ショック）",
+        "titleEn": "NASA Created (Sputnik Crisis Response)",
+        "descriptionJa": "ソ連の人類初人工衛星打ち上げを受け宇宙開発競争へ参入。NASAを新設。",
+        "descriptionEn": "Created National Aeronautics and Space Administration following Soviet Sputnik satellite launch."
+      },
+      {
+        "year": "1959",
+        "titleJa": "アラスカ州・ハワイ州加盟（全米50州完成）",
+        "titleEn": "Alaska & Hawaii Admitted as 49th and 50th States",
+        "descriptionJa": "アラスカ（第49州）とハワイ（第50州）を合衆国へ正式加盟させ星条旗が50星に。",
+        "descriptionEn": "Admitted final two territories as states, completing the modern 50-star American flag."
+      },
+      {
+        "year": "1961",
+        "titleJa": "退任演説「軍産複合体の脅威への警告」",
+        "titleEn": "Farewell Address: Warning on Military-Industrial Complex",
+        "descriptionJa": "軍部と兵器産業が不当な影響力を持つ「軍産複合体（Military-Industrial Complex）」に警鐘。",
+        "descriptionEn": "Famously warned the nation against the acquisition of unwarranted influence by the military-industrial complex."
       }
     ],
     "sources": [
@@ -2937,18 +3518,46 @@ export const usPresidents: Leader[] = [
     ],
     "keyEvents": [
       {
-        "year": "1962",
-        "titleJa": "キューバ危機（1962年10月・核戦争の危機回避）",
-        "titleEn": "Cuban Missile Crisis (October 1962)",
-        "descriptionJa": "ソ連のキューバ核ミサイル配備に対し海上封鎖を断行。フルシチョフとの極秘交渉で米ソ核戦争を回避。",
-        "descriptionEn": "Enforced naval blockade against Soviet missiles in Cuba, successfully averting global nuclear war."
+        "year": "1961",
+        "titleJa": "就任演説「国があなたに何をしてくれるかではなく…」 & 平和部隊創設",
+        "titleEn": "Inaugural Address & Peace Corps Created",
+        "descriptionJa": "43歳で就任。「国家が諸君のために何をなしうるかを問うな」と呼びかけ。発展途上国支援の平和部隊を設立。",
+        "descriptionEn": "Historic address: \"Ask not what your country can do for you...\"; founded the volunteer Peace Corps."
       },
       {
         "year": "1961",
-        "titleJa": "第35代合衆国大統領就任",
-        "titleEn": "Inaugurated as President of the United States",
-        "descriptionJa": "1961-01-20、就任式を執行。",
-        "descriptionEn": "Took the oath of office on 1961-01-20."
+        "titleJa": "ピッグス湾事件（対キューバ侵攻失敗） & ベルリンの壁建設",
+        "titleEn": "Bay of Pigs Invasion & Berlin Wall Erected",
+        "descriptionJa": "亡命キューバ人部隊によるカストロ政権打倒作戦が失敗。東独がベルリンの壁を建設。",
+        "descriptionEn": "Failed CIA-backed invasion of Cuba; Soviet-backed East Germany erected the Berlin Wall."
+      },
+      {
+        "year": "1962",
+        "titleJa": "キューバ危機（核戦争危機の平和的回避）",
+        "titleEn": "Cuban Missile Crisis (13 Days of Nuclear Showdown)",
+        "descriptionJa": "キューバにソ連製核ミサイル配備が発覚。海上封鎖を敷きフルシチョフと交渉、核戦争をギリギリで回避。",
+        "descriptionEn": "Naval blockade forced removal of Soviet nuclear missiles from Cuba, avoiding third world war."
+      },
+      {
+        "year": "1963",
+        "titleJa": "「私はベルリン市民である」演説 & 部分的核実験禁止条約（PTBT）",
+        "titleEn": "\"Ich bin ein Berliner\" Speech & Partial Nuclear Test Ban Treaty",
+        "descriptionJa": "西ベルリンで自由の価値を演説。米英ソ間で大気圏・水中・宇宙空間での核実験禁止条約に調印。",
+        "descriptionEn": "Famous Cold War solidarity speech in West Berlin; signed historic environmental nuclear test ban treaty."
+      },
+      {
+        "year": "1963",
+        "titleJa": "ワシントン大行進（キング牧師「私には夢がある」）",
+        "titleEn": "March on Washington (MLK \"I Have a Dream\")",
+        "descriptionJa": "25万人の市民が公民権を求めて行進。ケネディ大統領は包括的公民権法案の成立を公約。",
+        "descriptionEn": "Over 250,000 civil rights marchers gathered at Lincoln Memorial; Kennedy pushed for landmark civil rights law."
+      },
+      {
+        "year": "1963",
+        "titleJa": "ケネディ大統領暗殺事件（テキサス州ダラス）",
+        "titleEn": "Assassination of President John F. Kennedy",
+        "descriptionJa": "11月22日、ダラス市内をオープンカーでパレード中に狙撃され46歳で急逝。世界に衝撃。",
+        "descriptionEn": "Assassinated by sniper rifle in Dallas, Texas on Nov 22; Vice President Johnson sworn in aboard Air Force One."
       }
     ],
     "sources": [
@@ -3027,11 +3636,46 @@ export const usPresidents: Leader[] = [
     ],
     "keyEvents": [
       {
-        "year": "1963",
-        "titleJa": "第36代合衆国大統領就任",
-        "titleEn": "Inaugurated as President of the United States",
-        "descriptionJa": "1963-11-22、就任式を執行。",
-        "descriptionEn": "Took the oath of office on 1963-11-22."
+        "year": "1964",
+        "titleJa": "1964年公民権法制定（人種隔離・雇用の完全撤廃）",
+        "titleEn": "Civil Rights Act of 1964 Signed into Law",
+        "descriptionJa": "公共施設における人種隔離と人種・性別・宗教に基づく雇用差別を全米で非合法化。",
+        "descriptionEn": "Outlawed discrimination based on race, color, religion, sex, or national origin in public places and jobs."
+      },
+      {
+        "year": "1964",
+        "titleJa": "トンキン湾決議（ベトナム戦争本格介入）",
+        "titleEn": "Gulf of Tonkin Resolution (Vietnam Escalation)",
+        "descriptionJa": "米駆逐艦被撃事件を受け議会が武力行使権限を付与。北爆開始と地上軍50万人規模の派兵へ泥沼化。",
+        "descriptionEn": "Authorized military escalation in Vietnam, leading to major bombing campaigns and 500,000 US combat troops."
+      },
+      {
+        "year": "1965",
+        "titleJa": "1965年投票権法制定 & メディケア・メディケイド創設（偉大な社会）",
+        "titleEn": "Voting Rights Act of 1965 & Medicare/Medicaid (Great Society)",
+        "descriptionJa": "南部黒人の投票権妨害（識字テスト等）を全廃。高齢者医療保険（メディケア）・低所得者医療支援を創設。",
+        "descriptionEn": "Abolished discriminatory voting tests; created landmark Medicare elderly healthcare and Medicaid safety net."
+      },
+      {
+        "year": "1965",
+        "titleJa": "1965年移民法制定（国別割当制撤廃）",
+        "titleEn": "Immigration and Nationality Act of 1965",
+        "descriptionJa": "1924年以来の白人優先の国別割当制度を撤廃し、アジア・中南米からの移民受け入れへ門戸開放。",
+        "descriptionEn": "Abolished national origins quotas, transforming American demographic diversity."
+      },
+      {
+        "year": "1967",
+        "titleJa": "サーグッド・マーシャル 最高裁初のアフリカ系判事任命",
+        "titleEn": "Thurgood Marshall Appointed 1st Black Supreme Court Justice",
+        "descriptionJa": "名弁護士マーシャルを黒人初の連邦最高裁判所判事に任命。",
+        "descriptionEn": "Appointed legendary civil rights lawyer as the first African American Supreme Court Justice."
+      },
+      {
+        "year": "1968",
+        "titleJa": "テト攻勢 & キング牧師・ロバート・ケネディ暗殺事件",
+        "titleEn": "Tet Offensive & Assassinations of MLK and RFK",
+        "descriptionJa": "ベトナム全土で北ベトナム軍大反攻。国内で反戦デモ激化。キング牧師とロバート・ケネディが相次ぎ暗殺。ジョンソン再選不出馬。",
+        "descriptionEn": "Tet Offensive shattered support for Vietnam War; tragic assassinations of MLK and RFK; LBJ bowed out of 1968 race."
       }
     ],
     "sources": [
@@ -3110,25 +3754,46 @@ export const usPresidents: Leader[] = [
     ],
     "keyEvents": [
       {
+        "year": "1969",
+        "titleJa": "アポロ11号 人類初の月面着陸成功",
+        "titleEn": "Apollo 11 Lands on the Moon",
+        "descriptionJa": "7月20日、ニール・アームストロング船長が月面に足跡。「一人の人間にとっては小さな一歩だが、人類にとっては偉大な飛躍」。",
+        "descriptionEn": "Neil Armstrong and Buzz Aldrin became the first humans to walk on the lunar surface."
+      },
+      {
+        "year": "1970",
+        "titleJa": "環境保護庁（EPA）創設・第1回アースデイ",
+        "titleEn": "Environmental Protection Agency (EPA) Created",
+        "descriptionJa": "大気浄化法・水質浄化法を施行し、環境汚染対策を統括する連邦EPAを創設。",
+        "descriptionEn": "Created EPA and signed Clean Air Act amendments to enforce environmental standards."
+      },
+      {
+        "year": "1971",
+        "titleJa": "「ニクソン・ショック」（金ドル交換停止）",
+        "titleEn": "Nixon Shock (Gold Standard Severed)",
+        "descriptionJa": "米ドルの金兌換停止を電撃発表。ブレトンウッズ体制が終焉し変動相場制へ移行。",
+        "descriptionEn": "Unilaterally ended US dollar convertibility to gold, ending fixed Bretton Woods monetary system."
+      },
+      {
         "year": "1972",
-        "titleJa": "米中歴史的和解（1972年2月北京電撃訪問）",
-        "titleEn": "Nixon Visits China (Historic Détente)",
-        "descriptionJa": "毛沢東・周恩来と会談し冷戦下の外交勢力図を一変させる。",
-        "descriptionEn": "Opened relations with Communist China changing the global Cold War balance."
+        "titleJa": "ニクソン大統領 中国電撃訪問 & SALT I条約調印",
+        "titleEn": "Historic Visit to China & Moscow Summit SALT I",
+        "descriptionJa": "北京で毛沢東・周恩来と会談し米中和解の道を開く。モスクワで戦略兵器制限条約に署名。",
+        "descriptionEn": "Historic trip to Beijing opened diplomatic breakthrough with China; signed nuclear arms pact with USSR."
+      },
+      {
+        "year": "1973",
+        "titleJa": "パリ和平協定（米軍ベトナム完全撤退） & ロー対ウェイド判決",
+        "titleEn": "Paris Peace Accords (Vietnam Exit) & Roe v. Wade",
+        "descriptionJa": "米軍の直接戦闘任務を終了し撤退完了。最高裁が憲法上の人工妊娠中絶の権利を認める判決。",
+        "descriptionEn": "Concluded Paris Accords ending US military involvement in Vietnam; Roe v. Wade legalized abortion."
       },
       {
         "year": "1974",
-        "titleJa": "ウォーターゲート事件と合衆国大統領辞任（1974年8月9日）",
-        "titleEn": "Watergate Scandal & Presidential Resignation",
-        "descriptionJa": "民主党本部盗聴と隠蔽工作が暴露。弾劾訴追を前に米史上初となる任期途中での大統領辞任。",
-        "descriptionEn": "First US President to resign from office amid the Watergate cover-up scandal."
-      },
-      {
-        "year": "1969",
-        "titleJa": "第37代合衆国大統領就任",
-        "titleEn": "Inaugurated as President of the United States",
-        "descriptionJa": "1969-01-20、就任式を執行。",
-        "descriptionEn": "Took the oath of office on 1969-01-20."
+        "titleJa": "ウォーターゲート事件・ニクソン大統領辞任（全米初）",
+        "titleEn": "Watergate Scandal & First Presidential Resignation",
+        "descriptionJa": "民主党本部盗聴と政権ぐるみの隠蔽工作（スモーキング・ガン録音テープ）が露見。弾劾訴追前に自ら辞任。",
+        "descriptionEn": "Resigned presidency on Aug 9 to avoid certain impeachment and removal over Watergate break-in cover-up."
       }
     ],
     "sources": [
@@ -3208,10 +3873,31 @@ export const usPresidents: Leader[] = [
     "keyEvents": [
       {
         "year": "1974",
-        "titleJa": "第38代合衆国大統領就任",
-        "titleEn": "Inaugurated as President of the United States",
-        "descriptionJa": "1974-08-09、就任式を執行。",
-        "descriptionEn": "Took the oath of office on 1974-08-09."
+        "titleJa": "ニクソン前大統領への無条件恩赦",
+        "titleEn": "Full Presidential Pardon Granted to Richard Nixon",
+        "descriptionJa": "国民の分断を癒やすためとしてニクソン前大統領の刑事責任を免除する特赦を発令。猛烈な批判を浴びる。",
+        "descriptionEn": "Granted controversial full and unconditional pardon to Richard Nixon for all Watergate offenses."
+      },
+      {
+        "year": "1975",
+        "titleJa": "サイゴン陥落・ベトナム戦争完全終結",
+        "titleEn": "Fall of Saigon & Vietnam War Ends",
+        "descriptionJa": "北ベトナム軍が南ベトナム首都サイゴンを制圧。米大使館員や難民をヘリで脱出させ戦争終息。",
+        "descriptionEn": "North Vietnamese forces captured Saigon; massive helicopter evacuation ended 20-year conflict."
+      },
+      {
+        "year": "1975",
+        "titleJa": "ヘルシンキ宣言調印（東西対話と人権保障）",
+        "titleEn": "Helsinki Accords Signed",
+        "descriptionJa": "米ソ欧35カ国で国境不可侵と基本的人権・自由の尊重を誓約。冷戦緩和（デタント）を推進。",
+        "descriptionEn": "Signed landmark accord with Soviet bloc nations respecting post-WWII borders and universal human rights."
+      },
+      {
+        "year": "1976",
+        "titleJa": "アメリカ建国200周年記念祭（Bicentennial）",
+        "titleEn": "United States Bicentennial Celebrations",
+        "descriptionJa": "7月4日、独立宣言200周年を祝う祝賀イベントが全米で開催。",
+        "descriptionEn": "Nationwide celebrations marking the 200th anniversary of the adoption of the Declaration of Independence."
       }
     ],
     "sources": [
@@ -3291,10 +3977,38 @@ export const usPresidents: Leader[] = [
     "keyEvents": [
       {
         "year": "1977",
-        "titleJa": "第39代合衆国大統領就任",
-        "titleEn": "Inaugurated as President of the United States",
-        "descriptionJa": "1977-01-20、就任式を執行。",
-        "descriptionEn": "Took the oath of office on 1977-01-20."
+        "titleJa": "パナマ運河条約調印（運河返還合意）",
+        "titleEn": "Panama Canal Treaties Signed",
+        "descriptionJa": "1999年末をもってパナマ運河の施政権と運河地帯をパナマ政府へ完全返還する条約に署名。",
+        "descriptionEn": "Agreed to transfer full sovereignty of Panama Canal and Canal Zone back to Panama by 1999."
+      },
+      {
+        "year": "1978",
+        "titleJa": "キャンプ・デービッド合意（エジプト・イスラエル和平条約）",
+        "titleEn": "Camp David Accords (Egypt-Israel Peace)",
+        "descriptionJa": "カーターの仲介でエジプト大統領サダトとイスラエル首相ベギンが歴史的和解文書に調印。",
+        "descriptionEn": "Brokered historic peace framework between Egypt and Israel leading to formal 1979 peace treaty."
+      },
+      {
+        "year": "1979",
+        "titleJa": "米中国交樹立 & スリーマイル島原発事故",
+        "titleEn": "US-China Diplomatic Relations & Three Mile Island",
+        "descriptionJa": "中華人民共和国と正式に外交関係を樹立（台湾断交）。ペンシルベニア州原発で炉心一部溶融事故。",
+        "descriptionEn": "Formal diplomatic recognition established with Beijing; worst commercial nuclear accident in US history."
+      },
+      {
+        "year": "1979",
+        "titleJa": "イラン革命 & イラン米大使館人質事件",
+        "titleEn": "Iranian Revolution & Iran Hostage Crisis",
+        "descriptionJa": "テヘランの米大使館がイスラム学生に占拠され外交官ら52名が444日間にわたり人質拘束。救出作戦失敗。",
+        "descriptionEn": "52 American diplomats held hostage for 444 days in Tehran; failed military rescue mission crippled presidency."
+      },
+      {
+        "year": "1980",
+        "titleJa": "モスクワ五輪ボイコット & スタグフレーション危機",
+        "titleEn": "Moscow Olympics Boycott & Stagflation Crisis",
+        "descriptionJa": "ソ連のアフガニスタン侵攻に抗議し五輪不参加。高インフレと高失業率・金利20%の深刻な経済不況。",
+        "descriptionEn": "Led 65-nation boycott of Moscow Games; double-digit inflation and unemployment plagued economy."
       }
     ],
     "sources": [
@@ -3373,18 +4087,39 @@ export const usPresidents: Leader[] = [
     ],
     "keyEvents": [
       {
-        "year": "1987",
-        "titleJa": "ブラックマンデー（1987年10月19日）とINF条約調印",
-        "titleEn": "Black Monday Crash (1987) & INF Treaty with USSR",
-        "descriptionJa": "史上最大の株価急落（ブラックマンデー）に対し迅速な金融流動性を供給。同年12月、ゴルバチョフと中距離核戦力（INF）全廃条約に調印し冷戦終結を加速。",
-        "descriptionEn": "Stabilized markets during Black Monday and signed historic INF Nuclear Treaty with Gorbachev."
+        "year": "1981",
+        "titleJa": "人質解放・暗殺未遂生還 & レーガノミクス（大規模減税）",
+        "titleEn": "Hostages Freed, Survives Assassination & Reaganomics",
+        "descriptionJa": "就任日にイラン人質解放。銃撃され重傷を負うも生還。供給重視の大型減税・規制緩和・軍備拡張を推進。",
+        "descriptionEn": "Hostages freed; survived assassination shooting; enacted major supply-side tax and spending cuts."
       },
       {
         "year": "1981",
-        "titleJa": "第40代合衆国大統領就任",
-        "titleEn": "Inaugurated as President of the United States",
-        "descriptionJa": "1981-01-20、就任式を執行。",
-        "descriptionEn": "Took the oath of office on 1981-01-20."
+        "titleJa": "サンドラ・デイ・オコナー 最高裁初の女性判事任命",
+        "titleEn": "Sandra Day O'Connor Appointed 1st Female Justice",
+        "descriptionJa": "連邦最高裁判所の歴史上初めて女性判事を任命。",
+        "descriptionEn": "Fulfilled campaign pledge appointing the first woman to serve on the Supreme Court."
+      },
+      {
+        "year": "1983",
+        "titleJa": "戦略防衛構想（SDI「スターウォーズ計画」） & グレナダ侵攻",
+        "titleEn": "Strategic Defense Initiative (SDI) & Grenada",
+        "descriptionJa": "宇宙空間から弾道ミサイルを迎撃する防衛構想を発表。カリブ海のグレナダに軍事介入し共産政権排除。",
+        "descriptionEn": "Announced space-based anti-missile defense concept; deployed troops to topple Marxist regime in Grenada."
+      },
+      {
+        "year": "1986",
+        "titleJa": "スペースシャトル・チャレンジャー号爆発 & イラン・コントラ事件",
+        "titleEn": "Challenger Shuttle Disaster & Iran-Contra Affair",
+        "descriptionJa": "打ち上げ73秒後に空中爆発し宇宙飛行士7名死亡。イランへの秘密武器売却資金をニカラグア反共ゲリラへ不正援助。",
+        "descriptionEn": "Space Shuttle exploded on launch; covert scandal revealed illicit arms sales funding Contras in Nicaragua."
+      },
+      {
+        "year": "1987",
+        "titleJa": "ベルリン演説「ゴルバチョフ書記長、この壁を壊しなさい！」 & 中距離核戦力（INF）全廃条約",
+        "titleEn": "\"Tear Down This Wall!\" Speech & INF Treaty Signed",
+        "descriptionJa": "ブランデンブルク門前で演説。ゴルバチョフと米ソ間の地上発射中距離ミサイルを全廃する歴史的条約に調印。",
+        "descriptionEn": "Challenged Soviet leader in Berlin; signed historic bilateral disarmament treaty eliminating intermediate missiles."
       }
     ],
     "sources": [
@@ -3464,10 +4199,38 @@ export const usPresidents: Leader[] = [
     "keyEvents": [
       {
         "year": "1989",
-        "titleJa": "第41代合衆国大統領就任",
-        "titleEn": "Inaugurated as President of the United States",
-        "descriptionJa": "1989-01-20、就任式を執行。",
-        "descriptionEn": "Took the oath of office on 1989-01-20."
+        "titleJa": "ベルリンの壁崩壊・マルタ首脳会談（冷戦終結宣言）",
+        "titleEn": "Fall of the Berlin Wall & Malta Cold War Summit",
+        "descriptionJa": "東西冷戦の象徴ベルリンの壁が崩壊。地中海マルタでゴルバチョフと会談し冷戦の終結を公式宣言。パナマ侵攻。",
+        "descriptionEn": "Berlin Wall fell; President Bush and Mikhail Gorbachev declared the end of the Cold War at Malta."
+      },
+      {
+        "year": "1990",
+        "titleJa": "障害を持つアメリカ人法（ADA） & ドイツ再統一",
+        "titleEn": "Americans with Disabilities Act (ADA) & German Reunification",
+        "descriptionJa": "障害者に対する差別を禁止する画期的な公民権法を制定。米英仏ソの合意で東西ドイツが正式再統一。",
+        "descriptionEn": "Signed landmark civil rights legislation protecting people with disabilities; supported unified Germany."
+      },
+      {
+        "year": "1991",
+        "titleJa": "湾岸戦争（砂漠の嵐作戦）電撃勝利",
+        "titleEn": "Gulf War (Operation Desert Storm) Decisive Victory",
+        "descriptionJa": "イラク軍に占領されたクウェートを解放するため米主導の多国籍軍が空爆と地上戦を展開。100時間で圧倒的勝利。",
+        "descriptionEn": "Formed 35-nation coalition liberating Kuwait from Iraqi forces in 100-hour ground offensive."
+      },
+      {
+        "year": "1991",
+        "titleJa": "ソビエト連邦崩壊（冷戦完全終結） & START I条約",
+        "titleEn": "Dissolution of the Soviet Union & START I Treaty",
+        "descriptionJa": "モスクワで戦略兵器削減条約に調印。12月ソ連が解体し冷戦に完全勝利。",
+        "descriptionEn": "Signed strategic arms reduction treaty with Moscow; Soviet Union collapsed on Christmas Day."
+      },
+      {
+        "year": "1992",
+        "titleJa": "北米自由貿易協定（NAFTA）交渉妥結",
+        "titleEn": "NAFTA Free Trade Agreement Negotiated",
+        "descriptionJa": "アメリカ・カナダ・メキシコの三国間による巨大自由貿易圏協定の調印をまとめる。",
+        "descriptionEn": "Negotiated sweeping trilateral trade pact creating tariff-free North American economic zone."
       }
     ],
     "sources": [
@@ -3547,10 +4310,45 @@ export const usPresidents: Leader[] = [
     "keyEvents": [
       {
         "year": "1993",
-        "titleJa": "第42代合衆国大統領就任",
-        "titleEn": "Inaugurated as President of the United States",
-        "descriptionJa": "1993-01-20、就任式を執行。",
-        "descriptionEn": "Took the oath of office on 1993-01-20."
+        "titleJa": "家族・医療休暇法（FMLA） & オスロ合意調印式（ホワイトハウス）",
+        "titleEn": "Family and Medical Leave Act & Oslo Accords Signed",
+        "descriptionJa": "育児・介護休業を認める法案に署名。ホワイトハウス南庭でイスラエル・ラビン首相とPLOアラファト議長が握手。",
+        "descriptionEn": "Signed worker medical leave law; hosted historic handshake between Yitzhak Rabin and Yasser Arafat."
+      },
+      {
+        "year": "1994",
+        "titleJa": "NAFTA発効 & 暴力犯罪取締法（アサルトウェポン禁止）",
+        "titleEn": "NAFTA Takes Effect & 1994 Crime Bill Passed",
+        "descriptionJa": "北米自由貿易協定が発効。10万人の警察官増員と殺傷力の高い軍用半自動小銃の民間販売を禁止。",
+        "descriptionEn": "Implemented NAFTA free trade and passed comprehensive crime legislation banning assault weapons."
+      },
+      {
+        "year": "1995",
+        "titleJa": "オクラホマシティ連邦政府ビル爆破事件 & デイトン和平合意",
+        "titleEn": "Oklahoma City Bombing (168 dead) & Dayton Accords",
+        "descriptionJa": "極右テロリストが爆薬トラックを爆破（死者168名・国内最悪のテロ）。ボスニア内戦を終結させる和平合意仲介。",
+        "descriptionEn": "Domestic terrorist Timothy McVeigh bombed Murrah Federal Building; brokered peace ending Bosnian War."
+      },
+      {
+        "year": "1996",
+        "titleJa": "福祉改革法制定（就労支援型社会保障）",
+        "titleEn": "Welfare Reform Act of 1996 Enacted",
+        "descriptionJa": "生活保護に就労要件と受給期間制限（最長5年）を導入し、自立支援型福祉へ抜本転換。",
+        "descriptionEn": "Replaced traditional federal welfare entitlement with work requirements and state block grants."
+      },
+      {
+        "year": "1998",
+        "titleJa": "連邦財政黒字化達成（30年ぶり） & ベルファスト合意",
+        "titleEn": "First Federal Budget Surplus in 30 Years & Good Friday Agreement",
+        "descriptionJa": "IT景気と財政規律により連邦財政が史上稀な黒字を記録。北アイルランド和平協定仲介。",
+        "descriptionEn": "Achieved budget surplus of $69B during dot-com boom; helped broker Northern Ireland peace."
+      },
+      {
+        "year": "1998",
+        "titleJa": "モニカ・ルインスキー醜聞・大統領弾劾裁判（無罪）",
+        "titleEn": "Lewinsky Scandal & Impeachment Acquittal",
+        "descriptionJa": "不倫関係の偽証・司法妨害容疑で下院が弾劾訴追。上院の弾劾裁判で無罪判決を獲得し任期全う。",
+        "descriptionEn": "Impeached by House on perjury and obstruction charges; acquitted by Senate with popular support."
       }
     ],
     "sources": [
@@ -3630,24 +4428,45 @@ export const usPresidents: Leader[] = [
     "keyEvents": [
       {
         "year": "2001",
-        "titleJa": "9.11アメリカ同時多発テロ（2001年9月11日）",
-        "titleEn": "September 11 Terrorist Attacks (9/11)",
-        "descriptionJa": "アルカイダによるハイジャック機がWTCツインタワー・国防総省に激突（犠牲者2,977名）。「対テロ戦争」を宣言。",
-        "descriptionEn": "Al-Qaeda terrorists crashed hijacked airliners into WTC and Pentagon, sparking the War on Terror."
-      },
-      {
-        "year": "2008",
-        "titleJa": "リーマン・ショック（2008年9月・世界金融危機）",
-        "titleEn": "Lehman Brothers Collapse & 2008 Financial Crisis",
-        "descriptionJa": "サブプライム住宅ローン破綻からリーマン・ブラザーズが倒産。7000億ドルの金融安定化法（TARP）を成立させ金融システム崩壊を阻止。",
-        "descriptionEn": "Subprime crisis toppled Lehman Brothers; passed $700B TARP bailout to prevent financial collapse."
+        "titleJa": "9.11アメリカ同時多発テロ事件（2977名犠牲）",
+        "titleEn": "September 11 Terrorist Attacks (2,977 victims)",
+        "descriptionJa": "アルカイダがハイジャックした旅客機4機が世界貿易センタービル・ペンタゴンへ突入。愛国者法（PATRIOT Act）制定。",
+        "descriptionEn": "Al-Qaeda terrorists flew hijacked jets into Twin Towers and Pentagon; signed USA PATRIOT Act."
       },
       {
         "year": "2001",
-        "titleJa": "第43代合衆国大統領就任",
-        "titleEn": "Inaugurated as President of the United States",
-        "descriptionJa": "2001-01-20、就任式を執行。",
-        "descriptionEn": "Took the oath of office on 2001-01-20."
+        "titleJa": "アフガニスタン戦争開戦（不朽の自由作戦）",
+        "titleEn": "War in Afghanistan Launched",
+        "descriptionJa": "ビンラディンを匿うタリバン政権に対し米軍主導の軍事作戦を開始し政権崩壊させる。",
+        "descriptionEn": "Launched military operation to destroy al-Qaeda sanctuaries and overthrow the Taliban regime."
+      },
+      {
+        "year": "2002",
+        "titleJa": "国土安全保障省（DHS）新設",
+        "titleEn": "Department of Homeland Security Created",
+        "descriptionJa": "22の連邦機関を統合し、テロ対策・国境警備を担う巨大省庁を新設（第二次大戦以来最大規模の省庁再編）。",
+        "descriptionEn": "Created cabinet department integrating 22 agencies to protect the homeland against future attacks."
+      },
+      {
+        "year": "2003",
+        "titleJa": "イラク戦争開戦（サダム・フセイン政権打倒）",
+        "titleEn": "Iraq War Launched & Fall of Baghdad",
+        "descriptionJa": "大量破壊兵器保有疑惑を理由にイラクへ武力侵攻。首都バグダッドを制圧しフセイン拘束。",
+        "descriptionEn": "Invaded Iraq with multinational coalition, overthrowing Saddam Hussein's regime."
+      },
+      {
+        "year": "2005",
+        "titleJa": "ハリケーン・カトリーナ災害（ニューオーリンズ壊滅）",
+        "titleEn": "Hurricane Katrina Catastrophe in New Orleans",
+        "descriptionJa": "カテゴリー5の猛烈なハリケーンが直撃し堤防決壊。死者1800名以上、連邦政府の救助遅れに猛批判。",
+        "descriptionEn": "Deadliest hurricane in modern US history flooded 80% of New Orleans, killing over 1,800 people."
+      },
+      {
+        "year": "2008",
+        "titleJa": "世界金融危機（リーマン・ショック・TARP 7000億ドル救済）",
+        "titleEn": "Global Financial Crisis & $700B TARP Bailout",
+        "descriptionJa": "サブプライム住宅ローン破綻から金融恐慌。不良資産救済プログラム（TARP）で金融機関・自動車大手を救済。",
+        "descriptionEn": "Subprime mortgage collapse triggered worst crisis since 1929; passed $700B Troubled Asset Relief Program."
       }
     ],
     "sources": [
@@ -3727,10 +4546,45 @@ export const usPresidents: Leader[] = [
     "keyEvents": [
       {
         "year": "2009",
-        "titleJa": "第44代合衆国大統領就任",
-        "titleEn": "Inaugurated as President of the United States",
-        "descriptionJa": "2009-01-20、就任式を執行。",
-        "descriptionEn": "Took the oath of office on 2009-01-20."
+        "titleJa": "初のアフリカ系合衆国大統領就任 & アメリカ再生・再投資法（8310億ドル）",
+        "titleEn": "1st African American President & $831B Stimulus Act",
+        "descriptionJa": "「Yes We Can」を掲げ黒人初の大統領に就任。世界恐慌脱出のため8310億ドルの超大型経済対策に署名。ノーベル平和賞受賞。",
+        "descriptionEn": "Inaugurated as 1st Black President; passed landmark stimulus to rescue economy; won Nobel Peace Prize."
+      },
+      {
+        "year": "2010",
+        "titleJa": "医療保険改革法（オバマケア・ACA） & ドッド＝フランク法制定",
+        "titleEn": "Affordable Care Act (Obamacare) & Dodd-Frank Wall Street Reform",
+        "descriptionJa": "国民皆保険を目指し無保険者2000万人以上を公的医療保険に加入させる歴史的法案が成立。金融規制を抜本強化。",
+        "descriptionEn": "Signed landmark healthcare expansion granting coverage to 20M uninsured and tightened financial regulations."
+      },
+      {
+        "year": "2011",
+        "titleJa": "オサマ・ビンラディン殺害作戦成功 & イラク撤退完了",
+        "titleEn": "Osama bin Laden Killed in Abbottabad Raid & Iraq Exit",
+        "descriptionJa": "米海軍特殊部隊（SEALs）がパキスタンの隠れ家を急襲し9.11首謀者を殺害。イラク駐留米軍の完全撤退を完了。",
+        "descriptionEn": "US Navy SEALs eliminated al-Qaeda leader in Pakistan; completed full withdrawal of US troops from Iraq."
+      },
+      {
+        "year": "2014",
+        "titleJa": "キューバとの国交正常化発表（54年ぶりの歴史的転換）",
+        "titleEn": "Restoration of Diplomatic Ties with Cuba",
+        "descriptionJa": "冷戦以来半世紀以上断絶していたキューバとの外交関係を回復し大使館を再開。ハバナ訪問。",
+        "descriptionEn": "Announced historic rapprochement with Havana, ending 54 years of Cold War diplomatic freeze."
+      },
+      {
+        "year": "2015",
+        "titleJa": "同性婚の全米合法化（オバーゲフェル判決） & イラン核合意・パリ協定",
+        "titleEn": "Same-Sex Marriage Legalized Nationwide, Iran Deal & Paris Accord",
+        "descriptionJa": "最高裁が同性婚の権利を全米で認める判決。多国間イラン核合意（JCPOA）と地球温暖化パリ協定に署名。",
+        "descriptionEn": "Supreme Court affirmed nationwide marriage equality; joined landmark Iran nuclear deal and Paris Climate Agreement."
+      },
+      {
+        "year": "2016",
+        "titleJa": "オバマ大統領 広島平和記念公園訪問（現職米大統領初）",
+        "titleEn": "Historic First Sitting US President to Visit Hiroshima",
+        "descriptionJa": "5月27日、現職米大統領として史上初めて広島を訪問し原爆死没者慰霊碑に献花。「核なき世界」を訴える歴史的演説。",
+        "descriptionEn": "Made historic first visit by a sitting US President to Hiroshima, laying a wreath at the Cenotaph."
       }
     ],
     "sources": [
@@ -3809,25 +4663,46 @@ export const usPresidents: Leader[] = [
     ],
     "keyEvents": [
       {
+        "year": "2017",
+        "titleJa": "TPP離脱・パリ協定離脱表明 & 税制改革法（史上最大の法人減税）",
+        "titleEn": "Withdrawal from TPP/Paris Accord & Tax Cuts and Jobs Act",
+        "descriptionJa": "「アメリカ・ファースト」を掲げ就任。法人税率を35%から21%へ大幅引き下げる大型減税法案を成立。",
+        "descriptionEn": "Withdrew from TPP and Paris Agreement; enacted largest corporate tax cut in US history from 35% to 21%."
+      },
+      {
+        "year": "2018",
+        "titleJa": "米中関税貿易戦争開始 & 米朝首脳会談（シンガポール会談）",
+        "titleEn": "US-China Trade War Tariffs & Historic Singapore Summit",
+        "descriptionJa": "中国製品に巨額の制裁関税を発動。現職米大統領として史上初めて金正恩朝鮮労働党委員長と直接会談。",
+        "descriptionEn": "Imposed extensive tariffs on Chinese imports; met Kim Jong Un in first-ever US-North Korea summit."
+      },
+      {
+        "year": "2019",
+        "titleJa": "米宇宙軍（Space Force）創設 & 第1回弾劾裁判（ウクライナ疑惑）",
+        "titleEn": "US Space Force Founded & First Impeachment Trial",
+        "descriptionJa": "72年ぶりとなる新軍種「米宇宙軍」を第6の軍種として創設。下院が弾劾訴追も上院で無罪評決。",
+        "descriptionEn": "Created first new military branch since 1947; impeached over Ukraine military aid, acquitted by Senate."
+      },
+      {
         "year": "2020",
-        "titleJa": "新型コロナウイルス感染症（COVID-19）パンデミックと国家非常事態宣言",
-        "titleEn": "COVID-19 Pandemic & National Emergency Declaration",
-        "descriptionJa": "未曾有の感染拡大に対し国家非常事態を宣言。ワクチン超高速開発作戦（ワープ・スピード作戦）を断行。",
-        "descriptionEn": "Declared national emergency against COVID-19 and launched Operation Warp Speed for rapid vaccine development."
+        "titleJa": "USMCA（新NAFTA）発効 & アブラハム合意（中東和平調印）",
+        "titleEn": "USMCA Trade Agreement Takes Effect & Abraham Accords",
+        "descriptionJa": "NAFTAを改定した新北米自由貿易協定が発効。イスラエルとUAE・バーレーン間の歴史的国交正常化を仲介。",
+        "descriptionEn": "Modernized trade pact with Canada/Mexico; brokered historic normalization between Israel and Arab nations."
+      },
+      {
+        "year": "2020",
+        "titleJa": "新型コロナウイルス（COVID-19）パンデミック & ワープ・スピード作戦",
+        "titleEn": "COVID-19 Pandemic, Operation Warp Speed & CARES Act",
+        "descriptionJa": "全世界的感染拡大。2.2兆ドルのCARES法を成立させ、ワクチン超高速開発「ワープ・スピード作戦」を指揮。最高裁判事3名任命。",
+        "descriptionEn": "Managed global pandemic response, funded mRNA vaccines at record speed; appointed 3 conservative Supreme Court justices."
       },
       {
         "year": "2021",
-        "titleJa": "2021年合衆国連邦議会議事堂襲撃事件（2021年1月6日）",
-        "titleEn": "January 6 United States Capitol Attack",
-        "descriptionJa": "大統領選挙結果の承認手続き中に支持者集団が連邦議会議事堂に乱入し一時占拠する歴史的前代未聞の事態が発生。",
-        "descriptionEn": "Crowds stormed the US Capitol during electoral vote certification."
-      },
-      {
-        "year": "2017",
-        "titleJa": "第45代合衆国大統領就任",
-        "titleEn": "Inaugurated as President of the United States",
-        "descriptionJa": "2017-01-20、就任式を執行。",
-        "descriptionEn": "Took the oath of office on 2017-01-20."
+        "titleJa": "連邦議会議事堂襲撃事件 & 第2回弾劾裁判（退任）",
+        "titleEn": "January 6 Capitol Attack & Second Impeachment Trial",
+        "descriptionJa": "選挙結果認定を巡りデモ隊が議事堂へ乱入。大統領として史上初めて2度の弾劾訴追を受ける（上院無罪）。",
+        "descriptionEn": "Protesters stormed the US Capitol on Jan 6; impeached a second time by the House and acquitted by the Senate."
       }
     ],
     "sources": [
@@ -3907,10 +4782,52 @@ export const usPresidents: Leader[] = [
     "keyEvents": [
       {
         "year": "2021",
-        "titleJa": "第46代合衆国大統領就任",
-        "titleEn": "Inaugurated as President of the United States",
-        "descriptionJa": "2021-01-20、就任式を執行。",
-        "descriptionEn": "Took the oath of office on 2021-01-20."
+        "titleJa": "バイデン大統領就任・米救済計画（1.9兆ドル） & パリ協定復帰",
+        "titleEn": "Inauguration, $1.9T American Rescue Plan & Paris Accord",
+        "descriptionJa": "78歳で最高齢就任。1.9兆ドルのコロナ対策法を成立させ、パリ協定・WHOへ即座に復帰。",
+        "descriptionEn": "Took office at age 78; signed $1.9T COVID relief act and immediately rejoined Paris Climate Agreement and WHO."
+      },
+      {
+        "year": "2021",
+        "titleJa": "米軍アフガニスタン完全撤退（20年間の戦争終結）",
+        "titleEn": "Full US Withdrawal from Afghanistan",
+        "descriptionJa": "8月末、駐留米軍の完全撤収を完了し、米国史上最長となる20年間のアフガン戦争を終結させる。",
+        "descriptionEn": "Concluded military evacuation from Kabul airport, ending America's longest 20-year war."
+      },
+      {
+        "year": "2021",
+        "titleJa": "超党派インフラ投資・雇用法制定（1.2兆ドル）",
+        "titleEn": "Bipartisan Infrastructure Law ($1.2 Trillion)",
+        "descriptionJa": "道路・橋梁・鉄道・ブロードバンド通信・上下水道・EV充電網を大改修する歴史的インフラ法に署名。",
+        "descriptionEn": "Signed landmark $1.2T package modernizing national roads, bridges, public transit, clean water, and broadband."
+      },
+      {
+        "year": "2022",
+        "titleJa": "ロシアのウクライナ侵攻 & 国際連合支援を主導",
+        "titleEn": "Russian Invasion of Ukraine & Global Coalition Support",
+        "descriptionJa": "ウクライナへの軍事・人道支援を主導し、同盟国とともにロシアに対する前例のない制裁網を構築。",
+        "descriptionEn": "Mobilized NATO and international coalition providing vital military assistance against Russian invasion."
+      },
+      {
+        "year": "2022",
+        "titleJa": "CHIPSおよび科学法 & インフレ抑制法（IRA）制定",
+        "titleEn": "CHIPS and Science Act ($280B) & Inflation Reduction Act",
+        "descriptionJa": "国内半導体製造を支援する2800億ドル法案と、クリーンエネルギー・医療費抑制を推進する大型法案に署名。",
+        "descriptionEn": "Enacted $280B semiconductor manufacturing boost and largest federal climate/clean energy investment in history."
+      },
+      {
+        "year": "2022",
+        "titleJa": "ロー対ウェイド判決破棄（ドブス判決） & カタンジ・ブラウン・ジャクソン判事任命",
+        "titleEn": "Dobbs Decision Overturns Roe v. Wade & Ketanji Brown Jackson Confirmed",
+        "descriptionJa": "最高裁が中絶の憲法上の権利を破棄。史上初のアフリカ系女性最高裁判事を任命。",
+        "descriptionEn": "Supreme Court overturned constitutional right to abortion; confirmed first Black female Supreme Court Justice."
+      },
+      {
+        "year": "2023",
+        "titleJa": "イスラエル・ガザ紛争勃発 & 大統領選撤退表明（2024年）",
+        "titleEn": "Israel-Hamas Conflict & Historic Exit from 2024 Race",
+        "descriptionJa": "中東での武力衝突激化に対応。2024年7月、民主主義の維持と世代交代のため大統領選再選出馬を辞退しカマラ・ハリスを支持。",
+        "descriptionEn": "Supported Israel while supplying Gaza humanitarian aid; stepped aside from 2024 race to pass torch to Kamala Harris."
       }
     ],
     "sources": [
@@ -3990,10 +4907,24 @@ export const usPresidents: Leader[] = [
     "keyEvents": [
       {
         "year": "2025",
-        "titleJa": "現職（第47代）合衆国大統領就任",
-        "titleEn": "Inaugurated as President of the United States",
-        "descriptionJa": "2025-01-20、就任式を執行。",
-        "descriptionEn": "Took the oath of office on 2025-01-20."
+        "titleJa": "第47代合衆国大統領就任（非連続再選・クリーブランド以来132年ぶり）",
+        "titleEn": "Inauguration of 47th President (2nd Non-Consecutive Term)",
+        "descriptionJa": "2024年大統領選で激戦州を全勝し返り咲き。史上2人目となる非連続2期目の大統領就任宣誓。",
+        "descriptionEn": "Swept battleground states in 2024 election; sworn in as second president in US history to serve non-consecutive terms."
+      },
+      {
+        "year": "2025",
+        "titleJa": "国境管理・不法移民対策の抜本強化大統領令",
+        "titleEn": "Executive Actions on Border Security & Energy Independence",
+        "descriptionJa": "南部国境の緊急事態宣言、不法越境の即時送還、国内エネルギー開発（石油・天然ガス掘削）規制緩和を発動。",
+        "descriptionEn": "Issued sweeping executive orders on southern border security, immigration enforcement, and energy production."
+      },
+      {
+        "year": "2025",
+        "titleJa": "相互関税政策の発表 & 政府効率化推進",
+        "titleEn": "Universal Reciprocal Tariffs & Government Efficiency Overhaul",
+        "descriptionJa": "外国の関税と同率の相互関税方針を発表し、連邦政府の無駄な歳出削減と規制撤廃を推進。",
+        "descriptionEn": "Announced strategic reciprocal tariff policies and initiatives to streamline federal regulatory apparatus."
       }
     ],
     "sources": [

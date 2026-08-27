@@ -24,7 +24,7 @@ export const translations = {
       us_pres_short: '歴代大統領',
     },
     filter: {
-      searchPlaceholder: '指導者名、功績、キーワード、時代で検索...',
+      searchPlaceholder: '指導者名、歴史年表の事件・出来事、功績、時代、キーワードで検索...',
       sortBy: '並び替え',
       sortOrder: '順序',
       orderAsc: '代数（古い順）',
@@ -164,7 +164,7 @@ export const translations = {
       us_pres_short: 'US President',
     },
     filter: {
-      searchPlaceholder: 'Search by name, key achievements, keywords, era...',
+      searchPlaceholder: 'Search by name, historical timeline events, achievements, keywords...',
       sortBy: 'Sort By',
       sortOrder: 'Order',
       orderAsc: 'Order (Chronological)',

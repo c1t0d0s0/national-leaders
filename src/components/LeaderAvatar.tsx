@@ -6,7 +6,7 @@ import { User } from 'lucide-react';
 interface LeaderAvatarProps {
   leader: Leader;
   language: Language;
-  size?: 'sm' | 'md' | 'lg' | 'xl';
+  size?: 'xs' | 'sm' | 'md' | 'lg' | 'xl';
   className?: string;
 }
 
@@ -22,10 +22,11 @@ export const LeaderAvatar: React.FC<LeaderAvatarProps> = ({
   const colors = getCategoryBadgeColor(leader.category);
 
   const sizeClasses = {
-    sm: 'w-12 h-12 text-sm',
-    md: 'w-20 h-20 text-base',
-    lg: 'w-28 h-28 text-lg',
-    xl: 'w-36 h-36 md:w-44 md:h-44 text-2xl',
+    xs: 'w-10 h-10 text-xs rounded-xl',
+    sm: 'w-14 h-14 sm:w-16 sm:h-16 text-sm rounded-2xl',
+    md: 'w-24 h-24 sm:w-28 sm:h-28 text-base rounded-2xl',
+    lg: 'w-32 h-32 sm:w-36 sm:h-36 md:w-40 md:h-40 text-lg rounded-3xl',
+    xl: 'w-44 h-44 sm:w-52 sm:h-52 md:w-60 md:h-60 text-2xl rounded-3xl',
   };
 
   const getInitials = () => {
@@ -41,7 +42,7 @@ export const LeaderAvatar: React.FC<LeaderAvatarProps> = ({
 
   return (
     <div
-      className={`relative rounded-2xl overflow-hidden flex items-center justify-center border shadow-sm transition-all duration-300 bg-slate-100 dark:bg-slate-800 ${colors.border} ${sizeClasses[size]} ${className}`}
+      className={`relative overflow-hidden flex items-center justify-center border shadow-sm transition-all duration-300 bg-slate-100 dark:bg-slate-800 shrink-0 ${colors.border} ${sizeClasses[size]} ${className}`}
     >
       {(leader.imageUrl || leader.id) && !imageError ? (
         <>
@@ -54,7 +55,7 @@ export const LeaderAvatar: React.FC<LeaderAvatarProps> = ({
             src={leader.imageUrl || `./portraits/${leader.id}.jpg`}
             alt={language === 'ja' ? leader.nameJa : leader.nameEn}
             referrerPolicy="no-referrer"
-            className={`w-full h-full object-cover object-top transition-opacity duration-300 ${
+            className={`w-full h-full object-cover object-top transition-all duration-500 group-hover:scale-105 ${
               imageLoaded ? 'opacity-100' : 'opacity-0'
             }`}
             loading="lazy"

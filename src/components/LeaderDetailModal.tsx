@@ -125,8 +125,8 @@ export const LeaderDetailModal: React.FC<LeaderDetailModalProps> = ({
           </div>
 
           {/* Leader Profile Info */}
-          <div className="flex items-center sm:items-start gap-3.5 sm:gap-5">
-            <LeaderAvatar leader={leader} language={language} size="md" className="shadow-lg shrink-0 sm:w-24 sm:h-24 md:w-28 md:h-28" />
+          <div className="flex items-center sm:items-start gap-4 sm:gap-6">
+            <LeaderAvatar leader={leader} language={language} size="lg" className="shadow-xl shrink-0 w-24 h-24 sm:w-32 sm:h-32 md:w-36 md:h-36 rounded-2xl sm:rounded-3xl ring-2 ring-white/20" />
 
             <div className="flex-1 min-w-0">
               <p className="text-[11px] sm:text-xs text-slate-500 dark:text-slate-400 font-medium truncate mb-0.5">
@@ -410,7 +410,7 @@ export const LeaderDetailModal: React.FC<LeaderDetailModalProps> = ({
 
                     <div className="p-3.5 rounded-xl bg-slate-50 dark:bg-slate-800/70 border border-slate-200 dark:border-slate-700">
                       <span className="inline-block px-2 py-0.5 rounded text-[11px] font-bold bg-blue-100 dark:bg-blue-950 text-blue-800 dark:text-blue-300 mb-1">
-                        {evt.year}年
+                        {language === 'ja' ? `${evt.year}年` : evt.year}
                       </span>
                       <h4 className="text-sm font-bold text-slate-900 dark:text-white mb-1">
                         {language === 'ja' ? evt.titleJa : evt.titleEn}

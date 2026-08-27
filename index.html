@@ -8,8 +8,60 @@
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Cinzel:wght@500;700;900&family=Inter:wght@300;400;500;600;700;800&family=Noto+Sans+JP:wght@300;400;500;600;700;800&family=Noto+Serif+JP:wght@400;600;700;900&display=swap" rel="stylesheet">
+
+    <!-- Config & Google Tag Manager / Google Tag -->
+    <script src="./config.js"></script>
+    <script>
+      (function() {
+        var gtmId = window.GTM_ID || (typeof GTM_ID !== 'undefined' ? GTM_ID : '');
+        if (!gtmId) return;
+
+        window.dataLayer = window.dataLayer || [];
+
+        if (gtmId.indexOf('GTM-') === 0) {
+          // Google Tag Manager container
+          window.dataLayer.push({ 'gtm.start': new Date().getTime(), event: 'gtm.js' });
+          var f = document.getElementsByTagName('script')[0],
+              j = document.createElement('script');
+          j.async = true;
+          j.src = 'https://www.googletagmanager.com/gtm.js?id=' + gtmId;
+          f.parentNode.insertBefore(j, f);
+        } else {
+          // Google tag (gtag.js / GA4)
+          function gtag(){ window.dataLayer.push(arguments); }
+          window.gtag = gtag;
+          gtag('js', new Date());
+          gtag('config', gtmId);
+
+          var s = document.createElement('script');
+          s.async = true;
+          s.src = 'https://www.googletagmanager.com/gtag/js?id=' + gtmId;
+          document.head.appendChild(s);
+        }
+      })();
+    </script>
   </head>
   <body class="bg-slate-50 dark:bg-slate-950 text-slate-900 dark:text-slate-100 min-h-screen font-sans antialiased transition-colors duration-200">
+    <!-- Google Tag Manager (noscript fallback) -->
+    <noscript id="gtm-noscript"></noscript>
+    <script>
+      (function() {
+        var gtmId = window.GTM_ID || (typeof GTM_ID !== 'undefined' ? GTM_ID : '');
+        if (gtmId && gtmId.indexOf('GTM-') === 0) {
+          var ns = document.getElementById('gtm-noscript');
+          if (ns) {
+            var ifr = document.createElement('iframe');
+            ifr.src = 'https://www.googletagmanager.com/ns.html?id=' + gtmId;
+            ifr.height = '0';
+            ifr.width = '0';
+            ifr.style.display = 'none';
+            ifr.style.visibility = 'hidden';
+            ns.parentNode.insertBefore(ifr, ns);
+          }
+        }
+      })();
+    </script>
+
     <div id="root"></div>
     <script type="module" src="/src/main.tsx"></script>
   </body>

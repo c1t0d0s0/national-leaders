@@ -89,10 +89,10 @@ export const LeaderCard: React.FC<LeaderCardProps> = ({
         </div>
 
         {/* Profile Info: Avatar + Name */}
-        <div className="flex items-start gap-3.5 mb-4">
-          <LeaderAvatar leader={leader} language={language} size="md" />
+        <div className="flex items-start gap-4 mb-4">
+          <LeaderAvatar leader={leader} language={language} size="md" className="shadow-md rounded-2xl ring-1 ring-black/5 dark:ring-white/10" />
 
-          <div className="flex-1 min-w-0">
+          <div className="flex-1 min-w-0 pt-0.5">
             {language === 'ja' ? (
               <>
                 <p className="text-[11px] text-slate-400 dark:text-slate-500 font-medium tracking-normal truncate mb-0.5" title={leader.nameRuby}>

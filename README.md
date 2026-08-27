@@ -132,6 +132,32 @@ national-leaders/
 
 ---
 
+## 🚀 Automatic Deployment to GitHub Pages (GitHub Actions)
+
+This repository includes an automated deployment workflow (`.github/workflows/deploy.yml`) that builds and deploys to GitHub Pages whenever a tag starting with `v` (e.g., `v1.0.0`) is pushed to GitHub.
+
+### Creating and Pushing Tags
+
+```bash
+# Create a new version tag
+git tag v1.0.0
+
+# Push tag to remote (triggers automatic deployment)
+git push origin v1.0.0
+```
+
+### Google Tag Manager (GTM) / GA4 Configuration
+
+You can configure `GTM_ID` via GitHub repository variables or secrets to inject your tracking ID automatically during deployment:
+
+1. Navigate to your GitHub repository: **Settings** > **Secrets and variables** > **Actions** > **Variables** (or **Secrets**).
+2. Click **New repository variable** and set:
+   - **Name**: `GTM_ID`
+   - **Value**: `GTM-XXXXXXX` (GTM container ID) or `G-XXXXXXXXXX` (GA4 Measurement ID)
+3. When pushing a `v*` tag, GitHub Actions will dynamically inject this `GTM_ID` into `config.js` prior to building and publishing the site.
+
+---
+
 ## 📜 Primary Historical Sources & References
 
 - **National Diet Library (NDL)**: *Portraits of Modern Japanese Historical Figures*

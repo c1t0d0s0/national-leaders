@@ -55,8 +55,33 @@ export const LeaderGrid: React.FC<LeaderGridProps> = ({
         const summaryJa = l.summaryJa.toLowerCase();
         const summaryEn = l.summaryEn.toLowerCase();
         const eraJa = (l.eraNameJa || '').toLowerCase();
+        const eraEn = (l.eraNameEn || '').toLowerCase();
         const partyJa = (l.partyOrFactionJa || '').toLowerCase();
+        const partyEn = (l.partyOrFactionEn || '').toLowerCase();
+        const birthPlaceJa = (l.birthPlaceJa || '').toLowerCase();
+        const birthPlaceEn = (l.birthPlaceEn || '').toLowerCase();
+        const termJa = (l.termDisplayJa || '').toLowerCase();
+        const termEn = (l.termDisplayEn || '').toLowerCase();
+
+        // Achievements
         const achievements = (language === 'ja' ? l.keyAchievementsJa : l.keyAchievementsEn).join(' ').toLowerCase();
+
+        // Historical Timeline Key Events (Major events during tenure)
+        const eventsText = (l.keyEvents || [])
+          .map((e) => `${e.year} ${e.titleJa} ${e.titleEn} ${e.descriptionJa} ${e.descriptionEn}`)
+          .join(' ')
+          .toLowerCase();
+
+        // Historical duality (positive and negative evaluation aspects)
+        const positiveText = (l.positiveAspects || [])
+          .map((p) => `${p.titleJa} ${p.titleEn} ${p.descriptionJa} ${p.descriptionEn} ${p.source || ''}`)
+          .join(' ')
+          .toLowerCase();
+
+        const negativeText = (l.negativeAspects || [])
+          .map((n) => `${n.titleJa} ${n.titleEn} ${n.descriptionJa} ${n.descriptionEn} ${n.source || ''}`)
+          .join(' ')
+          .toLowerCase();
 
         return (
           nameJa.includes(q) ||
@@ -65,8 +90,17 @@ export const LeaderGrid: React.FC<LeaderGridProps> = ({
           summaryJa.includes(q) ||
           summaryEn.includes(q) ||
           eraJa.includes(q) ||
+          eraEn.includes(q) ||
           partyJa.includes(q) ||
-          achievements.includes(q)
+          partyEn.includes(q) ||
+          birthPlaceJa.includes(q) ||
+          birthPlaceEn.includes(q) ||
+          termJa.includes(q) ||
+          termEn.includes(q) ||
+          achievements.includes(q) ||
+          eventsText.includes(q) ||
+          positiveText.includes(q) ||
+          negativeText.includes(q)
         );
       });
     }

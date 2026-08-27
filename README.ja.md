@@ -132,6 +132,32 @@ national-leaders/
 
 ---
 
+## 🚀 GitHub Pages への自動デプロイ（GitHub Actions）
+
+本リポジトリには、`v` から始まる Git タグ（例: `v1.0.0`）をプッシュした際に、自動的にビルドおよび GitHub Pages へのデプロイを実行するワークフロー（`.github/workflows/deploy.yml`）が含まれています。
+
+### タグの作成とプッシュ
+
+```bash
+# 新しいバージョンのタグを作成
+git tag v1.0.0
+
+# タグをリモートへプッシュ（自動デプロイがトリガーされます）
+git push origin v1.0.0
+```
+
+### Google Tag Manager（GTM）/ GA4 の設定
+
+GitHub リポジトリの変数またはシークレットに `GTM_ID` を登録しておくと、デプロイ時に自動的にその ID が埋め込まれます。
+
+1. GitHub リポジトリの **Settings** > **Secrets and variables** > **Actions** > **Variables**（または **Secrets**）を開きます。
+2. **New repository variable** をクリックし、以下を設定します：
+   - **Name**: `GTM_ID`
+   - **Value**: `GTM-XXXXXXX`（GTMコンテナID）または `G-XXXXXXXXXX`（GA4測定ID）
+3. `v*` タグをプッシュすると、GitHub Actions が自動的にこの `GTM_ID` を `config.js` に注入してビルド・公開します。
+
+---
+
 ## 📚 主な典拠・参考資料
 
 - **国立国会図書館（NDL）**: 『近代日本人の肖像』
