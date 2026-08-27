@@ -20,14 +20,11 @@ export const App: React.FC = () => {
     return detectBrowserLanguage();
   });
 
-  // 2. Dark Mode state
+  // 2. Dark Mode state: Default to light theme
   const [isDarkMode, setIsDarkMode] = useState<boolean>(() => {
     const saved = localStorage.getItem('nl_dark_mode');
     if (saved !== null) return saved === 'true';
-    if (typeof window !== 'undefined' && window.matchMedia) {
-      return window.matchMedia('(prefers-color-scheme: dark)').matches;
-    }
-    return false;
+    return false; // Default to light theme
   });
 
   // Apply dark mode class to documentElement
