@@ -6,7 +6,6 @@ import {
   Search, 
   SlidersHorizontal, 
   ArrowUpDown, 
-  Ruler, 
   X, 
   UserX,
   Sparkles
@@ -34,7 +33,6 @@ export const LeaderGrid: React.FC<LeaderGridProps> = ({
   const [searchQuery, setSearchQuery] = useState('');
   const [sortBy, setSortBy] = useState<'order' | 'reign' | 'height' | 'weight' | 'age'>('order');
   const [sortOrder, setSortOrder] = useState<'asc' | 'desc'>('asc');
-  const [physicalOnly, setPhysicalOnly] = useState(false);
 
   // Filter & Sort Logic
   const filteredAndSortedLeaders = useMemo(() => {
@@ -105,12 +103,7 @@ export const LeaderGrid: React.FC<LeaderGridProps> = ({
       });
     }
 
-    // 3. Physical Data Only Toggle
-    if (physicalOnly) {
-      list = list.filter((l) => l.physicalStats.heightCm !== undefined || l.physicalStats.weightKg !== undefined);
-    }
-
-    // 4. Sorting
+    // 3. Sorting
     list.sort((a, b) => {
       let comparison = 0;
       switch (sortBy) {
@@ -139,13 +132,12 @@ export const LeaderGrid: React.FC<LeaderGridProps> = ({
     });
 
     return list;
-  }, [leaders, selectedCategory, searchQuery, sortBy, sortOrder, physicalOnly, language]);
+  }, [leaders, selectedCategory, searchQuery, sortBy, sortOrder, language]);
 
   const handleResetFilters = () => {
     setSearchQuery('');
     setSortBy('order');
     setSortOrder('asc');
-    setPhysicalOnly(false);
   };
 
   return (
@@ -208,18 +200,6 @@ export const LeaderGrid: React.FC<LeaderGridProps> = ({
               {sortOrder === 'asc' ? (language === 'ja' ? '昇順 ▲' : 'Asc ▲') : (language === 'ja' ? '降順 ▼' : 'Desc ▼')}
             </button>
 
-            {/* Physical Records Only Toggle */}
-            <button
-              onClick={() => setPhysicalOnly(!physicalOnly)}
-              className={`flex items-center gap-1.5 px-3 py-1.5 rounded-xl font-semibold border transition ${
-                physicalOnly
-                  ? 'bg-amber-500 text-white border-amber-600 shadow-sm'
-                  : 'bg-slate-50 dark:bg-slate-800 text-slate-600 dark:text-slate-300 border-slate-200 dark:border-slate-700 hover:bg-slate-100'
-              }`}
-            >
-              <Ruler className="w-3.5 h-3.5" />
-              <span>{t.filter.hasPhysicalOnly}</span>
-            </button>
           </div>
 
           {/* Results Count & Reset */}
@@ -228,7 +208,7 @@ export const LeaderGrid: React.FC<LeaderGridProps> = ({
               {filteredAndSortedLeaders.length} {t.filter.foundCount}
             </span>
 
-            {(searchQuery || sortBy !== 'order' || sortOrder !== 'asc' || physicalOnly) && (
+            {(searchQuery || sortBy !== 'order' || sortOrder !== 'asc') && (
               <button
                 onClick={handleResetFilters}
                 className="text-amber-600 dark:text-amber-400 hover:underline font-semibold"
