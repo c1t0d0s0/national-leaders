@@ -43,7 +43,7 @@ export const LeaderAvatar: React.FC<LeaderAvatarProps> = ({
     <div
       className={`relative rounded-2xl overflow-hidden flex items-center justify-center border shadow-sm transition-all duration-300 bg-slate-100 dark:bg-slate-800 ${colors.border} ${sizeClasses[size]} ${className}`}
     >
-      {leader.imageUrl && !imageError ? (
+      {(leader.imageUrl || leader.id) && !imageError ? (
         <>
           {!imageLoaded && (
             <div className="absolute inset-0 flex items-center justify-center bg-slate-200 dark:bg-slate-800 animate-pulse">
@@ -51,8 +51,9 @@ export const LeaderAvatar: React.FC<LeaderAvatarProps> = ({
             </div>
           )}
           <img
-            src={leader.imageUrl}
+            src={leader.imageUrl || `./portraits/${leader.id}.jpg`}
             alt={language === 'ja' ? leader.nameJa : leader.nameEn}
+            referrerPolicy="no-referrer"
             className={`w-full h-full object-cover object-top transition-opacity duration-300 ${
               imageLoaded ? 'opacity-100' : 'opacity-0'
             }`}
