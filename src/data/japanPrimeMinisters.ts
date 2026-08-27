@@ -39,46 +39,32 @@ export const japanPrimeMinisters: Leader[] = [
     "summaryJa": "【第1次伊藤内閣】内閣制度を創設して初代首相に就任。大日本帝国憲法制定を主導した明治の元勲。",
     "summaryEn": "[1st Ito Cabinet] The first Prime Minister of Japan who established the cabinet system and drafted the Meiji Constitution.",
     "keyAchievementsJa": [
-      "第1次伊藤内閣の樹立と政権運営の指揮",
-      "重要国政課題への対処および行政施策の推進"
+      "内閣制度の創設と大日本帝国憲法起草・立憲政治の基礎設計",
+      "太政官制を廃止し初代内閣総理大臣として近代的官僚・内閣機構を創設。枢密院議長として帝国憲法草案の審議を主導した。"
     ],
     "keyAchievementsEn": [
-      "Formation and executive leadership of the 1st Ito Cabinet",
-      "State governance and modern administrative execution"
+      "Establishment of Cabinet System & Drafting of Meiji Constitution",
+      "Abolished the ancient Dajokan system, created the modern cabinet structure as 1st Prime Minister, and drafted the Meiji Constitution."
     ],
     "positiveAspects": [
       {
-        "titleJa": "第1次伊藤内閣における指導力と政策実績",
-        "titleEn": "Key Accomplishment of 1st Ito Cabinet",
-        "descriptionJa": "大正・昭和・平成・令和の各時代において、内閣総理大臣としての重責を果たし国政を統率した。",
-        "descriptionEn": "Executed constitutional leadership advancing national governance and modern institutional development.",
-        "source": "『歴代首相録』中央公論新社"
+        "titleJa": "内閣制度の創設と大日本帝国憲法起草・立憲政治の基礎設計",
+        "titleEn": "Establishment of Cabinet System & Drafting of Meiji Constitution",
+        "descriptionJa": "太政官制を廃止し初代内閣総理大臣として近代的官僚・内閣機構を創設。枢密院議長として帝国憲法草案の審議を主導した。",
+        "descriptionEn": "Abolished the ancient Dajokan system, created the modern cabinet structure as 1st Prime Minister, and drafted the Meiji Constitution.",
+        "source": "大久保利謙『伊藤博文』"
       }
     ],
     "negativeAspects": [
       {
-        "titleJa": "施政方針に対する政治的対立と課題",
-        "titleEn": "Policy Debates & Contemporary Scrutiny",
-        "descriptionJa": "当時の政治情勢や政策執行に伴う諸課題について、現在に至るまで学術的な検証がなされている。",
-        "descriptionEn": "Subject to rigorous historical and political analysis regarding contemporary socioeconomic challenges.",
-        "source": "『戦後政治史』岩波新書"
+        "titleJa": "極端な欧化主義への反発と不平等条約改正の挫折",
+        "titleEn": "Backlash Against Westernization & Failed Treaty Revision",
+        "descriptionJa": "鹿鳴館での条約改正工作が国民的非難を浴び、三大事件建白運動など自由民権派の猛反発を受けて改正を断念し辞職。",
+        "descriptionEn": "His aggressive Westernization policy (Rokumeikan diplomacy) drew intense public backlash, forcing him to shelve treaty revision amidst civic unrest.",
+        "source": "大久保利謙『伊藤博文』・『明治憲政史』"
       }
     ],
     "keyEvents": [
-      {
-        "year": "1885",
-        "titleJa": "初代内閣総理大臣就任・内閣制度創設",
-        "titleEn": "1st Prime Minister of Japan & Cabinet System Established",
-        "descriptionJa": "太政官制を廃止し、近代的立憲国家の行政機構として内閣制度を創設。",
-        "descriptionEn": "Abolished the Dajokan system and inaugurated Japan's modern cabinet government."
-      },
-      {
-        "year": "1888",
-        "titleJa": "枢密院設置と大日本帝国憲法審議",
-        "titleEn": "Privy Council Founded & Constitutional Deliberation",
-        "descriptionJa": "憲法草案審議のため枢密院を創立し初代議長に転任。",
-        "descriptionEn": "Established Privy Council to draft and deliberate Meiji Constitution."
-      },
       {
         "year": "1885",
         "titleJa": "第1次伊藤内閣 発足",
@@ -136,39 +122,32 @@ export const japanPrimeMinisters: Leader[] = [
     "summaryJa": "【黒田内閣】北海道開拓を指導し、大日本帝国憲法発布時の首相として超然主義を言明。",
     "summaryEn": "[Kuroda Cabinet] Pioneered Hokkaido's development and served as PM during the Meiji Constitution promulgation.",
     "keyAchievementsJa": [
-      "黒田内閣の樹立と政権運営の指揮",
-      "重要国政課題への対処および行政施策の推進"
+      "大日本帝国憲法および皇室典範の発布と地方自治制度の施行",
+      "1889年2月11日、明治天皇より大日本帝国憲法が発布。市制・町村制を施行し近代地方自治制度の骨格を整えた。"
     ],
     "keyAchievementsEn": [
-      "Formation and executive leadership of the Kuroda Cabinet",
-      "State governance and modern administrative execution"
+      "Promulgation of Meiji Constitution & Local Governance Laws",
+      "Presided over the historic promulgation of the Meiji Constitution in 1889 and enacted foundational municipal laws."
     ],
     "positiveAspects": [
       {
-        "titleJa": "黒田内閣における指導力と政策実績",
-        "titleEn": "Key Accomplishment of Kuroda Cabinet",
-        "descriptionJa": "大正・昭和・平成・令和の各時代において、内閣総理大臣としての重責を果たし国政を統率した。",
-        "descriptionEn": "Executed constitutional leadership advancing national governance and modern institutional development.",
-        "source": "『歴代首相録』中央公論新社"
+        "titleJa": "大日本帝国憲法および皇室典範の発布と地方自治制度の施行",
+        "titleEn": "Promulgation of Meiji Constitution & Local Governance Laws",
+        "descriptionJa": "1889年2月11日、明治天皇より大日本帝国憲法が発布。市制・町村制を施行し近代地方自治制度の骨格を整えた。",
+        "descriptionEn": "Presided over the historic promulgation of the Meiji Constitution in 1889 and enacted foundational municipal laws.",
+        "source": "升味準之輔『日本政治史』"
       }
     ],
     "negativeAspects": [
       {
-        "titleJa": "施政方針に対する政治的対立と課題",
-        "titleEn": "Policy Debates & Contemporary Scrutiny",
-        "descriptionJa": "当時の政治情勢や政策執行に伴う諸課題について、現在に至るまで学術的な検証がなされている。",
-        "descriptionEn": "Subject to rigorous historical and political analysis regarding contemporary socioeconomic challenges.",
-        "source": "『戦後政治史』岩波新書"
+        "titleJa": "「超然主義」演説への批判と大隈外相暗殺未遂事件",
+        "titleEn": "Criticism of Transcendent Cabinet & Okuma Bombing",
+        "descriptionJa": "大日本帝国憲法発布時に議会を無視する超然主義を声明して民権派の憤激を買った上、大隈外相の条約改正案暴露により爆弾テロを招き総辞職。",
+        "descriptionEn": "Declared transcendent cabinet neutrality above parliament, and resigned following the bombing of Foreign Minister Okuma.",
+        "source": "升味準之輔『日本政治史』"
       }
     ],
     "keyEvents": [
-      {
-        "year": "1889",
-        "titleJa": "大日本帝国憲法発布（黒田内閣）",
-        "titleEn": "Promulgation of the Meiji Constitution",
-        "descriptionJa": "1889年2月11日、明治天皇より大日本帝国憲法が発布。黒田首相は「超然主義」演説を行う。",
-        "descriptionEn": "Promulgated the Meiji Constitution on Feb 11, 1889; declared transcendent cabinet neutrality."
-      },
       {
         "year": "1888",
         "titleJa": "黒田内閣 発足",
@@ -226,29 +205,29 @@ export const japanPrimeMinisters: Leader[] = [
     "summaryJa": "【第1次山県内閣】徴兵令と近代陸軍を創設し地方自治制度を確立した日本陸軍の父・元老筆頭。",
     "summaryEn": "[1st Yamagata Cabinet] Father of the Imperial Japanese Army who established conscription and municipal governments.",
     "keyAchievementsJa": [
-      "第1次山県内閣の樹立と政権運営の指揮",
-      "重要国政課題への対処および行政施策の推進"
+      "第1回帝国議会の開設と地方自治制度（府県制・郡制）の完成",
+      "衆議院・貴族院からなる帝国議会を開設し立憲統治を始動。教育勅語を発布し近代国民道徳の指標を定めた。"
     ],
     "keyAchievementsEn": [
-      "Formation and executive leadership of the 1st Yamagata Cabinet",
-      "State governance and modern administrative execution"
+      "Opening of 1st Imperial Diet & Completion of Prefectural Governance",
+      "Convened the inaugural Imperial Diet launching constitutional parliamentarism; promulgated the Imperial Rescript on Education."
     ],
     "positiveAspects": [
       {
-        "titleJa": "第1次山県内閣における指導力と政策実績",
-        "titleEn": "Key Accomplishment of 1st Yamagata Cabinet",
-        "descriptionJa": "大正・昭和・平成・令和の各時代において、内閣総理大臣としての重責を果たし国政を統率した。",
-        "descriptionEn": "Executed constitutional leadership advancing national governance and modern institutional development.",
-        "source": "『歴代首相録』中央公論新社"
+        "titleJa": "第1回帝国議会の開設と地方自治制度（府県制・郡制）の完成",
+        "titleEn": "Opening of 1st Imperial Diet & Completion of Prefectural Governance",
+        "descriptionJa": "衆議院・貴族院からなる帝国議会を開設し立憲統治を始動。教育勅語を発布し近代国民道徳の指標を定めた。",
+        "descriptionEn": "Convened the inaugural Imperial Diet launching constitutional parliamentarism; promulgated the Imperial Rescript on Education.",
+        "source": "岡義武『山県有朋』"
       }
     ],
     "negativeAspects": [
       {
-        "titleJa": "施政方針に対する政治的対立と課題",
-        "titleEn": "Policy Debates & Contemporary Scrutiny",
-        "descriptionJa": "当時の政治情勢や政策執行に伴う諸課題について、現在に至るまで学術的な検証がなされている。",
-        "descriptionEn": "Subject to rigorous historical and political analysis regarding contemporary socioeconomic challenges.",
-        "source": "『戦後政治史』岩波新書"
+        "titleJa": "民党との激しい予算対立と強硬軍拡路線",
+        "titleEn": "Severe Budget Clashes with Opposition & Forced Rearmament",
+        "descriptionJa": "「利益線（朝鮮半島）」防衛のため強大な軍拡予算を要求し、第1回帝国議会で予算削減を叫ぶ衆議院民党（自由党・立憲改進党）と激しく衝突。",
+        "descriptionEn": "Demanded aggressive military spending to secure the 'line of advantage' in Korea, triggering fierce budget deadlocks in the 1st Imperial Diet.",
+        "source": "岡義武『山県有朋』"
       }
     ],
     "keyEvents": [
@@ -309,29 +288,29 @@ export const japanPrimeMinisters: Leader[] = [
     "summaryJa": "【第1次松方内閣】日本銀行を創立して金本位制を確立した日本財政の父。",
     "summaryEn": "[1st Matsukata Cabinet] Father of Japanese Public Finance who founded the Bank of Japan and established the gold standard.",
     "keyAchievementsJa": [
-      "第1次松方内閣の樹立と政権運営の指揮",
-      "重要国政課題への対処および行政施策の推進"
+      "松方デフレ改革による日本銀行創設と通貨信用の確立",
+      "不換紙幣を整理し銀本位制を確立。中央銀行として日本銀行を創立し、近代日本産業革命の強固な金融基盤を築いた。"
     ],
     "keyAchievementsEn": [
-      "Formation and executive leadership of the 1st Matsukata Cabinet",
-      "State governance and modern administrative execution"
+      "Establishment of Bank of Japan & Sound Currency Foundation",
+      "Eliminated inconvertible paper money, founded the Bank of Japan, and established sound silver-standard monetary stability."
     ],
     "positiveAspects": [
       {
-        "titleJa": "第1次松方内閣における指導力と政策実績",
-        "titleEn": "Key Accomplishment of 1st Matsukata Cabinet",
-        "descriptionJa": "大正・昭和・平成・令和の各時代において、内閣総理大臣としての重責を果たし国政を統率した。",
-        "descriptionEn": "Executed constitutional leadership advancing national governance and modern institutional development.",
-        "source": "『歴代首相録』中央公論新社"
+        "titleJa": "松方デフレ改革による日本銀行創設と通貨信用の確立",
+        "titleEn": "Establishment of Bank of Japan & Sound Currency Foundation",
+        "descriptionJa": "不換紙幣を整理し銀本位制を確立。中央銀行として日本銀行を創立し、近代日本産業革命の強固な金融基盤を築いた。",
+        "descriptionEn": "Eliminated inconvertible paper money, founded the Bank of Japan, and established sound silver-standard monetary stability.",
+        "source": "大石嘉一郎『自由民権と大日本帝国憲法』"
       }
     ],
     "negativeAspects": [
       {
-        "titleJa": "施政方針に対する政治的対立と課題",
-        "titleEn": "Policy Debates & Contemporary Scrutiny",
-        "descriptionJa": "当時の政治情勢や政策執行に伴う諸課題について、現在に至るまで学術的な検証がなされている。",
-        "descriptionEn": "Subject to rigorous historical and political analysis regarding contemporary socioeconomic challenges.",
-        "source": "『戦後政治史』岩波新書"
+        "titleJa": "第2回総選挙における史上最悪の警察選挙干渉",
+        "titleEn": "Violent Police Election Interference in 1892",
+        "descriptionJa": "品川弥二郎内相のもとで警官隊を動員し民党候補者や支持者を苛烈に弾圧（死者25名・負傷者388名）。議会と国民の激しい糾弾を浴びた。",
+        "descriptionEn": "Interior Minister Shinagawa mobilized police forces in massive violent election tampering (25 killed), provoking national outrage.",
+        "source": "大石嘉一郎『自由民権と大日本帝国憲法』"
       }
     ],
     "keyEvents": [
@@ -392,46 +371,32 @@ export const japanPrimeMinisters: Leader[] = [
     "summaryJa": "【第2次伊藤内閣】内閣制度を創設して初代首相に就任。大日本帝国憲法制定を主導した明治の元勲。",
     "summaryEn": "[2nd Ito Cabinet] The first Prime Minister of Japan who established the cabinet system and drafted the Meiji Constitution.",
     "keyAchievementsJa": [
-      "第2次伊藤内閣の樹立と政権運営の指揮",
-      "重要国政課題への対処および行政施策の推進"
+      "日英通商航海条約調印（治外法権撤廃）と日清戦争勝利",
+      "陸奥宗光外相とともに領事裁判権を撤廃し不平等条約改正の第一歩を達成。日清戦争を指導し下関条約に調印。"
     ],
     "keyAchievementsEn": [
-      "Formation and executive leadership of the 2nd Ito Cabinet",
-      "State governance and modern administrative execution"
+      "Abolition of Extraterritoriality & Victory in First Sino-Japanese War",
+      "Secured the abolition of foreign extraterritorial jurisdiction with Great Britain and led Japan to victory in the Sino-Japanese War."
     ],
     "positiveAspects": [
       {
-        "titleJa": "第2次伊藤内閣における指導力と政策実績",
-        "titleEn": "Key Accomplishment of 2nd Ito Cabinet",
-        "descriptionJa": "大正・昭和・平成・令和の各時代において、内閣総理大臣としての重責を果たし国政を統率した。",
-        "descriptionEn": "Executed constitutional leadership advancing national governance and modern institutional development.",
-        "source": "『歴代首相録』中央公論新社"
+        "titleJa": "日英通商航海条約調印（治外法権撤廃）と日清戦争勝利",
+        "titleEn": "Abolition of Extraterritoriality & Victory in First Sino-Japanese War",
+        "descriptionJa": "陸奥宗光外相とともに領事裁判権を撤廃し不平等条約改正の第一歩を達成。日清戦争を指導し下関条約に調印。",
+        "descriptionEn": "Secured the abolition of foreign extraterritorial jurisdiction with Great Britain and led Japan to victory in the Sino-Japanese War.",
+        "source": "信夫清三郎『日清戦争の政治史』"
       }
     ],
     "negativeAspects": [
       {
-        "titleJa": "施政方針に対する政治的対立と課題",
-        "titleEn": "Policy Debates & Contemporary Scrutiny",
-        "descriptionJa": "当時の政治情勢や政策執行に伴う諸課題について、現在に至るまで学術的な検証がなされている。",
-        "descriptionEn": "Subject to rigorous historical and political analysis regarding contemporary socioeconomic challenges.",
-        "source": "『戦後政治史』岩波新書"
+        "titleJa": "三国干渉（ロシア・独・仏）による遼東半島還付受諾",
+        "titleEn": "Triple Intervention & Surrender of Liaodong Peninsula",
+        "descriptionJa": "日清戦争勝利後、ロシア・ドイツ・フランスの軍事的脅迫（三国干渉）に抗しきれず遼東半島還付を受諾。「臥薪嘗胆」の世論反発を招いた。",
+        "descriptionEn": "Forced to yield the strategic Liaodong Peninsula back to China under intense military pressure from Russia, Germany, and France.",
+        "source": "信夫清三郎『日清戦争の政治史』"
       }
     ],
     "keyEvents": [
-      {
-        "year": "1894",
-        "titleJa": "日英通商航海条約調印（領事裁判権撤廃）",
-        "titleEn": "Anglo-Japanese Treaty of Commerce (Abolition of Extraterritoriality)",
-        "descriptionJa": "陸奥宗光外相とともに不平等条約改正の第一歩を達成。",
-        "descriptionEn": "Successfully revised unequal treaties eliminating foreign consular jurisdiction."
-      },
-      {
-        "year": "1894",
-        "titleJa": "日清戦争開戦（第2次伊藤内閣）",
-        "titleEn": "Outbreak of the First Sino-Japanese War",
-        "descriptionJa": "1894年8月宣戦布告。翌1895年4月、下関条約に調印し台湾領有・遼東半島割譲（三国干渉で返還）を決定。",
-        "descriptionEn": "Led Japan to victory in First Sino-Japanese War; signed Treaty of Shimonoseki."
-      },
       {
         "year": "1892",
         "titleJa": "第2次伊藤内閣 発足",
@@ -489,29 +454,29 @@ export const japanPrimeMinisters: Leader[] = [
     "summaryJa": "【第2次松方内閣】日本銀行を創立して金本位制を確立した日本財政の父。",
     "summaryEn": "[2nd Matsukata Cabinet] Father of Japanese Public Finance who founded the Bank of Japan and established the gold standard.",
     "keyAchievementsJa": [
-      "第2次松方内閣の樹立と政権運営の指揮",
-      "重要国政課題への対処および行政施策の推進"
+      "金本位制の確立（貨幣法制定）と官営八幡製鐵所の設置決定",
+      "日清戦争の賠償金を原資として貨幣法を制定し金本位制へ移行。重工業発展の礎となる八幡製鐵所の建設を決定。"
     ],
     "keyAchievementsEn": [
-      "Formation and executive leadership of the 2nd Matsukata Cabinet",
-      "State governance and modern administrative execution"
+      "Adoption of Gold Standard & Founding of Yawata Steel Works",
+      "Adopted the international gold standard using Chinese war indemnities and established the state-owned Yawata Iron & Steel Works."
     ],
     "positiveAspects": [
       {
-        "titleJa": "第2次松方内閣における指導力と政策実績",
-        "titleEn": "Key Accomplishment of 2nd Matsukata Cabinet",
-        "descriptionJa": "大正・昭和・平成・令和の各時代において、内閣総理大臣としての重責を果たし国政を統率した。",
-        "descriptionEn": "Executed constitutional leadership advancing national governance and modern institutional development.",
-        "source": "『歴代首相録』中央公論新社"
+        "titleJa": "金本位制の確立（貨幣法制定）と官営八幡製鐵所の設置決定",
+        "titleEn": "Adoption of Gold Standard & Founding of Yawata Steel Works",
+        "descriptionJa": "日清戦争の賠償金を原資として貨幣法を制定し金本位制へ移行。重工業発展の礎となる八幡製鐵所の建設を決定。",
+        "descriptionEn": "Adopted the international gold standard using Chinese war indemnities and established the state-owned Yawata Iron & Steel Works.",
+        "source": "伊藤之雄『政党政治の成立』"
       }
     ],
     "negativeAspects": [
       {
-        "titleJa": "施政方針に対する政治的対立と課題",
-        "titleEn": "Policy Debates & Contemporary Scrutiny",
-        "descriptionJa": "当時の政治情勢や政策執行に伴う諸課題について、現在に至るまで学術的な検証がなされている。",
-        "descriptionEn": "Subject to rigorous historical and political analysis regarding contemporary socioeconomic challenges.",
-        "source": "『戦後政治史』岩波新書"
+        "titleJa": "進歩党との連立崩壊と地租増徴を巡る政策挫折",
+        "titleEn": "Collapse of Progressive Coalition & Land Tax Failure",
+        "descriptionJa": "大隈重信の進歩党と結んだ「松隈内閣」が党内主導権争いで早期崩壊。財政難打開のための地租増徴案も議会で否決され総辞職。",
+        "descriptionEn": "Coalition with Okuma's Progressive Party crumbled over factional rivalry, and Diet rejection of land tax hikes forced his resignation.",
+        "source": "伊藤之雄『政党政治の成立』"
       }
     ],
     "keyEvents": [
@@ -572,29 +537,29 @@ export const japanPrimeMinisters: Leader[] = [
     "summaryJa": "【第3次伊藤内閣】内閣制度を創設して初代首相に就任。大日本帝国憲法制定を主導した明治の元勲。",
     "summaryEn": "[3rd Ito Cabinet] The first Prime Minister of Japan who established the cabinet system and drafted the Meiji Constitution.",
     "keyAchievementsJa": [
-      "第3次伊藤内閣の樹立と政権運営の指揮",
-      "重要国政課題への対処および行政施策の推進"
+      "日清戦後経営の推進と産業・海軍基盤の抜本拡張",
+      "日清戦後の産業育成策を推進し、製鉄・造船・鉄道網の拡充および戦艦配備を柱とする六六艦隊計画を推進。"
     ],
     "keyAchievementsEn": [
-      "Formation and executive leadership of the 3rd Ito Cabinet",
-      "State governance and modern administrative execution"
+      "Postwar Industrial Expansion & Naval Buildup Programs",
+      "Advanced post-Sino-Japanese War industrial development, expanding railway networks, steel manufacturing, and modern naval fleets."
     ],
     "positiveAspects": [
       {
-        "titleJa": "第3次伊藤内閣における指導力と政策実績",
-        "titleEn": "Key Accomplishment of 3rd Ito Cabinet",
-        "descriptionJa": "大正・昭和・平成・令和の各時代において、内閣総理大臣としての重責を果たし国政を統率した。",
-        "descriptionEn": "Executed constitutional leadership advancing national governance and modern institutional development.",
-        "source": "『歴代首相録』中央公論新社"
+        "titleJa": "日清戦後経営の推進と産業・海軍基盤の抜本拡張",
+        "titleEn": "Postwar Industrial Expansion & Naval Buildup Programs",
+        "descriptionJa": "日清戦後の産業育成策を推進し、製鉄・造船・鉄道網の拡充および戦艦配備を柱とする六六艦隊計画を推進。",
+        "descriptionEn": "Advanced post-Sino-Japanese War industrial development, expanding railway networks, steel manufacturing, and modern naval fleets.",
+        "source": "佐々木隆『明治憲政の展開』"
       }
     ],
     "negativeAspects": [
       {
-        "titleJa": "施政方針に対する政治的対立と課題",
-        "titleEn": "Policy Debates & Contemporary Scrutiny",
-        "descriptionJa": "当時の政治情勢や政策執行に伴う諸課題について、現在に至るまで学術的な検証がなされている。",
-        "descriptionEn": "Subject to rigorous historical and political analysis regarding contemporary socioeconomic challenges.",
-        "source": "『戦後政治史』岩波新書"
+        "titleJa": "議会解散強行と政権運営の早期行き詰まり",
+        "titleEn": "Forced Diet Dissolution & Premature Governance Collapse",
+        "descriptionJa": "地租増徴案否決を受け議会を即座に解散するも、民党勢力の反発と藩閥内の孤立を深め、わずか半年の在任で政権を投げ出した。",
+        "descriptionEn": "Dissolved the Diet after fiscal bills failed, but isolated among Meiji oligarchs, he abruptly resigned after only six months.",
+        "source": "佐々木隆『明治憲政の展開』"
       }
     ],
     "keyEvents": [
@@ -655,39 +620,32 @@ export const japanPrimeMinisters: Leader[] = [
     "summaryJa": "【第1次大隈内閣（隈板内閣）】早稲田大学を創立し、日本初の政党内閣（隈板内閣）を樹立した雄弁の宰相。",
     "summaryEn": "[1st Okuma Cabinet] Founder of Waseda University who established Japan's first party cabinet.",
     "keyAchievementsJa": [
-      "第1次大隈内閣（隈板内閣）の樹立と政権運営の指揮",
-      "重要国政課題への対処および行政施策の推進"
+      "憲政史上初の政党内閣「隈板内閣」樹立と民意の国政反映",
+      "板垣退助とともに憲政党を結成し、藩閥以外から衆議院第一党を基盤とする日本初の政党内閣を組織した。"
     ],
     "keyAchievementsEn": [
-      "Formation and executive leadership of the 1st Okuma Cabinet",
-      "State governance and modern administrative execution"
+      "Inauguration of Japan's First Democratic Party Cabinet (Waidan Cabinet)",
+      "Formed Japan's historic first political party cabinet with Itagaki Taisuke, pioneering democratic parliamentary governance."
     ],
     "positiveAspects": [
       {
-        "titleJa": "第1次大隈内閣（隈板内閣）における指導力と政策実績",
-        "titleEn": "Key Accomplishment of 1st Okuma Cabinet",
-        "descriptionJa": "大正・昭和・平成・令和の各時代において、内閣総理大臣としての重責を果たし国政を統率した。",
-        "descriptionEn": "Executed constitutional leadership advancing national governance and modern institutional development.",
-        "source": "『歴代首相録』中央公論新社"
+        "titleJa": "憲政史上初の政党内閣「隈板内閣」樹立と民意の国政反映",
+        "titleEn": "Inauguration of Japan's First Democratic Party Cabinet (Waidan Cabinet)",
+        "descriptionJa": "板垣退助とともに憲政党を結成し、藩閥以外から衆議院第一党を基盤とする日本初の政党内閣を組織した。",
+        "descriptionEn": "Formed Japan's historic first political party cabinet with Itagaki Taisuke, pioneering democratic parliamentary governance.",
+        "source": "林茂『政党と軍隊』"
       }
     ],
     "negativeAspects": [
       {
-        "titleJa": "施政方針に対する政治的対立と課題",
-        "titleEn": "Policy Debates & Contemporary Scrutiny",
-        "descriptionJa": "当時の政治情勢や政策執行に伴う諸課題について、現在に至るまで学術的な検証がなされている。",
-        "descriptionEn": "Subject to rigorous historical and political analysis regarding contemporary socioeconomic challenges.",
-        "source": "『戦後政治史』岩波新書"
+        "titleJa": "尾崎行雄「共和演説事件」と党内泥沼の主導権争い",
+        "titleEn": "Ozaki Republic Speech Scandal & Coalition Self-Destruction",
+        "descriptionJa": "尾崎行雄文相の「もし日本が共和制なら三井・三菱が大統領になる」演説が問題化。旧自由党派と旧進歩党派のポスト争いでわずか4ヶ月で自壊。",
+        "descriptionEn": "Education Minister Ozaki's hypothetical speech on a Japanese republic triggered a cabinet crisis, imploding within 4 months over petty factional infighting.",
+        "source": "林茂『政党と軍隊』"
       }
     ],
     "keyEvents": [
-      {
-        "year": "1898",
-        "titleJa": "日本初の政党内閣「隈板内閣」樹立",
-        "titleEn": "Japan's First Party Cabinet (Waidan Cabinet)",
-        "descriptionJa": "大隈重信と板垣退助が憲政党を結成し、藩閥以外から初めて政党首班内閣を樹立。",
-        "descriptionEn": "Formed the historic first party cabinet in Japanese history with Itagaki Taisuke."
-      },
       {
         "year": "1898",
         "titleJa": "第1次大隈内閣（隈板内閣） 発足",
@@ -745,29 +703,29 @@ export const japanPrimeMinisters: Leader[] = [
     "summaryJa": "【第2次山県内閣】徴兵令と近代陸軍を創設し地方自治制度を確立した日本陸軍の父・元老筆頭。",
     "summaryEn": "[2nd Yamagata Cabinet] Father of the Imperial Japanese Army who established conscription and municipal governments.",
     "keyAchievementsJa": [
-      "第2次山県内閣の樹立と政権運営の指揮",
-      "重要国政課題への対処および行政施策の推進"
+      "文官任用令改正による政党猟官制防止と義和団の乱出兵",
+      "試験採用制度を厳格化し官僚の政治的中立性を確保。1900年の義和団の乱（北京籠城）に迅速に派兵し国際的信認を獲得。"
     ],
     "keyAchievementsEn": [
-      "Formation and executive leadership of the 2nd Yamagata Cabinet",
-      "State governance and modern administrative execution"
+      "Civil Service Merit Protection & Prompt Relief in Boxer Rebellion",
+      "Protected professional civil service neutrality from political patronage and dispatched decisive relief forces during the Boxer Rebellion."
     ],
     "positiveAspects": [
       {
-        "titleJa": "第2次山県内閣における指導力と政策実績",
-        "titleEn": "Key Accomplishment of 2nd Yamagata Cabinet",
-        "descriptionJa": "大正・昭和・平成・令和の各時代において、内閣総理大臣としての重責を果たし国政を統率した。",
-        "descriptionEn": "Executed constitutional leadership advancing national governance and modern institutional development.",
-        "source": "『歴代首相録』中央公論新社"
+        "titleJa": "文官任用令改正による政党猟官制防止と義和団の乱出兵",
+        "titleEn": "Civil Service Merit Protection & Prompt Relief in Boxer Rebellion",
+        "descriptionJa": "試験採用制度を厳格化し官僚の政治的中立性を確保。1900年の義和団の乱（北京籠城）に迅速に派兵し国際的信認を獲得。",
+        "descriptionEn": "Protected professional civil service neutrality from political patronage and dispatched decisive relief forces during the Boxer Rebellion.",
+        "source": "御厨貴『明治国家の完成』"
       }
     ],
     "negativeAspects": [
       {
-        "titleJa": "施政方針に対する政治的対立と課題",
-        "titleEn": "Policy Debates & Contemporary Scrutiny",
-        "descriptionJa": "当時の政治情勢や政策執行に伴う諸課題について、現在に至るまで学術的な検証がなされている。",
-        "descriptionEn": "Subject to rigorous historical and political analysis regarding contemporary socioeconomic challenges.",
-        "source": "『戦後政治史』岩波新書"
+        "titleJa": "治安警察法制定と軍部大臣現役武官制による軍部台頭",
+        "titleEn": "Public Peace Police Law & Active-Duty Officer Rule",
+        "descriptionJa": "労働運動・社会主義運動を取り締まる治安警察法を制定。さらに陸海軍大臣の資格を現役将官に限定し、後年の軍部独裁の制度的元凶を作った。",
+        "descriptionEn": "Enacted the draconian Public Peace Police Act and restricted military ministers to active-duty generals, later enabling military vetoes.",
+        "source": "御厨貴『明治国家の完成』"
       }
     ],
     "keyEvents": [
@@ -828,29 +786,29 @@ export const japanPrimeMinisters: Leader[] = [
     "summaryJa": "【第4次伊藤内閣】内閣制度を創設して初代首相に就任。大日本帝国憲法制定を主導した明治の元勲。",
     "summaryEn": "[4th Ito Cabinet] The first Prime Minister of Japan who established the cabinet system and drafted the Meiji Constitution.",
     "keyAchievementsJa": [
-      "第4次伊藤内閣の樹立と政権運営の指揮",
-      "重要国政課題への対処および行政施策の推進"
+      "立憲政友会の結党と藩閥・政党融合による安定統治モデル",
+      "自ら初代総裁として立憲政友会を結党。藩閥官僚勢力と議会第一党を統合し、その後の大正・昭和政党政治の主軸を創出。"
     ],
     "keyAchievementsEn": [
-      "Formation and executive leadership of the 4th Ito Cabinet",
-      "State governance and modern administrative execution"
+      "Founding of Rikken Seiyukai & Stable Constitutional Coalition",
+      "Founded the Rikken Seiyukai party as its first president, bridging Meiji oligarchs and parliamentary politics to stabilize governance."
     ],
     "positiveAspects": [
       {
-        "titleJa": "第4次伊藤内閣における指導力と政策実績",
-        "titleEn": "Key Accomplishment of 4th Ito Cabinet",
-        "descriptionJa": "大正・昭和・平成・令和の各時代において、内閣総理大臣としての重責を果たし国政を統率した。",
-        "descriptionEn": "Executed constitutional leadership advancing national governance and modern institutional development.",
-        "source": "『歴代首相録』中央公論新社"
+        "titleJa": "立憲政友会の結党と藩閥・政党融合による安定統治モデル",
+        "titleEn": "Founding of Rikken Seiyukai & Stable Constitutional Coalition",
+        "descriptionJa": "自ら初代総裁として立憲政友会を結党。藩閥官僚勢力と議会第一党を統合し、その後の大正・昭和政党政治の主軸を創出。",
+        "descriptionEn": "Founded the Rikken Seiyukai party as its first president, bridging Meiji oligarchs and parliamentary politics to stabilize governance.",
+        "source": "伊藤之雄『伊藤博文 近代日本を創った男』"
       }
     ],
     "negativeAspects": [
       {
-        "titleJa": "施政方針に対する政治的対立と課題",
-        "titleEn": "Policy Debates & Contemporary Scrutiny",
-        "descriptionJa": "当時の政治情勢や政策執行に伴う諸課題について、現在に至るまで学術的な検証がなされている。",
-        "descriptionEn": "Subject to rigorous historical and political analysis regarding contemporary socioeconomic challenges.",
-        "source": "『戦後政治史』岩波新書"
+        "titleJa": "貴族院および党内幹部との対立による政権内紛",
+        "titleEn": "Internal Discord & Bitter Clashes with House of Peers",
+        "descriptionJa": "自ら創設した立憲政友会の内紛（渡辺蔵相の予算対立）を抑えられず、山県系が牛耳る貴族院のボイコットを受け短期間で瓦解。",
+        "descriptionEn": "Failed to bridge fierce policy divisions between his newly founded Seiyukai party and the conservative Yamagata-dominated House of Peers.",
+        "source": "伊藤之雄『伊藤博文 近代日本を創った男』"
       }
     ],
     "keyEvents": [
@@ -911,46 +869,32 @@ export const japanPrimeMinisters: Leader[] = [
     "summaryJa": "【第1次桂内閣】日英同盟を締結し日露戦争を指導。西園寺公望と「桂園時代」を形成。",
     "summaryEn": "[1st Katsura Cabinet] Concluded the Anglo-Japanese Alliance and led Japan during the Russo-Japanese War.",
     "keyAchievementsJa": [
-      "第1次桂内閣の樹立と政権運営の指揮",
-      "重要国政課題への対処および行政施策の推進"
+      "日英同盟締結と日露戦争の勝利・大国ロシアの南下阻止",
+      "世界最強の大英帝国と対等な軍事同盟を締結。日露戦争を挙国一致で最高指導しポーツマス平和条約を締結。"
     ],
     "keyAchievementsEn": [
-      "Formation and executive leadership of the 1st Katsura Cabinet",
-      "State governance and modern administrative execution"
+      "Conclusion of Anglo-Japanese Alliance & Victory in Russo-Japanese War",
+      "Signed the historic military alliance with Great Britain and successfully led Japan through the Russo-Japanese War against Tsarist Russia."
     ],
     "positiveAspects": [
       {
-        "titleJa": "第1次桂内閣における指導力と政策実績",
-        "titleEn": "Key Accomplishment of 1st Katsura Cabinet",
-        "descriptionJa": "大正・昭和・平成・令和の各時代において、内閣総理大臣としての重責を果たし国政を統率した。",
-        "descriptionEn": "Executed constitutional leadership advancing national governance and modern institutional development.",
-        "source": "『歴代首相録』中央公論新社"
+        "titleJa": "日英同盟締結と日露戦争の勝利・大国ロシアの南下阻止",
+        "titleEn": "Conclusion of Anglo-Japanese Alliance & Victory in Russo-Japanese War",
+        "descriptionJa": "世界最強の大英帝国と対等な軍事同盟を締結。日露戦争を挙国一致で最高指導しポーツマス平和条約を締結。",
+        "descriptionEn": "Signed the historic military alliance with Great Britain and successfully led Japan through the Russo-Japanese War against Tsarist Russia.",
+        "source": "大江志乃夫『日露戦争の軍事史料』"
       }
     ],
     "negativeAspects": [
       {
-        "titleJa": "施政方針に対する政治的対立と課題",
-        "titleEn": "Policy Debates & Contemporary Scrutiny",
-        "descriptionJa": "当時の政治情勢や政策執行に伴う諸課題について、現在に至るまで学術的な検証がなされている。",
-        "descriptionEn": "Subject to rigorous historical and political analysis regarding contemporary socioeconomic challenges.",
-        "source": "『戦後政治史』岩波新書"
+        "titleJa": "日露戦争講和（ポーツマス条約）への国民的暴動",
+        "titleEn": "Nationwide Riots Over Portsmouth Peace Treaty",
+        "descriptionJa": "講和条約で巨額の戦費に対する賠償金がゼロとなったため国民の激怒を買い、日比谷焼打事件が発生。戒厳令を布いて武力鎮圧した。",
+        "descriptionEn": "Failure to extract wartime indemnities from Russia triggered the massive Hibiya Incendiary Incident, requiring martial law to quell.",
+        "source": "大江志乃夫『日露戦争の軍事史料』"
       }
     ],
     "keyEvents": [
-      {
-        "year": "1902",
-        "titleJa": "日英同盟締結（第1次桂内閣）",
-        "titleEn": "Conclusion of the Anglo-Japanese Alliance",
-        "descriptionJa": "世界の覇権国イギリスと対等な軍事同盟を締結し、ロシアの南下阻止で合意。",
-        "descriptionEn": "Signed landmark military alliance with the British Empire."
-      },
-      {
-        "year": "1904",
-        "titleJa": "日露戦争開戦とポーツマス条約調印",
-        "titleEn": "Russo-Japanese War & Portsmouth Peace Treaty",
-        "descriptionJa": "日露戦争を総力戦で指導し勝利。1905年ポーツマス条約で南樺太・満州権益を獲得（日比谷焼打事件発生）。",
-        "descriptionEn": "Successfully led nation through Russo-Japanese War, followed by Portsmouth Peace Treaty."
-      },
       {
         "year": "1901",
         "titleJa": "第1次桂内閣 発足",
@@ -1008,29 +952,29 @@ export const japanPrimeMinisters: Leader[] = [
     "summaryJa": "【第1次西園寺内閣】自由主義を学び政友会総裁として政権を担当した「最後の元老」。立命館創始者。",
     "summaryEn": "[1st Saionji Cabinet] The 'Last Genro' who championed liberal constitutionalism and founded Ritsumeikan.",
     "keyAchievementsJa": [
-      "第1次西園寺内閣の樹立と政権運営の指揮",
-      "重要国政課題への対処および行政施策の推進"
+      "鉄道国有化法の制定と南満州鉄道（満鉄）の設立",
+      "全国主要私鉄17社を買収・国有化し幹線交通網を一元化。南満州鉄道株式会社を設立し大陸インフラ経営を開始。"
     ],
     "keyAchievementsEn": [
-      "Formation and executive leadership of the 1st Saionji Cabinet",
-      "State governance and modern administrative execution"
+      "Enactment of Railway Nationalization Act & Founding of Mantetsu",
+      "Nationalized major private railways into a unified national grid and founded the South Manchuria Railway Company (Mantetsu)."
     ],
     "positiveAspects": [
       {
-        "titleJa": "第1次西園寺内閣における指導力と政策実績",
-        "titleEn": "Key Accomplishment of 1st Saionji Cabinet",
-        "descriptionJa": "大正・昭和・平成・令和の各時代において、内閣総理大臣としての重責を果たし国政を統率した。",
-        "descriptionEn": "Executed constitutional leadership advancing national governance and modern institutional development.",
-        "source": "『歴代首相録』中央公論新社"
+        "titleJa": "鉄道国有化法の制定と南満州鉄道（満鉄）の設立",
+        "titleEn": "Enactment of Railway Nationalization Act & Founding of Mantetsu",
+        "descriptionJa": "全国主要私鉄17社を買収・国有化し幹線交通網を一元化。南満州鉄道株式会社を設立し大陸インフラ経営を開始。",
+        "descriptionEn": "Nationalized major private railways into a unified national grid and founded the South Manchuria Railway Company (Mantetsu).",
+        "source": "小林道彦『桂太郎と西園寺公望』"
       }
     ],
     "negativeAspects": [
       {
-        "titleJa": "施政方針に対する政治的対立と課題",
-        "titleEn": "Policy Debates & Contemporary Scrutiny",
-        "descriptionJa": "当時の政治情勢や政策執行に伴う諸課題について、現在に至るまで学術的な検証がなされている。",
-        "descriptionEn": "Subject to rigorous historical and political analysis regarding contemporary socioeconomic challenges.",
-        "source": "『戦後政治史』岩波新書"
+        "titleJa": "日露戦後の巨額戦時債務と鉄道国有化を巡る財界反発",
+        "titleEn": "Postwar Debt Crisis & Railway Nationalization Disputes",
+        "descriptionJa": "日露戦争の巨額外債償還に苦慮。軍事・産業統合のための鉄道国有化を巡り、民間株主や財界の激しい抵抗に直面した。",
+        "descriptionEn": "Grappled with crippling war debts; faced ferocious business backlash over nationalizing private railway companies.",
+        "source": "小林道彦『桂太郎と西園寺公望』"
       }
     ],
     "keyEvents": [
@@ -1091,29 +1035,29 @@ export const japanPrimeMinisters: Leader[] = [
     "summaryJa": "【第2次桂内閣】日英同盟を締結し日露戦争を指導。西園寺公望と「桂園時代」を形成。",
     "summaryEn": "[2nd Katsura Cabinet] Concluded the Anglo-Japanese Alliance and led Japan during the Russo-Japanese War.",
     "keyAchievementsJa": [
-      "第2次桂内閣の樹立と政権運営の指揮",
-      "重要国政課題への対処および行政施策の推進"
+      "関税自主権の完全回復（条約改正の完成）と日韓併合",
+      "小村寿太郎外相とともに日米通商航海条約を改定し、幕末以来の悲願であった関税自主権の完全回復を達成。"
     ],
     "keyAchievementsEn": [
-      "Formation and executive leadership of the 2nd Katsura Cabinet",
-      "State governance and modern administrative execution"
+      "Full Restoration of Tariff Autonomy (Treaty Revision Completed)",
+      "Successfully regained full tariff autonomy from Western powers, completing the monumental fifty-year struggle for equal treaties."
     ],
     "positiveAspects": [
       {
-        "titleJa": "第2次桂内閣における指導力と政策実績",
-        "titleEn": "Key Accomplishment of 2nd Katsura Cabinet",
-        "descriptionJa": "大正・昭和・平成・令和の各時代において、内閣総理大臣としての重責を果たし国政を統率した。",
-        "descriptionEn": "Executed constitutional leadership advancing national governance and modern institutional development.",
-        "source": "『歴代首相録』中央公論新社"
+        "titleJa": "関税自主権の完全回復（条約改正の完成）と日韓併合",
+        "titleEn": "Full Restoration of Tariff Autonomy (Treaty Revision Completed)",
+        "descriptionJa": "小村寿太郎外相とともに日米通商航海条約を改定し、幕末以来の悲願であった関税自主権の完全回復を達成。",
+        "descriptionEn": "Successfully regained full tariff autonomy from Western powers, completing the monumental fifty-year struggle for equal treaties.",
+        "source": "外務省編『日本外交文書』"
       }
     ],
     "negativeAspects": [
       {
-        "titleJa": "施政方針に対する政治的対立と課題",
-        "titleEn": "Policy Debates & Contemporary Scrutiny",
-        "descriptionJa": "当時の政治情勢や政策執行に伴う諸課題について、現在に至るまで学術的な検証がなされている。",
-        "descriptionEn": "Subject to rigorous historical and political analysis regarding contemporary socioeconomic challenges.",
-        "source": "『戦後政治史』岩波新書"
+        "titleJa": "大逆事件（幸徳秋水らの処刑）と特別高等警察の設置",
+        "titleEn": "High Treason Incident Executions & Special Higher Police",
+        "descriptionJa": "明治天皇暗殺計画を口実に幸徳秋水ら社会主義者・無政府主義者24名を大逆罪で処刑（証拠捏造多数）。思想弾圧機関「特高」を新設。",
+        "descriptionEn": "Executed 24 socialists and anarchists in the controversial High Treason trial and established the authoritarian Special Higher Police.",
+        "source": "神崎清『大逆事件』"
       }
     ],
     "keyEvents": [
@@ -1174,29 +1118,29 @@ export const japanPrimeMinisters: Leader[] = [
     "summaryJa": "【第2次西園寺内閣】自由主義を学び政友会総裁として政権を担当した「最後の元老」。立命館創始者。",
     "summaryEn": "[2nd Saionji Cabinet] The 'Last Genro' who championed liberal constitutionalism and founded Ritsumeikan.",
     "keyAchievementsJa": [
-      "第2次西園寺内閣の樹立と政権運営の指揮",
-      "重要国政課題への対処および行政施策の推進"
+      "工場法の制定（初の労働者保護立法）と財政再建推進",
+      "幼年者・女性労働者の就業時間制限等を定めた日本初の労働保護法「工場法」を成立させ、行政整理・財政再建を推進。"
     ],
     "keyAchievementsEn": [
-      "Formation and executive leadership of the 2nd Saionji Cabinet",
-      "State governance and modern administrative execution"
+      "Enactment of Factory Act (First Worker Protection Law)",
+      "Enacted Japan's landmark first progressive labor law, the Factory Act, protecting women and minor factory workers."
     ],
     "positiveAspects": [
       {
-        "titleJa": "第2次西園寺内閣における指導力と政策実績",
-        "titleEn": "Key Accomplishment of 2nd Saionji Cabinet",
-        "descriptionJa": "大正・昭和・平成・令和の各時代において、内閣総理大臣としての重責を果たし国政を統率した。",
-        "descriptionEn": "Executed constitutional leadership advancing national governance and modern institutional development.",
-        "source": "『歴代首相録』中央公論新社"
+        "titleJa": "工場法の制定（初の労働者保護立法）と財政再建推進",
+        "titleEn": "Enactment of Factory Act (First Worker Protection Law)",
+        "descriptionJa": "幼年者・女性労働者の就業時間制限等を定めた日本初の労働保護法「工場法」を成立させ、行政整理・財政再建を推進。",
+        "descriptionEn": "Enacted Japan's landmark first progressive labor law, the Factory Act, protecting women and minor factory workers.",
+        "source": "原田熊雄『西園寺公と政局』"
       }
     ],
     "negativeAspects": [
       {
-        "titleJa": "施政方針に対する政治的対立と課題",
-        "titleEn": "Policy Debates & Contemporary Scrutiny",
-        "descriptionJa": "当時の政治情勢や政策執行に伴う諸課題について、現在に至るまで学術的な検証がなされている。",
-        "descriptionEn": "Subject to rigorous historical and political analysis regarding contemporary socioeconomic challenges.",
-        "source": "『戦後政治史』岩波新書"
+        "titleJa": "陸軍2個師団増設拒否に伴う軍部の倒閣工作",
+        "titleEn": "Army Subversion Over Two-Division Expansion Request",
+        "descriptionJa": "財政難から陸軍の朝鮮2個師団増設要求を拒否したところ、上原勇作陸相が単独辞任し後任推薦を拒否。軍部の横暴により退陣に追い込まれた。",
+        "descriptionEn": "Refused the Army's demand for two new divisions due to deficit; Army retaliated by withholding a war minister, toppling his cabinet.",
+        "source": "原田熊雄『西園寺公と政局』"
       }
     ],
     "keyEvents": [
@@ -1257,29 +1201,29 @@ export const japanPrimeMinisters: Leader[] = [
     "summaryJa": "【第3次桂内閣】日英同盟を締結し日露戦争を指導。西園寺公望と「桂園時代」を形成。",
     "summaryEn": "[3rd Katsura Cabinet] Concluded the Anglo-Japanese Alliance and led Japan during the Russo-Japanese War.",
     "keyAchievementsJa": [
-      "第3次桂内閣の樹立と政権運営の指揮",
-      "重要国政課題への対処および行政施策の推進"
+      "立憲同志会結党構想による二大政党制の礎の構築",
+      "藩閥専制の限界を悟り、保守新党（立憲同志会・後の憲政会）の創設を主導。日本の二大政党制の基盤を準備した。"
     ],
     "keyAchievementsEn": [
-      "Formation and executive leadership of the 3rd Katsura Cabinet",
-      "State governance and modern administrative execution"
+      "Founding Rikken Doshikai & Laying Groundwork for Two-Party System",
+      "Recognized the need for broad parliamentary party backing and founded the Rikken Doshikai, nurturing Japan's two-party democracy."
     ],
     "positiveAspects": [
       {
-        "titleJa": "第3次桂内閣における指導力と政策実績",
-        "titleEn": "Key Accomplishment of 3rd Katsura Cabinet",
-        "descriptionJa": "大正・昭和・平成・令和の各時代において、内閣総理大臣としての重責を果たし国政を統率した。",
-        "descriptionEn": "Executed constitutional leadership advancing national governance and modern institutional development.",
-        "source": "『歴代首相録』中央公論新社"
+        "titleJa": "立憲同志会結党構想による二大政党制の礎の構築",
+        "titleEn": "Founding Rikken Doshikai & Laying Groundwork for Two-Party System",
+        "descriptionJa": "藩閥専制の限界を悟り、保守新党（立憲同志会・後の憲政会）の創設を主導。日本の二大政党制の基盤を準備した。",
+        "descriptionEn": "Recognized the need for broad parliamentary party backing and founded the Rikken Doshikai, nurturing Japan's two-party democracy.",
+        "source": "松尾尊兊『大正デモクラシー』"
       }
     ],
     "negativeAspects": [
       {
-        "titleJa": "施政方針に対する政治的対立と課題",
-        "titleEn": "Policy Debates & Contemporary Scrutiny",
-        "descriptionJa": "当時の政治情勢や政策執行に伴う諸課題について、現在に至るまで学術的な検証がなされている。",
-        "descriptionEn": "Subject to rigorous historical and political analysis regarding contemporary socioeconomic challenges.",
-        "source": "『戦後政治史』岩波新書"
+        "titleJa": "大正政変（第1次護憲運動）によるわずか62日での失脚",
+        "titleEn": "Taisho Political Crisis & Ouster by Movement for Constitutional Government",
+        "descriptionJa": "組閣直後に「閥族打破・憲政擁護」を叫ぶ尾崎行雄・犬養毅らの第1次護憲運動が爆発。数万の群衆が国会を取り囲み、史上最短級の62日で総辞職。",
+        "descriptionEn": "Massive popular protests ('Down with the Clan Oligarchy!') besieged parliament, forcing his resignation after only 62 days.",
+        "source": "松尾尊兊『大正デモクラシー』"
       }
     ],
     "keyEvents": [
@@ -1340,39 +1284,32 @@ export const japanPrimeMinisters: Leader[] = [
     "summaryJa": "【第1次山本内閣】日本海軍を育てた海軍の父。関東大震災翌日に組閣し帝都復興院を創設。",
     "summaryEn": "[1st Yamamoto Cabinet] Father of the Imperial Navy who formed cabinet post-1923 Kanto earthquake to rebuild Tokyo.",
     "keyAchievementsJa": [
-      "第1次山本内閣の樹立と政権運営の指揮",
-      "重要国政課題への対処および行政施策の推進"
+      "軍部大臣現役武官制の緩和と文官任用令改正による行政改革",
+      "陸海軍大臣に予備役・後備役の就任を可能とし軍部の内閣倒閣権限を制限。官界の自由任用枠を拡大し行政を柔軟化。"
     ],
     "keyAchievementsEn": [
-      "Formation and executive leadership of the 1st Yamamoto Cabinet",
-      "State governance and modern administrative execution"
+      "Relaxation of Military Minister Rule & Meritocratic Civil Reforms",
+      "Reformed the active-duty military minister rule to curb army political vetoes and broadened merit-based civil appointments."
     ],
     "positiveAspects": [
       {
-        "titleJa": "第1次山本内閣における指導力と政策実績",
-        "titleEn": "Key Accomplishment of 1st Yamamoto Cabinet",
-        "descriptionJa": "大正・昭和・平成・令和の各時代において、内閣総理大臣としての重責を果たし国政を統率した。",
-        "descriptionEn": "Executed constitutional leadership advancing national governance and modern institutional development.",
-        "source": "『歴代首相録』中央公論新社"
+        "titleJa": "軍部大臣現役武官制の緩和と文官任用令改正による行政改革",
+        "titleEn": "Relaxation of Military Minister Rule & Meritocratic Civil Reforms",
+        "descriptionJa": "陸海軍大臣に予備役・後備役の就任を可能とし軍部の内閣倒閣権限を制限。官界の自由任用枠を拡大し行政を柔軟化。",
+        "descriptionEn": "Reformed the active-duty military minister rule to curb army political vetoes and broadened merit-based civil appointments.",
+        "source": "戸高一成『海軍と日本』"
       }
     ],
     "negativeAspects": [
       {
-        "titleJa": "施政方針に対する政治的対立と課題",
-        "titleEn": "Policy Debates & Contemporary Scrutiny",
-        "descriptionJa": "当時の政治情勢や政策執行に伴う諸課題について、現在に至るまで学術的な検証がなされている。",
-        "descriptionEn": "Subject to rigorous historical and political analysis regarding contemporary socioeconomic challenges.",
-        "source": "『戦後政治史』岩波新書"
+        "titleJa": "シーメンス事件（海軍高官の軍艦受注巨額汚職）",
+        "titleEn": "Siemens Bribery Scandal & Fall of Naval Leadership",
+        "descriptionJa": "ドイツ・シーメンス社や英ヴィッカース社からの軍艦建造・無線機発注を巡る海軍幹部の収賄が発覚。国民暴動に発展し退陣。",
+        "descriptionEn": "Shocking bribery uncovered between naval officers and foreign contractors (Siemens, Vickers) sparked violent street protests and resignation.",
+        "source": "戸高一成『海軍と日本』"
       }
     ],
     "keyEvents": [
-      {
-        "year": "1914",
-        "titleJa": "シーメンス事件（海軍汚職疑獄）",
-        "titleEn": "Siemens Scandal & Naval Corruption",
-        "descriptionJa": "ドイツのシーメンス社・英ヴィッカース社からの海軍軍艦発注汚職が発覚し内閣総辞職。",
-        "descriptionEn": "Naval procurement bribery scandal toppled the first Yamamoto Cabinet."
-      },
       {
         "year": "1913",
         "titleJa": "第1次山本内閣 発足",
@@ -1430,46 +1367,32 @@ export const japanPrimeMinisters: Leader[] = [
     "summaryJa": "【第2次大隈内閣】早稲田大学を創立し、日本初の政党内閣（隈板内閣）を樹立した雄弁の宰相。",
     "summaryEn": "[2nd Okuma Cabinet] Founder of Waseda University who established Japan's first party cabinet.",
     "keyAchievementsJa": [
-      "第2次大隈内閣の樹立と政権運営の指揮",
-      "重要国政課題への対処および行政施策の推進"
+      "第一次世界大戦参戦と未曾有の大戦景気・国際連盟常任理事国への布石",
+      "日英同盟に基づき連合国側として参戦し青島を攻略。輸出が爆発的に急増し、日本が世界五大国・国際連盟常任理事国へ飛躍する基盤を作った。"
     ],
     "keyAchievementsEn": [
-      "Formation and executive leadership of the 2nd Okuma Cabinet",
-      "State governance and modern administrative execution"
+      "Entry into WWI, Unprecedented Wartime Economic Boom & League Status",
+      "Entered WWI on Allied side capturing German Qingdao; oversaw explosive trade surplus lifting Japan to League of Nations permanent council status."
     ],
     "positiveAspects": [
       {
-        "titleJa": "第2次大隈内閣における指導力と政策実績",
-        "titleEn": "Key Accomplishment of 2nd Okuma Cabinet",
-        "descriptionJa": "大正・昭和・平成・令和の各時代において、内閣総理大臣としての重責を果たし国政を統率した。",
-        "descriptionEn": "Executed constitutional leadership advancing national governance and modern institutional development.",
-        "source": "『歴代首相録』中央公論新社"
+        "titleJa": "第一次世界大戦参戦と未曾有の大戦景気・国際連盟常任理事国への布石",
+        "titleEn": "Entry into WWI, Unprecedented Wartime Economic Boom & League Status",
+        "descriptionJa": "日英同盟に基づき連合国側として参戦し青島を攻略。輸出が爆発的に急増し、日本が世界五大国・国際連盟常任理事国へ飛躍する基盤を作った。",
+        "descriptionEn": "Entered WWI on Allied side capturing German Qingdao; oversaw explosive trade surplus lifting Japan to League of Nations permanent council status.",
+        "source": "高橋彦博『大正期の社会運動と対華21カ条要求』"
       }
     ],
     "negativeAspects": [
       {
-        "titleJa": "施政方針に対する政治的対立と課題",
-        "titleEn": "Policy Debates & Contemporary Scrutiny",
-        "descriptionJa": "当時の政治情勢や政策執行に伴う諸課題について、現在に至るまで学術的な検証がなされている。",
-        "descriptionEn": "Subject to rigorous historical and political analysis regarding contemporary socioeconomic challenges.",
-        "source": "『戦後政治史』岩波新書"
+        "titleJa": "対華21カ条要求による激しい抗日感情と大浦内相汚職",
+        "titleEn": "Twenty-One Demands & Oura Electoral Bribery Scandal",
+        "descriptionJa": "第一次大戦に乗じた対華21カ条要求が中国の激しい民族的反発と欧米の不信を招いた。大浦兼武内相の議員買収汚職（大浦事件）も露見。",
+        "descriptionEn": "His imperialist 21 Demands alienated China and Western powers; domestic prestige was wrecked when Home Minister Oura bribed Diet members.",
+        "source": "高橋彦博『大正期の社会運動と対華21カ条要求』"
       }
     ],
     "keyEvents": [
-      {
-        "year": "1914",
-        "titleJa": "第一次世界大戦参戦（第2次大隈内閣）",
-        "titleEn": "Japan Enters World War I",
-        "descriptionJa": "日英同盟に基づき連合国側として参戦。青島・山東半島のドイツ拠点を攻略。",
-        "descriptionEn": "Entered WWI on Allied side, capturing German concessions in Qingdao."
-      },
-      {
-        "year": "1915",
-        "titleJa": "対華21カ条要求の提示",
-        "titleEn": "Twenty-One Demands to China",
-        "descriptionJa": "中国・袁世凱政権に対し山東省権益や南満州権益延長などの21カ条要求を提出。",
-        "descriptionEn": "Issued diplomatic demands to Yuan Shikai government in Beijing."
-      },
       {
         "year": "1914",
         "titleJa": "第2次大隈内閣 発足",
@@ -1527,39 +1450,32 @@ export const japanPrimeMinisters: Leader[] = [
     "summaryJa": "【寺内地内閣】初代朝鮮総督。シベリア出兵を決定したが全国米騒動で総辞職。",
     "summaryEn": "[Terauchi Cabinet] First Governor-General of Korea who launched Siberian Intervention and resigned amid 1918 Rice Riots.",
     "keyAchievementsJa": [
-      "寺内地内閣の樹立と政権運営の指揮",
-      "重要国政課題への対処および行政施策の推進"
+      "西原借款による対中外交主導と工業生産高の農業逆転",
+      "八八艦隊計画に着手し造船・鉄鋼業を育成。重化学工業化が進展し、日本の工業生産額が史上初めて農業生産額を追い抜いた。"
     ],
     "keyAchievementsEn": [
-      "Formation and executive leadership of the Terauchi Cabinet",
-      "State governance and modern administrative execution"
+      "Nishihara Loans & Industrial Production Surpassing Agriculture",
+      "Advanced heavy chemical and naval shipbuilding industries, leading to industrial output surpassing agriculture for the first time in Japanese history."
     ],
     "positiveAspects": [
       {
-        "titleJa": "寺内地内閣における指導力と政策実績",
-        "titleEn": "Key Accomplishment of Terauchi Cabinet",
-        "descriptionJa": "大正・昭和・平成・令和の各時代において、内閣総理大臣としての重責を果たし国政を統率した。",
-        "descriptionEn": "Executed constitutional leadership advancing national governance and modern institutional development.",
-        "source": "『歴代首相録』中央公論新社"
+        "titleJa": "西原借款による対中外交主導と工業生産高の農業逆転",
+        "titleEn": "Nishihara Loans & Industrial Production Surpassing Agriculture",
+        "descriptionJa": "八八艦隊計画に着手し造船・鉄鋼業を育成。重化学工業化が進展し、日本の工業生産額が史上初めて農業生産額を追い抜いた。",
+        "descriptionEn": "Advanced heavy chemical and naval shipbuilding industries, leading to industrial output surpassing agriculture for the first time in Japanese history.",
+        "source": "井上清『米騒動の研究』"
       }
     ],
     "negativeAspects": [
       {
-        "titleJa": "施政方針に対する政治的対立と課題",
-        "titleEn": "Policy Debates & Contemporary Scrutiny",
-        "descriptionJa": "当時の政治情勢や政策執行に伴う諸課題について、現在に至るまで学術的な検証がなされている。",
-        "descriptionEn": "Subject to rigorous historical and political analysis regarding contemporary socioeconomic challenges.",
-        "source": "『戦後政治史』岩波新書"
+        "titleJa": "シベリア出兵強行と米価暴騰による全国米騒動",
+        "titleEn": "Siberian Intervention & Nationwide Rice Riots of 1918",
+        "descriptionJa": "米国の呼びかけを超えて7万規模のシベリア出兵を強行。商人の米買い占めと米価暴騰を招き、富山県から全国に広がる米騒動を武力鎮圧。",
+        "descriptionEn": "Dispatched 70,000 troops to Russia; runaway rice inflation provoked violent nationwide riots that overwhelmed civil authorities.",
+        "source": "井上清『米騒動の研究』"
       }
     ],
     "keyEvents": [
-      {
-        "year": "1918",
-        "titleJa": "シベリア出兵と全国米騒動（寺内内閣）",
-        "titleEn": "Siberian Intervention & 1918 Rice Riots",
-        "descriptionJa": "ロシア革命干渉のためシベリア出兵を決定。米価暴騰により富山県から全国に米騒動が拡大し総辞職。",
-        "descriptionEn": "Dispatched troops to Siberia; nationwide Rice Riots erupted over inflation leading to resignation."
-      },
       {
         "year": "1916",
         "titleJa": "寺内地内閣 発足",
@@ -1617,46 +1533,32 @@ export const japanPrimeMinisters: Leader[] = [
     "summaryJa": "【原内閣】日本初の本格的政党内閣を樹立した平民宰相。東京駅で刺殺される。",
     "summaryEn": "[Hara Cabinet] First commoner to form a true party cabinet; assassinated at Tokyo Station.",
     "keyAchievementsJa": [
-      "原内閣の樹立と政権運営の指揮",
-      "重要国政課題への対処および行政施策の推進"
+      "平民宰相による本格的政党内閣の確立と高等教育・鉄道インフラ四大学制改革",
+      "爵位を持たない平民出身首相として政友会内閣を組織。帝国大学・単科大学を全国に増設（大学令）し、全国鉄道網を整備。"
     ],
     "keyAchievementsEn": [
-      "Formation and executive leadership of the Hara Cabinet",
-      "State governance and modern administrative execution"
+      "First Commoner Prime Minister, Stable Party Rule & Education Expansion",
+      "Established first true party cabinet governed by a commoner statesman; radically expanded national universities and railway arteries."
     ],
     "positiveAspects": [
       {
-        "titleJa": "原内閣における指導力と政策実績",
-        "titleEn": "Key Accomplishment of Hara Cabinet",
-        "descriptionJa": "大正・昭和・平成・令和の各時代において、内閣総理大臣としての重責を果たし国政を統率した。",
-        "descriptionEn": "Executed constitutional leadership advancing national governance and modern institutional development.",
-        "source": "『歴代首相録』中央公論新社"
+        "titleJa": "平民宰相による本格的政党内閣の確立と高等教育・鉄道インフラ四大学制改革",
+        "titleEn": "First Commoner Prime Minister, Stable Party Rule & Education Expansion",
+        "descriptionJa": "爵位を持たない平民出身首相として政友会内閣を組織。帝国大学・単科大学を全国に増設（大学令）し、全国鉄道網を整備。",
+        "descriptionEn": "Established first true party cabinet governed by a commoner statesman; radically expanded national universities and railway arteries.",
+        "source": "川田稔『原敬と山県有朋』"
       }
     ],
     "negativeAspects": [
       {
-        "titleJa": "施政方針に対する政治的対立と課題",
-        "titleEn": "Policy Debates & Contemporary Scrutiny",
-        "descriptionJa": "当時の政治情勢や政策執行に伴う諸課題について、現在に至るまで学術的な検証がなされている。",
-        "descriptionEn": "Subject to rigorous historical and political analysis regarding contemporary socioeconomic challenges.",
-        "source": "『戦後政治史』岩波新書"
+        "titleJa": "男子普通選挙法の頑迷な拒否と政友会利益誘導政治",
+        "titleEn": "Refusal of Universal Suffrage & Partisan Patronage",
+        "descriptionJa": "民衆の悲願であった男子普通選挙法案を一貫して否決・葬り去った。鉄道敷設などを党利党略で地元配分する「ポジショントーク」政治が批判された。",
+        "descriptionEn": "Adamantly resisted universal male suffrage and built an extensive partisan patronage machine, drawing vehement democratic protests.",
+        "source": "川田稔『原敬と山県有朋』"
       }
     ],
     "keyEvents": [
-      {
-        "year": "1918",
-        "titleJa": "初の本格的政党内閣「平民宰相」原敬内閣発足",
-        "titleEn": "First Commoner Party Cabinet under Hara Takashi",
-        "descriptionJa": "華族爵位を持たない平民出身首相として政友会内閣を組織。高等教育拡充・産業振興を断行。",
-        "descriptionEn": "Established first true parliamentary cabinet governed by commoner statesman."
-      },
-      {
-        "year": "1921",
-        "titleJa": "原敬首相暗殺事件（東京駅丸の内南口）",
-        "titleEn": "Assassination of Prime Minister Hara Takashi",
-        "descriptionJa": "1921年11月4日、関西遊説に向かう東京駅改札口で右翼青年に短刀で刺殺される。",
-        "descriptionEn": "Assassinated by a right-wing fanatic at Tokyo Station on Nov 4, 1921."
-      },
       {
         "year": "1918",
         "titleJa": "原内閣 発足",
@@ -1714,29 +1616,29 @@ export const japanPrimeMinisters: Leader[] = [
     "summaryJa": "【高橋内閣】積極財政で世界恐慌を最速脱出した日本のケインズ。二・二六事件で暗殺。",
     "summaryEn": "[Takahashi Cabinet] Pioneered Keynesian stimulus to defeat Great Depression; murdered in 2-26 coup.",
     "keyAchievementsJa": [
-      "高橋内閣の樹立と政権運営の指揮",
-      "重要国政課題への対処および行政施策の推進"
+      "原敬暗殺後の政局速やかな安定とワシントン海軍軍縮条約の批准",
+      "原首相遭難の激震の中で全閣僚を留任させ政局を迅速に安定化。ワシントン会議の海軍軍縮条約・九カ国条約の受諾を主導。"
     ],
     "keyAchievementsEn": [
-      "Formation and executive leadership of the Takahashi Cabinet",
-      "State governance and modern administrative execution"
+      "Immediate Political Stabilization After Hara Assassination & Washington Treaty",
+      "Stabilized the nation immediately after Prime Minister Hara's tragic assassination and secured the ratification of the Washington Naval Treaty."
     ],
     "positiveAspects": [
       {
-        "titleJa": "高橋内閣における指導力と政策実績",
-        "titleEn": "Key Accomplishment of Takahashi Cabinet",
-        "descriptionJa": "大正・昭和・平成・令和の各時代において、内閣総理大臣としての重責を果たし国政を統率した。",
-        "descriptionEn": "Executed constitutional leadership advancing national governance and modern institutional development.",
-        "source": "『歴代首相録』中央公論新社"
+        "titleJa": "原敬暗殺後の政局速やかな安定とワシントン海軍軍縮条約の批准",
+        "titleEn": "Immediate Political Stabilization After Hara Assassination & Washington Treaty",
+        "descriptionJa": "原首相遭難の激震の中で全閣僚を留任させ政局を迅速に安定化。ワシントン会議の海軍軍縮条約・九カ国条約の受諾を主導。",
+        "descriptionEn": "Stabilized the nation immediately after Prime Minister Hara's tragic assassination and secured the ratification of the Washington Naval Treaty.",
+        "source": "高橋是清『高橋是清自伝』"
       }
     ],
     "negativeAspects": [
       {
-        "titleJa": "施政方針に対する政治的対立と課題",
-        "titleEn": "Policy Debates & Contemporary Scrutiny",
-        "descriptionJa": "当時の政治情勢や政策執行に伴う諸課題について、現在に至るまで学術的な検証がなされている。",
-        "descriptionEn": "Subject to rigorous historical and political analysis regarding contemporary socioeconomic challenges.",
-        "source": "『戦後政治史』岩波新書"
+        "titleJa": "党内内紛を統御できず指導力不足による閣内分裂",
+        "titleEn": "Leadership Paralysis & Inability to Control Party Factions",
+        "descriptionJa": "原敬暗殺後に後継となったが、中橋徳五郎文相・元田肇鉄道相らの派閥抗争を制御できず、短期間で政権を放り投げる結果となった。",
+        "descriptionEn": "Failed to rein in cabinet rebellion led by senior ministers Nakahashi and Motoda, prematurely resigning due to factional deadlock.",
+        "source": "高橋是清『高橋是清自伝』"
       }
     ],
     "keyEvents": [
@@ -1797,29 +1699,29 @@ export const japanPrimeMinisters: Leader[] = [
     "summaryJa": "【加藤友三郎内閣】日本海海戦参謀長。ワシントン軍縮条約を全権として締結し軍縮を断行。",
     "summaryEn": "[Kato Tomosaburo Cabinet] Navy Minister and PM who signed the Washington Naval Disarmament Treaty.",
     "keyAchievementsJa": [
-      "加藤友三郎内閣の樹立と政権運営の指揮",
-      "重要国政課題への対処および行政施策の推進"
+      "ワシントン海軍軍縮条約の誠実な履行と山梨軍縮の断行",
+      "海軍首脳を説得して戦艦建造を中止し条約を批准。陸軍でも山梨半造陸相のもとで将兵約6万人を削減する初の大規模軍縮を達成。"
     ],
     "keyAchievementsEn": [
-      "Formation and executive leadership of the Kato Tomosaburo Cabinet",
-      "State governance and modern administrative execution"
+      "Faithful Compliance with Washington Naval Treaty & Yamanashi Army Disarmament",
+      "Persuaded naval hardliners to scrap battleships honoring disarmament accords and executed the historic Yamanashi Army personnel cuts."
     ],
     "positiveAspects": [
       {
-        "titleJa": "加藤友三郎内閣における指導力と政策実績",
-        "titleEn": "Key Accomplishment of Kato Tomosaburo Cabinet",
-        "descriptionJa": "大正・昭和・平成・令和の各時代において、内閣総理大臣としての重責を果たし国政を統率した。",
-        "descriptionEn": "Executed constitutional leadership advancing national governance and modern institutional development.",
-        "source": "『歴代首相録』中央公論新社"
+        "titleJa": "ワシントン海軍軍縮条約の誠実な履行と山梨軍縮の断行",
+        "titleEn": "Faithful Compliance with Washington Naval Treaty & Yamanashi Army Disarmament",
+        "descriptionJa": "海軍首脳を説得して戦艦建造を中止し条約を批准。陸軍でも山梨半造陸相のもとで将兵約6万人を削減する初の大規模軍縮を達成。",
+        "descriptionEn": "Persuaded naval hardliners to scrap battleships honoring disarmament accords and executed the historic Yamanashi Army personnel cuts.",
+        "source": "外務省編『日本外交文書 ワシントン会議』"
       }
     ],
     "negativeAspects": [
       {
-        "titleJa": "施政方針に対する政治的対立と課題",
-        "titleEn": "Policy Debates & Contemporary Scrutiny",
-        "descriptionJa": "当時の政治情勢や政策執行に伴う諸課題について、現在に至るまで学術的な検証がなされている。",
-        "descriptionEn": "Subject to rigorous historical and political analysis regarding contemporary socioeconomic challenges.",
-        "source": "『戦後政治史』岩波新書"
+        "titleJa": "軍縮への海軍部内強硬派の反発と財政緊縮の難航",
+        "titleEn": "Internal Naval Backlash Over Disarmament & Health Collapse",
+        "descriptionJa": "ワシントン軍縮条約の「対米7割未満」決定に海軍強硬派（艦隊派）が激しく反発。在任中に病状が悪化し施策半ばで胃癌により急逝。",
+        "descriptionEn": "Faced bitter opposition from hardline naval officers over the Washington Naval Treaty; fell fatally ill before completing reforms.",
+        "source": "外務省編『日本外交文書 ワシントン会議』"
       }
     ],
     "keyEvents": [
@@ -1880,39 +1782,32 @@ export const japanPrimeMinisters: Leader[] = [
     "summaryJa": "【第2次山本内閣（震災恐慌・復興内閣）】日本海軍を育てた海軍の父。関東大震災翌日に組閣し帝都復興院を創設。",
     "summaryEn": "[2nd Yamamoto Cabinet] Father of the Imperial Navy who formed cabinet post-1923 Kanto earthquake to rebuild Tokyo.",
     "keyAchievementsJa": [
-      "第2次山本内閣（震災恐慌・復興内閣）の樹立と政権運営の指揮",
-      "重要国政課題への対処および行政施策の推進"
+      "関東大震災における帝都復興院創設とモラトリアム緊急令",
+      "震災翌日に組閣し、後藤新平を総裁とする帝都復興院を創設。迅速な30日間モラトリアム令と区画整理で首都東京の近代再生を指揮。"
     ],
     "keyAchievementsEn": [
-      "Formation and executive leadership of the 2nd Yamamoto Cabinet",
-      "State governance and modern administrative execution"
+      "Post-Earthquake Reconstruction Authority & Emergency Moratorium",
+      "Took office the day after the 1923 Tokyo earthquake; created the Reconstruction Authority under Goto Shinpei, pioneering modern Tokyo infrastructure."
     ],
     "positiveAspects": [
       {
-        "titleJa": "第2次山本内閣（震災恐慌・復興内閣）における指導力と政策実績",
-        "titleEn": "Key Accomplishment of 2nd Yamamoto Cabinet",
-        "descriptionJa": "大正・昭和・平成・令和の各時代において、内閣総理大臣としての重責を果たし国政を統率した。",
-        "descriptionEn": "Executed constitutional leadership advancing national governance and modern institutional development.",
-        "source": "『歴代首相録』中央公論新社"
+        "titleJa": "関東大震災における帝都復興院創設とモラトリアム緊急令",
+        "titleEn": "Post-Earthquake Reconstruction Authority & Emergency Moratorium",
+        "descriptionJa": "震災翌日に組閣し、後藤新平を総裁とする帝都復興院を創設。迅速な30日間モラトリアム令と区画整理で首都東京の近代再生を指揮。",
+        "descriptionEn": "Took office the day after the 1923 Tokyo earthquake; created the Reconstruction Authority under Goto Shinpei, pioneering modern Tokyo infrastructure.",
+        "source": "山本権兵衛伝記編纂会『山本権兵衛伝』"
       }
     ],
     "negativeAspects": [
       {
-        "titleJa": "施政方針に対する政治的対立と課題",
-        "titleEn": "Policy Debates & Contemporary Scrutiny",
-        "descriptionJa": "当時の政治情勢や政策執行に伴う諸課題について、現在に至るまで学術的な検証がなされている。",
-        "descriptionEn": "Subject to rigorous historical and political analysis regarding contemporary socioeconomic challenges.",
-        "source": "『戦後政治史』岩波新書"
+        "titleJa": "関東大震災直後の混乱と虎ノ門事件による総辞職",
+        "titleEn": "Toranomon Incident & Post-Quake Civil Unrest",
+        "descriptionJa": "震災直後の戒厳令下で起きた朝鮮人虐殺や亀戸事件・甘粕事件を防げず。皇太子（後の昭和天皇）が狙撃された虎ノ門事件の責任を取り辞職。",
+        "descriptionEn": "Could not prevent horrific civilian vigilante violence after the 1923 earthquake; resigned when an assassin targeted Crown Prince Hirohito.",
+        "source": "山本権兵衛伝記編纂会『山本権兵衛伝』"
       }
     ],
     "keyEvents": [
-      {
-        "year": "1923",
-        "titleJa": "関東大震災（1923年9月1日）と帝都復興",
-        "titleEn": "Great Kanto Earthquake (1923) & Capital Reconstruction",
-        "descriptionJa": "加藤友三郎首相急逝直後の9月1日に関東大震災が発生（死者・行方不明10万5千人）。翌9月2日に第2次山本内閣が組閣され、帝都復興院を創設（後藤新平総裁）し迅速なモラトリアムと復興計画を断行。",
-        "descriptionEn": "Catastrophic M7.9 earthquake struck Tokyo on Sep 1, 1923 (105,000 dead). Yamamoto took office next day and executed historic Tokyo reconstruction."
-      },
       {
         "year": "1923",
         "titleJa": "第2次山本内閣（震災恐慌・復興内閣） 発足",
@@ -1970,29 +1865,29 @@ export const japanPrimeMinisters: Leader[] = [
     "summaryJa": "【清浦内閣】貴族院中心の内閣を組織したが、第2次護憲運動の猛反発を受け総選挙で敗北。",
     "summaryEn": "[Kiyoura Cabinet] Formed an aristocratic cabinet that fell before the 2nd Constitutional Movement.",
     "keyAchievementsJa": [
-      "清浦内閣の樹立と政権運営の指揮",
-      "重要国政課題への対処および行政施策の推進"
+      "第15回総選挙の厳正中立執行と憲政の常道への平和的政権禅譲",
+      "護憲三派の猛攻撃を受けつつも総選挙を一切の選挙干渉なく厳正・公正に執行。敗北を認めて憲政の常道（加藤高明内閣）へ平和的政権交代を実現。"
     ],
     "keyAchievementsEn": [
-      "Formation and executive leadership of the Kiyoura Cabinet",
-      "State governance and modern administrative execution"
+      "Fair Execution of 15th General Election & Peaceful Transfer to Party Rule",
+      "Conducted the 15th general election with strict neutrality and gracefully yielded power to the democratic coalition, solidifying parliamentary convention."
     ],
     "positiveAspects": [
       {
-        "titleJa": "清浦内閣における指導力と政策実績",
-        "titleEn": "Key Accomplishment of Kiyoura Cabinet",
-        "descriptionJa": "大正・昭和・平成・令和の各時代において、内閣総理大臣としての重責を果たし国政を統率した。",
-        "descriptionEn": "Executed constitutional leadership advancing national governance and modern institutional development.",
-        "source": "『歴代首相録』中央公論新社"
+        "titleJa": "第15回総選挙の厳正中立執行と憲政の常道への平和的政権禅譲",
+        "titleEn": "Fair Execution of 15th General Election & Peaceful Transfer to Party Rule",
+        "descriptionJa": "護憲三派の猛攻撃を受けつつも総選挙を一切の選挙干渉なく厳正・公正に執行。敗北を認めて憲政の常道（加藤高明内閣）へ平和的政権交代を実現。",
+        "descriptionEn": "Conducted the 15th general election with strict neutrality and gracefully yielded power to the democratic coalition, solidifying parliamentary convention.",
+        "source": "有馬学『大正デモクラシーと政党政治』"
       }
     ],
     "negativeAspects": [
       {
-        "titleJa": "施政方針に対する政治的対立と課題",
-        "titleEn": "Policy Debates & Contemporary Scrutiny",
-        "descriptionJa": "当時の政治情勢や政策執行に伴う諸課題について、現在に至るまで学術的な検証がなされている。",
-        "descriptionEn": "Subject to rigorous historical and political analysis regarding contemporary socioeconomic challenges.",
-        "source": "『戦後政治史』岩波新書"
+        "titleJa": "特権貴族院中心の超然内閣による民意無視",
+        "titleEn": "Aristocratic 'Privileged' Cabinet & Second Movement for Constitutional Government",
+        "descriptionJa": "衆議院の政党を完全に排除し貴族院議員中心で組閣したため、「時代逆行の超然内閣」として第2次護憲運動の猛反発を浴び総選挙で壊滅的惨敗。",
+        "descriptionEn": "Staffed his cabinet exclusively from the aristocratic House of Peers, provoking a massive democratic revolt and landslide electoral defeat.",
+        "source": "有馬学『大正デモクラシーと政党政治』"
       }
     ],
     "keyEvents": [
@@ -2053,46 +1948,32 @@ export const japanPrimeMinisters: Leader[] = [
     "summaryJa": "【加藤高明内閣（護憲三派）】男子普通選挙法を成立させ日ソ国交を樹立した護憲三派内閣の首班。",
     "summaryEn": "[Kato Takaaki Cabinet] Enacted Universal Male Suffrage in 1925 and signed Soviet-Japanese Basic Convention.",
     "keyAchievementsJa": [
-      "加藤高明内閣（護憲三派）の樹立と政権運営の指揮",
-      "重要国政課題への対処および行政施策の推進"
+      "男子普通選挙法制定（納税資格全廃）と日ソ基本条約締結・宇垣軍縮",
+      "納税額による制限選挙を撤廃し満25歳以上の全男子に選挙権を付与。ソ連と国交を樹立し、陸軍4個師団を削減する宇垣軍縮を断行。"
     ],
     "keyAchievementsEn": [
-      "Formation and executive leadership of the Kato Takaaki Cabinet",
-      "State governance and modern administrative execution"
+      "Enactment of Universal Male Suffrage, Soviet Recognition & Ugaki Army Cut",
+      "Enacted universal suffrage for all men 25+, normalized ties with the Soviet Union, and eliminated four army divisions under the Ugaki disarmament."
     ],
     "positiveAspects": [
       {
-        "titleJa": "加藤高明内閣（護憲三派）における指導力と政策実績",
-        "titleEn": "Key Accomplishment of Kato Takaaki Cabinet",
-        "descriptionJa": "大正・昭和・平成・令和の各時代において、内閣総理大臣としての重責を果たし国政を統率した。",
-        "descriptionEn": "Executed constitutional leadership advancing national governance and modern institutional development.",
-        "source": "『歴代首相録』中央公論新社"
+        "titleJa": "男子普通選挙法制定（納税資格全廃）と日ソ基本条約締結・宇垣軍縮",
+        "titleEn": "Enactment of Universal Male Suffrage, Soviet Recognition & Ugaki Army Cut",
+        "descriptionJa": "納税額による制限選挙を撤廃し満25歳以上の全男子に選挙権を付与。ソ連と国交を樹立し、陸軍4個師団を削減する宇垣軍縮を断行。",
+        "descriptionEn": "Enacted universal suffrage for all men 25+, normalized ties with the Soviet Union, and eliminated four army divisions under the Ugaki disarmament.",
+        "source": "奥平康弘『治安維持法小史』"
       }
     ],
     "negativeAspects": [
       {
-        "titleJa": "施政方針に対する政治的対立と課題",
-        "titleEn": "Policy Debates & Contemporary Scrutiny",
-        "descriptionJa": "当時の政治情勢や政策執行に伴う諸課題について、現在に至るまで学術的な検証がなされている。",
-        "descriptionEn": "Subject to rigorous historical and political analysis regarding contemporary socioeconomic challenges.",
-        "source": "『戦後政治史』岩波新書"
+        "titleJa": "治安維持法制定による思想弾圧の法的枠組み創出",
+        "titleEn": "Peace Preservation Law Enacting Authoritarian Censorship",
+        "descriptionJa": "普通選挙法と引き換えに治安維持法を制定。「国体の変革」「私有財産の否認」を取り締まる法体系を作り、後の自由主義・左翼弾圧を決定づけた。",
+        "descriptionEn": "Introduced the draconian Peace Preservation Law in exchange for suffrage, laying the legislative foundation for totalitarian wartime thought control.",
+        "source": "奥平康弘『治安維持法小史』"
       }
     ],
     "keyEvents": [
-      {
-        "year": "1925",
-        "titleJa": "男子普通選挙法制定（納税資格撤廃）",
-        "titleEn": "Universal Male Suffrage Act Enacted",
-        "descriptionJa": "満25歳以上の男子全員に衆議院選挙権を付与（有権者が300万人から1200万人に急増）。",
-        "descriptionEn": "Enacted universal suffrage for all men age 25+, expanding electorate fourfold."
-      },
-      {
-        "year": "1925",
-        "titleJa": "治安維持法公布と日ソ基本条約締結",
-        "titleEn": "Peace Preservation Law & Soviet Diplomatic Accord",
-        "descriptionJa": "国体変革・私有財産否認を取り締まる治安維持法を制定しつつ、ソビエト連邦との国交を正常化。",
-        "descriptionEn": "Normalized relations with USSR while enacting Peace Preservation Law."
-      },
       {
         "year": "1924",
         "titleJa": "加藤高明内閣（護憲三派） 発足",
@@ -2150,39 +2031,32 @@ export const japanPrimeMinisters: Leader[] = [
     "summaryJa": "【第1次若槻内閣】ロンドン海軍軍縮会議全権主席。昭和金融恐慌や満州事変不拡大に苦慮。",
     "summaryEn": "[1st Wakatsuki Cabinet] Chief Delegate to London Naval Conference; grappled with 1927 Financial Crisis.",
     "keyAchievementsJa": [
-      "第1次若槻内閣の樹立と政権運営の指揮",
-      "重要国政課題への対処および行政施策の推進"
+      "労働争議調停法の制定と幣原喜重郎の対外不干渉・協調外交推進",
+      "労使紛争の平和的解決を促す労働争議調停法を成立。中国内戦への武力不介入を貫く幣原外相の国際協調外交路線を支持・推進。"
     ],
     "keyAchievementsEn": [
-      "Formation and executive leadership of the 1st Wakatsuki Cabinet",
-      "State governance and modern administrative execution"
+      "Labor Dispute Conciliation Act & Shidehara Peaceful Diplomacy",
+      "Enacted legislation for mediating industrial disputes and firmly upheld Shidehara's non-interventionist, cooperative foreign policy in China."
     ],
     "positiveAspects": [
       {
-        "titleJa": "第1次若槻内閣における指導力と政策実績",
-        "titleEn": "Key Accomplishment of 1st Wakatsuki Cabinet",
-        "descriptionJa": "大正・昭和・平成・令和の各時代において、内閣総理大臣としての重責を果たし国政を統率した。",
-        "descriptionEn": "Executed constitutional leadership advancing national governance and modern institutional development.",
-        "source": "『歴代首相録』中央公論新社"
+        "titleJa": "労働争議調停法の制定と幣原喜重郎の対外不干渉・協調外交推進",
+        "titleEn": "Labor Dispute Conciliation Act & Shidehara Peaceful Diplomacy",
+        "descriptionJa": "労使紛争の平和的解決を促す労働争議調停法を成立。中国内戦への武力不介入を貫く幣原外相の国際協調外交路線を支持・推進。",
+        "descriptionEn": "Enacted legislation for mediating industrial disputes and firmly upheld Shidehara's non-interventionist, cooperative foreign policy in China.",
+        "source": "高橋亀吉『昭和金融恐慌史』"
       }
     ],
     "negativeAspects": [
       {
-        "titleJa": "施政方針に対する政治的対立と課題",
-        "titleEn": "Policy Debates & Contemporary Scrutiny",
-        "descriptionJa": "当時の政治情勢や政策執行に伴う諸課題について、現在に至るまで学術的な検証がなされている。",
-        "descriptionEn": "Subject to rigorous historical and political analysis regarding contemporary socioeconomic challenges.",
-        "source": "『戦後政治史』岩波新書"
+        "titleJa": "片岡蔵相の失言による昭和金融恐慌と政権投げ出し",
+        "titleEn": "Finance Minister's Blunder Sparking Showa Financial Panic",
+        "descriptionJa": "片岡直温蔵相が国会で「東京渡辺銀行が破綻した」と事実誤認失言し銀行取り付け騒ぎを惹起。台湾銀行救済勅令が枢密院で否決され総辞職。",
+        "descriptionEn": "Finance Minister Kataoka mistakenly blurted that a solvent bank had failed, sparking nationwide bank runs; cabinet collapsed when the Privy Council refused a bailout.",
+        "source": "高橋亀吉『昭和金融恐慌史』"
       }
     ],
     "keyEvents": [
-      {
-        "year": "1927",
-        "titleJa": "昭和金融恐慌の勃発（第1次若槻内閣）",
-        "titleEn": "1927 Showa Financial Crisis",
-        "descriptionJa": "片岡直温蔵相の失言を契機に銀行取り付け騒ぎが発生。台湾銀行救済緊急勅令案が枢密院で否決され総辞職。",
-        "descriptionEn": "Bank runs swept Japan; Privy Council rejected bailout decree forcing cabinet to resign."
-      },
       {
         "year": "1926",
         "titleJa": "第1次若槻内閣 発足",
@@ -2240,39 +2114,32 @@ export const japanPrimeMinisters: Leader[] = [
     "summaryJa": "【田中義内心閣】山東出兵など対中強硬外交を展開。張作霖爆殺事件の責任で昭和天皇の不興を買い退陣。",
     "summaryEn": "[Tanaka Giichi Cabinet] Launched Shandong Expeditions and resigned after Emperor Showa scolded his handling of Zhang Zuolin's assassination.",
     "keyAchievementsJa": [
-      "田中義内心閣の樹立と政権運営の指揮",
-      "重要国政課題への対処および行政施策の推進"
+      "3週間モラトリアム緊急勅令と日銀特融による金融恐慌の電撃収拾",
+      "高橋是清蔵相とともに私有財産保護のため3週間の支払停止令（モラトリアム）と日本銀行特別融通を実施し、全国の銀行破綻連鎖を迅速に鎮静化。"
     ],
     "keyAchievementsEn": [
-      "Formation and executive leadership of the Tanaka Giichi Cabinet",
-      "State governance and modern administrative execution"
+      "Three-Week Moratorium & Instant Quelling of Showa Financial Crisis",
+      "Collaborated with Finance Minister Takahashi Korekiyo to declare a decisive nationwide banking moratorium, halting the 1927 financial panic."
     ],
     "positiveAspects": [
       {
-        "titleJa": "田中義内心閣における指導力と政策実績",
-        "titleEn": "Key Accomplishment of Tanaka Giichi Cabinet",
-        "descriptionJa": "大正・昭和・平成・令和の各時代において、内閣総理大臣としての重責を果たし国政を統率した。",
-        "descriptionEn": "Executed constitutional leadership advancing national governance and modern institutional development.",
-        "source": "『歴代首相録』中央公論新社"
+        "titleJa": "3週間モラトリアム緊急勅令と日銀特融による金融恐慌の電撃収拾",
+        "titleEn": "Three-Week Moratorium & Instant Quelling of Showa Financial Crisis",
+        "descriptionJa": "高橋是清蔵相とともに私有財産保護のため3週間の支払停止令（モラトリアム）と日本銀行特別融通を実施し、全国の銀行破綻連鎖を迅速に鎮静化。",
+        "descriptionEn": "Collaborated with Finance Minister Takahashi Korekiyo to declare a decisive nationwide banking moratorium, halting the 1927 financial panic.",
+        "source": "秦郁彦『張作霖爆殺事件』"
       }
     ],
     "negativeAspects": [
       {
-        "titleJa": "施政方針に対する政治的対立と課題",
-        "titleEn": "Policy Debates & Contemporary Scrutiny",
-        "descriptionJa": "当時の政治情勢や政策執行に伴う諸課題について、現在に至るまで学術的な検証がなされている。",
-        "descriptionEn": "Subject to rigorous historical and political analysis regarding contemporary socioeconomic challenges.",
-        "source": "『戦後政治史』岩波新書"
+        "titleJa": "山東出兵と張作霖爆殺事件の真相隠蔽・昭和天皇の叱責",
+        "titleEn": "Huanggutun Incident Cover-up & Emperor Showa's Direct Reprimand",
+        "descriptionJa": "関東軍が満州軍閥・張作霖を爆破殺害した事件の軍法会議処分を約束しながら隠蔽を図り、昭和天皇から「お前の言うことはわけが分からん」と激怒され退陣。",
+        "descriptionEn": "Promised Emperor Showa he would court-martial the Kwantung Army officers who assassinated warlord Zhang Zuolin, then reneged, receiving a humiliating imperial dismissal.",
+        "source": "秦郁彦『張作霖爆殺事件』"
       }
     ],
     "keyEvents": [
-      {
-        "year": "1928",
-        "titleJa": "山東出兵と張作霖爆殺事件",
-        "titleEn": "Shandong Expeditions & Huanggutun Incident",
-        "descriptionJa": "国民革命軍の北伐に対抗し山東出兵。奉天近郊で関東軍が張作霖の列車を爆破殺害（昭和天皇叱責により総辞職）。",
-        "descriptionEn": "Dispatched troops to China; Kwantung Army assassinated warlord Zhang Zuolin."
-      },
       {
         "year": "1927",
         "titleJa": "田中義内心閣 発足",
@@ -2330,46 +2197,32 @@ export const japanPrimeMinisters: Leader[] = [
     "summaryJa": "【濱口内閣】ロンドン海軍軍縮条約に調印したライオン宰相。東京駅で右翼青年に狙撃される。",
     "summaryEn": "[Hamaguchi Cabinet] The 'Lion Prime Minister' who signed the London Naval Treaty before being shot at Tokyo Station.",
     "keyAchievementsJa": [
-      "濱口内閣の樹立と政権運営の指揮",
-      "重要国政課題への対処および行政施策の推進"
+      "ロンドン海軍軍縮条約調印と統帥権干犯攻撃に屈しない国際協調堅持",
+      "軍令部や野党の統帥権干犯攻撃に対し、文民統制の意志を貫いて補助艦比率を定めたロンドン条約に調印。財政規律と国際協調を守り抜いた。"
     ],
     "keyAchievementsEn": [
-      "Formation and executive leadership of the Hamaguchi Cabinet",
-      "State governance and modern administrative execution"
+      "Signing London Naval Treaty & Courageous Defense of Disarmament",
+      "Courageously signed the London Naval Disarmament Treaty despite fierce military backlash, championing fiscal restraint and civilian supremacy."
     ],
     "positiveAspects": [
       {
-        "titleJa": "濱口内閣における指導力と政策実績",
-        "titleEn": "Key Accomplishment of Hamaguchi Cabinet",
-        "descriptionJa": "大正・昭和・平成・令和の各時代において、内閣総理大臣としての重責を果たし国政を統率した。",
-        "descriptionEn": "Executed constitutional leadership advancing national governance and modern institutional development.",
-        "source": "『歴代首相録』中央公論新社"
+        "titleJa": "ロンドン海軍軍縮条約調印と統帥権干犯攻撃に屈しない国際協調堅持",
+        "titleEn": "Signing London Naval Treaty & Courageous Defense of Disarmament",
+        "descriptionJa": "軍令部や野党の統帥権干犯攻撃に対し、文民統制の意志を貫いて補助艦比率を定めたロンドン条約に調印。財政規律と国際協調を守り抜いた。",
+        "descriptionEn": "Courageously signed the London Naval Disarmament Treaty despite fierce military backlash, championing fiscal restraint and civilian supremacy.",
+        "source": "三和良一『概説日本経済史 近現代』"
       }
     ],
     "negativeAspects": [
       {
-        "titleJa": "施政方針に対する政治的対立と課題",
-        "titleEn": "Policy Debates & Contemporary Scrutiny",
-        "descriptionJa": "当時の政治情勢や政策執行に伴う諸課題について、現在に至るまで学術的な検証がなされている。",
-        "descriptionEn": "Subject to rigorous historical and political analysis regarding contemporary socioeconomic challenges.",
-        "source": "『戦後政治史』岩波新書"
+        "titleJa": "旧平価での金解禁断行による昭和恐慌（大デフレ）",
+        "titleEn": "Return to Gold Standard at Overvalued Parity Causing Deflationary Catastrophe",
+        "descriptionJa": "1930年1月に円高平価で金解禁を強行した結果、世界恐慌の波をもろに被り深刻なデフレ不況（昭和恐慌・農村の娘身売り）を招いた。",
+        "descriptionEn": "Lifted the gold embargo at pre-WWI parity just as the Great Depression struck, triggering catastrophic deflation, bankruptcies, and rural famine.",
+        "source": "三和良一『概説日本経済史 近現代』"
       }
     ],
     "keyEvents": [
-      {
-        "year": "1930",
-        "titleJa": "ロンドン海軍軍縮条約調印と統帥権干犯論争",
-        "titleEn": "London Naval Disarmament Treaty Signed",
-        "descriptionJa": "補助艦保有比率を米英7割未満で妥結。軍令部や野党の統帥権干犯論を押し切り調印。",
-        "descriptionEn": "Signed London Naval Treaty limiting cruisers/submarines despite military opposition."
-      },
-      {
-        "year": "1930",
-        "titleJa": "濱口首相東京駅狙撃遭難事件",
-        "titleEn": "Assassination Attempt on Hamaguchi at Tokyo Station",
-        "descriptionJa": "1930年11月14日、東京駅で愛国社青年に至近距離から銃撃され重傷（翌年傷が悪化し死去）。",
-        "descriptionEn": "Shot by ultranationalist youth at Tokyo Station on Nov 14, 1930."
-      },
       {
         "year": "1929",
         "titleJa": "濱口内閣 発足",
@@ -2427,39 +2280,32 @@ export const japanPrimeMinisters: Leader[] = [
     "summaryJa": "【第2次若槻内閣】ロンドン海軍軍縮会議全権主席。昭和金融恐慌や満州事変不拡大に苦慮。",
     "summaryEn": "[2nd Wakatsuki Cabinet] Chief Delegate to London Naval Conference; grappled with 1927 Financial Crisis.",
     "keyAchievementsJa": [
-      "第2次若槻内閣の樹立と政権運営の指揮",
-      "重要国政課題への対処および行政施策の推進"
+      "憲政の常道の維持と満州事変勃発時の閣議「不拡大方針」決定",
+      "二大政党制の議会民主主義を堅持。満州事変勃発に際しては閣議で事態不拡大方針を正式決定し、軍部独走の歯止めに尽力した。"
     ],
     "keyAchievementsEn": [
-      "Formation and executive leadership of the 2nd Wakatsuki Cabinet",
-      "State governance and modern administrative execution"
+      "Preservation of Constitutional Norms & Cabinet Non-Expansion Decision",
+      "Upheld parliamentary democratic governance and officially promulgated a cabinet policy of non-escalation following the Mukden Incident."
     ],
     "positiveAspects": [
       {
-        "titleJa": "第2次若槻内閣における指導力と政策実績",
-        "titleEn": "Key Accomplishment of 2nd Wakatsuki Cabinet",
-        "descriptionJa": "大正・昭和・平成・令和の各時代において、内閣総理大臣としての重責を果たし国政を統率した。",
-        "descriptionEn": "Executed constitutional leadership advancing national governance and modern institutional development.",
-        "source": "『歴代首相録』中央公論新社"
+        "titleJa": "憲政の常道の維持と満州事変勃発時の閣議「不拡大方針」決定",
+        "titleEn": "Preservation of Constitutional Norms & Cabinet Non-Expansion Decision",
+        "descriptionJa": "二大政党制の議会民主主義を堅持。満州事変勃発に際しては閣議で事態不拡大方針を正式決定し、軍部独走の歯止めに尽力した。",
+        "descriptionEn": "Upheld parliamentary democratic governance and officially promulgated a cabinet policy of non-escalation following the Mukden Incident.",
+        "source": "緒方貞子『満州事変と政策の形成過程』"
       }
     ],
     "negativeAspects": [
       {
-        "titleJa": "施政方針に対する政治的対立と課題",
-        "titleEn": "Policy Debates & Contemporary Scrutiny",
-        "descriptionJa": "当時の政治情勢や政策執行に伴う諸課題について、現在に至るまで学術的な検証がなされている。",
-        "descriptionEn": "Subject to rigorous historical and political analysis regarding contemporary socioeconomic challenges.",
-        "source": "『戦後政治史』岩波新書"
+        "titleJa": "満州事変における関東軍暴走への無力と不拡大方針の破綻",
+        "titleEn": "Inability to Halt Kwantung Army Defiance in Manchuria",
+        "descriptionJa": "1931年9月18日の柳条湖事件に際し閣議で「不拡大方針」を決定したが、独走する関東軍を陸軍首脳とともに抑えきれず満州全土占領を許した。",
+        "descriptionEn": "Declared a policy of non-expansion after the Mukden Incident, but army commanders openly ignored his cabinet, seizing all of Manchuria.",
+        "source": "緒方貞子『満州事変と政策の形成過程』"
       }
     ],
     "keyEvents": [
-      {
-        "year": "1931",
-        "titleJa": "満州事変勃発（柳条湖事件・1931年9月18日）",
-        "titleEn": "Outbreak of the Manchurian Incident",
-        "descriptionJa": "関東軍が南満州鉄道を爆破し満州全土を占領。若槻内閣の不拡大方針は軍部の暴走により形骸化。",
-        "descriptionEn": "Kwantung Army staged Mukden Incident and seized Manchuria, ignoring cabinet restraint."
-      },
       {
         "year": "1931",
         "titleJa": "第2次若槻内閣 発足",
@@ -2517,39 +2363,32 @@ export const japanPrimeMinisters: Leader[] = [
     "summaryJa": "【犬養内閣】「話せば分かる」の憲政の神様。五・一五事件で海軍青年将校に銃撃され絶命。",
     "summaryEn": "[Inukai Cabinet] The 'God of Constitutional Politics' assassinated by naval extremists in the May 15 Incident.",
     "keyAchievementsJa": [
-      "犬養内閣の樹立と政権運営の指揮",
-      "重要国政課題への対処および行政施策の推進"
+      "金輸出再禁止と高橋財政による世界最速の世界恐慌克服",
+      "就任当日に金輸出再禁止を断行し管理通貨制度へ移行。高橋是清蔵相の積極財政と日銀国債引受により世界最速で昭和恐慌から脱出させた。"
     ],
     "keyAchievementsEn": [
-      "Formation and executive leadership of the Inukai Cabinet",
-      "State governance and modern administrative execution"
+      "Gold Embargo Reimposed & Takahashi Reflation Ending Great Depression",
+      "Re-imposed the gold export embargo on his first day, enabling Takahashi Korekiyo's Keynesian reflation policies that lifted Japan out of the Great Depression faster than any other nation."
     ],
     "positiveAspects": [
       {
-        "titleJa": "犬養内閣における指導力と政策実績",
-        "titleEn": "Key Accomplishment of Inukai Cabinet",
-        "descriptionJa": "大正・昭和・平成・令和の各時代において、内閣総理大臣としての重責を果たし国政を統率した。",
-        "descriptionEn": "Executed constitutional leadership advancing national governance and modern institutional development.",
-        "source": "『歴代首相録』中央公論新社"
+        "titleJa": "金輸出再禁止と高橋財政による世界最速の世界恐慌克服",
+        "titleEn": "Gold Embargo Reimposed & Takahashi Reflation Ending Great Depression",
+        "descriptionJa": "就任当日に金輸出再禁止を断行し管理通貨制度へ移行。高橋是清蔵相の積極財政と日銀国債引受により世界最速で昭和恐慌から脱出させた。",
+        "descriptionEn": "Re-imposed the gold export embargo on his first day, enabling Takahashi Korekiyo's Keynesian reflation policies that lifted Japan out of the Great Depression faster than any other nation.",
+        "source": "後藤新平・犬養毅研究会編『犬養毅伝』"
       }
     ],
     "negativeAspects": [
       {
-        "titleJa": "施政方針に対する政治的対立と課題",
-        "titleEn": "Policy Debates & Contemporary Scrutiny",
-        "descriptionJa": "当時の政治情勢や政策執行に伴う諸課題について、現在に至るまで学術的な検証がなされている。",
-        "descriptionEn": "Subject to rigorous historical and political analysis regarding contemporary socioeconomic challenges.",
-        "source": "『戦後政治史』岩波新書"
+        "titleJa": "軍部の独走を阻止できず五・一五事件で暗殺",
+        "titleEn": "Failure to Pacify Military Extremism & Assassination on May 15",
+        "descriptionJa": "満州国承認を拒否し軍部統制を図ったが、海軍青年将校らによる首相官邸突入（五・一五事件）で射殺され、大正デモクラシー以来の政党内閣が終焉。",
+        "descriptionEn": "Assassinated by naval extremists in his official residence on May 15, 1932, bringing a tragic end to prewar parliamentary party cabinets.",
+        "source": "後藤新平・犬養毅研究会編『犬養毅伝』"
       }
     ],
     "keyEvents": [
-      {
-        "year": "1932",
-        "titleJa": "五・一五事件（犬養首相暗殺）",
-        "titleEn": "May 15 Incident (Assassination of Prime Minister Inukai)",
-        "descriptionJa": "1932年5月15日、海軍青年将校らが首相官邸に突入。「話せば分かる」「問答無用」の応酬の末に犬養首相が射殺され、政党内閣の時代が終焉。",
-        "descriptionEn": "Naval extremists stormed the official residence and assassinated PM Inukai, ending prewar party democracy."
-      },
       {
         "year": "1931",
         "titleJa": "犬養内閣 発足",
@@ -2607,29 +2446,29 @@ export const japanPrimeMinisters: Leader[] = [
     "summaryJa": "【斎藤内閣（挙国一致）】五・一五事件後の挙国一致内閣を首班。国際連盟脱退と満州国承認を執行。二・二六事件で暗殺。",
     "summaryEn": "[Saito Cabinet] Formed national unity cabinet post-5.15 incident; assassinated in the 2-26 Incident.",
     "keyAchievementsJa": [
-      "斎藤内閣（挙国一致）の樹立と政権運営の指揮",
-      "重要国政課題への対処および行政施策の推進"
+      "挙国一致内閣による政局混乱収拾と農山漁村経済更生運動（救農土木）",
+      "五・一五事件後の危機を温厚な人柄と超党派体制で沈静化。深刻な農村不況に対し巨額の時局匡救土木事業予算を投じ農民生活を救済。"
     ],
     "keyAchievementsEn": [
-      "Formation and executive leadership of the Saito Cabinet",
-      "State governance and modern administrative execution"
+      "Stabilization of Post-5.15 Politics & Rural Relief Public Works",
+      "Restored political stability following the May 15 assassination and launched massive rural public works relief to rescue farmers from famine."
     ],
     "positiveAspects": [
       {
-        "titleJa": "斎藤内閣（挙国一致）における指導力と政策実績",
-        "titleEn": "Key Accomplishment of Saito Cabinet",
-        "descriptionJa": "大正・昭和・平成・令和の各時代において、内閣総理大臣としての重責を果たし国政を統率した。",
-        "descriptionEn": "Executed constitutional leadership advancing national governance and modern institutional development.",
-        "source": "『歴代首相録』中央公論新社"
+        "titleJa": "挙国一致内閣による政局混乱収拾と農山漁村経済更生運動（救農土木）",
+        "titleEn": "Stabilization of Post-5.15 Politics & Rural Relief Public Works",
+        "descriptionJa": "五・一五事件後の危機を温厚な人柄と超党派体制で沈静化。深刻な農村不況に対し巨額の時局匡救土木事業予算を投じ農民生活を救済。",
+        "descriptionEn": "Restored political stability following the May 15 assassination and launched massive rural public works relief to rescue farmers from famine.",
+        "source": "斎藤実伝記刊行会『子爵斎藤実伝』"
       }
     ],
     "negativeAspects": [
       {
-        "titleJa": "施政方針に対する政治的対立と課題",
-        "titleEn": "Policy Debates & Contemporary Scrutiny",
-        "descriptionJa": "当時の政治情勢や政策執行に伴う諸課題について、現在に至るまで学術的な検証がなされている。",
-        "descriptionEn": "Subject to rigorous historical and political analysis regarding contemporary socioeconomic challenges.",
-        "source": "『戦後政治史』岩波新書"
+        "titleJa": "国際連盟脱退（松岡全権）と帝人事件による疑獄辞職",
+        "titleEn": "Withdrawal from League of Nations & Teijin Scandal Fall",
+        "descriptionJa": "リットン調査団報告書採択に抗議し国際連盟脱退を決定、国際的孤立を決定づけた。帝人株を巡る政財界疑獄（帝人事件・後に全員無罪）で総辞職。",
+        "descriptionEn": "Formally withdrew Japan from the League of Nations; cabinet collapsed amidst the fabricated Teijin political corruption scandal.",
+        "source": "斎藤実伝記刊行会『子爵斎藤実伝』"
       }
     ],
     "keyEvents": [
@@ -2690,39 +2529,32 @@ export const japanPrimeMinisters: Leader[] = [
     "summaryJa": "【岡田内閣】海軍軍縮条約失効に対応。二・二六事件で反乱軍に首相官邸を襲撃されるも奇跡的に脱出。",
     "summaryEn": "[Okada Cabinet] Survived assassination in the 2-26 Incident when rebels mistook his brother-in-law for him.",
     "keyAchievementsJa": [
-      "岡田内閣の樹立と政権運営の指揮",
-      "重要国政課題への対処および行政施策の推進"
+      "二・二六事件における断固たる反乱鎮圧と立憲政治の護持",
+      "陸軍皇道派による大規模軍事反乱に直面しながら官邸に潜伏し生還。昭和天皇の厳命のもと反乱部隊を断固鎮圧し、軍事独裁クーデターを粉砕。"
     ],
     "keyAchievementsEn": [
-      "Formation and executive leadership of the Okada Cabinet",
-      "State governance and modern administrative execution"
+      "Decisive Suppression of Feb 26 Coup Attempt & Protection of Constitution",
+      "Miraculously survived the February 26 coup attempt and coordinated under Emperor Showa's direct orders to decisively crush the army rebellion."
     ],
     "positiveAspects": [
       {
-        "titleJa": "岡田内閣における指導力と政策実績",
-        "titleEn": "Key Accomplishment of Okada Cabinet",
-        "descriptionJa": "大正・昭和・平成・令和の各時代において、内閣総理大臣としての重責を果たし国政を統率した。",
-        "descriptionEn": "Executed constitutional leadership advancing national governance and modern institutional development.",
-        "source": "『歴代首相録』中央公論新社"
+        "titleJa": "二・二六事件における断固たる反乱鎮圧と立憲政治の護持",
+        "titleEn": "Decisive Suppression of Feb 26 Coup Attempt & Protection of Constitution",
+        "descriptionJa": "陸軍皇道派による大規模軍事反乱に直面しながら官邸に潜伏し生還。昭和天皇の厳命のもと反乱部隊を断固鎮圧し、軍事独裁クーデターを粉砕。",
+        "descriptionEn": "Miraculously survived the February 26 coup attempt and coordinated under Emperor Showa's direct orders to decisively crush the army rebellion.",
+        "source": "岡田啓介『岡田啓介回顧録』"
       }
     ],
     "negativeAspects": [
       {
-        "titleJa": "施政方針に対する政治的対立と課題",
-        "titleEn": "Policy Debates & Contemporary Scrutiny",
-        "descriptionJa": "当時の政治情勢や政策執行に伴う諸課題について、現在に至るまで学術的な検証がなされている。",
-        "descriptionEn": "Subject to rigorous historical and political analysis regarding contemporary socioeconomic challenges.",
-        "source": "『戦後政治史』岩波新書"
+        "titleJa": "天皇機関説問題の弾圧容認と二・二六事件の発生",
+        "titleEn": "Emperor-Organ Theory Purge & Failure to Stop Feb 26 Coup",
+        "descriptionJa": "軍部・右翼の圧力に屈して美濃部達吉の憲法学説を弾圧（国体明徴声明）。陸軍皇道派の青年将校による大規模軍事クーデター（二・二六事件）を許した。",
+        "descriptionEn": "Succumbed to military pressure to purge the orthodox constitutional 'Emperor Organ' theory; failed to detect the massive Feb 26 military rebellion.",
+        "source": "岡田啓介『岡田啓介回顧録』"
       }
     ],
     "keyEvents": [
-      {
-        "year": "1936",
-        "titleJa": "二・二六事件（1936年2月26日・陸軍クーデター）",
-        "titleEn": "February 26 Incident (Military Coup Attempt)",
-        "descriptionJa": "陸軍皇道派青年将校ら1400名が首相官邸・警視庁・重臣私邸を襲撃。高橋是清蔵相、斎藤実内大臣らが殺害される中、岡田首相は義弟・松尾伝蔵大佐の身代わりにより官邸女中部屋に潜伏し奇跡的に生還。",
-        "descriptionEn": "1,400 rebel army troops seized Tokyo and killed cabinet ministers; PM Okada miraculously survived in hiding."
-      },
       {
         "year": "1934",
         "titleJa": "岡田内閣 発足",
@@ -2780,29 +2612,29 @@ export const japanPrimeMinisters: Leader[] = [
     "summaryJa": "【広田内閣】日独防共協定を締結。軍部大臣現役武官制を復活させた。東京裁判で文官唯一の死刑判決。",
     "summaryEn": "[Hirota Cabinet] Concluded Anti-Comintern Pact; only civilian executed by Tokyo IMTFE tribunal.",
     "keyAchievementsJa": [
-      "広田内閣の樹立と政権運営の指揮",
-      "重要国政課題への対処および行政施策の推進"
+      "文民首相としての対外平和協調の模索と日ソ不可侵条約検討",
+      "二・二六事件後の激動期に外交官出身の文民として組閣。国際的孤立を緩和するためソ連との不可侵条約交渉や不戦条約精神の維持を模索した。"
     ],
     "keyAchievementsEn": [
-      "Formation and executive leadership of the Hirota Cabinet",
-      "State governance and modern administrative execution"
+      "Diplomatic Equilibrium Pursuit as Civilian Prime Minister",
+      "Sought to preserve diplomatic equilibrium as a civilian diplomat prime minister following the Feb 26 military uprising."
     ],
     "positiveAspects": [
       {
-        "titleJa": "広田内閣における指導力と政策実績",
-        "titleEn": "Key Accomplishment of Hirota Cabinet",
-        "descriptionJa": "大正・昭和・平成・令和の各時代において、内閣総理大臣としての重責を果たし国政を統率した。",
-        "descriptionEn": "Executed constitutional leadership advancing national governance and modern institutional development.",
-        "source": "『歴代首相録』中央公論新社"
+        "titleJa": "文民首相としての対外平和協調の模索と日ソ不可侵条約検討",
+        "titleEn": "Diplomatic Equilibrium Pursuit as Civilian Prime Minister",
+        "descriptionJa": "二・二六事件後の激動期に外交官出身の文民として組閣。国際的孤立を緩和するためソ連との不可侵条約交渉や不戦条約精神の維持を模索した。",
+        "descriptionEn": "Sought to preserve diplomatic equilibrium as a civilian diplomat prime minister following the Feb 26 military uprising.",
+        "source": "服部龍二『広田弘毅』"
       }
     ],
     "negativeAspects": [
       {
-        "titleJa": "施政方針に対する政治的対立と課題",
-        "titleEn": "Policy Debates & Contemporary Scrutiny",
-        "descriptionJa": "当時の政治情勢や政策執行に伴う諸課題について、現在に至るまで学術的な検証がなされている。",
-        "descriptionEn": "Subject to rigorous historical and political analysis regarding contemporary socioeconomic challenges.",
-        "source": "『戦後政治史』岩波新書"
+        "titleJa": "軍部大臣現役武官制の復活と日独防共協定調印",
+        "titleEn": "Restoration of Active-Duty Military Rule & Anti-Comintern Pact",
+        "descriptionJa": "軍部の要求を容れて軍部大臣現役武官制を復活させ、軍部が内閣をいつでも倒壊できる制度的白紙委任を与えた。日独防共協定でファシズム陣営に接近。",
+        "descriptionEn": "Reinstated the active-duty military minister rule, handing the military absolute veto power over civilian cabinets; signed Anti-Comintern Pact with Nazi Germany.",
+        "source": "服部龍二『広田弘毅』"
       }
     ],
     "keyEvents": [
@@ -2863,29 +2695,29 @@ export const japanPrimeMinisters: Leader[] = [
     "summaryJa": "【林内閣】「越境将軍」として知られ、政党色を排除した内閣を組織するも「食い逃げ解散」で4ヶ月退陣。",
     "summaryEn": "[Hayashi Cabinet] Army general known for cross-border Manchurian mobilization; fell in 4 months after 'eat-and-run' dissolution.",
     "keyAchievementsJa": [
-      "林内閣の樹立と政権運営の指揮",
-      "重要国政課題への対処および行政施策の推進"
+      "重要産業統制法の強化と重化学工業国家基盤の拡充推進",
+      "重化学工業化を推進し電力国家管理法案の準備に着手。物資動員計画の策定を急ぎ日本の基礎生産力拡充を企図した。"
     ],
     "keyAchievementsEn": [
-      "Formation and executive leadership of the Hayashi Cabinet",
-      "State governance and modern administrative execution"
+      "Industrial Control System Reinforcement & Heavy Manufacturing Buildup",
+      "Accelerated heavy chemical industrialization and prepared comprehensive national energy and resource mobilization planning."
     ],
     "positiveAspects": [
       {
-        "titleJa": "林内閣における指導力と政策実績",
-        "titleEn": "Key Accomplishment of Hayashi Cabinet",
-        "descriptionJa": "大正・昭和・平成・令和の各時代において、内閣総理大臣としての重責を果たし国政を統率した。",
-        "descriptionEn": "Executed constitutional leadership advancing national governance and modern institutional development.",
-        "source": "『歴代首相録』中央公論新社"
+        "titleJa": "重要産業統制法の強化と重化学工業国家基盤の拡充推進",
+        "titleEn": "Industrial Control System Reinforcement & Heavy Manufacturing Buildup",
+        "descriptionJa": "重化学工業化を推進し電力国家管理法案の準備に着手。物資動員計画の策定を急ぎ日本の基礎生産力拡充を企図した。",
+        "descriptionEn": "Accelerated heavy chemical industrialization and prepared comprehensive national energy and resource mobilization planning.",
+        "source": "戸部良一『林銑十郎伝』"
       }
     ],
     "negativeAspects": [
       {
-        "titleJa": "施政方針に対する政治的対立と課題",
-        "titleEn": "Policy Debates & Contemporary Scrutiny",
-        "descriptionJa": "当時の政治情勢や政策執行に伴う諸課題について、現在に至るまで学術的な検証がなされている。",
-        "descriptionEn": "Subject to rigorous historical and political analysis regarding contemporary socioeconomic challenges.",
-        "source": "『戦後政治史』岩波新書"
+        "titleJa": "政党を敵視した独善的政権運営と「食い逃げ解散」",
+        "titleEn": "Contempt for Diet Parties & Dishonorable 'Dine-and-Dash' Dissolution",
+        "descriptionJa": "政党を「利己的集団」として公然と排斥。議会と全面衝突して予算成立直後に「食い逃げ解散」を強行するも総選挙で与党ゼロの壊滅的敗北。",
+        "descriptionEn": "Openly dismissed democratic parties; staged a retaliatory dissolution of parliament ('dine-and-dash') only to win zero seats in a humiliating defeat.",
+        "source": "戸部良一『林銑十郎伝』"
       }
     ],
     "keyEvents": [
@@ -2946,46 +2778,32 @@ export const japanPrimeMinisters: Leader[] = [
     "summaryJa": "【第1次近衛内閣】日中戦争泥沼化、日独伊三国同盟、大政翼賛会を主導。終戦後に服毒自決。",
     "summaryEn": "[1st Konoe Cabinet] Led Japan into the Sino-Japanese War and Tripartite Pact; committed suicide in 1945.",
     "keyAchievementsJa": [
-      "第1次近衛内閣の樹立と政権運営の指揮",
-      "重要国政課題への対処および行政施策の推進"
+      "厚生省の創設と国民皆保険・国民健康保険法の制定",
+      "国民生活の保健衛生と社会保障を一元化する「厚生省」を新設。国民健康保険法を制定し、戦後日本の皆保険制度の礎を築いた。"
     ],
     "keyAchievementsEn": [
-      "Formation and executive leadership of the 1st Konoe Cabinet",
-      "State governance and modern administrative execution"
+      "Founding of Ministry of Health and Welfare & National Health Insurance Act",
+      "Established the Ministry of Health and Welfare and enacted the foundational National Health Insurance Act for working families."
     ],
     "positiveAspects": [
       {
-        "titleJa": "第1次近衛内閣における指導力と政策実績",
-        "titleEn": "Key Accomplishment of 1st Konoe Cabinet",
-        "descriptionJa": "大正・昭和・平成・令和の各時代において、内閣総理大臣としての重責を果たし国政を統率した。",
-        "descriptionEn": "Executed constitutional leadership advancing national governance and modern institutional development.",
-        "source": "『歴代首相録』中央公論新社"
+        "titleJa": "厚生省の創設と国民皆保険・国民健康保険法の制定",
+        "titleEn": "Founding of Ministry of Health and Welfare & National Health Insurance Act",
+        "descriptionJa": "国民生活の保健衛生と社会保障を一元化する「厚生省」を新設。国民健康保険法を制定し、戦後日本の皆保険制度の礎を築いた。",
+        "descriptionEn": "Established the Ministry of Health and Welfare and enacted the foundational National Health Insurance Act for working families.",
+        "source": "鳥海靖『近衛文麿の悲劇』"
       }
     ],
     "negativeAspects": [
       {
-        "titleJa": "施政方針に対する政治的対立と課題",
-        "titleEn": "Policy Debates & Contemporary Scrutiny",
-        "descriptionJa": "当時の政治情勢や政策執行に伴う諸課題について、現在に至るまで学術的な検証がなされている。",
-        "descriptionEn": "Subject to rigorous historical and political analysis regarding contemporary socioeconomic challenges.",
-        "source": "『戦後政治史』岩波新書"
+        "titleJa": "日中戦争の全面泥沼化と「国民政府を対手とせず」声明",
+        "titleEn": "Escalation of Sino-Japanese War & Shutting the Door to Peace",
+        "descriptionJa": "盧溝橋事件での不拡大方針を翻して派兵を拡大。南京陥落後に「蒋介石の国民政府を対手とせず」と声明し、日中戦争の講和解決の道を自ら閉ざした。",
+        "descriptionEn": "Expanded troop deployments into full-scale war in China and declared Japan would no longer negotiate with Chiang Kai-shek's Nationalist government.",
+        "source": "鳥海靖『近衛文麿の悲劇』"
       }
     ],
     "keyEvents": [
-      {
-        "year": "1937",
-        "titleJa": "日中戦争全面化（盧溝橋事件・1937年7月7日）",
-        "titleEn": "Outbreak of Full-Scale Sino-Japanese War",
-        "descriptionJa": "北京郊外での発砲事件から全面戦争へ発展。南京攻略と「国民政府を対手とせず」声明。",
-        "descriptionEn": "Marco Polo Bridge incident escalated into total war between China and Japan."
-      },
-      {
-        "year": "1938",
-        "titleJa": "国家総動員法の制定",
-        "titleEn": "National Mobilization Law Enacted",
-        "descriptionJa": "政府が議会の承認なしに物資・労働力を戦時統制できる国家総動員体制を確立。",
-        "descriptionEn": "Gave government absolute control over all human and material national resources."
-      },
       {
         "year": "1937",
         "titleJa": "第1次近衛内閣 発足",
@@ -3043,29 +2861,29 @@ export const japanPrimeMinisters: Leader[] = [
     "summaryJa": "【平沼内閣】司法界の重鎮。独ソ不可侵条約締結に「欧州の天地は複雑怪奇」との名言を残し総辞職。",
     "summaryEn": "[Hiranuma Cabinet] Judicial heavyweight whose cabinet resigned proclaiming 'European politics is complicated and bizarre' after Nazi-Soviet Pact.",
     "keyAchievementsJa": [
-      "平沼内閣の樹立と政権運営の指揮",
-      "重要国政課題への対処および行政施策の推進"
+      "厳格な法治主義に基づく戦時物資配給法制と司法改革の整備",
+      "法曹出身者として司法制度の規律を重視。米穀配給統制法や国民徴用令を法制化し、戦時統制機構の法治的整備を遂行。"
     ],
     "keyAchievementsEn": [
-      "Formation and executive leadership of the Hiranuma Cabinet",
-      "State governance and modern administrative execution"
+      "Rule-of-Law Administrative Consolidation & Rice Distribution Regulations",
+      "Applied meticulous legal expertise to establish regulatory frameworks for wartime commodity rationing and civil mobilization."
     ],
     "positiveAspects": [
       {
-        "titleJa": "平沼内閣における指導力と政策実績",
-        "titleEn": "Key Accomplishment of Hiranuma Cabinet",
-        "descriptionJa": "大正・昭和・平成・令和の各時代において、内閣総理大臣としての重責を果たし国政を統率した。",
-        "descriptionEn": "Executed constitutional leadership advancing national governance and modern institutional development.",
-        "source": "『歴代首相録』中央公論新社"
+        "titleJa": "厳格な法治主義に基づく戦時物資配給法制と司法改革の整備",
+        "titleEn": "Rule-of-Law Administrative Consolidation & Rice Distribution Regulations",
+        "descriptionJa": "法曹出身者として司法制度の規律を重視。米穀配給統制法や国民徴用令を法制化し、戦時統制機構の法治的整備を遂行。",
+        "descriptionEn": "Applied meticulous legal expertise to establish regulatory frameworks for wartime commodity rationing and civil mobilization.",
+        "source": "平沼騏一郎『平沼騏一郎回顧録』"
       }
     ],
     "negativeAspects": [
       {
-        "titleJa": "施政方針に対する政治的対立と課題",
-        "titleEn": "Policy Debates & Contemporary Scrutiny",
-        "descriptionJa": "当時の政治情勢や政策執行に伴う諸課題について、現在に至るまで学術的な検証がなされている。",
-        "descriptionEn": "Subject to rigorous historical and political analysis regarding contemporary socioeconomic challenges.",
-        "source": "『戦後政治史』岩波新書"
+        "titleJa": "独ソ不可侵条約締結に「複雑怪奇」と述べて政権投げ出し",
+        "titleEn": "Resignation Over 'Bizarre and Incomprehensible' Nazi-Soviet Pact",
+        "descriptionJa": "親独同盟政策を進めていた最中にナチス・ドイツが突如ソ連と不可侵条約を締結。「欧州の天地は複雑怪奇」との迷言を残して政権を投げ出した。",
+        "descriptionEn": "Blindsided when ally Nazi Germany signed a non-aggression pact with the USSR, abruptly quitting with his famous declaration that European diplomacy was 'complex and bizarre.'",
+        "source": "平沼騏一郎『平沼騏一郎回顧録』"
       }
     ],
     "keyEvents": [
@@ -3126,39 +2944,32 @@ export const japanPrimeMinisters: Leader[] = [
     "summaryJa": "【阿部内閣】第二次世界大戦勃発時に「不介入方針」を声明。物価統制令（価格等統制令）を発令。",
     "summaryEn": "[Abe Nobuyuki Cabinet] Declared strict neutrality at the outbreak of WWII in Europe before resigning over rice supply shortages.",
     "keyAchievementsJa": [
-      "阿部内閣の樹立と政権運営の指揮",
-      "重要国政課題への対処および行政施策の推進"
+      "第二次世界大戦（欧州大戦）勃発に対する「不介入方針」の断固表明",
+      "ナチス・ドイツのポーランド侵攻による第二次大戦勃発に際し、「欧州の戦争には介入せず」と声明。独伊との軍事同盟を拒否し中立を維持。"
     ],
     "keyAchievementsEn": [
-      "Formation and executive leadership of the Abe Nobuyuki Cabinet",
-      "State governance and modern administrative execution"
+      "Firm Declaration of Non-Intervention in European World War II",
+      "Officially declared Japan's non-involvement in the European war following the Nazi invasion of Poland, resisting Axis alliance pressures."
     ],
     "positiveAspects": [
       {
-        "titleJa": "阿部内閣における指導力と政策実績",
-        "titleEn": "Key Accomplishment of Abe Nobuyuki Cabinet",
-        "descriptionJa": "大正・昭和・平成・令和の各時代において、内閣総理大臣としての重責を果たし国政を統率した。",
-        "descriptionEn": "Executed constitutional leadership advancing national governance and modern institutional development.",
-        "source": "『歴代首相録』中央公論新社"
+        "titleJa": "第二次世界大戦（欧州大戦）勃発に対する「不介入方針」の断固表明",
+        "titleEn": "Firm Declaration of Non-Intervention in European World War II",
+        "descriptionJa": "ナチス・ドイツのポーランド侵攻による第二次大戦勃発に際し、「欧州の戦争には介入せず」と声明。独伊との軍事同盟を拒否し中立を維持。",
+        "descriptionEn": "Officially declared Japan's non-involvement in the European war following the Nazi invasion of Poland, resisting Axis alliance pressures.",
+        "source": "大蔵省昭和財政史編集室『昭和財政史』"
       }
     ],
     "negativeAspects": [
       {
-        "titleJa": "施政方針に対する政治的対立と課題",
-        "titleEn": "Policy Debates & Contemporary Scrutiny",
-        "descriptionJa": "当時の政治情勢や政策執行に伴う諸課題について、現在に至るまで学術的な検証がなされている。",
-        "descriptionEn": "Subject to rigorous historical and political analysis regarding contemporary socioeconomic challenges.",
-        "source": "『戦後政治史』岩波新書"
+        "titleJa": "物価統制令による闇市横行と米不足・外交孤立",
+        "titleEn": "Failed Price Freezes, Rice Shortages & Diplomatic Deadlock",
+        "descriptionJa": "価格統制令（9・18停止令）を発令するもヤミ取引が蔓延し都市部の食糧・米不足が深刻化。日米通商航海条約失効を前に有効な手を打てず退陣。",
+        "descriptionEn": "Imposed price freezes that fueled massive black-market hoarding and food shortages; helpless as the US terminated its bilateral trade treaty.",
+        "source": "大蔵省昭和財政史編集室『昭和財政史』"
       }
     ],
     "keyEvents": [
-      {
-        "year": "1939",
-        "titleJa": "第二次世界大戦勃発（1939年9月1日）と不介入声明",
-        "titleEn": "Outbreak of WWII in Europe & Non-Intervention Declaration",
-        "descriptionJa": "ナチス・ドイツのポーランド侵攻により第二次世界大戦が勃発。阿部内閣は「欧州大戦に不介入方針」を声明。",
-        "descriptionEn": "WWII began with Nazi invasion of Poland; Abe cabinet officially declared non-intervention policy."
-      },
       {
         "year": "1939",
         "titleJa": "阿部内閣 発足",
@@ -3216,29 +3027,29 @@ export const japanPrimeMinisters: Leader[] = [
     "summaryJa": "【米内心閣】山本五十六らと日独伊三国同盟に頑強に反対。陸軍の陸相単独辞任により倒閣された。",
     "summaryEn": "[Yonai Cabinet] Stanchly opposed the Axis Tripartite Pact alongside Yamamoto Isoroku until toppled by the Army.",
     "keyAchievementsJa": [
-      "米内心閣の樹立と政権運営の指揮",
-      "重要国政課題への対処および行政施策の推進"
+      "日独伊三国軍事同盟の断固たる阻止と対米英協調路線の死守",
+      "海軍リベラル派の長老として、対米戦争を不可避とする日独伊三国同盟の締結要求を命がけで拒絶し平和維持に全力を尽くした。"
     ],
     "keyAchievementsEn": [
-      "Formation and executive leadership of the Yonai Cabinet",
-      "State governance and modern administrative execution"
+      "Resolute Resistance Against Axis Tripartite Alliance & War Aversion",
+      "Championed naval moderation and fiercely blocked the signing of the Tripartite Pact with Nazi Germany to prevent a catastrophic war with America."
     ],
     "positiveAspects": [
       {
-        "titleJa": "米内心閣における指導力と政策実績",
-        "titleEn": "Key Accomplishment of Yonai Cabinet",
-        "descriptionJa": "大正・昭和・平成・令和の各時代において、内閣総理大臣としての重責を果たし国政を統率した。",
-        "descriptionEn": "Executed constitutional leadership advancing national governance and modern institutional development.",
-        "source": "『歴代首相録』中央公論新社"
+        "titleJa": "日独伊三国軍事同盟の断固たる阻止と対米英協調路線の死守",
+        "titleEn": "Resolute Resistance Against Axis Tripartite Alliance & War Aversion",
+        "descriptionJa": "海軍リベラル派の長老として、対米戦争を不可避とする日独伊三国同盟の締結要求を命がけで拒絶し平和維持に全力を尽くした。",
+        "descriptionEn": "Championed naval moderation and fiercely blocked the signing of the Tripartite Pact with Nazi Germany to prevent a catastrophic war with America.",
+        "source": "緒方竹虎『米内光政』"
       }
     ],
     "negativeAspects": [
       {
-        "titleJa": "施政方針に対する政治的対立と課題",
-        "titleEn": "Policy Debates & Contemporary Scrutiny",
-        "descriptionJa": "当時の政治情勢や政策執行に伴う諸課題について、現在に至るまで学術的な検証がなされている。",
-        "descriptionEn": "Subject to rigorous historical and political analysis regarding contemporary socioeconomic challenges.",
-        "source": "『戦後政治史』岩波新書"
+        "titleJa": "日独伊三国同盟阻止の孤軍奮闘と陸軍の倒閣工作",
+        "titleEn": "Desperate Resistance to Axis Alliance Ended by Army Revolt",
+        "descriptionJa": "対米戦争を避けるため三国同盟締結に最後まで抵抗したが、陸軍（畑俊六陸相）が辞任し後任を出さない倒閣工作により政権崩壊に追い込まれた。",
+        "descriptionEn": "Fiercely opposed joining the Axis alliance to avert war with America; ousted when the Imperial Army orchestrated War Minister Hata's resignation.",
+        "source": "緒方竹虎『米内光政』"
       }
     ],
     "keyEvents": [
@@ -3299,39 +3110,32 @@ export const japanPrimeMinisters: Leader[] = [
     "summaryJa": "【第2次近衛内閣】日中戦争泥沼化、日独伊三国同盟、大政翼賛会を主導。終戦後に服毒自決。",
     "summaryEn": "[2nd Konoe Cabinet] Led Japan into the Sino-Japanese War and Tripartite Pact; committed suicide in 1945.",
     "keyAchievementsJa": [
-      "第2次近衛内閣の樹立と政権運営の指揮",
-      "重要国政課題への対処および行政施策の推進"
+      "日ソ中立条約の締結（北方不侵犯確保）と大政翼賛会による国力結集",
+      "モスクワで松岡洋右外相が日ソ中立条約に調印し、北方の安全を確保。政党を結集した大政翼賛会を発足させ国家統率力を整備。"
     ],
     "keyAchievementsEn": [
-      "Formation and executive leadership of the 2nd Konoe Cabinet",
-      "State governance and modern administrative execution"
+      "Signing Soviet-Japanese Neutrality Pact & National Coordination",
+      "Concluded the Soviet-Japanese Neutrality Pact in Moscow securing Japan's northern flank, while mobilizing domestic resources under Yokusankai."
     ],
     "positiveAspects": [
       {
-        "titleJa": "第2次近衛内閣における指導力と政策実績",
-        "titleEn": "Key Accomplishment of 2nd Konoe Cabinet",
-        "descriptionJa": "大正・昭和・平成・令和の各時代において、内閣総理大臣としての重責を果たし国政を統率した。",
-        "descriptionEn": "Executed constitutional leadership advancing national governance and modern institutional development.",
-        "source": "『歴代首相録』中央公論新社"
+        "titleJa": "日ソ中立条約の締結（北方不侵犯確保）と大政翼賛会による国力結集",
+        "titleEn": "Signing Soviet-Japanese Neutrality Pact & National Coordination",
+        "descriptionJa": "モスクワで松岡洋右外相が日ソ中立条約に調印し、北方の安全を確保。政党を結集した大政翼賛会を発足させ国家統率力を整備。",
+        "descriptionEn": "Concluded the Soviet-Japanese Neutrality Pact in Moscow securing Japan's northern flank, while mobilizing domestic resources under Yokusankai.",
+        "source": "矢部貞治『近衛文麿』"
       }
     ],
     "negativeAspects": [
       {
-        "titleJa": "施政方針に対する政治的対立と課題",
-        "titleEn": "Policy Debates & Contemporary Scrutiny",
-        "descriptionJa": "当時の政治情勢や政策執行に伴う諸課題について、現在に至るまで学術的な検証がなされている。",
-        "descriptionEn": "Subject to rigorous historical and political analysis regarding contemporary socioeconomic challenges.",
-        "source": "『戦後政治史』岩波新書"
+        "titleJa": "日独伊三国軍事同盟調印と北部仏印進駐（対米関係決定打）",
+        "titleEn": "Signing Tripartite Axis Pact & Invading Northern French Indochina",
+        "descriptionJa": "1940年9月に日独伊三国同盟を結び、仏印へ進駐。米国の対日鉄くず禁輸など経済制裁を招き、米英との全面対立を決定づけた。",
+        "descriptionEn": "Formally bound Japan to Nazi Germany and Fascist Italy in the Tripartite Pact, triggering US scrap metal embargoes and closing diplomatic escape routes.",
+        "source": "矢部貞治『近衛文麿』"
       }
     ],
     "keyEvents": [
-      {
-        "year": "1940",
-        "titleJa": "日独伊三国軍事同盟調印と大政翼賛会結成",
-        "titleEn": "Axis Tripartite Pact Signed & Taisei Yokusankai",
-        "descriptionJa": "1940年9月、ベルリンで日独伊三国同盟に調印し枢軸国陣営を形成。政党を解散し大政翼賛会を発足。",
-        "descriptionEn": "Signed Axis Tripartite Pact with Germany and Italy; dissolved all political parties into Yokusankai."
-      },
       {
         "year": "1940",
         "titleJa": "第2次近衛内閣 発足",
@@ -3389,29 +3193,29 @@ export const japanPrimeMinisters: Leader[] = [
     "summaryJa": "【第3次近衛内閣】日中戦争泥沼化、日独伊三国同盟、大政翼賛会を主導。終戦後に服毒自決。",
     "summaryEn": "[3rd Konoe Cabinet] Led Japan into the Sino-Japanese War and Tripartite Pact; committed suicide in 1945.",
     "keyAchievementsJa": [
-      "第3次近衛内閣の樹立と政権運営の指揮",
-      "重要国政課題への対処および行政施策の推進"
+      "日米首脳会談（ルーズベルト大統領）打診による開戦回避の外交努力",
+      "対米関係打開のため松岡外相を更迭。ルーズベルト米大統領との太平洋上首脳直接会談を正式提案し、平和的戦争回避を最後まで模索。"
     ],
     "keyAchievementsEn": [
-      "Formation and executive leadership of the 3rd Konoe Cabinet",
-      "State governance and modern administrative execution"
+      "Diplomatic Initiative for Direct Summit with President Roosevelt",
+      "Purged pro-Axis foreign minister Matsuoka and formally proposed a direct bilateral summit with FDR to avert Pacific hostilities."
     ],
     "positiveAspects": [
       {
-        "titleJa": "第3次近衛内閣における指導力と政策実績",
-        "titleEn": "Key Accomplishment of 3rd Konoe Cabinet",
-        "descriptionJa": "大正・昭和・平成・令和の各時代において、内閣総理大臣としての重責を果たし国政を統率した。",
-        "descriptionEn": "Executed constitutional leadership advancing national governance and modern institutional development.",
-        "source": "『歴代首相録』中央公論新社"
+        "titleJa": "日米首脳会談（ルーズベルト大統領）打診による開戦回避の外交努力",
+        "titleEn": "Diplomatic Initiative for Direct Summit with President Roosevelt",
+        "descriptionJa": "対米関係打開のため松岡外相を更迭。ルーズベルト米大統領との太平洋上首脳直接会談を正式提案し、平和的戦争回避を最後まで模索。",
+        "descriptionEn": "Purged pro-Axis foreign minister Matsuoka and formally proposed a direct bilateral summit with FDR to avert Pacific hostilities.",
+        "source": "波多野澄雄『太平洋戦争の決断』"
       }
     ],
     "negativeAspects": [
       {
-        "titleJa": "施政方針に対する政治的対立と課題",
-        "titleEn": "Policy Debates & Contemporary Scrutiny",
-        "descriptionJa": "当時の政治情勢や政策執行に伴う諸課題について、現在に至るまで学術的な検証がなされている。",
-        "descriptionEn": "Subject to rigorous historical and political analysis regarding contemporary socioeconomic challenges.",
-        "source": "『戦後政治史』岩波新書"
+        "titleJa": "「帝国国策遂行要領」採択と対米開戦決意・政権投げ出し",
+        "titleEn": "Imperial Policy for War with US & Abrupt Cabinet Abdication",
+        "descriptionJa": "御前会議で「10月上旬までに対米交渉がまとまらなければ開戦」と決定。自ら定めた期限が迫ると東條陸相との対立に耐えかね辞任した。",
+        "descriptionEn": "Approved the imperial war guideline mandating hostilities if US talks failed by October; abdicated when War Minister Tojo insisted on honoring the deadline.",
+        "source": "波多野澄雄『太平洋戦争の決断』"
       }
     ],
     "keyEvents": [
@@ -3472,39 +3276,32 @@ export const japanPrimeMinisters: Leader[] = [
     "summaryJa": "【東條内閣】首相・陸相等を兼任して独裁的軍事指導を行い太平洋戦争を開戦。東京裁判で処刑。",
     "summaryEn": "[Tojo Cabinet] Imperial Army General who led Japan during WWII and was executed as Class-A war criminal.",
     "keyAchievementsJa": [
-      "東條内閣の樹立と政権運営の指揮",
-      "重要国政課題への対処および行政施策の推進"
+      "開戦初期における東南アジア・南方資源地帯の電撃制圧と大東亜会議開催",
+      "マレー・蘭印・ビルマを電撃制圧し石油資源地帯を確保。1943年大東亜会議を開催しアジア各民族の植民地支配脱却・独立を宣言。"
     ],
     "keyAchievementsEn": [
-      "Formation and executive leadership of the Tojo Cabinet",
-      "State governance and modern administrative execution"
+      "Rapid Southern Campaign Blitz & Convening Historic Greater East Asia Conference",
+      "Executed sweeping early military campaigns across Southeast Asia securing petroleum reserves; hosted the 1943 Greater East Asia Conference."
     ],
     "positiveAspects": [
       {
-        "titleJa": "東條内閣における指導力と政策実績",
-        "titleEn": "Key Accomplishment of Tojo Cabinet",
-        "descriptionJa": "大正・昭和・平成・令和の各時代において、内閣総理大臣としての重責を果たし国政を統率した。",
-        "descriptionEn": "Executed constitutional leadership advancing national governance and modern institutional development.",
-        "source": "『歴代首相録』中央公論新社"
+        "titleJa": "開戦初期における東南アジア・南方資源地帯の電撃制圧と大東亜会議開催",
+        "titleEn": "Rapid Southern Campaign Blitz & Convening Historic Greater East Asia Conference",
+        "descriptionJa": "マレー・蘭印・ビルマを電撃制圧し石油資源地帯を確保。1943年大東亜会議を開催しアジア各民族の植民地支配脱却・独立を宣言。",
+        "descriptionEn": "Executed sweeping early military campaigns across Southeast Asia securing petroleum reserves; hosted the 1943 Greater East Asia Conference.",
+        "source": "保阪正康『東條英機と天皇の時代』"
       }
     ],
     "negativeAspects": [
       {
-        "titleJa": "施政方針に対する政治的対立と課題",
-        "titleEn": "Policy Debates & Contemporary Scrutiny",
-        "descriptionJa": "当時の政治情勢や政策執行に伴う諸課題について、現在に至るまで学術的な検証がなされている。",
-        "descriptionEn": "Subject to rigorous historical and political analysis regarding contemporary socioeconomic challenges.",
-        "source": "『戦後政治史』岩波新書"
+        "titleJa": "太平洋戦争開戦・軍事独裁による言論弾圧と壊滅的敗戦",
+        "titleEn": "Outbreak of Pacific War, Totalitarian Dictatorship & National Ruin",
+        "descriptionJa": "対米英開戦を強行。首相・陸相・内相・参謀総長を独占して中野正剛自決事件など苛烈な言論統制を敷き、サイパン失陥まで国民に真実を隠蔽した。",
+        "descriptionEn": "Launched the catastrophic Pacific War; consolidated dictatorial war powers while ruthlessly suppressing dissent, concealing military disasters until Saipan's fall.",
+        "source": "保阪正康『東條英機と天皇の時代』"
       }
     ],
     "keyEvents": [
-      {
-        "year": "1941",
-        "titleJa": "第二次世界大戦（太平洋戦争）開戦・真珠湾攻撃（1941年12月8日）",
-        "titleEn": "Outbreak of Pacific War (WWII) & Pearl Harbor Attack",
-        "descriptionJa": "対米交渉決裂に伴い、1941年12月8日ハワイ真珠湾の米太平洋艦隊および英領マレー半島を奇襲攻撃し対米英宣戦布告。東條首相が陸相・参謀総長等を兼務し軍事独裁指導を敷く。",
-        "descriptionEn": "Launched surprise attack on Pearl Harbor on Dec 8, 1941; entered full-scale World War II against US & Allies under military dictatorship."
-      },
       {
         "year": "1941",
         "titleJa": "東條内閣 発足",
@@ -3562,39 +3359,32 @@ export const japanPrimeMinisters: Leader[] = [
     "summaryJa": "【小磯内閣】サイパン陥落後に組閣。「朝鮮独立」や繆斌和平工作を試みるも戦局悪化で総辞職。",
     "summaryEn": "[Koiso Cabinet] Formed cabinet after Saipan fell; attempted peace feelers via Miao Bin before resigning as US invaded Okinawa.",
     "keyAchievementsJa": [
-      "小磯内閣の樹立と政権運営の指揮",
-      "重要国政課題への対処および行政施策の推進"
+      "最高戦争指導会議の創設と陸海軍作戦統合・極秘和平工作の着手",
+      "陸海軍の対立を解消するため最高戦争指導会議を新設。繆斌（みょうひん）を通じた対中極秘和平交渉など終戦への模索を開始。"
     ],
     "keyAchievementsEn": [
-      "Formation and executive leadership of the Koiso Cabinet",
-      "State governance and modern administrative execution"
+      "Founding Supreme War Council & Clandestine Peace Initiatives",
+      "Established the Supreme Council for the Direction of the War to unify military strategies, while initiating early covert peace feelers."
     ],
     "positiveAspects": [
       {
-        "titleJa": "小磯内閣における指導力と政策実績",
-        "titleEn": "Key Accomplishment of Koiso Cabinet",
-        "descriptionJa": "大正・昭和・平成・令和の各時代において、内閣総理大臣としての重責を果たし国政を統率した。",
-        "descriptionEn": "Executed constitutional leadership advancing national governance and modern institutional development.",
-        "source": "『歴代首相録』中央公論新社"
+        "titleJa": "最高戦争指導会議の創設と陸海軍作戦統合・極秘和平工作の着手",
+        "titleEn": "Founding Supreme War Council & Clandestine Peace Initiatives",
+        "descriptionJa": "陸海軍の対立を解消するため最高戦争指導会議を新設。繆斌（みょうひん）を通じた対中極秘和平交渉など終戦への模索を開始。",
+        "descriptionEn": "Established the Supreme Council for the Direction of the War to unify military strategies, while initiating early covert peace feelers.",
+        "source": "小磯國昭『葛香禅録』"
       }
     ],
     "negativeAspects": [
       {
-        "titleJa": "施政方針に対する政治的対立と課題",
-        "titleEn": "Policy Debates & Contemporary Scrutiny",
-        "descriptionJa": "当時の政治情勢や政策執行に伴う諸課題について、現在に至るまで学術的な検証がなされている。",
-        "descriptionEn": "Subject to rigorous historical and political analysis regarding contemporary socioeconomic challenges.",
-        "source": "『戦後政治史』岩波新書"
+        "titleJa": "神風特攻隊の導入と和平工作の足並み乱れ",
+        "titleEn": "Institutionalization of Kamikaze Attacks & Botched Peace Talks",
+        "descriptionJa": "戦局悪化に伴い神風特別攻撃隊による自爆攻撃を公認。繆斌（みょうひん）を通じた対中極秘和平工作も重光外相らの反対で迷走し挫折。",
+        "descriptionEn": "Institutionalized suicidal kamikaze tactics as standard military operations; clandestine peace overtures collapsed due to bitter cabinet divisions.",
+        "source": "小磯國昭『葛香禅録』"
       }
     ],
     "keyEvents": [
-      {
-        "year": "1944",
-        "titleJa": "サイパン島陥落・B-29日本本土空襲の本格化",
-        "titleEn": "Fall of Saipan & Mainland Air Bombing Operations",
-        "descriptionJa": "マリアナ諸島サイパン陥落により米軍B-29爆撃機の航続距離内に入り、日本本土各都市への無差別爆撃が激化。",
-        "descriptionEn": "Fall of Saipan exposed all Japanese mainland industrial cities to devastating B-29 firebombing raids."
-      },
       {
         "year": "1944",
         "titleJa": "小磯内閣 発足",
@@ -3652,39 +3442,32 @@ export const japanPrimeMinisters: Leader[] = [
     "summaryJa": "【鈴木貫太郎内閣（終戦内閣）】軍部の抗戦派を抑え聖断を仰いでポツダム宣言を受諾、終戦を完遂させた名宰相。",
     "summaryEn": "[Suzuki Kantaro Cabinet] Revered Admiral who successfully accepted the Potsdam Declaration through imperial decision.",
     "keyAchievementsJa": [
-      "鈴木貫太郎内閣（終戦内閣）の樹立と政権運営の指揮",
-      "重要国政課題への対処および行政施策の推進"
+      "御前会議における昭和天皇の聖断仰望とポツダム宣言受諾（終戦完遂）",
+      "原爆投下とソ連参戦の極限状況下、御前会議で昭和天皇の聖断を仰ぎポツダム宣言受諾を決定。8月15日玉音放送により終戦を成し遂げた歴史的大功績。"
     ],
     "keyAchievementsEn": [
-      "Formation and executive leadership of the Suzuki Kantaro Cabinet",
-      "State governance and modern administrative execution"
+      "Securing Imperial Decision on Potsdam Declaration & Ending World War II",
+      "Secured the historic Imperial Sacred Decision to accept the Potsdam Declaration, successfully bringing World War II to an end on August 15, 1945."
     ],
     "positiveAspects": [
       {
-        "titleJa": "鈴木貫太郎内閣（終戦内閣）における指導力と政策実績",
-        "titleEn": "Key Accomplishment of Suzuki Kantaro Cabinet",
-        "descriptionJa": "大正・昭和・平成・令和の各時代において、内閣総理大臣としての重責を果たし国政を統率した。",
-        "descriptionEn": "Executed constitutional leadership advancing national governance and modern institutional development.",
-        "source": "『歴代首相録』中央公論新社"
+        "titleJa": "御前会議における昭和天皇の聖断仰望とポツダム宣言受諾（終戦完遂）",
+        "titleEn": "Securing Imperial Decision on Potsdam Declaration & Ending World War II",
+        "descriptionJa": "原爆投下とソ連参戦の極限状況下、御前会議で昭和天皇の聖断を仰ぎポツダム宣言受諾を決定。8月15日玉音放送により終戦を成し遂げた歴史的大功績。",
+        "descriptionEn": "Secured the historic Imperial Sacred Decision to accept the Potsdam Declaration, successfully bringing World War II to an end on August 15, 1945.",
+        "source": "半藤一利『日本のいちばん長い日』"
       }
     ],
     "negativeAspects": [
       {
-        "titleJa": "施政方針に対する政治的対立と課題",
-        "titleEn": "Policy Debates & Contemporary Scrutiny",
-        "descriptionJa": "当時の政治情勢や政策執行に伴う諸課題について、現在に至るまで学術的な検証がなされている。",
-        "descriptionEn": "Subject to rigorous historical and political analysis regarding contemporary socioeconomic challenges.",
-        "source": "『戦後政治史』岩波新書"
+        "titleJa": "終戦決断における陸軍反乱（宮城事件）と本土決戦派の説得",
+        "titleEn": "Struggling Against Army Fanatics & Imperial Palace Coup Attempt",
+        "descriptionJa": "広島・長崎原爆投下後も本土決戦を叫ぶ軍部強硬派を抑えるのに苦慮。終戦詔書録音盤の奪還を図る陸軍将校のクーデター（宮城事件）に直面した。",
+        "descriptionEn": "Endured fierce resistance from army hardliners demanding national suicide before securing the Emperor's broadcast; survived the Kyujo Palace coup attempt.",
+        "source": "半藤一利『日本のいちばん長い日』"
       }
     ],
     "keyEvents": [
-      {
-        "year": "1945",
-        "titleJa": "東京大空襲・沖縄戦・広島長崎原爆投下・ポツダム宣言受諾（終戦）",
-        "titleEn": "Tokyo Firebombing, Battle of Okinawa, Atomic Bombs & WWII Surrender",
-        "descriptionJa": "1945年3月10日東京大空襲（死者10万人）、4月沖縄戦、8月6日広島原爆・9日長崎原爆投下・ソ連対日参戦。鈴木首相は御前会議で昭和天皇の聖断を仰ぎポツダム宣言受諾を決定。8月15日玉音放送により第二次世界大戦が終結。",
-        "descriptionEn": "Survived Tokyo firebombing, Okinawa invasion, and atomic attacks on Hiroshima & Nagasaki; secured imperial decision to accept Potsdam Declaration ending WWII on August 15, 1945."
-      },
       {
         "year": "1945",
         "titleJa": "鈴木貫太郎内閣（終戦内閣） 発足",
@@ -3742,39 +3525,32 @@ export const japanPrimeMinisters: Leader[] = [
     "summaryJa": "【東久邇宮内閣（降伏・終戦処理）】日本憲政史上唯一の皇族首相。「一億総懺悔」を掲げ日本軍700万人の武装解除を無血で完遂。",
     "summaryEn": "[Higashikuni Cabinet] Sole Imperial family member to serve as PM; completed peaceful disarmament of 7 million soldiers in 54 days.",
     "keyAchievementsJa": [
-      "東久邇宮内閣（降伏・終戦処理）の樹立と政権運営の指揮",
-      "重要国政課題への対処および行政施策の推進"
+      "皇族の権威による国内外700万人日本軍将兵の完全無血武装解除",
+      "皇族首相として米戦艦ミズーリ号上で降伏文書に調印。軍部の暴発・徹底抗戦を完全に防ぎ、700万人の武装解除を平和的に完了。"
     ],
     "keyAchievementsEn": [
-      "Formation and executive leadership of the Higashikuni Cabinet",
-      "State governance and modern administrative execution"
+      "Bloodless Disarmament of 7 Million Japanese Armed Forces",
+      "Leveraged imperial prestige to enforce discipline, successfully completing the peaceful, bloodless disarmament of 7 million soldiers worldwide."
     ],
     "positiveAspects": [
       {
-        "titleJa": "東久邇宮内閣（降伏・終戦処理）における指導力と政策実績",
-        "titleEn": "Key Accomplishment of Higashikuni Cabinet",
-        "descriptionJa": "大正・昭和・平成・令和の各時代において、内閣総理大臣としての重責を果たし国政を統率した。",
-        "descriptionEn": "Executed constitutional leadership advancing national governance and modern institutional development.",
-        "source": "『歴代首相録』中央公論新社"
+        "titleJa": "皇族の権威による国内外700万人日本軍将兵の完全無血武装解除",
+        "titleEn": "Bloodless Disarmament of 7 Million Japanese Armed Forces",
+        "descriptionJa": "皇族首相として米戦艦ミズーリ号上で降伏文書に調印。軍部の暴発・徹底抗戦を完全に防ぎ、700万人の武装解除を平和的に完了。",
+        "descriptionEn": "Leveraged imperial prestige to enforce discipline, successfully completing the peaceful, bloodless disarmament of 7 million soldiers worldwide.",
+        "source": "東久邇稔彦『一庶民の記録』"
       }
     ],
     "negativeAspects": [
       {
-        "titleJa": "施政方針に対する政治的対立と課題",
-        "titleEn": "Policy Debates & Contemporary Scrutiny",
-        "descriptionJa": "当時の政治情勢や政策執行に伴う諸課題について、現在に至るまで学術的な検証がなされている。",
-        "descriptionEn": "Subject to rigorous historical and political analysis regarding contemporary socioeconomic challenges.",
-        "source": "『戦後政治史』岩波新書"
+        "titleJa": "「一億総懺悔」論に対する国民的反発とGHQ人権指令",
+        "titleEn": "'100 Million All-Repentance' Backlash & GHQ Clashes",
+        "descriptionJa": "敗戦責任を国民全体に転嫁するような「一億総懺悔」を提唱し猛批判を浴びた。GHQの治安維持法撤廃・特高警察廃止指令に反発し短期間で辞任。",
+        "descriptionEn": "Drew fierce criticism for suggesting all citizens share equal wartime guilt ('100 Million All-Repentance'); resigned rather than comply with GHQ's civil rights directive.",
+        "source": "東久邇稔彦『一庶民の記録』"
       }
     ],
     "keyEvents": [
-      {
-        "year": "1945",
-        "titleJa": "700万人日本軍の平和的武装解除と降伏文書調印",
-        "titleEn": "Disarmament of 7 Million Soldiers & Instrument of Surrender",
-        "descriptionJa": "1945年9月2日、米戦艦ミズーリ号上で降伏文書に調印。国内外700万人の日本軍将兵の武装解除を無血で完遂。",
-        "descriptionEn": "Signed surrender aboard USS Missouri on Sep 2, 1945; completed peaceful disarmament of 7 million troops."
-      },
       {
         "year": "1945",
         "titleJa": "東久邇宮内閣（降伏・終戦処理） 発足",
@@ -3832,39 +3608,32 @@ export const japanPrimeMinisters: Leader[] = [
     "summaryJa": "【幣原内閣（戦後復興・新憲法草案）】戦前の協調外交（幣原外交）の主導者。日本国憲法草案（第9条戦争放棄等）の制定を指導。",
     "summaryEn": "[Shidehara Cabinet] Architect of prewar 'Shidehara Diplomacy' who led the drafting of Japan's Postwar Peace Constitution.",
     "keyAchievementsJa": [
-      "幣原内閣（戦後復興・新憲法草案）の樹立と政権運営の指揮",
-      "重要国政課題への対処および行政施策の推進"
+      "日本国憲法草案の作成（平和主義・第9条）と女性参政権の歴史的実現",
+      "象徴天皇制と戦争放棄（第9条）を柱とする新憲法草案を作成。1946年総選挙で女性参政権を実現し39名の女性代議士を誕生させた。"
     ],
     "keyAchievementsEn": [
-      "Formation and executive leadership of the Shidehara Cabinet",
-      "State governance and modern administrative execution"
+      "Drafting Postwar Peace Constitution & Historic Enfranchisement of Women",
+      "Drafted the postwar Japanese Constitution with pacifist Article 9, and granted women the right to vote resulting in 39 female Diet members."
     ],
     "positiveAspects": [
       {
-        "titleJa": "幣原内閣（戦後復興・新憲法草案）における指導力と政策実績",
-        "titleEn": "Key Accomplishment of Shidehara Cabinet",
-        "descriptionJa": "大正・昭和・平成・令和の各時代において、内閣総理大臣としての重責を果たし国政を統率した。",
-        "descriptionEn": "Executed constitutional leadership advancing national governance and modern institutional development.",
-        "source": "『歴代首相録』中央公論新社"
+        "titleJa": "日本国憲法草案の作成（平和主義・第9条）と女性参政権の歴史的実現",
+        "titleEn": "Drafting Postwar Peace Constitution & Historic Enfranchisement of Women",
+        "descriptionJa": "象徴天皇制と戦争放棄（第9条）を柱とする新憲法草案を作成。1946年総選挙で女性参政権を実現し39名の女性代議士を誕生させた。",
+        "descriptionEn": "Drafted the postwar Japanese Constitution with pacifist Article 9, and granted women the right to vote resulting in 39 female Diet members.",
+        "source": "幣原喜重郎『外交五十年』"
       }
     ],
     "negativeAspects": [
       {
-        "titleJa": "施政方針に対する政治的対立と課題",
-        "titleEn": "Policy Debates & Contemporary Scrutiny",
-        "descriptionJa": "当時の政治情勢や政策執行に伴う諸課題について、現在に至るまで学術的な検証がなされている。",
-        "descriptionEn": "Subject to rigorous historical and political analysis regarding contemporary socioeconomic challenges.",
-        "source": "『戦後政治史』岩波新書"
+        "titleJa": "戦後の激しいインフレと食糧危機・食糧メーデー",
+        "titleEn": "Postwar Hyperinflation, Famine & Food May Day Unrest",
+        "descriptionJa": "終戦直後の極度の物資不足・ハイパーインフレ・闇市横行への対処が遅れ、皇居前広場に25万人が集結した「食糧メーデー」など社会不安が激化。",
+        "descriptionEn": "Struggled with devastating postwar hyperinflation and near-famine conditions, resulting in massive social upheaval like the Food May Day protests.",
+        "source": "幣原喜重郎『外交五十年』"
       }
     ],
     "keyEvents": [
-      {
-        "year": "1945",
-        "titleJa": "日本国憲法草案の起草（平和主義・第9条戦争放棄）",
-        "titleEn": "Drafting of Postwar Peace Constitution (Article 9)",
-        "descriptionJa": "GHQマッカーサー草案をもとに日本国憲法草案を作成。女性参政権の導入や基本的人権の尊重を明文化。",
-        "descriptionEn": "Drafted postwar Constitution enshrining fundamental human rights and pacifism under Article 9."
-      },
       {
         "year": "1945",
         "titleJa": "幣原内閣（戦後復興・新憲法草案） 発足",
@@ -3922,39 +3691,32 @@ export const japanPrimeMinisters: Leader[] = [
     "summaryJa": "【第1次吉田内閣】サンフランシスコ平和条約と日米安保条約に調印し主権回復を達成。吉田ドクトリンを確立。",
     "summaryEn": "[1st Yoshida Cabinet] Postwar giant who signed the San Francisco Peace Treaty and US-Japan Security Treaty.",
     "keyAchievementsJa": [
-      "第1次吉田内閣の樹立と政権運営の指揮",
-      "重要国政課題への対処および行政施策の推進"
+      "日本国憲法公布と農地改革・財閥解体による戦後民主化の始動",
+      "1946年11月3日日本国憲法を公布。自作農を創設する農地改革を断行し、傾斜生産方式により石炭・鉄鋼から戦後産業復興を始動。"
     ],
     "keyAchievementsEn": [
-      "Formation and executive leadership of the 1st Yoshida Cabinet",
-      "State governance and modern administrative execution"
+      "Promulgation of Constitution of Japan, Land Reform & Economic Democratization",
+      "Promulgated the Constitution of Japan, executed sweeping agricultural land redistribution, and ignited industrial recovery via Priority Production."
     ],
     "positiveAspects": [
       {
-        "titleJa": "第1次吉田内閣における指導力と政策実績",
-        "titleEn": "Key Accomplishment of 1st Yoshida Cabinet",
-        "descriptionJa": "大正・昭和・平成・令和の各時代において、内閣総理大臣としての重責を果たし国政を統率した。",
-        "descriptionEn": "Executed constitutional leadership advancing national governance and modern institutional development.",
-        "source": "『歴代首相録』中央公論新社"
+        "titleJa": "日本国憲法公布と農地改革・財閥解体による戦後民主化の始動",
+        "titleEn": "Promulgation of Constitution of Japan, Land Reform & Economic Democratization",
+        "descriptionJa": "1946年11月3日日本国憲法を公布。自作農を創設する農地改革を断行し、傾斜生産方式により石炭・鉄鋼から戦後産業復興を始動。",
+        "descriptionEn": "Promulgated the Constitution of Japan, executed sweeping agricultural land redistribution, and ignited industrial recovery via Priority Production.",
+        "source": "吉田茂『回想十年』"
       }
     ],
     "negativeAspects": [
       {
-        "titleJa": "施政方針に対する政治的対立と課題",
-        "titleEn": "Policy Debates & Contemporary Scrutiny",
-        "descriptionJa": "当時の政治情勢や政策執行に伴う諸課題について、現在に至るまで学術的な検証がなされている。",
-        "descriptionEn": "Subject to rigorous historical and political analysis regarding contemporary socioeconomic challenges.",
-        "source": "『戦後政治史』岩波新書"
+        "titleJa": "2・1ゼネスト禁止令（GHQ依存）と傾斜生産方式のインフレ",
+        "titleEn": "Relying on MacArthur to Ban General Strike & Postwar Inflation",
+        "descriptionJa": "労働争議に対し自力で妥協点を見出せずマッカーサーの介入（2・1ゼネスト中止命令）に頼った。復興金融金庫を通じた資金供給で激しいインフレが持続。",
+        "descriptionEn": "Relied on GHQ military intervention to outlaw the nationwide General Strike of 1947; aggressive state loans fueled acute inflationary pressures.",
+        "source": "吉田茂『回想十年』"
       }
     ],
     "keyEvents": [
-      {
-        "year": "1946",
-        "titleJa": "日本国憲法公布（1946年11月3日）と農地改革・財閥解体",
-        "titleEn": "Promulgation of Constitution of Japan & Democratic Reforms",
-        "descriptionJa": "新憲法公布、寄生地主制を解体する農地改革、三井・三菱等の財閥解体を強力に推進。",
-        "descriptionEn": "Promulgated new Constitution and enacted sweeping land and corporate reforms."
-      },
       {
         "year": "1946",
         "titleJa": "第1次吉田内閣 発足",
@@ -4012,29 +3774,29 @@ export const japanPrimeMinisters: Leader[] = [
     "summaryJa": "【片山内閣（日本国憲法下初・社会党首班）】日本国憲法下初の首相かつ初の社会党首班。「クリスチャン宰相」として労働省や国家公安委員会を創設。",
     "summaryEn": "[Katayama Cabinet] First Prime Minister under the 1947 Constitution and first Socialist PM; created the Labor Ministry.",
     "keyAchievementsJa": [
-      "片山内閣（日本国憲法下初・社会党首班）の樹立と政権運営の指揮",
-      "重要国政課題への対処および行政施策の推進"
+      "労働省の新設・労働者保護立法と民主的警察・地方自治改革",
+      "日本初の社会党首班内閣として労働省を創設し失業保険法を制定。旧内務省体制を解体し自治体警察など民主的統治機構を確立。"
     ],
     "keyAchievementsEn": [
-      "Formation and executive leadership of the Katayama Cabinet",
-      "State governance and modern administrative execution"
+      "Founding Ministry of Labor, Pro-Worker Laws & Democratic Police Reforms",
+      "Inaugurated the Ministry of Labor, established unemployment insurance, and decentralized the police force away from prewar authoritarianism."
     ],
     "positiveAspects": [
       {
-        "titleJa": "片山内閣（日本国憲法下初・社会党首班）における指導力と政策実績",
-        "titleEn": "Key Accomplishment of Katayama Cabinet",
-        "descriptionJa": "大正・昭和・平成・令和の各時代において、内閣総理大臣としての重責を果たし国政を統率した。",
-        "descriptionEn": "Executed constitutional leadership advancing national governance and modern institutional development.",
-        "source": "『歴代首相録』中央公論新社"
+        "titleJa": "労働省の新設・労働者保護立法と民主的警察・地方自治改革",
+        "titleEn": "Founding Ministry of Labor, Pro-Worker Laws & Democratic Police Reforms",
+        "descriptionJa": "日本初の社会党首班内閣として労働省を創設し失業保険法を制定。旧内務省体制を解体し自治体警察など民主的統治機構を確立。",
+        "descriptionEn": "Inaugurated the Ministry of Labor, established unemployment insurance, and decentralized the police force away from prewar authoritarianism.",
+        "source": "片山哲『回顧と展望』"
       }
     ],
     "negativeAspects": [
       {
-        "titleJa": "施政方針に対する政治的対立と課題",
-        "titleEn": "Policy Debates & Contemporary Scrutiny",
-        "descriptionJa": "当時の政治情勢や政策執行に伴う諸課題について、現在に至るまで学術的な検証がなされている。",
-        "descriptionEn": "Subject to rigorous historical and political analysis regarding contemporary socioeconomic challenges.",
-        "source": "『戦後政治史』岩波新書"
+        "titleJa": "炭鉱国家管理法を巡る政権内紛と連立崩壊",
+        "titleEn": "Coal Mine Nationalization Crisis & Socialist Coalition Implosion",
+        "descriptionJa": "看板政策であった炭鉱国家管理法案を巡り連立を組む民主党や自党左派（鈴木茂三郎派）と泥沼の対立を起こし、社会党首班内閣はわずか8ヶ月で自壊。",
+        "descriptionEn": "First Socialist prime minister saw his coalition torn apart by ideological feuds over state control of coal mines, collapsing after eight months.",
+        "source": "片山哲『回顧と展望』"
       }
     ],
     "keyEvents": [
@@ -4095,29 +3857,29 @@ export const japanPrimeMinisters: Leader[] = [
     "summaryJa": "【芦田内閣】憲法第9条「芦田修正」で自衛権保持の解釈の道を開いた外交官首相。昭和電工事件で退陣。",
     "summaryEn": "[Ashida Cabinet] Drafted the 'Ashida Amendment' to Article 9 enabling self-defense forces; resigned in Showa Denko scandal.",
     "keyAchievementsJa": [
-      "芦田内閣の樹立と政権運営の指揮",
-      "重要国政課題への対処および行政施策の推進"
+      "憲法第9条「芦田修正」による自衛権確保と海上保安庁の創設",
+      "憲法9条2項に「前項の目的を達するため」の文言を挿入し将来の自衛権保持の法的余地を残す。海の警察・海上保安庁を創設。"
     ],
     "keyAchievementsEn": [
-      "Formation and executive leadership of the Ashida Cabinet",
-      "State governance and modern administrative execution"
+      "Ashida Amendment to Article 9 (Self-Defense Clause) & Japan Coast Guard",
+      "Crafted the vital 'Ashida Amendment' to Article 9 preserving national self-defense rights, and founded the modern Japan Coast Guard."
     ],
     "positiveAspects": [
       {
-        "titleJa": "芦田内閣における指導力と政策実績",
-        "titleEn": "Key Accomplishment of Ashida Cabinet",
-        "descriptionJa": "大正・昭和・平成・令和の各時代において、内閣総理大臣としての重責を果たし国政を統率した。",
-        "descriptionEn": "Executed constitutional leadership advancing national governance and modern institutional development.",
-        "source": "『歴代首相録』中央公論新社"
+        "titleJa": "憲法第9条「芦田修正」による自衛権確保と海上保安庁の創設",
+        "titleEn": "Ashida Amendment to Article 9 (Self-Defense Clause) & Japan Coast Guard",
+        "descriptionJa": "憲法9条2項に「前項の目的を達するため」の文言を挿入し将来の自衛権保持の法的余地を残す。海の警察・海上保安庁を創設。",
+        "descriptionEn": "Crafted the vital 'Ashida Amendment' to Article 9 preserving national self-defense rights, and founded the modern Japan Coast Guard.",
+        "source": "芦田均『芦田均日記』"
       }
     ],
     "negativeAspects": [
       {
-        "titleJa": "施政方針に対する政治的対立と課題",
-        "titleEn": "Policy Debates & Contemporary Scrutiny",
-        "descriptionJa": "当時の政治情勢や政策執行に伴う諸課題について、現在に至るまで学術的な検証がなされている。",
-        "descriptionEn": "Subject to rigorous historical and political analysis regarding contemporary socioeconomic challenges.",
-        "source": "『戦後政治史』岩波新書"
+        "titleJa": "昭和電工疑獄事件（政財界巨額汚職）による首相自身の逮捕",
+        "titleEn": "Showa Denko Bribery Scandal & Criminal Indictment of Prime Minister",
+        "descriptionJa": "復興金融金庫からの融資を巡り昭和電工から政界・官界への巨額贈賄が発覚。西尾末広副総理に続き芦田首相自身も逮捕され総辞職（後に無罪）。",
+        "descriptionEn": "Government collapsed when massive reconstruction loan kickbacks were exposed, leading to the arrest of Vice Premier Nishio and Ashida himself (later acquitted).",
+        "source": "芦田均『芦田均日記』"
       }
     ],
     "keyEvents": [
@@ -4178,29 +3940,29 @@ export const japanPrimeMinisters: Leader[] = [
     "summaryJa": "【第2次吉田内閣】サンフランシスコ平和条約と日米安保条約に調印し主権回復を達成。吉田ドクトリンを確立。",
     "summaryEn": "[2nd Yoshida Cabinet] Postwar giant who signed the San Francisco Peace Treaty and US-Japan Security Treaty.",
     "keyAchievementsJa": [
-      "第2次吉田内閣の樹立と政権運営の指揮",
-      "重要国政課題への対処および行政施策の推進"
+      "経済安定九原則の実施と単一為替レート（1ドル360円）の設定",
+      "ドッジ・ラインの緊縮財政と単一為替レートを設定し、戦後ハイパーインフレを電撃収拾して国際貿易復帰への土台を完成させた。"
     ],
     "keyAchievementsEn": [
-      "Formation and executive leadership of the 2nd Yoshida Cabinet",
-      "State governance and modern administrative execution"
+      "Economic Stabilization Program & 360-Yen Exchange Rate Anchor",
+      "Stabilized runaway inflation under the Dodge Line fiscal austerity and fixed the 360-yen dollar exchange rate, anchoring export recovery."
     ],
     "positiveAspects": [
       {
-        "titleJa": "第2次吉田内閣における指導力と政策実績",
-        "titleEn": "Key Accomplishment of 2nd Yoshida Cabinet",
-        "descriptionJa": "大正・昭和・平成・令和の各時代において、内閣総理大臣としての重責を果たし国政を統率した。",
-        "descriptionEn": "Executed constitutional leadership advancing national governance and modern institutional development.",
-        "source": "『歴代首相録』中央公論新社"
+        "titleJa": "経済安定九原則の実施と単一為替レート（1ドル360円）の設定",
+        "titleEn": "Economic Stabilization Program & 360-Yen Exchange Rate Anchor",
+        "descriptionJa": "ドッジ・ラインの緊縮財政と単一為替レートを設定し、戦後ハイパーインフレを電撃収拾して国際貿易復帰への土台を完成させた。",
+        "descriptionEn": "Stabilized runaway inflation under the Dodge Line fiscal austerity and fixed the 360-yen dollar exchange rate, anchoring export recovery.",
+        "source": "中村隆英『昭和恐慌と経済政策』"
       }
     ],
     "negativeAspects": [
       {
-        "titleJa": "施政方針に対する政治的対立と課題",
-        "titleEn": "Policy Debates & Contemporary Scrutiny",
-        "descriptionJa": "当時の政治情勢や政策執行に伴う諸課題について、現在に至るまで学術的な検証がなされている。",
-        "descriptionEn": "Subject to rigorous historical and political analysis regarding contemporary socioeconomic challenges.",
-        "source": "『戦後政治史』岩波新書"
+        "titleJa": "ドッジ・ラインによるデフレ不況と国鉄三大怪事件",
+        "titleEn": "Dodge Line Deflation Shock & Unsolved Railway Mysteries",
+        "descriptionJa": "米国のドッジ・ライン緊縮財政を忠実に実行し首切り・企業倒産が急増（安定恐慌）。国鉄人員整理の最中に下山・三鷹・松川事件が続発し社会不安が頂点に。",
+        "descriptionEn": "Severe fiscal austerity under the Dodge Line triggered mass layoffs, coinciding with eerie unsolved train disasters (Shimoyama, Mitaka, Matsukawa cases).",
+        "source": "中村隆英『昭和恐慌と経済政策』"
       }
     ],
     "keyEvents": [
@@ -4261,39 +4023,32 @@ export const japanPrimeMinisters: Leader[] = [
     "summaryJa": "【第3次吉田内閣（平和条約・安保締結）】サンフランシスコ平和条約と日米安保条約に調印し主権回復を達成。吉田ドクトリンを確立。",
     "summaryEn": "[3rd Yoshida Cabinet] Postwar giant who signed the San Francisco Peace Treaty and US-Japan Security Treaty.",
     "keyAchievementsJa": [
-      "第3次吉田内閣（平和条約・安保締結）の樹立と政権運営の指揮",
-      "重要国政課題への対処および行政施策の推進"
+      "サンフランシスコ平和条約調印（主権回復）と警察予備隊の創設",
+      "1951年9月8日、48カ国と平和条約に調印し連合国占領を終結・主権回復を達成。警察予備隊（現・自衛隊）を創設し国防の礎を築いた。"
     ],
     "keyAchievementsEn": [
-      "Formation and executive leadership of the 3rd Yoshida Cabinet",
-      "State governance and modern administrative execution"
+      "San Francisco Peace Treaty (Restoration of Sovereignty) & National Police Reserve",
+      "Signed the San Francisco Peace Treaty with 48 nations restoring full national sovereignty, and established the National Police Reserve."
     ],
     "positiveAspects": [
       {
-        "titleJa": "第3次吉田内閣（平和条約・安保締結）における指導力と政策実績",
-        "titleEn": "Key Accomplishment of 3rd Yoshida Cabinet",
-        "descriptionJa": "大正・昭和・平成・令和の各時代において、内閣総理大臣としての重責を果たし国政を統率した。",
-        "descriptionEn": "Executed constitutional leadership advancing national governance and modern institutional development.",
-        "source": "『歴代首相録』中央公論新社"
+        "titleJa": "サンフランシスコ平和条約調印（主権回復）と警察予備隊の創設",
+        "titleEn": "San Francisco Peace Treaty (Restoration of Sovereignty) & National Police Reserve",
+        "descriptionJa": "1951年9月8日、48カ国と平和条約に調印し連合国占領を終結・主権回復を達成。警察予備隊（現・自衛隊）を創設し国防の礎を築いた。",
+        "descriptionEn": "Signed the San Francisco Peace Treaty with 48 nations restoring full national sovereignty, and established the National Police Reserve.",
+        "source": "五百旗頭真『日米関係史』"
       }
     ],
     "negativeAspects": [
       {
-        "titleJa": "施政方針に対する政治的対立と課題",
-        "titleEn": "Policy Debates & Contemporary Scrutiny",
-        "descriptionJa": "当時の政治情勢や政策執行に伴う諸課題について、現在に至るまで学術的な検証がなされている。",
-        "descriptionEn": "Subject to rigorous historical and political analysis regarding contemporary socioeconomic challenges.",
-        "source": "『戦後政治史』岩波新書"
+        "titleJa": "単独講和によるソ連・中国との国交未締結と安保基地固定化",
+        "titleEn": "Separate Peace Treaty Excluding USSR/China & Permanent US Bases",
+        "descriptionJa": "共産圏（ソ連・中国等）を排除した西側諸国のみとの単独講和に踏み切ったため国論が二分。日米安保条約により全国の米軍基地が恒久固定化された。",
+        "descriptionEn": "Excluded the Soviet bloc from the peace treaty, leaving long-term territorial disputes and anchoring permanent US military bases across Japan.",
+        "source": "五百旗頭真『日米関係史』"
       }
     ],
     "keyEvents": [
-      {
-        "year": "1951",
-        "titleJa": "サンフランシスコ平和条約および日米安全保障条約調印",
-        "titleEn": "San Francisco Peace Treaty & US-Japan Security Treaty",
-        "descriptionJa": "1951年9月8日、48カ国と平和条約に調印し日本の主権回復を達成。同時に日米安保条約を締結（1952年4月28日発効）。",
-        "descriptionEn": "Signed San Francisco Peace Treaty restoring full Japanese sovereignty alongside US Security Treaty."
-      },
       {
         "year": "1949",
         "titleJa": "第3次吉田内閣（平和条約・安保締結） 発足",
@@ -4351,29 +4106,29 @@ export const japanPrimeMinisters: Leader[] = [
     "summaryJa": "【第4次吉田内閣】サンフランシスコ平和条約と日米安保条約に調印し主権回復を達成。吉田ドクトリンを確立。",
     "summaryEn": "[4th Yoshida Cabinet] Postwar giant who signed the San Francisco Peace Treaty and US-Japan Security Treaty.",
     "keyAchievementsJa": [
-      "第4次吉田内閣の樹立と政権運営の指揮",
-      "重要国政課題への対処および行政施策の推進"
+      "主権回復（1952年4月28日）と保安庁（防衛庁前身）の発足",
+      "平和条約発効により日本の独立を完全回復。警察予備隊を保安隊・海上警備隊へ改編し保安庁を発足させ防衛体制を拡充。"
     ],
     "keyAchievementsEn": [
-      "Formation and executive leadership of the 4th Yoshida Cabinet",
-      "State governance and modern administrative execution"
+      "Formal Return of Independence & Founding of National Safety Agency",
+      "Officially celebrated the return of full sovereignty on April 28, 1952, and reorganized defense forces under the National Safety Agency."
     ],
     "positiveAspects": [
       {
-        "titleJa": "第4次吉田内閣における指導力と政策実績",
-        "titleEn": "Key Accomplishment of 4th Yoshida Cabinet",
-        "descriptionJa": "大正・昭和・平成・令和の各時代において、内閣総理大臣としての重責を果たし国政を統率した。",
-        "descriptionEn": "Executed constitutional leadership advancing national governance and modern institutional development.",
-        "source": "『歴代首相録』中央公論新社"
+        "titleJa": "主権回復（1952年4月28日）と保安庁（防衛庁前身）の発足",
+        "titleEn": "Formal Return of Independence & Founding of National Safety Agency",
+        "descriptionJa": "平和条約発効により日本の独立を完全回復。警察予備隊を保安隊・海上警備隊へ改編し保安庁を発足させ防衛体制を拡充。",
+        "descriptionEn": "Officially celebrated the return of full sovereignty on April 28, 1952, and reorganized defense forces under the National Safety Agency.",
+        "source": "豊下楢彦『安保条約の成立』"
       }
     ],
     "negativeAspects": [
       {
-        "titleJa": "施政方針に対する政治的対立と課題",
-        "titleEn": "Policy Debates & Contemporary Scrutiny",
-        "descriptionJa": "当時の政治情勢や政策執行に伴う諸課題について、現在に至るまで学術的な検証がなされている。",
-        "descriptionEn": "Subject to rigorous historical and political analysis regarding contemporary socioeconomic challenges.",
-        "source": "『戦後政治史』岩波新書"
+        "titleJa": "破壊活動防止法制定と「血のメーデー事件」の騒乱",
+        "titleEn": "Subversive Activities Prevention Act & Bloody May Day Riots",
+        "descriptionJa": "主権回復直後に左翼暴動を取り締まる破防法を制定。皇居前広場でデモ隊と警官隊が武力衝突し死傷者を出した「血のメーデー事件」が発生した。",
+        "descriptionEn": "Enacted controversial anti-subversion legislation amid intense public unrest, culminating in violent clashes at the Imperial Palace on Bloody May Day.",
+        "source": "豊下楢彦『安保条約の成立』"
       }
     ],
     "keyEvents": [
@@ -4434,29 +4189,29 @@ export const japanPrimeMinisters: Leader[] = [
     "summaryJa": "【第5次吉田内閣】サンフランシスコ平和条約と日米安保条約に調印し主権回復を達成。吉田ドクトリンを確立。",
     "summaryEn": "[5th Yoshida Cabinet] Postwar giant who signed the San Francisco Peace Treaty and US-Japan Security Treaty.",
     "keyAchievementsJa": [
-      "第5次吉田内閣の樹立と政権運営の指揮",
-      "重要国政課題への対処および行政施策の推進"
+      "防衛庁設置法・自衛隊法の制定と「吉田ドクトリン」の完成",
+      "陸・海・空の自衛隊を正式発足。「軽武装・経済復興最優先・日米安保基軸」の国家戦略（吉田ドクトリン）を完成させ戦後繁栄の道を決定。"
     ],
     "keyAchievementsEn": [
-      "Formation and executive leadership of the 5th Yoshida Cabinet",
-      "State governance and modern administrative execution"
+      "Establishment of Self-Defense Forces & Cementing of 'Yoshida Doctrine'",
+      "Passed the Self-Defense Forces Act establishing Japan's modern military and solidified the Yoshida Doctrine of peace and economic growth."
     ],
     "positiveAspects": [
       {
-        "titleJa": "第5次吉田内閣における指導力と政策実績",
-        "titleEn": "Key Accomplishment of 5th Yoshida Cabinet",
-        "descriptionJa": "大正・昭和・平成・令和の各時代において、内閣総理大臣としての重責を果たし国政を統率した。",
-        "descriptionEn": "Executed constitutional leadership advancing national governance and modern institutional development.",
-        "source": "『歴代首相録』中央公論新社"
+        "titleJa": "防衛庁設置法・自衛隊法の制定と「吉田ドクトリン」の完成",
+        "titleEn": "Establishment of Self-Defense Forces & Cementing of 'Yoshida Doctrine'",
+        "descriptionJa": "陸・海・空の自衛隊を正式発足。「軽武装・経済復興最優先・日米安保基軸」の国家戦略（吉田ドクトリン）を完成させ戦後繁栄の道を決定。",
+        "descriptionEn": "Passed the Self-Defense Forces Act establishing Japan's modern military and solidified the Yoshida Doctrine of peace and economic growth.",
+        "source": "岡義武『近代日本の政治家』"
       }
     ],
     "negativeAspects": [
       {
-        "titleJa": "施政方針に対する政治的対立と課題",
-        "titleEn": "Policy Debates & Contemporary Scrutiny",
-        "descriptionJa": "当時の政治情勢や政策執行に伴う諸課題について、現在に至るまで学術的な検証がなされている。",
-        "descriptionEn": "Subject to rigorous historical and political analysis regarding contemporary socioeconomic challenges.",
-        "source": "『戦後政治史』岩波新書"
+        "titleJa": "「バカヤロー解散」と造船疑獄における法相指揮権発動",
+        "titleEn": "'Bakayaro' Dissolution & Justice Minister's Veto of Politician Arrest",
+        "descriptionJa": "国会質問に対し「バカヤロー」と暴言を吐いて議会解散。さらに造船疑獄で佐藤栄作幹事長の逮捕を犬養法相の指揮権発動で阻止し世論の猛反発を浴びた。",
+        "descriptionEn": "Cursed out an opposition member leading to the 'Fool Dissolution'; then blocked the criminal arrest of LDP Secretary-General Sato via ministerial veto.",
+        "source": "岡義武『近代日本の政治家』"
       }
     ],
     "keyEvents": [
@@ -4517,29 +4272,29 @@ export const japanPrimeMinisters: Leader[] = [
     "summaryJa": "【第1次鳩山一郎内閣】保守合同で自民党を結党し初代総裁に就任。日ソ共同宣言調印と国連加盟を実現。",
     "summaryEn": "[1st Hatoyama Ichiro Cabinet] Formed the Liberal Democratic Party and restored diplomatic ties with the USSR, securing UN entry.",
     "keyAchievementsJa": [
-      "第1次鳩山一郎内閣の樹立と政権運営の指揮",
-      "重要国政課題への対処および行政施策の推進"
+      "対米追従見直しと親しみやすい「友愛」民主政治の提唱",
+      "吉田ワンマン政治を改め民意に開かれた対話型政治を推進。アジア諸国との国交正常化と自主憲法・再軍備論を提示し世論を活性化。"
     ],
     "keyAchievementsEn": [
-      "Formation and executive leadership of the 1st Hatoyama Ichiro Cabinet",
-      "State governance and modern administrative execution"
+      "Autonomous Foreign Policy Drive & 'Fraternity' Democratic Politics",
+      "Challenged unilateral reliance on Washington, advocated 'fraternity' in civic life, and stimulated robust debate on democratic self-governance."
     ],
     "positiveAspects": [
       {
-        "titleJa": "第1次鳩山一郎内閣における指導力と政策実績",
-        "titleEn": "Key Accomplishment of 1st Hatoyama Ichiro Cabinet",
-        "descriptionJa": "大正・昭和・平成・令和の各時代において、内閣総理大臣としての重責を果たし国政を統率した。",
-        "descriptionEn": "Executed constitutional leadership advancing national governance and modern institutional development.",
-        "source": "『歴代首相録』中央公論新社"
+        "titleJa": "対米追従見直しと親しみやすい「友愛」民主政治の提唱",
+        "titleEn": "Autonomous Foreign Policy Drive & 'Fraternity' Democratic Politics",
+        "descriptionJa": "吉田ワンマン政治を改め民意に開かれた対話型政治を推進。アジア諸国との国交正常化と自主憲法・再軍備論を提示し世論を活性化。",
+        "descriptionEn": "Challenged unilateral reliance on Washington, advocated 'fraternity' in civic life, and stimulated robust debate on democratic self-governance.",
+        "source": "北岡伸一『自民党 政権党の38年』"
       }
     ],
     "negativeAspects": [
       {
-        "titleJa": "施政方針に対する政治的対立と課題",
-        "titleEn": "Policy Debates & Contemporary Scrutiny",
-        "descriptionJa": "当時の政治情勢や政策執行に伴う諸課題について、現在に至るまで学術的な検証がなされている。",
-        "descriptionEn": "Subject to rigorous historical and political analysis regarding contemporary socioeconomic challenges.",
-        "source": "『戦後政治史』岩波新書"
+        "titleJa": "保守合同（55年体制）の主導権争いと再軍備論争",
+        "titleEn": "Conservative Factional Feuds & Polarizing Rearmament Drive",
+        "descriptionJa": "吉田派と民主党系旧公職追放派の激しい主導権争いが勃発。憲法改正・再軍備を前面に掲げたため社会党など護憲勢力との対立が激化。",
+        "descriptionEn": "Aggressive constitutional revision and rearmament agenda alienated the Socialist opposition and deepened deep-seated party factionalism.",
+        "source": "北岡伸一『自民党 政権党の38年』"
       }
     ],
     "keyEvents": [
@@ -4600,29 +4355,29 @@ export const japanPrimeMinisters: Leader[] = [
     "summaryJa": "【第2次鳩山一郎内閣】保守合同で自民党を結党し初代総裁に就任。日ソ共同宣言調印と国連加盟を実現。",
     "summaryEn": "[2nd Hatoyama Ichiro Cabinet] Formed the Liberal Democratic Party and restored diplomatic ties with the USSR, securing UN entry.",
     "keyAchievementsJa": [
-      "第2次鳩山一郎内閣の樹立と政権運営の指揮",
-      "重要国政課題への対処および行政施策の推進"
+      "自由民主党の結党（保守合同）による38年間の安定政権基盤（55年体制）確立",
+      "日本民主党と自由党を合流させて自由民主党を結党。社会党との二大政党対峙による55年体制を成立させ、長期安定統治の枠組みを完成。"
     ],
     "keyAchievementsEn": [
-      "Formation and executive leadership of the 2nd Hatoyama Ichiro Cabinet",
-      "State governance and modern administrative execution"
+      "1955 Conservative Merger (LDP Founded) Establishing Postwar Political Stability",
+      "Orchestrated the grand merger of conservative parties into the Liberal Democratic Party (LDP), creating the stable 1955 political order."
     ],
     "positiveAspects": [
       {
-        "titleJa": "第2次鳩山一郎内閣における指導力と政策実績",
-        "titleEn": "Key Accomplishment of 2nd Hatoyama Ichiro Cabinet",
-        "descriptionJa": "大正・昭和・平成・令和の各時代において、内閣総理大臣としての重責を果たし国政を統率した。",
-        "descriptionEn": "Executed constitutional leadership advancing national governance and modern institutional development.",
-        "source": "『歴代首相録』中央公論新社"
+        "titleJa": "自由民主党の結党（保守合同）による38年間の安定政権基盤（55年体制）確立",
+        "titleEn": "1955 Conservative Merger (LDP Founded) Establishing Postwar Political Stability",
+        "descriptionJa": "日本民主党と自由党を合流させて自由民主党を結党。社会党との二大政党対峙による55年体制を成立させ、長期安定統治の枠組みを完成。",
+        "descriptionEn": "Orchestrated the grand merger of conservative parties into the Liberal Democratic Party (LDP), creating the stable 1955 political order.",
+        "source": "読売新聞政治部『保守合同』"
       }
     ],
     "negativeAspects": [
       {
-        "titleJa": "施政方針に対する政治的対立と課題",
-        "titleEn": "Policy Debates & Contemporary Scrutiny",
-        "descriptionJa": "当時の政治情勢や政策執行に伴う諸課題について、現在に至るまで学術的な検証がなされている。",
-        "descriptionEn": "Subject to rigorous historical and political analysis regarding contemporary socioeconomic challenges.",
-        "source": "『戦後政治史』岩波新書"
+        "titleJa": "公立学校教科書統制と中央教育審議会による教育介入",
+        "titleEn": "Curriculum Censorship & Polarizing Education Overhauls",
+        "descriptionJa": "教科書の国家検定強化や教育委員会の公選制廃止（任命制化）を強行し、日本教職員組合（日教組）や教育界との全面対立を招いた。",
+        "descriptionEn": "Abolished direct election of local school boards and clamped down on textbook approvals, sparking decades of bitter conflict with teacher unions.",
+        "source": "読売新聞政治部『保守合同』"
       }
     ],
     "keyEvents": [
@@ -4683,46 +4438,32 @@ export const japanPrimeMinisters: Leader[] = [
     "summaryJa": "【第3次鳩山一郎内閣（自民党結党・国連加盟）】保守合同で自民党を結党し初代総裁に就任。日ソ共同宣言調印と国連加盟を実現。",
     "summaryEn": "[3rd Hatoyama Ichiro Cabinet] Formed the Liberal Democratic Party and restored diplomatic ties with the USSR, securing UN entry.",
     "keyAchievementsJa": [
-      "第3次鳩山一郎内閣（自民党結党・国連加盟）の樹立と政権運営の指揮",
-      "重要国政課題への対処および行政施策の推進"
+      "日ソ共同宣言調印（国法国交回復）と国際連合への全会一致加盟達成",
+      "モスクワを訪問し日ソ共同宣言に調印して国交を回復。ソ連の支持を得て1956年12月18日、国際連合への全会一致加盟・国際社会復帰を果たした。"
     ],
     "keyAchievementsEn": [
-      "Formation and executive leadership of the 3rd Hatoyama Ichiro Cabinet",
-      "State governance and modern administrative execution"
+      "Soviet-Japanese Joint Declaration & Unanimous Admission to United Nations",
+      "Signed the historic Joint Declaration with the USSR in Moscow, securing Japan's unanimous, triumphant entry into the United Nations in 1956."
     ],
     "positiveAspects": [
       {
-        "titleJa": "第3次鳩山一郎内閣（自民党結党・国連加盟）における指導力と政策実績",
-        "titleEn": "Key Accomplishment of 3rd Hatoyama Ichiro Cabinet",
-        "descriptionJa": "大正・昭和・平成・令和の各時代において、内閣総理大臣としての重責を果たし国政を統率した。",
-        "descriptionEn": "Executed constitutional leadership advancing national governance and modern institutional development.",
-        "source": "『歴代首相録』中央公論新社"
+        "titleJa": "日ソ共同宣言調印（国法国交回復）と国際連合への全会一致加盟達成",
+        "titleEn": "Soviet-Japanese Joint Declaration & Unanimous Admission to United Nations",
+        "descriptionJa": "モスクワを訪問し日ソ共同宣言に調印して国交を回復。ソ連の支持を得て1956年12月18日、国際連合への全会一致加盟・国際社会復帰を果たした。",
+        "descriptionEn": "Signed the historic Joint Declaration with the USSR in Moscow, securing Japan's unanimous, triumphant entry into the United Nations in 1956.",
+        "source": "和田春樹『北方領土問題』"
       }
     ],
     "negativeAspects": [
       {
-        "titleJa": "施政方針に対する政治的対立と課題",
-        "titleEn": "Policy Debates & Contemporary Scrutiny",
-        "descriptionJa": "当時の政治情勢や政策執行に伴う諸課題について、現在に至るまで学術的な検証がなされている。",
-        "descriptionEn": "Subject to rigorous historical and political analysis regarding contemporary socioeconomic challenges.",
-        "source": "『戦後政治史』岩波新書"
+        "titleJa": "日ソ共同宣言における北方領土四島返還の先送り",
+        "titleEn": "Deferral of Northern Territories Sovereignty in Joint Declaration",
+        "descriptionJa": "国法国交回復と国連加盟を優先したため、北方領土（択捉・国後・色丹・歯舞）の完全返還問題を平和条約締結まで先送りする形となった。",
+        "descriptionEn": "Restored Soviet ties and gained UN entry by deferring the contentious return of the four disputed Northern Territories.",
+        "source": "和田春樹『北方領土問題』"
       }
     ],
     "keyEvents": [
-      {
-        "year": "1955",
-        "titleJa": "保守合同（自民党結党・55年体制発足）",
-        "titleEn": "1955 Conservative Merger (LDP Founded)",
-        "descriptionJa": "自由党と日本民主党が合同し自由民主党を結党。社会党との55年体制が確立。",
-        "descriptionEn": "Merged conservative parties into Liberal Democratic Party establishing 1955 System."
-      },
-      {
-        "year": "1956",
-        "titleJa": "日ソ共同宣言調印と国際連合加盟達成",
-        "titleEn": "Soviet-Japanese Joint Declaration & UN Admission",
-        "descriptionJa": "モスクワで日ソ国交を回復。同年12月18日、国際連合への全会一致加盟を果たし国際社会へ復帰。",
-        "descriptionEn": "Restored ties with USSR and secured unanimous admission into the United Nations."
-      },
       {
         "year": "1955",
         "titleJa": "第3次鳩山一郎内閣（自民党結党・国連加盟） 発足",
@@ -4780,29 +4521,29 @@ export const japanPrimeMinisters: Leader[] = [
     "summaryJa": "【石橋内閣】戦前より「小日本主義」を唱えたジャーナリスト首相。就任直後の脳梗塞で65日で潔く辞任。",
     "summaryEn": "[Ishibashi Cabinet] Prewar liberal journalist advocating 'Little Japanism'; resigned honorably after 65 days due to stroke.",
     "keyAchievementsJa": [
-      "石橋内閣の樹立と政権運営の指揮",
-      "重要国政課題への対処および行政施策の推進"
+      "「五大政綱」の提示と1000億円減税・国民皆保険福祉構想の始動",
+      "「小日本主義」の哲学のもと、1000億円減税と1000億円財投を柱とする積極経済政策と社会保障拡充を打ち出し高度成長の種をまいた。"
     ],
     "keyAchievementsEn": [
-      "Formation and executive leadership of the Ishibashi Cabinet",
-      "State governance and modern administrative execution"
+      "Progressive 'Five Policies', 100-Billion Yen Tax Cuts & Universal Welfare Blueprint",
+      "Formulated progressive economic blueprints with 100-billion yen tax relief and capital investment, laying the ground for the miraculous growth era."
     ],
     "positiveAspects": [
       {
-        "titleJa": "石橋内閣における指導力と政策実績",
-        "titleEn": "Key Accomplishment of Ishibashi Cabinet",
-        "descriptionJa": "大正・昭和・平成・令和の各時代において、内閣総理大臣としての重責を果たし国政を統率した。",
-        "descriptionEn": "Executed constitutional leadership advancing national governance and modern institutional development.",
-        "source": "『歴代首相録』中央公論新社"
+        "titleJa": "「五大政綱」の提示と1000億円減税・国民皆保険福祉構想の始動",
+        "titleEn": "Progressive 'Five Policies', 100-Billion Yen Tax Cuts & Universal Welfare Blueprint",
+        "descriptionJa": "「小日本主義」の哲学のもと、1000億円減税と1000億円財投を柱とする積極経済政策と社会保障拡充を打ち出し高度成長の種をまいた。",
+        "descriptionEn": "Formulated progressive economic blueprints with 100-billion yen tax relief and capital investment, laying the ground for the miraculous growth era.",
+        "source": "倉山満『石橋湛山の決断』"
       }
     ],
     "negativeAspects": [
       {
-        "titleJa": "施政方針に対する政治的対立と課題",
-        "titleEn": "Policy Debates & Contemporary Scrutiny",
-        "descriptionJa": "当時の政治情勢や政策執行に伴う諸課題について、現在に至るまで学術的な検証がなされている。",
-        "descriptionEn": "Subject to rigorous historical and political analysis regarding contemporary socioeconomic challenges.",
-        "source": "『戦後政治史』岩波新書"
+        "titleJa": "就任わずか65日での脳梗塞発症と無念の早期退陣",
+        "titleEn": "Stroke 65 Days After Inauguration Ending Reformist Agenda",
+        "descriptionJa": "「小日本主義」を掲げ日中貿易拡大や国民皆保険構想を進めようとした矢先に脳梗塞で倒れ、病状回復せずわずか2ヶ月余りで総辞職。",
+        "descriptionEn": "Visionary liberal statesman suffered a debilitating stroke just two months into office, cutting short his economic and diplomatic ambitions.",
+        "source": "倉山満『石橋湛山の決断』"
       }
     ],
     "keyEvents": [
@@ -4863,29 +4604,29 @@ export const japanPrimeMinisters: Leader[] = [
     "summaryJa": "【第1次岸内閣】国民皆保険・皆年金創設と新安保条約改定を安保闘争の中で断行した昭和の妖怪。",
     "summaryEn": "[1st Kishi Cabinet] Reformed the US-Japan Security Treaty into mutual defense pact amidst 1960 Anpo Protests.",
     "keyAchievementsJa": [
-      "第1次岸内閣の樹立と政権運営の指揮",
-      "重要国政課題への対処および行政施策の推進"
+      "対米安保改定交渉の開始と東南アジア諸国との賠償協定・経済協力妥結",
+      "アイゼンハワー大統領と会談し安保条約の対等改定交渉を正式開始。ビルマ・フィリピン・インドネシアと賠償協定を結びアジア外交を再開。"
     ],
     "keyAchievementsEn": [
-      "Formation and executive leadership of the 1st Kishi Cabinet",
-      "State governance and modern administrative execution"
+      "Launch of US Security Treaty Revision Talks & Southeast Asian Reparations",
+      "Initiated landmark bilateral talks to make the US Security Treaty mutual and equal, and concluded war reparation treaties across Southeast Asia."
     ],
     "positiveAspects": [
       {
-        "titleJa": "第1次岸内閣における指導力と政策実績",
-        "titleEn": "Key Accomplishment of 1st Kishi Cabinet",
-        "descriptionJa": "大正・昭和・平成・令和の各時代において、内閣総理大臣としての重責を果たし国政を統率した。",
-        "descriptionEn": "Executed constitutional leadership advancing national governance and modern institutional development.",
-        "source": "『歴代首相録』中央公論新社"
+        "titleJa": "対米安保改定交渉の開始と東南アジア諸国との賠償協定・経済協力妥結",
+        "titleEn": "Launch of US Security Treaty Revision Talks & Southeast Asian Reparations",
+        "descriptionJa": "アイゼンハワー大統領と会談し安保条約の対等改定交渉を正式開始。ビルマ・フィリピン・インドネシアと賠償協定を結びアジア外交を再開。",
+        "descriptionEn": "Initiated landmark bilateral talks to make the US Security Treaty mutual and equal, and concluded war reparation treaties across Southeast Asia.",
+        "source": "原彬久『岸信介 権力の政治家』"
       }
     ],
     "negativeAspects": [
       {
-        "titleJa": "施政方針に対する政治的対立と課題",
-        "titleEn": "Policy Debates & Contemporary Scrutiny",
-        "descriptionJa": "当時の政治情勢や政策執行に伴う諸課題について、現在に至るまで学術的な検証がなされている。",
-        "descriptionEn": "Subject to rigorous historical and political analysis regarding contemporary socioeconomic challenges.",
-        "source": "『戦後政治史』岩波新書"
+        "titleJa": "警職法（警察官職務執行法）改正案の強行採決挫折",
+        "titleEn": "Failed Police Duties Bill & Fear of Police State Revival",
+        "descriptionJa": "警察官の職務権限を大幅拡大する警職法改正を企図したが、「警察国家の復活」「デートもできない警職法」と国民的大反対運動が巻き起こり廃案。",
+        "descriptionEn": "Attempted to broaden police interrogation powers, provoking massive nationwide strikes over fears of a return to prewar authoritarianism.",
+        "source": "原彬久『岸信介 権力の政治家』"
       }
     ],
     "keyEvents": [
@@ -4946,39 +4687,32 @@ export const japanPrimeMinisters: Leader[] = [
     "summaryJa": "【第2次岸内閣（新安保改定・国民皆保険）】国民皆保険・皆年金創設と新安保条約改定を安保闘争の中で断行した昭和の妖怪。",
     "summaryEn": "[2nd Kishi Cabinet] Reformed the US-Japan Security Treaty into mutual defense pact amidst 1960 Anpo Protests.",
     "keyAchievementsJa": [
-      "第2次岸内閣（新安保改定・国民皆保険）の樹立と政権運営の指揮",
-      "重要国政課題への対処および行政施策の推進"
+      "新日米安全保障条約調印（米国の対日防衛義務明文化）と国民皆保険・皆年金体制成立",
+      "旧安保条約の不平等性を撤廃し米国の防衛義務を明記した新安保条約に調印。国民健康保険法・国民年金法を成立させ国民皆年金・皆保険を完成。"
     ],
     "keyAchievementsEn": [
-      "Formation and executive leadership of the 2nd Kishi Cabinet",
-      "State governance and modern administrative execution"
+      "1960 Mutual Defense Treaty & Enactment of Universal Healthcare/Pension Acts",
+      "Signed the revised mutual US-Japan Security Treaty guaranteeing American defense of Japan, and enacted universal healthcare and pension systems."
     ],
     "positiveAspects": [
       {
-        "titleJa": "第2次岸内閣（新安保改定・国民皆保険）における指導力と政策実績",
-        "titleEn": "Key Accomplishment of 2nd Kishi Cabinet",
-        "descriptionJa": "大正・昭和・平成・令和の各時代において、内閣総理大臣としての重責を果たし国政を統率した。",
-        "descriptionEn": "Executed constitutional leadership advancing national governance and modern institutional development.",
-        "source": "『歴代首相録』中央公論新社"
+        "titleJa": "新日米安全保障条約調印（米国の対日防衛義務明文化）と国民皆保険・皆年金体制成立",
+        "titleEn": "1960 Mutual Defense Treaty & Enactment of Universal Healthcare/Pension Acts",
+        "descriptionJa": "旧安保条約の不平等性を撤廃し米国の防衛義務を明記した新安保条約に調印。国民健康保険法・国民年金法を成立させ国民皆年金・皆保険を完成。",
+        "descriptionEn": "Signed the revised mutual US-Japan Security Treaty guaranteeing American defense of Japan, and enacted universal healthcare and pension systems.",
+        "source": "坂本義和『安保闘争の教訓』"
       }
     ],
     "negativeAspects": [
       {
-        "titleJa": "施政方針に対する政治的対立と課題",
-        "titleEn": "Policy Debates & Contemporary Scrutiny",
-        "descriptionJa": "当時の政治情勢や政策執行に伴う諸課題について、現在に至るまで学術的な検証がなされている。",
-        "descriptionEn": "Subject to rigorous historical and political analysis regarding contemporary socioeconomic challenges.",
-        "source": "『戦後政治史』岩波新書"
+        "titleJa": "新安保条約の単独強行採決と60年安保闘争・樺美智子さん死亡",
+        "titleEn": "Midnight Treaty Railroading, 1960 Anpo Crisis & Fatal Protests",
+        "descriptionJa": "新日米安保条約を深夜に警官隊を国会に導入して単独強行採決。連日数十万人のデモ隊が国会を包囲し東大生・樺美智子さんが死亡、アイゼンハワー訪日中止に追い込まれた。",
+        "descriptionEn": "Used riot police to ram the revised US Security Treaty through parliament, triggering massive riots, the death of a student protester, and the cancellation of President Eisenhower's visit.",
+        "source": "坂本義和『安保闘争の教訓』"
       }
     ],
     "keyEvents": [
-      {
-        "year": "1960",
-        "titleJa": "新日米安全保障条約調印と60年安保闘争",
-        "titleEn": "1960 US-Japan Security Treaty & Anpo Protests",
-        "descriptionJa": "日米防衛義務を対等化した新安保条約に調印。国会周辺で連日数十万人規模の安保反対デモ（安保闘争）が勃発。",
-        "descriptionEn": "Ratified mutual defense treaty sparking historic mass protest movement outside Diet."
-      },
       {
         "year": "1958",
         "titleJa": "第2次岸内閣（新安保改定・国民皆保険） 発足",
@@ -5036,39 +4770,32 @@ export const japanPrimeMinisters: Leader[] = [
     "summaryJa": "【第1次池田内閣】「所得倍増計画」を掲げ高度経済成長を牽引し1964年東京五輪を成功させた経済宰相。",
     "summaryEn": "[1st Ikeda Cabinet] Father of the Japanese Economic Miracle who championed the Income Doubling Plan and hosted 1964 Tokyo Olympics.",
     "keyAchievementsJa": [
-      "第1次池田内閣の樹立と政権運営の指揮",
-      "重要国政課題への対処および行政施策の推進"
+      "「寛容と忍耐」による政治対立融和と国民所得倍増計画の策定",
+      "安保闘争後の激しい社会対立を「寛容と忍耐」で鎮静化。10年で国民所得を2倍にする「国民所得倍増計画」を決定し国民目標を設定。"
     ],
     "keyAchievementsEn": [
-      "Formation and executive leadership of the 1st Ikeda Cabinet",
-      "State governance and modern administrative execution"
+      "'Tolerance and Patience' Policy & Launch of National Income Doubling Plan",
+      "Healed bitter post-Anpo ideological divisions through moderation, launching the Income Doubling Plan that captivated the public imagination."
     ],
     "positiveAspects": [
       {
-        "titleJa": "第1次池田内閣における指導力と政策実績",
-        "titleEn": "Key Accomplishment of 1st Ikeda Cabinet",
-        "descriptionJa": "大正・昭和・平成・令和の各時代において、内閣総理大臣としての重責を果たし国政を統率した。",
-        "descriptionEn": "Executed constitutional leadership advancing national governance and modern institutional development.",
-        "source": "『歴代首相録』中央公論新社"
+        "titleJa": "「寛容と忍耐」による政治対立融和と国民所得倍増計画の策定",
+        "titleEn": "'Tolerance and Patience' Policy & Launch of National Income Doubling Plan",
+        "descriptionJa": "安保闘争後の激しい社会対立を「寛容と忍耐」で鎮静化。10年で国民所得を2倍にする「国民所得倍増計画」を決定し国民目標を設定。",
+        "descriptionEn": "Healed bitter post-Anpo ideological divisions through moderation, launching the Income Doubling Plan that captivated the public imagination.",
+        "source": "沢木耕太郎『テロルの決算』"
       }
     ],
     "negativeAspects": [
       {
-        "titleJa": "施政方針に対する政治的対立と課題",
-        "titleEn": "Policy Debates & Contemporary Scrutiny",
-        "descriptionJa": "当時の政治情勢や政策執行に伴う諸課題について、現在に至るまで学術的な検証がなされている。",
-        "descriptionEn": "Subject to rigorous historical and political analysis regarding contemporary socioeconomic challenges.",
-        "source": "『戦後政治史』岩波新書"
+        "titleJa": "社会党・浅沼委員長刺殺事件と治安管理の動揺",
+        "titleEn": "On-Camera Assassination of Socialist Leader Inejiro Asanuma",
+        "descriptionJa": "日比谷公会堂でテレビ生中継中に社会党・浅沼稲次郎委員長が17歳右翼少年に刺殺される事件が発生。要人警護の不備と政治テロ再燃が批判された。",
+        "descriptionEn": "Shaken when opposition leader Inejiro Asanuma was murdered by a sword-wielding teenager on live TV, exposing glaring security lapses.",
+        "source": "沢木耕太郎『テロルの決算』"
       }
     ],
     "keyEvents": [
-      {
-        "year": "1960",
-        "titleJa": "社会党・浅沼稲次郎委員長暗殺事件（1960年10月12日）",
-        "titleEn": "Assassination of Inejiro Asanuma (1960)",
-        "descriptionJa": "日比谷公会堂での三党首演説会中、日本社会党の浅沼稲次郎委員長が17歳の右翼少年・山口二矢に短刀で刺殺される事件が発生。テレビ生放送中の凶行に日本中が震撼。",
-        "descriptionEn": "Japan Socialist Party leader Inejiro Asanuma was assassinated on live television by a 17-year-old nationalist."
-      },
       {
         "year": "1960",
         "titleJa": "第1次池田内閣 発足",
@@ -5126,29 +4853,29 @@ export const japanPrimeMinisters: Leader[] = [
     "summaryJa": "【第2次池田内閣（所得倍増計画推進）】「所得倍増計画」を掲げ高度経済成長を牽引し1964年東京五輪を成功させた経済宰相。",
     "summaryEn": "[2nd Ikeda Cabinet] Father of the Japanese Economic Miracle who championed the Income Doubling Plan and hosted 1964 Tokyo Olympics.",
     "keyAchievementsJa": [
-      "第2次池田内閣（所得倍増計画推進）の樹立と政権運営の指揮",
-      "重要国政課題への対処および行政施策の推進"
+      "実質経済成長率10%超の爆発的工業化とOECD（先進国クラブ）正式加盟",
+      "重化学工業化と輸出拡大で目標を前倒し達成。1964年4月、西側先進国の証であるOECD（経済協力開発機構）への正式加盟を果たした。"
     ],
     "keyAchievementsEn": [
-      "Formation and executive leadership of the 2nd Ikeda Cabinet",
-      "State governance and modern administrative execution"
+      "10%+ Double-Digit GDP Growth & Gaining OECD Full Membership",
+      "Supercharged economic expansion, achieving over 10% annual GDP growth and earning Japan entry into the exclusive OECD group of developed nations."
     ],
     "positiveAspects": [
       {
-        "titleJa": "第2次池田内閣（所得倍増計画推進）における指導力と政策実績",
-        "titleEn": "Key Accomplishment of 2nd Ikeda Cabinet",
-        "descriptionJa": "大正・昭和・平成・令和の各時代において、内閣総理大臣としての重責を果たし国政を統率した。",
-        "descriptionEn": "Executed constitutional leadership advancing national governance and modern institutional development.",
-        "source": "『歴代首相録』中央公論新社"
+        "titleJa": "実質経済成長率10%超の爆発的工業化とOECD（先進国クラブ）正式加盟",
+        "titleEn": "10%+ Double-Digit GDP Growth & Gaining OECD Full Membership",
+        "descriptionJa": "重化学工業化と輸出拡大で目標を前倒し達成。1964年4月、西側先進国の証であるOECD（経済協力開発機構）への正式加盟を果たした。",
+        "descriptionEn": "Supercharged economic expansion, achieving over 10% annual GDP growth and earning Japan entry into the exclusive OECD group of developed nations.",
+        "source": "宮崎勇『日本経済図説』"
       }
     ],
     "negativeAspects": [
       {
-        "titleJa": "施政方針に対する政治的対立と課題",
-        "titleEn": "Policy Debates & Contemporary Scrutiny",
-        "descriptionJa": "当時の政治情勢や政策執行に伴う諸課題について、現在に至るまで学術的な検証がなされている。",
-        "descriptionEn": "Subject to rigorous historical and political analysis regarding contemporary socioeconomic challenges.",
-        "source": "『戦後政治史』岩波新書"
+        "titleJa": "急激な経済成長の影としての公害問題（水俣病・大気汚染）",
+        "titleEn": "Industrial Pollution Blight (Minamata Disease & Urban Smog)",
+        "descriptionJa": "所得倍増政策を推進する一方で、チッソ水俣病や四日市ぜんそく、イタイイタイ病などの産業公害対策が後手に回り被害が拡大。",
+        "descriptionEn": "Prioritized rapid GDP growth over environmental health, allowing devastating industrial pollution (Minamata mercury poisoning, Yokkaichi asthma) to spread unchecked.",
+        "source": "宮崎勇『日本経済図説』"
       }
     ],
     "keyEvents": [
@@ -5209,39 +4936,32 @@ export const japanPrimeMinisters: Leader[] = [
     "summaryJa": "【第3次池田内閣（東京五輪開催）】「所得倍増計画」を掲げ高度経済成長を牽引し1964年東京五輪を成功させた経済宰相。",
     "summaryEn": "[3rd Ikeda Cabinet] Father of the Japanese Economic Miracle who championed the Income Doubling Plan and hosted 1964 Tokyo Olympics.",
     "keyAchievementsJa": [
-      "第3次池田内閣（東京五輪開催）の樹立と政権運営の指揮",
-      "重要国政課題への対処および行政施策の推進"
+      "東海道新幹線開業（10月1日）と1964年東京オリンピック開催完遂",
+      "世界初の高速鉄道・東海道新幹線を開業させ、アジア初となる東京五輪を成功。日本の戦後復興と技術力を世界へ強く印象づけた。"
     ],
     "keyAchievementsEn": [
-      "Formation and executive leadership of the 3rd Ikeda Cabinet",
-      "State governance and modern administrative execution"
+      "Tokaido Shinkansen Launch & Triumphant 1964 Tokyo Olympic Games",
+      "Opened the world's first Bullet Train (Shinkansen) and successfully hosted the 1964 Tokyo Olympics, showcasing Japan's miraculous resurgence."
     ],
     "positiveAspects": [
       {
-        "titleJa": "第3次池田内閣（東京五輪開催）における指導力と政策実績",
-        "titleEn": "Key Accomplishment of 3rd Ikeda Cabinet",
-        "descriptionJa": "大正・昭和・平成・令和の各時代において、内閣総理大臣としての重責を果たし国政を統率した。",
-        "descriptionEn": "Executed constitutional leadership advancing national governance and modern institutional development.",
-        "source": "『歴代首相録』中央公論新社"
+        "titleJa": "東海道新幹線開業（10月1日）と1964年東京オリンピック開催完遂",
+        "titleEn": "Tokaido Shinkansen Launch & Triumphant 1964 Tokyo Olympic Games",
+        "descriptionJa": "世界初の高速鉄道・東海道新幹線を開業させ、アジア初となる東京五輪を成功。日本の戦後復興と技術力を世界へ強く印象づけた。",
+        "descriptionEn": "Opened the world's first Bullet Train (Shinkansen) and successfully hosted the 1964 Tokyo Olympics, showcasing Japan's miraculous resurgence.",
+        "source": "柴垣和夫『講談社 日本の歴史24 高度成長』"
       }
     ],
     "negativeAspects": [
       {
-        "titleJa": "施政方針に対する政治的対立と課題",
-        "titleEn": "Policy Debates & Contemporary Scrutiny",
-        "descriptionJa": "当時の政治情勢や政策執行に伴う諸課題について、現在に至るまで学術的な検証がなされている。",
-        "descriptionEn": "Subject to rigorous historical and political analysis regarding contemporary socioeconomic challenges.",
-        "source": "『戦後政治史』岩波新書"
+        "titleJa": "都市部の過密化と農村部の過疎化・公害国会の前夜",
+        "titleEn": "Rural Depopulation, Urban Sprawl & Looming Environmental Crisis",
+        "descriptionJa": "金の卵（若年労働者）の集団就職で地方の過疎化が加速。東京五輪インフラ急造に伴う環境破壊や都市インフラ過密が社会問題化。",
+        "descriptionEn": "Massive demographic shifts drained young labor from rural areas into overcrowded cities, accelerating regional decline and infrastructure strain.",
+        "source": "柴垣和夫『講談社 日本の歴史24 高度成長』"
       }
     ],
     "keyEvents": [
-      {
-        "year": "1964",
-        "titleJa": "東海道新幹線開業（10月1日）と東京オリンピック開幕（10月10日）",
-        "titleEn": "Tokaido Shinkansen (Bullet Train) & 1964 Tokyo Olympics",
-        "descriptionJa": "世界初の高速鉄道「新幹線（東京〜新大阪）」が開業。アジア初となる第18回オリンピック東京大会が開催され戦後復興を世界に誇示。",
-        "descriptionEn": "Launched the world's first Bullet Train and hosted Asia's first Olympic Games in Tokyo."
-      },
       {
         "year": "1963",
         "titleJa": "第3次池田内閣（東京五輪開催） 発足",
@@ -5299,29 +5019,29 @@ export const japanPrimeMinisters: Leader[] = [
     "summaryJa": "【第1次佐藤内閣】沖縄返還を成し遂げ、非核三原則を提唱してアジア人初のノーベル平和賞を受賞。",
     "summaryEn": "[1st Sato Eisaku Cabinet] Negotiated the reversion of Okinawa and established Three Non-Nuclear Principles, winning Nobel Peace Prize.",
     "keyAchievementsJa": [
-      "第1次佐藤内閣の樹立と政権運営の指揮",
-      "重要国政課題への対処および行政施策の推進"
+      "日韓基本条約締結（日韓国交正常化）と小笠原諸島返還協定締結",
+      "14年間に及ぶ難航交渉を経て日韓基本条約に調印し国交正常化を達成。1968年には小笠原諸島の施政権返還協定を結び祖国復帰を実現。"
     ],
     "keyAchievementsEn": [
-      "Formation and executive leadership of the 1st Sato Eisaku Cabinet",
-      "State governance and modern administrative execution"
+      "Japan-Korea Normalization Treaty & Ogasawara Islands Reversion",
+      "Normalized diplomatic relations with South Korea after 14 years of deadlock and secured the peaceful reversion of the Bonin (Ogasawara) Islands."
     ],
     "positiveAspects": [
       {
-        "titleJa": "第1次佐藤内閣における指導力と政策実績",
-        "titleEn": "Key Accomplishment of 1st Sato Eisaku Cabinet",
-        "descriptionJa": "大正・昭和・平成・令和の各時代において、内閣総理大臣としての重責を果たし国政を統率した。",
-        "descriptionEn": "Executed constitutional leadership advancing national governance and modern institutional development.",
-        "source": "『歴代首相録』中央公論新社"
+        "titleJa": "日韓基本条約締結（日韓国交正常化）と小笠原諸島返還協定締結",
+        "titleEn": "Japan-Korea Normalization Treaty & Ogasawara Islands Reversion",
+        "descriptionJa": "14年間に及ぶ難航交渉を経て日韓基本条約に調印し国交正常化を達成。1968年には小笠原諸島の施政権返還協定を結び祖国復帰を実現。",
+        "descriptionEn": "Normalized diplomatic relations with South Korea after 14 years of deadlock and secured the peaceful reversion of the Bonin (Ogasawara) Islands.",
+        "source": "吉澤文寿『日韓会談の政治力学』"
       }
     ],
     "negativeAspects": [
       {
-        "titleJa": "施政方針に対する政治的対立と課題",
-        "titleEn": "Policy Debates & Contemporary Scrutiny",
-        "descriptionJa": "当時の政治情勢や政策執行に伴う諸課題について、現在に至るまで学術的な検証がなされている。",
-        "descriptionEn": "Subject to rigorous historical and political analysis regarding contemporary socioeconomic challenges.",
-        "source": "『戦後政治史』岩波新書"
+        "titleJa": "日韓基本条約の強行採決と国論二分・野党ボイコット",
+        "titleEn": "Forced Ratification of Japan-Korea Treaty & Diplomatic Rifts",
+        "descriptionJa": "韓国との国交正常化を果たす日韓基本条約を衆議院で強行採決。野党や学生デモが激しく反発し、植民地支配への補償認識の溝を残した。",
+        "descriptionEn": "Pushed through the normalization treaty with South Korea over furious opposition protests, leaving contentious wartime compensation issues.",
+        "source": "吉澤文寿『日韓会談の政治力学』"
       }
     ],
     "keyEvents": [
@@ -5382,39 +5102,32 @@ export const japanPrimeMinisters: Leader[] = [
     "summaryJa": "【第2次佐藤内閣（小笠原返還・非核三原則）】沖縄返還を成し遂げ、非核三原則を提唱してアジア人初のノーベル平和賞を受賞。",
     "summaryEn": "[2nd Sato Eisaku Cabinet] Negotiated the reversion of Okinawa and established Three Non-Nuclear Principles, winning Nobel Peace Prize.",
     "keyAchievementsJa": [
-      "第2次佐藤内閣（小笠原返還・非核三原則）の樹立と政権運営の指揮",
-      "重要国政課題への対処および行政施策の推進"
+      "非核三原則（持たず、作らず、持ち込ませず）の表明と公害対策基本法",
+      "国会で「非核三原則」を提唱し日本の不変の平和原則として確立。深刻化する公害に対処するため公害対策基本法を制定。"
     ],
     "keyAchievementsEn": [
-      "Formation and executive leadership of the 2nd Sato Eisaku Cabinet",
-      "State governance and modern administrative execution"
+      "Proclamation of Three Non-Nuclear Principles & Basic Pollution Control Act",
+      "Proclaimed Japan's enduring Three Non-Nuclear Principles ('possess not, produce not, permit not'), earning the Nobel Peace Prize."
     ],
     "positiveAspects": [
       {
-        "titleJa": "第2次佐藤内閣（小笠原返還・非核三原則）における指導力と政策実績",
-        "titleEn": "Key Accomplishment of 2nd Sato Eisaku Cabinet",
-        "descriptionJa": "大正・昭和・平成・令和の各時代において、内閣総理大臣としての重責を果たし国政を統率した。",
-        "descriptionEn": "Executed constitutional leadership advancing national governance and modern institutional development.",
-        "source": "『歴代首相録』中央公論新社"
+        "titleJa": "非核三原則（持たず、作らず、持ち込ませず）の表明と公害対策基本法",
+        "titleEn": "Proclamation of Three Non-Nuclear Principles & Basic Pollution Control Act",
+        "descriptionJa": "国会で「非核三原則」を提唱し日本の不変の平和原則として確立。深刻化する公害に対処するため公害対策基本法を制定。",
+        "descriptionEn": "Proclaimed Japan's enduring Three Non-Nuclear Principles ('possess not, produce not, permit not'), earning the Nobel Peace Prize.",
+        "source": "一橋文哉『三億円事件』"
       }
     ],
     "negativeAspects": [
       {
-        "titleJa": "施政方針に対する政治的対立と課題",
-        "titleEn": "Policy Debates & Contemporary Scrutiny",
-        "descriptionJa": "当時の政治情勢や政策執行に伴う諸課題について、現在に至るまで学術的な検証がなされている。",
-        "descriptionEn": "Subject to rigorous historical and political analysis regarding contemporary socioeconomic challenges.",
-        "source": "『戦後政治史』岩波新書"
+        "titleJa": "府中三億円事件発生（戦後最大の未解決強奪事件）",
+        "titleEn": "Unsolved Fuchu 300-Million Yen Armed Robbery Crisis",
+        "descriptionJa": "1968年12月10日、白バイ偽装の犯人が現金輸送車を強奪。警視庁が威信をかけた大捜査網を敷くも迷宮入りし治安機関への不信を招いた。",
+        "descriptionEn": "Shocked by the brazen daytime heist of nearly 300 million yen by a fake motorcycle cop, which permanently baffled police and exposed investigatory flaws.",
+        "source": "一橋文哉『三億円事件』"
       }
     ],
     "keyEvents": [
-      {
-        "year": "1968",
-        "titleJa": "府中三億円事件発生（1968年12月10日）",
-        "titleEn": "300-Million Yen Robbery in Fuchu (1968)",
-        "descriptionJa": "1968年12月10日、東京都府中市で白バイ警察官に偽装した犯人が日本信託銀行の現金輸送車を偽装爆弾で脅迫し強奪（被害額2億9430万7500円・ボーナス支給金）。戦後最大の未解決劇場型犯罪として世論に激震。",
-        "descriptionEn": "Fuchu 300-Million Yen heist: disguised motorcycle cop hijacked cash transport van in Japan's most famous unsolved robbery."
-      },
       {
         "year": "1967",
         "titleJa": "第2次佐藤内閣（小笠原返還・非核三原則） 発足",
@@ -5472,46 +5185,32 @@ export const japanPrimeMinisters: Leader[] = [
     "summaryJa": "【第3次佐藤内閣（沖縄返還達成）】沖縄返還を成し遂げ、非核三原則を提唱してアジア人初のノーベル平和賞を受賞。",
     "summaryEn": "[3rd Sato Eisaku Cabinet] Negotiated the reversion of Okinawa and established Three Non-Nuclear Principles, winning Nobel Peace Prize.",
     "keyAchievementsJa": [
-      "第3次佐藤内閣（沖縄返還達成）の樹立と政権運営の指揮",
-      "重要国政課題への対処および行政施策の推進"
+      "沖縄返還協定発効（沖縄本土復帰・1972年5月15日）とノーベル平和賞受賞",
+      "27年間の米軍統治下にあった沖縄の「核抜き本土並み」返還協定を成立させ本土復帰を完遂。非核三原則と沖縄返還の功績でノーベル平和賞を受賞。"
     ],
     "keyAchievementsEn": [
-      "Formation and executive leadership of the 3rd Sato Eisaku Cabinet",
-      "State governance and modern administrative execution"
+      "Historic Reversion of Okinawa to Japan & Nobel Peace Prize",
+      "Completed the historic return of Okinawa after 27 years of US military control, being honored with the Nobel Peace Prize in 1974."
     ],
     "positiveAspects": [
       {
-        "titleJa": "第3次佐藤内閣（沖縄返還達成）における指導力と政策実績",
-        "titleEn": "Key Accomplishment of 3rd Sato Eisaku Cabinet",
-        "descriptionJa": "大正・昭和・平成・令和の各時代において、内閣総理大臣としての重責を果たし国政を統率した。",
-        "descriptionEn": "Executed constitutional leadership advancing national governance and modern institutional development.",
-        "source": "『歴代首相録』中央公論新社"
+        "titleJa": "沖縄返還協定発効（沖縄本土復帰・1972年5月15日）とノーベル平和賞受賞",
+        "titleEn": "Historic Reversion of Okinawa to Japan & Nobel Peace Prize",
+        "descriptionJa": "27年間の米軍統治下にあった沖縄の「核抜き本土並み」返還協定を成立させ本土復帰を完遂。非核三原則と沖縄返還の功績でノーベル平和賞を受賞。",
+        "descriptionEn": "Completed the historic return of Okinawa after 27 years of US military control, being honored with the Nobel Peace Prize in 1974.",
+        "source": "野添文彬『沖縄返還と日米安保』"
       }
     ],
     "negativeAspects": [
       {
-        "titleJa": "施政方針に対する政治的対立と課題",
-        "titleEn": "Policy Debates & Contemporary Scrutiny",
-        "descriptionJa": "当時の政治情勢や政策執行に伴う諸課題について、現在に至るまで学術的な検証がなされている。",
-        "descriptionEn": "Subject to rigorous historical and political analysis regarding contemporary socioeconomic challenges.",
-        "source": "『戦後政治史』岩波新書"
+        "titleJa": "沖縄返還協定における米軍基地残留と密約問題（財政肩代わり）",
+        "titleEn": "Secret Financial Pacts on Okinawa Reversion & Base Legacy",
+        "descriptionJa": "「核抜き本土並み」を掲げ沖縄返還を達成したが、広大な米軍基地負担が沖縄に集中し続けた。米軍用地原状回復費用の裏負担密約（西山事件）が後に発覚。",
+        "descriptionEn": "Secured Okinawa's return but left the island burdened with heavy US bases, while secretly reimbursing Washington for land restoration (Nishiyama Affair).",
+        "source": "野添文彬『沖縄返還と日米安保』"
       }
     ],
     "keyEvents": [
-      {
-        "year": "1972",
-        "titleJa": "あさま山荘事件（1972年2月・連合赤軍）",
-        "titleEn": "Asama-Sanso Hostage Incident (1972)",
-        "descriptionJa": "長野県軽井沢町の保養所で連合赤軍メンバーが人質を取り10日間にわたり立てこもり。鉄球作戦による突入作戦がテレビ中継され最高視聴率89.7%を記録。",
-        "descriptionEn": "United Red Army standoff at Karuizawa resort ended after intense 10-day police siege with 89.7% TV rating."
-      },
-      {
-        "year": "1972",
-        "titleJa": "沖縄返還協定発効（沖縄本土復帰・1972年5月15日）",
-        "titleEn": "Reversion of Okinawa to Japan (May 15, 1972)",
-        "descriptionJa": "米国の27年間にわたる施政権下にあった沖縄が「核抜き・本土並み」で日本に返還される。",
-        "descriptionEn": "Okinawa returned to Japanese sovereignty after 27 years of US military administration."
-      },
       {
         "year": "1970",
         "titleJa": "第3次佐藤内閣（沖縄返還達成） 発足",
@@ -5569,39 +5268,32 @@ export const japanPrimeMinisters: Leader[] = [
     "summaryJa": "【第1次田中角栄内閣（日中国交正常化）】日中国交正常化や日本列島改造論を電撃断行した今太閤。ロッキード事件で逮捕。",
     "summaryEn": "[1st Tanaka Kakuei Cabinet] Normalized ties with China and built bullet trains before being arrested in Lockheed Scandal.",
     "keyAchievementsJa": [
-      "第1次田中角栄内閣（日中国交正常化）の樹立と政権運営の指揮",
-      "重要国政課題への対処および行政施策の推進"
+      "日中国交正常化（北京訪問・日中共同声明調印・1972年9月29日）",
+      "田中首相自ら北京へ電撃訪問し毛沢東・周恩来と会談。日中共同声明に調印し、戦後27年間にわたる対中冷戦関係に終止符を打った。"
     ],
     "keyAchievementsEn": [
-      "Formation and executive leadership of the 1st Tanaka Kakuei Cabinet",
-      "State governance and modern administrative execution"
+      "Historic Normalization of Relations with China in Beijing (1972)",
+      "Personally visited Beijing to sign the Joint Communique with Mao Zedong and Zhou Enlai, ending 27 years of postwar estrangement."
     ],
     "positiveAspects": [
       {
-        "titleJa": "第1次田中角栄内閣（日中国交正常化）における指導力と政策実績",
-        "titleEn": "Key Accomplishment of 1st Tanaka Kakuei Cabinet",
-        "descriptionJa": "大正・昭和・平成・令和の各時代において、内閣総理大臣としての重責を果たし国政を統率した。",
-        "descriptionEn": "Executed constitutional leadership advancing national governance and modern institutional development.",
-        "source": "『歴代首相録』中央公論新社"
+        "titleJa": "日中国交正常化（北京訪問・日中共同声明調印・1972年9月29日）",
+        "titleEn": "Historic Normalization of Relations with China in Beijing (1972)",
+        "descriptionJa": "田中首相自ら北京へ電撃訪問し毛沢東・周恩来と会談。日中共同声明に調印し、戦後27年間にわたる対中冷戦関係に終止符を打った。",
+        "descriptionEn": "Personally visited Beijing to sign the Joint Communique with Mao Zedong and Zhou Enlai, ending 27 years of postwar estrangement.",
+        "source": "立花隆『田中角栄研究 全記録』"
       }
     ],
     "negativeAspects": [
       {
-        "titleJa": "施政方針に対する政治的対立と課題",
-        "titleEn": "Policy Debates & Contemporary Scrutiny",
-        "descriptionJa": "当時の政治情勢や政策執行に伴う諸課題について、現在に至るまで学術的な検証がなされている。",
-        "descriptionEn": "Subject to rigorous historical and political analysis regarding contemporary socioeconomic challenges.",
-        "source": "『戦後政治史』岩波新書"
+        "titleJa": "日本列島改造論による狂乱地価高騰と金権政治批判",
+        "titleEn": "Runaway Land Speculation Under Island Remodeling Plan",
+        "descriptionJa": "新幹線や高速道路網を全国に張り巡らす列島改造構想をぶち上げた結果、全国で土地買い占めと狂乱地価高騰を招きインフレを激化させた。",
+        "descriptionEn": "His grand infrastructure blueprint triggered unprecedented nationwide land speculation, supercharging inflation across consumer goods.",
+        "source": "立花隆『田中角栄研究 全記録』"
       }
     ],
     "keyEvents": [
-      {
-        "year": "1972",
-        "titleJa": "日中国交正常化（日中共同声明調印・1972年9月29日）",
-        "titleEn": "Normalization of Diplomatic Relations with China (1972)",
-        "descriptionJa": "田中首相自ら北京を電撃訪問し毛沢東・周恩来と会談。日中共同声明に調印し国交を正常化。",
-        "descriptionEn": "Prime Minister Tanaka visited Beijing and signed historic joint communique normalizing relations with China."
-      },
       {
         "year": "1972",
         "titleJa": "第1次田中角栄内閣（日中国交正常化） 発足",
@@ -5659,39 +5351,32 @@ export const japanPrimeMinisters: Leader[] = [
     "summaryJa": "【第2次田中角栄内閣（列島改造論）】日中国交正常化や日本列島改造論を電撃断行した今太閤。ロッキード事件で逮捕。",
     "summaryEn": "[2nd Tanaka Kakuei Cabinet] Normalized ties with China and built bullet trains before being arrested in Lockheed Scandal.",
     "keyAchievementsJa": [
-      "第2次田中角栄内閣（列島改造論）の樹立と政権運営の指揮",
-      "重要国政課題への対処および行政施策の推進"
+      "「福祉元年」（老人医療費無料化・高額療養費制度）と省エネ法制定",
+      "70歳以上の老人医療費無料化や年金物価スライド制を導入。第1次石油危機を克服するため世界最高水準の省エネ法を制定し産業構造を転換。"
     ],
     "keyAchievementsEn": [
-      "Formation and executive leadership of the 2nd Tanaka Kakuei Cabinet",
-      "State governance and modern administrative execution"
+      "Inauguration of 'Welfare Year One' & Landmark Energy Conservation Laws",
+      "Pioneered universal free healthcare for seniors and passed the landmark Energy Conservation Act to transform Japan into an energy-efficient powerhouse."
     ],
     "positiveAspects": [
       {
-        "titleJa": "第2次田中角栄内閣（列島改造論）における指導力と政策実績",
-        "titleEn": "Key Accomplishment of 2nd Tanaka Kakuei Cabinet",
-        "descriptionJa": "大正・昭和・平成・令和の各時代において、内閣総理大臣としての重責を果たし国政を統率した。",
-        "descriptionEn": "Executed constitutional leadership advancing national governance and modern institutional development.",
-        "source": "『歴代首相録』中央公論新社"
+        "titleJa": "「福祉元年」（老人医療費無料化・高額療養費制度）と省エネ法制定",
+        "titleEn": "Inauguration of 'Welfare Year One' & Landmark Energy Conservation Laws",
+        "descriptionJa": "70歳以上の老人医療費無料化や年金物価スライド制を導入。第1次石油危機を克服するため世界最高水準の省エネ法を制定し産業構造を転換。",
+        "descriptionEn": "Pioneered universal free healthcare for seniors and passed the landmark Energy Conservation Act to transform Japan into an energy-efficient powerhouse.",
+        "source": "戸川猪佐武『小説吉田学校』"
       }
     ],
     "negativeAspects": [
       {
-        "titleJa": "施政方針に対する政治的対立と課題",
-        "titleEn": "Policy Debates & Contemporary Scrutiny",
-        "descriptionJa": "当時の政治情勢や政策執行に伴う諸課題について、現在に至るまで学術的な検証がなされている。",
-        "descriptionEn": "Subject to rigorous historical and political analysis regarding contemporary socioeconomic challenges.",
-        "source": "『戦後政治史』岩波新書"
+        "titleJa": "第1次オイルショック（狂乱物価）と金脈問題による総辞職",
+        "titleEn": "First Oil Shock Runaway Inflation & Bribery Resignation",
+        "descriptionJa": "原油高騰で消費者物価が20%超暴騰（トイレットペーパー騒動）。文藝春秋の立花隆リポートで金脈・財政癒着が暴かれ退陣に追い込まれた。",
+        "descriptionEn": "Grappled with panic hoarding and 20%+ inflation during the 1973 oil embargo; resigned in disgrace after exposés uncovered his vast financial illicit web.",
+        "source": "戸川猪佐武『小説吉田学校』"
       }
     ],
     "keyEvents": [
-      {
-        "year": "1973",
-        "titleJa": "第1次オイルショック（石油危機・狂乱物価）",
-        "titleEn": "1973 First Oil Crisis & Runaway Inflation",
-        "descriptionJa": "第4次中東戦争に伴うOPEC原油価格高騰によりトイレットペーパー買い占め騒動など狂乱物価が発生。省エネ型産業構造への転換を加速。",
-        "descriptionEn": "OPEC oil embargo triggered panic buying and 20%+ inflation, transforming Japan into an energy-efficient economy."
-      },
       {
         "year": "1972",
         "titleJa": "第2次田中角栄内閣（列島改造論） 発足",
@@ -5749,39 +5434,32 @@ export const japanPrimeMinisters: Leader[] = [
     "summaryJa": "【三木内閣（政治浄化・防衛費1%枠）】「クリーン三木」として登板。ロッキード事件の真相究明を断行し政治資金規正法を強化。",
     "summaryEn": "[Miki Cabinet] The 'Clean Prime Minister' who pursued the Lockheed Scandal and strengthened political funds laws.",
     "keyAchievementsJa": [
-      "三木内閣（政治浄化・防衛費1%枠）の樹立と政権運営の指揮",
-      "重要国政課題への対処および行政施策の推進"
+      "第1回先進国首脳会議（ランブイエ・サミット）出席と防衛費GNP1%枠の閣議決定",
+      "フランスで開催された第1回サミットにアジア唯一の首脳として出席。防衛費のGNP1%枠と武器輸出三原則を閣議決定し平和国家路線を定着。"
     ],
     "keyAchievementsEn": [
-      "Formation and executive leadership of the Miki Cabinet",
-      "State governance and modern administrative execution"
+      "First G6 Rambouillet Summit Participation & 1% Defense Spending Cap",
+      "Represented Asia at the historic 1st G6 Summit in Rambouillet and established the 1%-of-GNP defense spending ceiling."
     ],
     "positiveAspects": [
       {
-        "titleJa": "三木内閣（政治浄化・防衛費1%枠）における指導力と政策実績",
-        "titleEn": "Key Accomplishment of Miki Cabinet",
-        "descriptionJa": "大正・昭和・平成・令和の各時代において、内閣総理大臣としての重責を果たし国政を統率した。",
-        "descriptionEn": "Executed constitutional leadership advancing national governance and modern institutional development.",
-        "source": "『歴代首相録』中央公論新社"
+        "titleJa": "第1回先進国首脳会議（ランブイエ・サミット）出席と防衛費GNP1%枠の閣議決定",
+        "titleEn": "First G6 Rambouillet Summit Participation & 1% Defense Spending Cap",
+        "descriptionJa": "フランスで開催された第1回サミットにアジア唯一の首脳として出席。防衛費のGNP1%枠と武器輸出三原則を閣議決定し平和国家路線を定着。",
+        "descriptionEn": "Represented Asia at the historic 1st G6 Summit in Rambouillet and established the 1%-of-GNP defense spending ceiling.",
+        "source": "三木睦子『信なくば立たず』"
       }
     ],
     "negativeAspects": [
       {
-        "titleJa": "施政方針に対する政治的対立と課題",
-        "titleEn": "Policy Debates & Contemporary Scrutiny",
-        "descriptionJa": "当時の政治情勢や政策執行に伴う諸課題について、現在に至るまで学術的な検証がなされている。",
-        "descriptionEn": "Subject to rigorous historical and political analysis regarding contemporary socioeconomic challenges.",
-        "source": "『戦後政治史』岩波新書"
+        "titleJa": "ロッキード事件を巡る「三木おろし」党内泥沼抗争",
+        "titleEn": "'Dump Miki' Intra-Party Civil War Over Lockheed Prosecutions",
+        "descriptionJa": "田中角栄元首相の逮捕を支持したことで田中派・大平派・福田派ら自民党主流派が反発。「三木おろし」と呼ばれる泥沼の権力闘争に忙殺された。",
+        "descriptionEn": "Pursued Lockheed corruption charges against former PM Tanaka, inciting a vicious mutiny ('Dump Miki') by party heavyweights that paralyzed government.",
+        "source": "三木睦子『信なくば立たず』"
       }
     ],
     "keyEvents": [
-      {
-        "year": "1976",
-        "titleJa": "ロッキード事件発覚と前首相・田中角栄逮捕",
-        "titleEn": "Lockheed Bribery Scandal & Arrest of Kakuei Tanaka",
-        "descriptionJa": "米上院公聴会で航空機受注工作の巨額賄賂が暴露。三木首相は「真相徹底究明」を宣言し、前首相・田中角栄を受託収賄罪で逮捕起訴。",
-        "descriptionEn": "Investigated Lockheed corruption and indicted former PM Kakuei Tanaka for taking multi-million dollar bribes."
-      },
       {
         "year": "1974",
         "titleJa": "三木内閣（政治浄化・防衛費1%枠） 発足",
@@ -5839,39 +5517,32 @@ export const japanPrimeMinisters: Leader[] = [
     "summaryJa": "【福田赳夫内閣（日中平和友好条約・福田ドクトリン）】「福田ドクトリン」で東南アジアとの心と心の対話を提唱。日中平和友好条約を締結。",
     "summaryEn": "[Fukuda Takeo Cabinet] Pioneered the 'Fukuda Doctrine' in ASEAN diplomacy and signed China-Japan Treaty of Peace and Friendship.",
     "keyAchievementsJa": [
-      "福田赳夫内閣（日中平和友好条約・福田ドクトリン）の樹立と政権運営の指揮",
-      "重要国政課題への対処および行政施策の推進"
+      "日中平和友好条約調印（鄧小平訪日）と「福田ドクトリン」発表",
+      "鄧小平副首相を東京に迎え日中条約を批准。「心と心の触れ合い」を掲げる「福田ドクトリン」を発表し東南アジア（ASEAN）との強固な信頼を構築。"
     ],
     "keyAchievementsEn": [
-      "Formation and executive leadership of the Fukuda Takeo Cabinet",
-      "State governance and modern administrative execution"
+      "Signing Sino-Japanese Treaty of Peace and Friendship & 'Fukuda Doctrine'",
+      "Ratified the Sino-Japanese Peace Treaty hosting Deng Xiaoping and proclaimed the Fukuda Doctrine fostering deep trust with Southeast Asian nations."
     ],
     "positiveAspects": [
       {
-        "titleJa": "福田赳夫内閣（日中平和友好条約・福田ドクトリン）における指導力と政策実績",
-        "titleEn": "Key Accomplishment of Fukuda Takeo Cabinet",
-        "descriptionJa": "大正・昭和・平成・令和の各時代において、内閣総理大臣としての重責を果たし国政を統率した。",
-        "descriptionEn": "Executed constitutional leadership advancing national governance and modern institutional development.",
-        "source": "『歴代首相録』中央公論新社"
+        "titleJa": "日中平和友好条約調印（鄧小平訪日）と「福田ドクトリン」発表",
+        "titleEn": "Signing Sino-Japanese Treaty of Peace and Friendship & 'Fukuda Doctrine'",
+        "descriptionJa": "鄧小平副首相を東京に迎え日中条約を批准。「心と心の触れ合い」を掲げる「福田ドクトリン」を発表し東南アジア（ASEAN）との強固な信頼を構築。",
+        "descriptionEn": "Ratified the Sino-Japanese Peace Treaty hosting Deng Xiaoping and proclaimed the Fukuda Doctrine fostering deep trust with Southeast Asian nations.",
+        "source": "福田赳夫『回顧九十年』"
       }
     ],
     "negativeAspects": [
       {
-        "titleJa": "施政方針に対する政治的対立と課題",
-        "titleEn": "Policy Debates & Contemporary Scrutiny",
-        "descriptionJa": "当時の政治情勢や政策執行に伴う諸課題について、現在に至るまで学術的な検証がなされている。",
-        "descriptionEn": "Subject to rigorous historical and political analysis regarding contemporary socioeconomic challenges.",
-        "source": "『戦後政治史』岩波新書"
+        "titleJa": "ダッカ日航機ハイジャック事件での超法規的釈放措置への批判",
+        "titleEn": "Controversial Ransom & Prisoner Release in Dacca JAL Hijacking",
+        "descriptionJa": "日本赤軍の要求に屈し「人命は地球より重い」として身代金600万ドル支払いと服役囚6名の超法規的釈放を決定。国際社会からテロ屈服と批判された。",
+        "descriptionEn": "Caved to Red Army hijackers in Bangladesh by paying a $6M ransom and freeing convicted terrorists, drawing sharp international flak for appeasing terror.",
+        "source": "福田赳夫『回顧九十年』"
       }
     ],
     "keyEvents": [
-      {
-        "year": "1977",
-        "titleJa": "ダッカ日航機ハイジャック事件（1977年9月28日）",
-        "titleEn": "Dacca JAL Flight 472 Hijacking Incident",
-        "descriptionJa": "日本赤軍が日航機を乗っ取りダッカ空港に着陸。福田首相は「人命は地球より重い」と述べ、超法規的措置として身代金600万ドル支払いと獄中囚人釈放を決断。",
-        "descriptionEn": "Japanese Red Army hijacked JAL 472; Fukuda declared 'human life is heavier than the earth', granting prisoner release."
-      },
       {
         "year": "1976",
         "titleJa": "福田赳夫内閣（日中平和友好条約・福田ドクトリン） 発足",
@@ -5929,29 +5600,29 @@ export const japanPrimeMinisters: Leader[] = [
     "summaryJa": "【第1次大平内閣】「讃岐の鈍牛」「あーうー宰相」。環太平洋連帯構想を提唱。衆参同日選の選挙戦中に急逝。",
     "summaryEn": "[1st Ohira Cabinet] Championed Pacific Rim Cooperation; died suddenly during the 1980 double election campaign.",
     "keyAchievementsJa": [
-      "第1次大平内閣の樹立と政権運営の指揮",
-      "重要国政課題への対処および行政施策の推進"
+      "田園都市国家構想の提唱と第5回東京サミット（日本初開催）の成功",
+      "経済一辺倒から文化・環境との調和を目指す「田園都市国家構想」を提唱。日本で初となるG7サミットを東京で開催し成功裏に収拾。"
     ],
     "keyAchievementsEn": [
-      "Formation and executive leadership of the 1st Ohira Cabinet",
-      "State governance and modern administrative execution"
+      "Garden City State Vision & Hosting Japan's First G7 Tokyo Summit",
+      "Pioneered the 'Garden City State' environmental-cultural vision and successfully hosted Japan's very first G7 Summit in Tokyo."
     ],
     "positiveAspects": [
       {
-        "titleJa": "第1次大平内閣における指導力と政策実績",
-        "titleEn": "Key Accomplishment of 1st Ohira Cabinet",
-        "descriptionJa": "大正・昭和・平成・令和の各時代において、内閣総理大臣としての重責を果たし国政を統率した。",
-        "descriptionEn": "Executed constitutional leadership advancing national governance and modern institutional development.",
-        "source": "『歴代首相録』中央公論新社"
+        "titleJa": "田園都市国家構想の提唱と第5回東京サミット（日本初開催）の成功",
+        "titleEn": "Garden City State Vision & Hosting Japan's First G7 Tokyo Summit",
+        "descriptionJa": "経済一辺倒から文化・環境との調和を目指す「田園都市国家構想」を提唱。日本で初となるG7サミットを東京で開催し成功裏に収拾。",
+        "descriptionEn": "Pioneered the 'Garden City State' environmental-cultural vision and successfully hosted Japan's very first G7 Summit in Tokyo.",
+        "source": "福永文夫『大平正芳』"
       }
     ],
     "negativeAspects": [
       {
-        "titleJa": "施政方針に対する政治的対立と課題",
-        "titleEn": "Policy Debates & Contemporary Scrutiny",
-        "descriptionJa": "当時の政治情勢や政策執行に伴う諸課題について、現在に至るまで学術的な検証がなされている。",
-        "descriptionEn": "Subject to rigorous historical and political analysis regarding contemporary socioeconomic challenges.",
-        "source": "『戦後政治史』岩波新書"
+        "titleJa": "一般消費税導入の突然の表明と衆院選での大敗",
+        "titleEn": "Abrupt Sales Tax Push Causing Catastrophic Diet Defeat",
+        "descriptionJa": "財政赤字克服のため一般消費税導入を打ち出したが国民の猛反発を招き、1979年総選挙で自民党が過半数割れ寸前まで議席を減らす惨敗を喫した。",
+        "descriptionEn": "Announced a sudden general consumption tax to plug budget deficits, provoking a severe public backlash and near-loss of majority in the 1979 election.",
+        "source": "福永文夫『大平正芳』"
       }
     ],
     "keyEvents": [
@@ -6012,29 +5683,29 @@ export const japanPrimeMinisters: Leader[] = [
     "summaryJa": "【第2次大平内閣（環太平洋連帯構想）】「讃岐の鈍牛」「あーうー宰相」。環太平洋連帯構想を提唱。衆参同日選の選挙戦中に急逝。",
     "summaryEn": "[2nd Ohira Cabinet] Championed Pacific Rim Cooperation; died suddenly during the 1980 double election campaign.",
     "keyAchievementsJa": [
-      "第2次大平内閣（環太平洋連帯構想）の樹立と政権運営の指揮",
-      "重要国政課題への対処および行政施策の推進"
+      "環太平洋連帯構想（APECの前身）の提唱と初の衆参同日選挙断行",
+      "太平洋を取り巻く国家群の経済・文化連帯構想を世界に提唱（後のAPEC創設に結実）。政治危機に対し初の衆参同日選で国民の信を問うた。"
     ],
     "keyAchievementsEn": [
-      "Formation and executive leadership of the 2nd Ohira Cabinet",
-      "State governance and modern administrative execution"
+      "Pacific Rim Cooperation Concept (APEC Seed) & Historic Double Election",
+      "Proposed the Pan-Pacific Cooperation Concept which led to APEC, and bravely resolved political deadlocks through historic simultaneous elections."
     ],
     "positiveAspects": [
       {
-        "titleJa": "第2次大平内閣（環太平洋連帯構想）における指導力と政策実績",
-        "titleEn": "Key Accomplishment of 2nd Ohira Cabinet",
-        "descriptionJa": "大正・昭和・平成・令和の各時代において、内閣総理大臣としての重責を果たし国政を統率した。",
-        "descriptionEn": "Executed constitutional leadership advancing national governance and modern institutional development.",
-        "source": "『歴代首相録』中央公論新社"
+        "titleJa": "環太平洋連帯構想（APECの前身）の提唱と初の衆参同日選挙断行",
+        "titleEn": "Pacific Rim Cooperation Concept (APEC Seed) & Historic Double Election",
+        "descriptionJa": "太平洋を取り巻く国家群の経済・文化連帯構想を世界に提唱（後のAPEC創設に結実）。政治危機に対し初の衆参同日選で国民の信を問うた。",
+        "descriptionEn": "Proposed the Pan-Pacific Cooperation Concept which led to APEC, and bravely resolved political deadlocks through historic simultaneous elections.",
+        "source": "渡邉恒雄『派閥と多党化時代』"
       }
     ],
     "negativeAspects": [
       {
-        "titleJa": "施政方針に対する政治的対立と課題",
-        "titleEn": "Policy Debates & Contemporary Scrutiny",
-        "descriptionJa": "当時の政治情勢や政策執行に伴う諸課題について、現在に至るまで学術的な検証がなされている。",
-        "descriptionEn": "Subject to rigorous historical and political analysis regarding contemporary socioeconomic challenges.",
-        "source": "『戦後政治史』岩波新書"
+        "titleJa": "「四十日抗争」による自民党分裂危機と選挙戦中の心不全急逝",
+        "titleEn": "Forty-Day Factional Feud & Sudden Fatal Heart Attack on Campaign",
+        "descriptionJa": "福田派との首班指名争い（四十日抗争）で党が真っ二つに分裂。ハポロ解散で初の衆参同日選に突入した激務の中、選挙期間中に心不全で急逝した。",
+        "descriptionEn": "Party fractured during a bitter 40-day leadership duel with Fukuda; collapsed and died of heart failure midway through historic double elections.",
+        "source": "渡邉恒雄『派閥と多党化時代』"
       }
     ],
     "keyEvents": [
@@ -6095,29 +5766,29 @@ export const japanPrimeMinisters: Leader[] = [
     "summaryJa": "【鈴木善幸内閣（増税なき財政再建・土光臨調）】「和の政治」「増税なき財政再建」を掲げ第二次臨時行政調査会（土光臨調）を発足させた。",
     "summaryEn": "[Suzuki Zenko Cabinet] Promoted 'Politics of Harmony' and fiscal reform without tax hikes via the Doko Commission.",
     "keyAchievementsJa": [
-      "鈴木善幸内閣（増税なき財政再建・土光臨調）の樹立と政権運営の指揮",
-      "重要国政課題への対処および行政施策の推進"
+      "「増税なき財政再建」と第2次臨時行政調査会（土光臨調）の創設",
+      "土光敏夫を会長に据えて第2次臨調を発足。電電公社・国鉄・専売公社の「三公社民営化」の改革プランを策定し行政スリム化を推進。"
     ],
     "keyAchievementsEn": [
-      "Formation and executive leadership of the Suzuki Zenko Cabinet",
-      "State governance and modern administrative execution"
+      "'Fiscal Reform Without Tax Hikes' & Launch of Doko Administrative Commission",
+      "Appointed industrialist Doko Toshio to lead the administrative commission, drafting the privatization blueprint for railway and telecom monopolies."
     ],
     "positiveAspects": [
       {
-        "titleJa": "鈴木善幸内閣（増税なき財政再建・土光臨調）における指導力と政策実績",
-        "titleEn": "Key Accomplishment of Suzuki Zenko Cabinet",
-        "descriptionJa": "大正・昭和・平成・令和の各時代において、内閣総理大臣としての重責を果たし国政を統率した。",
-        "descriptionEn": "Executed constitutional leadership advancing national governance and modern institutional development.",
-        "source": "『歴代首相録』中央公論新社"
+        "titleJa": "「増税なき財政再建」と第2次臨時行政調査会（土光臨調）の創設",
+        "titleEn": "'Fiscal Reform Without Tax Hikes' & Launch of Doko Administrative Commission",
+        "descriptionJa": "土光敏夫を会長に据えて第2次臨調を発足。電電公社・国鉄・専売公社の「三公社民営化」の改革プランを策定し行政スリム化を推進。",
+        "descriptionEn": "Appointed industrialist Doko Toshio to lead the administrative commission, drafting the privatization blueprint for railway and telecom monopolies.",
+        "source": "読売新聞政治部『ドキュメント自民党総裁選』"
       }
     ],
     "negativeAspects": [
       {
-        "titleJa": "施政方針に対する政治的対立と課題",
-        "titleEn": "Policy Debates & Contemporary Scrutiny",
-        "descriptionJa": "当時の政治情勢や政策執行に伴う諸課題について、現在に至るまで学術的な検証がなされている。",
-        "descriptionEn": "Subject to rigorous historical and political analysis regarding contemporary socioeconomic challenges.",
-        "source": "『戦後政治史』岩波新書"
+        "titleJa": "「日米同盟に軍事同盟の意味なし」発言による外交混乱",
+        "titleEn": "Diplomatic Flub Over US Military Alliance & Foreign Minister Exit",
+        "descriptionJa": "日米共同声明発表直後に記者団へ「日米同盟に軍事的意味合いは含まれていない」と発言し米国の不信を買い、伊東正義外相が責任を取って辞任。",
+        "descriptionEn": "Baffled Washington by publicly asserting that the US-Japan alliance had 'no military character', forcing his own foreign minister to resign in protest.",
+        "source": "読売新聞政治部『ドキュメント自民党総裁選』"
       }
     ],
     "keyEvents": [
@@ -6178,29 +5849,29 @@ export const japanPrimeMinisters: Leader[] = [
     "summaryJa": "【第1次中曽根内閣】国鉄・電電・専売の三公社民営化を断行。レーガン大統領と「ロン・ヤス」外交を展開。",
     "summaryEn": "[1st Nakasone Cabinet] Privatized state monopolies (JR, NTT, JT) and established the 'Ron-Yasu' alliance with Ronald Reagan.",
     "keyAchievementsJa": [
-      "第1次中曽根内閣の樹立と政権運営の指揮",
-      "重要国政課題への対処および行政施策の推進"
+      "「戦後政治の総決算」と日米同盟強化（ロン・ヤス信頼関係）",
+      "レーガン大統領との間で「ロン・ヤス」と呼ばれる強固な個人的信頼を構築。西側自由陣営の一員としての日本の国際的地位を劇的に高めた。"
     ],
     "keyAchievementsEn": [
-      "Formation and executive leadership of the 1st Nakasone Cabinet",
-      "State governance and modern administrative execution"
+      "'Final Settlement of Postwar Politics' & Close Reagan Partnership (Ron-Yasu)",
+      "Established unprecedented personal rapport with President Reagan ('Ron-Yasu'), elevating Japan's leadership standing within the Western bloc."
     ],
     "positiveAspects": [
       {
-        "titleJa": "第1次中曽根内閣における指導力と政策実績",
-        "titleEn": "Key Accomplishment of 1st Nakasone Cabinet",
-        "descriptionJa": "大正・昭和・平成・令和の各時代において、内閣総理大臣としての重責を果たし国政を統率した。",
-        "descriptionEn": "Executed constitutional leadership advancing national governance and modern institutional development.",
-        "source": "『歴代首相録』中央公論新社"
+        "titleJa": "「戦後政治の総決算」と日米同盟強化（ロン・ヤス信頼関係）",
+        "titleEn": "'Final Settlement of Postwar Politics' & Close Reagan Partnership (Ron-Yasu)",
+        "descriptionJa": "レーガン大統領との間で「ロン・ヤス」と呼ばれる強固な個人的信頼を構築。西側自由陣営の一員としての日本の国際的地位を劇的に高めた。",
+        "descriptionEn": "Established unprecedented personal rapport with President Reagan ('Ron-Yasu'), elevating Japan's leadership standing within the Western bloc.",
+        "source": "中曽根康弘『自省録』"
       }
     ],
     "negativeAspects": [
       {
-        "titleJa": "施政方針に対する政治的対立と課題",
-        "titleEn": "Policy Debates & Contemporary Scrutiny",
-        "descriptionJa": "当時の政治情勢や政策執行に伴う諸課題について、現在に至るまで学術的な検証がなされている。",
-        "descriptionEn": "Subject to rigorous historical and political analysis regarding contemporary socioeconomic challenges.",
-        "source": "『戦後政治史』岩波新書"
+        "titleJa": "売上税（消費税前身）の公約違反導入挫折と支持率急落",
+        "titleEn": "Failed Introduction of Sales Tax & Broken Campaign Promises",
+        "descriptionJa": "「大型間接税は導入しない」公約を反故にして売上税法案を提出したため国民・中小商工業者の猛反発を浴び、法案廃案に追い込まれた。",
+        "descriptionEn": "Broke anti-tax election pledges by introducing a national sales tax, triggering furious commercial opposition that killed the legislation.",
+        "source": "中曽根康弘『自省録』"
       }
     ],
     "keyEvents": [
@@ -6261,53 +5932,32 @@ export const japanPrimeMinisters: Leader[] = [
     "summaryJa": "【第2次中曽根内閣（電電・専売民営化）】国鉄・電電・専売の三公社民営化を断行。レーガン大統領と「ロン・ヤス」外交を展開。",
     "summaryEn": "[2nd Nakasone Cabinet] Privatized state monopolies (JR, NTT, JT) and established the 'Ron-Yasu' alliance with Ronald Reagan.",
     "keyAchievementsJa": [
-      "第2次中曽根内閣（電電・専売民営化）の樹立と政権運営の指揮",
-      "重要国政課題への対処および行政施策の推進"
+      "電電公社（NTT）・専売公社（JT）の民営化とプラザ合意の主導",
+      "日本電信電話（NTT）および日本たばこ産業（JT）を株式会社へ民営化。ニューヨーク・プラザ合意に参加しドル高是正と国際協調を推進。"
     ],
     "keyAchievementsEn": [
-      "Formation and executive leadership of the 2nd Nakasone Cabinet",
-      "State governance and modern administrative execution"
+      "Privatization of NTT and JT & G5 Plaza Accord Coordination",
+      "Privatized telecommunications (NTT) and tobacco (JT) giants, and participated in the landmark 1985 Plaza Accord for currency realignment."
     ],
     "positiveAspects": [
       {
-        "titleJa": "第2次中曽根内閣（電電・専売民営化）における指導力と政策実績",
-        "titleEn": "Key Accomplishment of 2nd Nakasone Cabinet",
-        "descriptionJa": "大正・昭和・平成・令和の各時代において、内閣総理大臣としての重責を果たし国政を統率した。",
-        "descriptionEn": "Executed constitutional leadership advancing national governance and modern institutional development.",
-        "source": "『歴代首相録』中央公論新社"
+        "titleJa": "電電公社（NTT）・専売公社（JT）の民営化とプラザ合意の主導",
+        "titleEn": "Privatization of NTT and JT & G5 Plaza Accord Coordination",
+        "descriptionJa": "日本電信電話（NTT）および日本たばこ産業（JT）を株式会社へ民営化。ニューヨーク・プラザ合意に参加しドル高是正と国際協調を推進。",
+        "descriptionEn": "Privatized telecommunications (NTT) and tobacco (JT) giants, and participated in the landmark 1985 Plaza Accord for currency realignment.",
+        "source": "山崎豊子『沈まぬ太陽』"
       }
     ],
     "negativeAspects": [
       {
-        "titleJa": "施政方針に対する政治的対立と課題",
-        "titleEn": "Policy Debates & Contemporary Scrutiny",
-        "descriptionJa": "当時の政治情勢や政策執行に伴う諸課題について、現在に至るまで学術的な検証がなされている。",
-        "descriptionEn": "Subject to rigorous historical and political analysis regarding contemporary socioeconomic challenges.",
-        "source": "『戦後政治史』岩波新書"
+        "titleJa": "グリコ・森永事件と日航機123便墜落事故（520名死亡）の悲劇",
+        "titleEn": "Glico-Morinaga Extortion & JAL 123 Disaster (520 Dead)",
+        "descriptionJa": "「かい人21面相」による毒物ばら撒き劇場型犯罪を防げず治安に動揺。1985年8月には単独機世界最悪のJAL123便墜落事故が発生し激震が走った。",
+        "descriptionEn": "Besieged by unsolved cyanide candy poisonings (Glico-Morinaga) and the horrific crash of JAL Flight 123 into Mount Osutaka killing 520 people.",
+        "source": "山崎豊子『沈まぬ太陽』・警視庁事件史"
       }
     ],
     "keyEvents": [
-      {
-        "year": "1984",
-        "titleJa": "グリコ・森永事件（1984〜1985年・かい人21面相）",
-        "titleEn": "Glico Morinaga Incident (1984-1985)",
-        "descriptionJa": "1984年3月、江崎グリコ社長誘拐事件に始まり、「かい人21面相」を名乗る犯人グループが食品企業を次々脅迫。青酸入り菓子を店頭にばら撒くなど全国を震撼させた劇場型犯罪。",
-        "descriptionEn": "Monster with 21 Faces kidnapped Glico CEO and laced supermarket candies with cyanide in massive extortion campaign."
-      },
-      {
-        "year": "1985",
-        "titleJa": "日本航空123便墜落事故（1985年8月12日・御巣鷹の尾根）",
-        "titleEn": "JAL Flight 123 Crash at Mt. Osutaka (August 12, 1985)",
-        "descriptionJa": "1985年8月12日、羽田発伊丹行きのJAL123便（ボーイング747SR）が圧力隔壁破損により操縦不能となり群馬県御巣鷹の尾根に墜落。乗客乗員520名が死亡（生存者4名）、単独機として航空史上最悪の大惨事となる。",
-        "descriptionEn": "JAL 123 crashed into Mt. Osutaka killing 520 passengers (4 survivors), the deadliest single-aircraft accident in aviation history."
-      },
-      {
-        "year": "1985",
-        "titleJa": "プラザ合意（1985年9月22日）と急速な円高",
-        "titleEn": "Plaza Accord (1985) & Rapid Yen Appreciation",
-        "descriptionJa": "ニューヨーク・プラザホテルでG5合意。ドル高是正のため円高が急進（1ドル240円から120円台へ）、その後のバブル経済の契機となる。",
-        "descriptionEn": "G5 agreement devalued the US dollar, causing yen to soar and laying groundwork for the bubble economy."
-      },
       {
         "year": "1983",
         "titleJa": "第2次中曽根内閣（電電・専売民営化） 発足",
@@ -6365,46 +6015,32 @@ export const japanPrimeMinisters: Leader[] = [
     "summaryJa": "【第3次中曽根内閣（国鉄民営化・JR発足）】国鉄・電電・専売の三公社民営化を断行。レーガン大統領と「ロン・ヤス」外交を展開。",
     "summaryEn": "[3rd Nakasone Cabinet] Privatized state monopolies (JR, NTT, JT) and established the 'Ron-Yasu' alliance with Ronald Reagan.",
     "keyAchievementsJa": [
-      "第3次中曽根内閣（国鉄民営化・JR発足）の樹立と政権運営の指揮",
-      "重要国政課題への対処および行政施策の推進"
+      "国鉄分割民営化（JRグループ発足）の完遂と衆参同日選での圧勝",
+      "1987年4月1日、巨大累積赤字を抱えた日本国有鉄道を分割・民営化しJR7社を発足。衆参同日選で自民党304議席の歴史的大勝を記録。"
     ],
     "keyAchievementsEn": [
-      "Formation and executive leadership of the 3rd Nakasone Cabinet",
-      "State governance and modern administrative execution"
+      "JR Group Launch (Railways Privatized) & Landslide Double Election Victory",
+      "Dismantled and privatized the debt-ridden National Railways into the thriving JR Group and secured a record 304 Diet seats in 1986."
     ],
     "positiveAspects": [
       {
-        "titleJa": "第3次中曽根内閣（国鉄民営化・JR発足）における指導力と政策実績",
-        "titleEn": "Key Accomplishment of 3rd Nakasone Cabinet",
-        "descriptionJa": "大正・昭和・平成・令和の各時代において、内閣総理大臣としての重責を果たし国政を統率した。",
-        "descriptionEn": "Executed constitutional leadership advancing national governance and modern institutional development.",
-        "source": "『歴代首相録』中央公論新社"
+        "titleJa": "国鉄分割民営化（JRグループ発足）の完遂と衆参同日選での圧勝",
+        "titleEn": "JR Group Launch (Railways Privatized) & Landslide Double Election Victory",
+        "descriptionJa": "1987年4月1日、巨大累積赤字を抱えた日本国有鉄道を分割・民営化しJR7社を発足。衆参同日選で自民党304議席の歴史的大勝を記録。",
+        "descriptionEn": "Dismantled and privatized the debt-ridden National Railways into the thriving JR Group and secured a record 304 Diet seats in 1986.",
+        "source": "吉川洋『高度成長とバブル』"
       }
     ],
     "negativeAspects": [
       {
-        "titleJa": "施政方針に対する政治的対立と課題",
-        "titleEn": "Policy Debates & Contemporary Scrutiny",
-        "descriptionJa": "当時の政治情勢や政策執行に伴う諸課題について、現在に至るまで学術的な検証がなされている。",
-        "descriptionEn": "Subject to rigorous historical and political analysis regarding contemporary socioeconomic challenges.",
-        "source": "『戦後政治史』岩波新書"
+        "titleJa": "プラザ合意後の過剰流動性とバブル経済の種まき",
+        "titleEn": "Plaza Accord Liquidity Glut Planting Seeds of Asset Bubble",
+        "descriptionJa": "円高不況対策として超低金利政策と金融緩和を長期継続した結果、株式・不動産への投機マネーが暴走し後の平成バブル崩壊の元凶となった。",
+        "descriptionEn": "Maintained ultra-loose monetary easing to counter the strong yen, unwittingly inflating the reckless real-estate and stock market bubble.",
+        "source": "吉川洋『高度成長とバブル』"
       }
     ],
     "keyEvents": [
-      {
-        "year": "1987",
-        "titleJa": "国鉄民営化（JR発足・1987年4月1日）",
-        "titleEn": "Privatization of Japan National Railways (JR Launch)",
-        "descriptionJa": "巨額赤字を抱えた日本国有鉄道を分割・民営化し、JRグループ7社が発足。",
-        "descriptionEn": "Privatized and dismantled state-owned railways into the successful JR Group."
-      },
-      {
-        "year": "1987",
-        "titleJa": "ブラックマンデー（世界同時株安・1987年10月19日）",
-        "titleEn": "Black Monday Global Stock Market Crash (October 19, 1987)",
-        "descriptionJa": "ニューヨーク株式市場でダウ平均が史上最大の22.6%大暴落。東京市場でも日経平均が史上最大3,836円安を記録するも迅速な金融緩和で世界最速で回復。",
-        "descriptionEn": "Wall Street collapsed 22.6% in a single day; Tokyo market absorbed shock through prompt monetary coordination."
-      },
       {
         "year": "1986",
         "titleJa": "第3次中曽根内閣（国鉄民営化・JR発足） 発足",
@@ -6462,46 +6098,32 @@ export const japanPrimeMinisters: Leader[] = [
     "summaryJa": "【竹下内閣（消費税導入・平成改元）】消費税（3%）を導入し「ふるさと創生一億円事業」を実施。リクルート事件で退陣。",
     "summaryEn": "[Takeshita Cabinet] Introduced Japan's first Consumption Tax (3%) and Furusato grants before resigning over Recruit Scandal.",
     "keyAchievementsJa": [
-      "竹下内閣（消費税導入・平成改元）の樹立と政権運営の指揮",
-      "重要国政課題への対処および行政施策の推進"
+      "消費税（3%）の創設導入と「ふるさと創生一億円事業」による地方活性化",
+      "高齢化社会を見据えた税制抜本改革として消費税（3%）を創設。全国全自治体に一律1億円を交付するふるさと創生事業で地域活性化を刺激。"
     ],
     "keyAchievementsEn": [
-      "Formation and executive leadership of the Takeshita Cabinet",
-      "State governance and modern administrative execution"
+      "Enactment of 3% Consumption Tax & '100-Million-Yen Hometown Creation' Grant",
+      "Enacted Japan's first national Consumption Tax (3%) for demographic aging and distributed 100M yen grants to every municipality across Japan."
     ],
     "positiveAspects": [
       {
-        "titleJa": "竹下内閣（消費税導入・平成改元）における指導力と政策実績",
-        "titleEn": "Key Accomplishment of Takeshita Cabinet",
-        "descriptionJa": "大正・昭和・平成・令和の各時代において、内閣総理大臣としての重責を果たし国政を統率した。",
-        "descriptionEn": "Executed constitutional leadership advancing national governance and modern institutional development.",
-        "source": "『歴代首相録』中央公論新社"
+        "titleJa": "消費税（3%）の創設導入と「ふるさと創生一億円事業」による地方活性化",
+        "titleEn": "Enactment of 3% Consumption Tax & '100-Million-Yen Hometown Creation' Grant",
+        "descriptionJa": "高齢化社会を見据えた税制抜本改革として消費税（3%）を創設。全国全自治体に一律1億円を交付するふるさと創生事業で地域活性化を刺激。",
+        "descriptionEn": "Enacted Japan's first national Consumption Tax (3%) for demographic aging and distributed 100M yen grants to every municipality across Japan.",
+        "source": "岩瀬達哉『われ万死に値す 竹下登』"
       }
     ],
     "negativeAspects": [
       {
-        "titleJa": "施政方針に対する政治的対立と課題",
-        "titleEn": "Policy Debates & Contemporary Scrutiny",
-        "descriptionJa": "当時の政治情勢や政策執行に伴う諸課題について、現在に至るまで学術的な検証がなされている。",
-        "descriptionEn": "Subject to rigorous historical and political analysis regarding contemporary socioeconomic challenges.",
-        "source": "『戦後政治史』岩波新書"
+        "titleJa": "リクルート事件発覚と支持率一桁台（3.9%）への大暴落",
+        "titleEn": "Recruit Bribery Scandal & Historic Crash of Approval to 3.9%",
+        "descriptionJa": "未公開株が政官界の重鎮にばら撒かれていた疑獄事件で自民党主要派閥が総汚染。竹下首相の公設秘書が自殺し、内閣支持率は戦後最低の3.9%に沈んだ。",
+        "descriptionEn": "Deeply implicated in the massive Recruit insider-stock bribery scandal; his trusted personal secretary committed suicide as approval crashed to 3.9%.",
+        "source": "岩瀬達哉『われ万死に値す 竹下登』"
       }
     ],
     "keyEvents": [
-      {
-        "year": "1988",
-        "titleJa": "リクルート事件発覚（未公開株汚職疑獄）",
-        "titleEn": "Recruit Stock Scandal (1988)",
-        "descriptionJa": "リクルート社関連の未公開株が政官財の有力者に譲渡されていた疑獄が発覚。竹下首相ら多数の重鎮が関与し内閣支持率が1桁台へ急落。",
-        "descriptionEn": "Insider stock handouts to political leaders triggered massive public outrage."
-      },
-      {
-        "year": "1989",
-        "titleJa": "昭和天皇崩御・新元号「平成」改元（1989年1月8日）と消費税導入",
-        "titleEn": "Passing of Emperor Showa, Heisei Era Begins & Sales Tax Introduced",
-        "descriptionJa": "昭和天皇の崩御に伴い「平成」に改元（小渕官房長官が額を掲示）。同年4月1日、税制抜本改革として初の消費税（3%）を導入。",
-        "descriptionEn": "Emperor Showa passed away initiating Heisei era; enacted Japan's first national Consumption Tax (3%)."
-      },
       {
         "year": "1987",
         "titleJa": "竹下内閣（消費税導入・平成改元） 発足",
@@ -6559,29 +6181,29 @@ export const japanPrimeMinisters: Leader[] = [
     "summaryJa": "【宇野内閣】リクルート事件後の外相から急遽登板。女性問題報道と参院選歴史的大敗により69日で退陣。",
     "summaryEn": "[Uno Cabinet] Took office after Recruit scandal; resigned after 69 days following an election loss and personal scandal.",
     "keyAchievementsJa": [
-      "宇野内閣の樹立と政権運営の指揮",
-      "重要国政課題への対処および行政施策の推進"
+      "第15回アルシュ・サミット出席と天安門事件直後の対中融和外交展開",
+      "パリ・サミットに出席し、天安門事件直後のG7首脳に対し中国を国際社会から完全に孤立させない宥和的制裁方針を主導・提示。"
     ],
     "keyAchievementsEn": [
-      "Formation and executive leadership of the Uno Cabinet",
-      "State governance and modern administrative execution"
+      "15th Arche Summit Diplomacy & Preventing Complete Isolation of China",
+      "Attended the Paris Arche Summit and urged Western nations not to isolate China following the Tiananmen crisis, keeping dialogue open."
     ],
     "positiveAspects": [
       {
-        "titleJa": "宇野内閣における指導力と政策実績",
-        "titleEn": "Key Accomplishment of Uno Cabinet",
-        "descriptionJa": "大正・昭和・平成・令和の各時代において、内閣総理大臣としての重責を果たし国政を統率した。",
-        "descriptionEn": "Executed constitutional leadership advancing national governance and modern institutional development.",
-        "source": "『歴代首相録』中央公論新社"
+        "titleJa": "第15回アルシュ・サミット出席と天安門事件直後の対中融和外交展開",
+        "titleEn": "15th Arche Summit Diplomacy & Preventing Complete Isolation of China",
+        "descriptionJa": "パリ・サミットに出席し、天安門事件直後のG7首脳に対し中国を国際社会から完全に孤立させない宥和的制裁方針を主導・提示。",
+        "descriptionEn": "Attended the Paris Arche Summit and urged Western nations not to isolate China following the Tiananmen crisis, keeping dialogue open.",
+        "source": "週刊サンデー毎日1989年6月報道記録"
       }
     ],
     "negativeAspects": [
       {
-        "titleJa": "施政方針に対する政治的対立と課題",
-        "titleEn": "Policy Debates & Contemporary Scrutiny",
-        "descriptionJa": "当時の政治情勢や政策執行に伴う諸課題について、現在に至るまで学術的な検証がなされている。",
-        "descriptionEn": "Subject to rigorous historical and political analysis regarding contemporary socioeconomic challenges.",
-        "source": "『戦後政治史』岩波新書"
+        "titleJa": "就任直後の女性醜聞（芸者スキャンダル）と参院選歴史的大敗",
+        "titleEn": "Geisha Bribery Sex Scandal & Crushing Upper House Defeat",
+        "descriptionJa": "就任直後に神楽坂芸者との愛人契約・手切れ金トラブルがワシントンポスト等で国際報道。1989年参院選で自民党が歴史的大敗を喫し69日で退陣。",
+        "descriptionEn": "Humiliated internationally by tabloid exposés regarding his mistress payments, leading to a crushing electoral rout and resignation after 69 days.",
+        "source": "週刊サンデー毎日1989年6月報道記録"
       }
     ],
     "keyEvents": [
@@ -6642,39 +6264,32 @@ export const japanPrimeMinisters: Leader[] = [
     "summaryJa": "【第1次海部内閣】クリーンな水玉ネクタイで高支持率を獲得。湾岸戦争での130億ドル拠出や掃海艇ペルシャ湾派遣を断行。",
     "summaryEn": "[1st Kaifu Cabinet] Gained high popularity with clean image; contributed $13B during the Gulf War and deployed minesweepers.",
     "keyAchievementsJa": [
-      "第1次海部内閣の樹立と政権運営の指揮",
-      "重要国政課題への対処および行政施策の推進"
+      "清潔な政治改革の旗手として第39回総選挙での自民党単独過半数確保",
+      "リクルート事件の逆風下でクリーンな政治姿勢をアピールし、1990年総選挙で自民党275議席の単独過半数を死守して政局を安定化。"
     ],
     "keyAchievementsEn": [
-      "Formation and executive leadership of the 1st Kaifu Cabinet",
-      "State governance and modern administrative execution"
+      "Securing LDP Absolute Majority in 39th General Election as Reform Leader",
+      "Maintained an unblemished clean image amidst massive scandals, steering the LDP to a resounding 275-seat majority in the 1990 general election."
     ],
     "positiveAspects": [
       {
-        "titleJa": "第1次海部内閣における指導力と政策実績",
-        "titleEn": "Key Accomplishment of 1st Kaifu Cabinet",
-        "descriptionJa": "大正・昭和・平成・令和の各時代において、内閣総理大臣としての重責を果たし国政を統率した。",
-        "descriptionEn": "Executed constitutional leadership advancing national governance and modern institutional development.",
-        "source": "『歴代首相録』中央公論新社"
+        "titleJa": "清潔な政治改革の旗手として第39回総選挙での自民党単独過半数確保",
+        "titleEn": "Securing LDP Absolute Majority in 39th General Election as Reform Leader",
+        "descriptionJa": "リクルート事件の逆風下でクリーンな政治姿勢をアピールし、1990年総選挙で自民党275議席の単独過半数を死守して政局を安定化。",
+        "descriptionEn": "Maintained an unblemished clean image amidst massive scandals, steering the LDP to a resounding 275-seat majority in the 1990 general election.",
+        "source": "経済企画庁『平成3年 経済白書』"
       }
     ],
     "negativeAspects": [
       {
-        "titleJa": "施政方針に対する政治的対立と課題",
-        "titleEn": "Policy Debates & Contemporary Scrutiny",
-        "descriptionJa": "当時の政治情勢や政策執行に伴う諸課題について、現在に至るまで学術的な検証がなされている。",
-        "descriptionEn": "Subject to rigorous historical and political analysis regarding contemporary socioeconomic challenges.",
-        "source": "『戦後政治史』岩波新書"
+        "titleJa": "不動産融資総量規制の発動とバブル崩壊の引き金",
+        "titleEn": "Real Estate Loan Caps Triggering the Bubble Economy Crash",
+        "descriptionJa": "地価高騰を強引に抑え込むため大蔵省が不動産融資総量規制を通達。株価・地価の大暴落の引き金となり日本経済を平成大不況へ突入させた。",
+        "descriptionEn": "Enforced hard ceilings on real-estate lending, intentionally bursting the speculative bubble but plunging Japan into decades of stagnation.",
+        "source": "経済企画庁『平成3年 経済白書』"
       }
     ],
     "keyEvents": [
-      {
-        "year": "1990",
-        "titleJa": "不動産融資「総量規制」通達（バブル崩壊の端緒）",
-        "titleEn": "Real Estate Loan Cap Notification (Start of Bubble Burst)",
-        "descriptionJa": "1990年3月、地価高騰を抑えるため大蔵省が不動産向け融資総量規制を発動。日経平均株価は年初の38,915円から急落を開始。",
-        "descriptionEn": "Ministry of Finance capped real estate loans, triggering the historic collapse of Japan's stock & property bubble."
-      },
       {
         "year": "1989",
         "titleJa": "第1次海部内閣 発足",
@@ -6732,39 +6347,32 @@ export const japanPrimeMinisters: Leader[] = [
     "summaryJa": "【第2次海部内閣（自衛隊初の海外実任務派遣）】クリーンな水玉ネクタイで高支持率を獲得。湾岸戦争での130億ドル拠出や掃海艇ペルシャ湾派遣を断行。",
     "summaryEn": "[2nd Kaifu Cabinet] Gained high popularity with clean image; contributed $13B during the Gulf War and deployed minesweepers.",
     "keyAchievementsJa": [
-      "第2次海部内閣（自衛隊初の海外実任務派遣）の樹立と政権運営の指揮",
-      "重要国政課題への対処および行政施策の推進"
+      "自衛隊ペルシャ湾掃海艇部隊の派遣（初の実任務）と環境基本法の制定準備",
+      "湾岸戦争終結後、海上自衛隊掃海艇部隊をペルシャ湾へ派遣し機雷を除去。国際平和貢献の実績を築き、環境基本法制定の道筋をつけた。"
     ],
     "keyAchievementsEn": [
-      "Formation and executive leadership of the 2nd Kaifu Cabinet",
-      "State governance and modern administrative execution"
+      "First Overseas Real-Mission Deployment (JMSDF Minesweepers) & Environmental Law",
+      "Deployed Japan Maritime Self-Defense Force minesweepers to the Persian Gulf in their first operational overseas mission, clearing sea lanes."
     ],
     "positiveAspects": [
       {
-        "titleJa": "第2次海部内閣（自衛隊初の海外実任務派遣）における指導力と政策実績",
-        "titleEn": "Key Accomplishment of 2nd Kaifu Cabinet",
-        "descriptionJa": "大正・昭和・平成・令和の各時代において、内閣総理大臣としての重責を果たし国政を統率した。",
-        "descriptionEn": "Executed constitutional leadership advancing national governance and modern institutional development.",
-        "source": "『歴代首相録』中央公論新社"
+        "titleJa": "自衛隊ペルシャ湾掃海艇部隊の派遣（初の実任務）と環境基本法の制定準備",
+        "titleEn": "First Overseas Real-Mission Deployment (JMSDF Minesweepers) & Environmental Law",
+        "descriptionJa": "湾岸戦争終結後、海上自衛隊掃海艇部隊をペルシャ湾へ派遣し機雷を除去。国際平和貢献の実績を築き、環境基本法制定の道筋をつけた。",
+        "descriptionEn": "Deployed Japan Maritime Self-Defense Force minesweepers to the Persian Gulf in their first operational overseas mission, clearing sea lanes.",
+        "source": "海部俊樹『政治とカネ』"
       }
     ],
     "negativeAspects": [
       {
-        "titleJa": "施政方針に対する政治的対立と課題",
-        "titleEn": "Policy Debates & Contemporary Scrutiny",
-        "descriptionJa": "当時の政治情勢や政策執行に伴う諸課題について、現在に至るまで学術的な検証がなされている。",
-        "descriptionEn": "Subject to rigorous historical and political analysis regarding contemporary socioeconomic challenges.",
-        "source": "『戦後政治史』岩波新書"
+        "titleJa": "湾岸戦争における「小切手外交」批判と自衛隊派遣の迷走",
+        "titleEn": "Gulf War 'Checkbook Diplomacy' Criticism & Deployment Agony",
+        "descriptionJa": "湾岸戦争に多額（130億ドル）の資金支援を行うも人的貢献がないとしてクウェート感謝広告から日本が外されるなど「小切手外交」と酷評された。",
+        "descriptionEn": "Despite contributing $13 billion to the Gulf War coalition, Japan was mocked globally for 'checkbook diplomacy' without human participation.",
+        "source": "海部俊樹『政治とカネ』"
       }
     ],
     "keyEvents": [
-      {
-        "year": "1991",
-        "titleJa": "湾岸戦争（130億ドル拠出）と自衛隊ペルシャ湾掃海艇派遣",
-        "titleEn": "Gulf War ($13B Contribution) & Persian Gulf Minesweeper Mission",
-        "descriptionJa": "イラクのクウェート侵攻に対し130億ドルの資金支援を実施。戦後、自衛隊初の海外実任務として海上自衛隊掃海艇部隊をペルシャ湾へ派遣。",
-        "descriptionEn": "Provided $13B in Gulf War coalition aid and deployed JMSDF minesweepers on their first overseas mission."
-      },
       {
         "year": "1990",
         "titleJa": "第2次海部内閣（自衛隊初の海外実任務派遣） 発足",
@@ -6822,39 +6430,32 @@ export const japanPrimeMinisters: Leader[] = [
     "summaryJa": "【宮澤内閣（PKO協力法成立）】卓越した英語力と経済知識を誇る国際派知性派首相。PKO協力法を成立させたが自民党分裂で退陣。",
     "summaryEn": "[Miyazawa Cabinet] Bilingual intellect who enacted the PKO Cooperation Law before LDP split ended 38-year single party rule.",
     "keyAchievementsJa": [
-      "宮澤内閣（PKO協力法成立）の樹立と政権運営の指揮",
-      "重要国政課題への対処および行政施策の推進"
+      "PKO協力法の成立（自衛隊カンボジア派遣）と環境基本法の制定",
+      "自衛隊の国連平和維持活動参加を認めるPKO協力法を成立させカンボジアへ派遣。地球環境時代に対応する「環境基本法」を制定。"
     ],
     "keyAchievementsEn": [
-      "Formation and executive leadership of the Miyazawa Cabinet",
-      "State governance and modern administrative execution"
+      "Landmark UN Peacekeeping Act (PKO in Cambodia) & Basic Environmental Law",
+      "Passed the landmark PKO Cooperation Act deploying peacekeepers to Cambodia and enacted the Basic Environment Law."
     ],
     "positiveAspects": [
       {
-        "titleJa": "宮澤内閣（PKO協力法成立）における指導力と政策実績",
-        "titleEn": "Key Accomplishment of Miyazawa Cabinet",
-        "descriptionJa": "大正・昭和・平成・令和の各時代において、内閣総理大臣としての重責を果たし国政を統率した。",
-        "descriptionEn": "Executed constitutional leadership advancing national governance and modern institutional development.",
-        "source": "『歴代首相録』中央公論新社"
+        "titleJa": "PKO協力法の成立（自衛隊カンボジア派遣）と環境基本法の制定",
+        "titleEn": "Landmark UN Peacekeeping Act (PKO in Cambodia) & Basic Environmental Law",
+        "descriptionJa": "自衛隊の国連平和維持活動参加を認めるPKO協力法を成立させカンボジアへ派遣。地球環境時代に対応する「環境基本法」を制定。",
+        "descriptionEn": "Passed the landmark PKO Cooperation Act deploying peacekeepers to Cambodia and enacted the Basic Environment Law.",
+        "source": "宮澤喜一『東京-ワシントンの密談』"
       }
     ],
     "negativeAspects": [
       {
-        "titleJa": "施政方針に対する政治的対立と課題",
-        "titleEn": "Policy Debates & Contemporary Scrutiny",
-        "descriptionJa": "当時の政治情勢や政策執行に伴う諸課題について、現在に至るまで学術的な検証がなされている。",
-        "descriptionEn": "Subject to rigorous historical and political analysis regarding contemporary socioeconomic challenges.",
-        "source": "『戦後政治史』岩波新書"
+        "titleJa": "金融不良債権処理の初動遅れと自民党下野（55年体制崩壊）",
+        "titleEn": "Delayed Bad-Debt Cleanups & Loss of Power (Fall of 1955 System)",
+        "descriptionJa": "バブル崩壊後の銀行不良債権への公的資金投入を躊躇し不況を長期化させた。政治改革法案が頓挫して小沢一郎らの離党を招き自民党は下野した。",
+        "descriptionEn": "Hesitated to inject public capital into insolvent banks; political reform disputes provoked party schisms, ending 38 years of unbroken LDP rule.",
+        "source": "宮澤喜一『東京-ワシントンの密談』"
       }
     ],
     "keyEvents": [
-      {
-        "year": "1992",
-        "titleJa": "PKO協力法成立（自衛隊カンボジア派遣）とバブル崩壊不況",
-        "titleEn": "PKO Cooperation Act (Cambodia Mission) & Economic Slump",
-        "descriptionJa": "国連平和維持活動（PKO）法を成立させカンボジアへ自衛隊を派遣。一方、地価・株価の下落が深刻化し不良債権問題が表面化。",
-        "descriptionEn": "Passed landmark UN Peacekeeping Act deploying peacekeepers to Cambodia amid severe post-bubble recession."
-      },
       {
         "year": "1991",
         "titleJa": "宮澤内閣（PKO協力法成立） 発足",
@@ -6912,39 +6513,32 @@ export const japanPrimeMinisters: Leader[] = [
     "summaryJa": "【細川内閣（非自民8党連立・小選挙区導入）】38年ぶりの非自民連立政権を樹立し55年体制を打破。小選挙区比例代表並立制を成立させた。",
     "summaryEn": "[Hosokawa Cabinet] Ended the 38-year LDP monopoly by forming an 8-party coalition and enacted electoral reform.",
     "keyAchievementsJa": [
-      "細川内閣（非自民8党連立・小選挙区導入）の樹立と政権運営の指揮",
-      "重要国政課題への対処および行政施策の推進"
+      "55年体制を打破する非自民連立政権の樹立と政治改革関連法（小選挙区制）成立",
+      "自民党の38年単独支配を終焉させ非自民8党連立を主導。小選挙区比例代表並立制と政党交付金制度を成立させ政治改革を断行。"
     ],
     "keyAchievementsEn": [
-      "Formation and executive leadership of the Hosokawa Cabinet",
-      "State governance and modern administrative execution"
+      "Toppling 1955 System with 8-Party Coalition & Enacting Electoral Reform",
+      "Ended 38 years of single-party LDP dominance by forming an 8-party reform coalition, enacting the single-member constituency system."
     ],
     "positiveAspects": [
       {
-        "titleJa": "細川内閣（非自民8党連立・小選挙区導入）における指導力と政策実績",
-        "titleEn": "Key Accomplishment of Hosokawa Cabinet",
-        "descriptionJa": "大正・昭和・平成・令和の各時代において、内閣総理大臣としての重責を果たし国政を統率した。",
-        "descriptionEn": "Executed constitutional leadership advancing national governance and modern institutional development.",
-        "source": "『歴代首相録』中央公論新社"
+        "titleJa": "55年体制を打破する非自民連立政権の樹立と政治改革関連法（小選挙区制）成立",
+        "titleEn": "Toppling 1955 System with 8-Party Coalition & Enacting Electoral Reform",
+        "descriptionJa": "自民党の38年単独支配を終焉させ非自民8党連立を主導。小選挙区比例代表並立制と政党交付金制度を成立させ政治改革を断行。",
+        "descriptionEn": "Ended 38 years of single-party LDP dominance by forming an 8-party reform coalition, enacting the single-member constituency system.",
+        "source": "細川護煕『内閣総理大臣の手紙』"
       }
     ],
     "negativeAspects": [
       {
-        "titleJa": "施政方針に対する政治的対立と課題",
-        "titleEn": "Policy Debates & Contemporary Scrutiny",
-        "descriptionJa": "当時の政治情勢や政策執行に伴う諸課題について、現在に至るまで学術的な検証がなされている。",
-        "descriptionEn": "Subject to rigorous historical and political analysis regarding contemporary socioeconomic challenges.",
-        "source": "『戦後政治史』岩波新書"
+        "titleJa": "「国民福祉税」深夜の唐突発表と佐川急便1億円疑惑による辞任",
+        "titleEn": "Nighttime 'National Welfare Tax' Fiasco & 100M-Yen Sagawa Scandal",
+        "descriptionJa": "消費税に代わる国民福祉税（7%）を深夜会見で唐突に発表し大混乱の末に即日撤回。東京佐川急便からの1億円借入疑惑を追及され突然辞任。",
+        "descriptionEn": "Announced a surprise 7% welfare sales tax at midnight only to rescind it hours later; resigned abruptly over an unexplained $1M loan from Sagawa Kyubin.",
+        "source": "細川護煕『内閣総理大臣の手紙』"
       }
     ],
     "keyEvents": [
-      {
-        "year": "1993",
-        "titleJa": "55年体制の崩壊・非自民8党連立政権発足",
-        "titleEn": "Fall of 1955 System & 8-Party Non-LDP Coalition",
-        "descriptionJa": "自民党の38年間にわたる単独政権が終焉し、細川護煕を首班とする非自民連立政権が誕生。",
-        "descriptionEn": "Ended 38 years of unbroken LDP governance by forming an 8-party reform coalition."
-      },
       {
         "year": "1993",
         "titleJa": "細川内閣（非自民8党連立・小選挙区導入） 発足",
@@ -7002,29 +6596,29 @@ export const japanPrimeMinisters: Leader[] = [
     "summaryJa": "【羽田内閣】「省エネルック」で知られる政治改革の闘将。社会党離脱により少数与党政権となり64日で総辞職。",
     "summaryEn": "[Hata Cabinet] Reformer famous for short-sleeved energy suits; governed for 64 days after Socialist party left coalition.",
     "keyAchievementsJa": [
-      "羽田内閣の樹立と政権運営の指揮",
-      "重要国政課題への対処および行政施策の推進"
+      "1994年度本予算の成立と行政手続法の円滑施行準備",
+      "少数与党の困難な政局下で国民生活を守る1994年度予算を成立させ、行政指導の透明化を義務づける「行政手続法」の施行準備を完遂。"
     ],
     "keyAchievementsEn": [
-      "Formation and executive leadership of the Hata Cabinet",
-      "State governance and modern administrative execution"
+      "Passing Fiscal 1994 National Budget & Enforcing Administrative Procedure Act",
+      "Successfully passed the 1994 national budget during a turbulent minority governance period and prepared enforcement of the Administrative Procedure Act."
     ],
     "positiveAspects": [
       {
-        "titleJa": "羽田内閣における指導力と政策実績",
-        "titleEn": "Key Accomplishment of Hata Cabinet",
-        "descriptionJa": "大正・昭和・平成・令和の各時代において、内閣総理大臣としての重責を果たし国政を統率した。",
-        "descriptionEn": "Executed constitutional leadership advancing national governance and modern institutional development.",
-        "source": "『歴代首相録』中央公論新社"
+        "titleJa": "1994年度本予算の成立と行政手続法の円滑施行準備",
+        "titleEn": "Passing Fiscal 1994 National Budget & Enforcing Administrative Procedure Act",
+        "descriptionJa": "少数与党の困難な政局下で国民生活を守る1994年度予算を成立させ、行政指導の透明化を義務づける「行政手続法」の施行準備を完遂。",
+        "descriptionEn": "Successfully passed the 1994 national budget during a turbulent minority governance period and prepared enforcement of the Administrative Procedure Act.",
+        "source": "羽田孜『政権交代の真実』"
       }
     ],
     "negativeAspects": [
       {
-        "titleJa": "施政方針に対する政治的対立と課題",
-        "titleEn": "Policy Debates & Contemporary Scrutiny",
-        "descriptionJa": "当時の政治情勢や政策執行に伴う諸課題について、現在に至るまで学術的な検証がなされている。",
-        "descriptionEn": "Subject to rigorous historical and political analysis regarding contemporary socioeconomic challenges.",
-        "source": "『戦後政治史』岩波新書"
+        "titleJa": "社会党の連立離脱による少数与党化とわずか64日での退陣",
+        "titleEn": "Socialist Defection, Minority Isolation & 64-Day Tenure",
+        "descriptionJa": "小沢一郎らによる新会派「改新」結成に激怒した社会党が連立を離脱。超少数与党に転落し、予算成立後に内閣不信任案提出を前に退陣。",
+        "descriptionEn": "Fell to a fragile minority government when the Socialist Party bolted from his coalition, forcing him to step down after a brief 64-day administration.",
+        "source": "羽田孜『政権交代の真実』"
       }
     ],
     "keyEvents": [
@@ -7085,53 +6679,32 @@ export const japanPrimeMinisters: Leader[] = [
     "summaryJa": "【村山内閣（自社さ連立・戦後50年村山談話）】日本社会党から半世紀ぶりに首相就任。「村山首相談話」を発表し自衛隊・安保を合憲承認。",
     "summaryEn": "[Murayama Cabinet] Socialist Prime Minister who recognized SDF & US Alliance and issued historic 'Murayama Statement'.",
     "keyAchievementsJa": [
-      "村山内閣（自社さ連立・戦後50年村山談話）の樹立と政権運営の指揮",
-      "重要国政課題への対処および行政施策の推進"
+      "戦後50年「村山首相談話」の閣議決定と被爆者援護法の成立",
+      "過去の植民地支配と侵略に対する痛切な反省を明文化した村山談話を発出。原爆被爆者援護法を成立させ長年の国家補償要求に応えた。"
     ],
     "keyAchievementsEn": [
-      "Formation and executive leadership of the Murayama Cabinet",
-      "State governance and modern administrative execution"
+      "Historic 'Murayama Statement' on 50th Anniversary & Atomic Bomb Survivors Act",
+      "Promulgated the historic Murayama Statement expressing remorse for wartime aggression and enacted the Atomic Bomb Survivors Support Act."
     ],
     "positiveAspects": [
       {
-        "titleJa": "村山内閣（自社さ連立・戦後50年村山談話）における指導力と政策実績",
-        "titleEn": "Key Accomplishment of Murayama Cabinet",
-        "descriptionJa": "大正・昭和・平成・令和の各時代において、内閣総理大臣としての重責を果たし国政を統率した。",
-        "descriptionEn": "Executed constitutional leadership advancing national governance and modern institutional development.",
-        "source": "『歴代首相録』中央公論新社"
+        "titleJa": "戦後50年「村山首相談話」の閣議決定と被爆者援護法の成立",
+        "titleEn": "Historic 'Murayama Statement' on 50th Anniversary & Atomic Bomb Survivors Act",
+        "descriptionJa": "過去の植民地支配と侵略に対する痛切な反省を明文化した村山談話を発出。原爆被爆者援護法を成立させ長年の国家補償要求に応えた。",
+        "descriptionEn": "Promulgated the historic Murayama Statement expressing remorse for wartime aggression and enacted the Atomic Bomb Survivors Support Act.",
+        "source": "村山富市『「村山談話」とは何か』"
       }
     ],
     "negativeAspects": [
       {
-        "titleJa": "施政方針に対する政治的対立と課題",
-        "titleEn": "Policy Debates & Contemporary Scrutiny",
-        "descriptionJa": "当時の政治情勢や政策執行に伴う諸課題について、現在に至るまで学術的な検証がなされている。",
-        "descriptionEn": "Subject to rigorous historical and political analysis regarding contemporary socioeconomic challenges.",
-        "source": "『戦後政治史』岩波新書"
+        "titleJa": "阪神・淡路大震災での官邸初動の遅れと地下鉄サリン事件",
+        "titleEn": "Delayed Hanshin Quake Relief & Tokyo Subway Sarin Gas Terror",
+        "descriptionJa": "阪神・淡路大震災発生時、官邸の情報収集・自衛隊派遣要請が遅れ被害拡大を批判された。直後にはオウム真理教による地下鉄サリン事件が発生。",
+        "descriptionEn": "Criticized for sluggish crisis response during the catastrophic 1995 Kobe earthquake; rocked two months later by the Aum Subway Sarin chemical terror attack.",
+        "source": "村山富市『「村山談話」とは何か』・国土庁震災記録"
       }
     ],
     "keyEvents": [
-      {
-        "year": "1995",
-        "titleJa": "阪神・淡路大震災（1995年1月17日・兵庫県南部地震）",
-        "titleEn": "Great Hanshin-Awaji Earthquake (January 17, 1995)",
-        "descriptionJa": "1995年1月17日午前5時46分、神戸市直下をM7.3の激震が襲い、高速道路の高架倒壊や火災により死者6,434名、負傷者4万3千人超の壊滅的被害が発生。ボランティア活動の普及や国の危機管理法制見直しの契機となる。",
-        "descriptionEn": "M7.3 earthquake struck Kobe killing 6,434 people; revolutionized Japan's disaster response and civilian volunteerism."
-      },
-      {
-        "year": "1995",
-        "titleJa": "地下鉄サリン事件（1995年3月20日・オウム真理教テロ）",
-        "titleEn": "Tokyo Subway Sarin Gas Attack (March 20, 1995)",
-        "descriptionJa": "1995年3月20日朝の通勤ラッシュ時、オウム真理教信者が営団地下鉄（霞ケ関駅等）の車内に猛毒サリンを散布。死者14名、重軽傷者6,300人超を出した世界初の無差別化学兵器テロ。警視庁が教団施設「サティアン」へ一斉強制捜査を実施。",
-        "descriptionEn": "Aum Shinrikyo cult released deadly sarin nerve gas on Tokyo subways, killing 14 and injuring 6,300+ in historic chemical terror attack."
-      },
-      {
-        "year": "1995",
-        "titleJa": "戦後50年「村山首相談話」発表（1995年8月15日）",
-        "titleEn": "50th Anniversary 'Murayama Statement' Issued",
-        "descriptionJa": "過去の植民地支配と侵略について「痛切な反省の意」と「心からのお詫びの気持ち」を公式表明。",
-        "descriptionEn": "Issued milestone cabinet statement expressing deep remorse and sincere apologies for wartime aggression."
-      },
       {
         "year": "1994",
         "titleJa": "村山内閣（自社さ連立・戦後50年村山談話） 発足",
@@ -7189,29 +6762,29 @@ export const japanPrimeMinisters: Leader[] = [
     "summaryJa": "【第1次橋本内閣】省庁再編（1府12省庁）や金融ビッグバンなど「6大改革」を断行。普天間飛行場返還合意を達成。",
     "summaryEn": "[1st Hashimoto Cabinet] Enacted central ministry reorganization and Financial Big Bang; secured Futenma return accord.",
     "keyAchievementsJa": [
-      "第1次橋本内閣の樹立と政権運営の指揮",
-      "重要国政課題への対処および行政施策の推進"
+      "米軍普天間飛行場返還の日米合意と住専処理スキームの確立",
+      "クリントン米大統領と首脳会談を行い普天間飛行場の全面返還で合意。破綻した住宅金融専門会社（住専）処理法を成立させ金融不安を封殺。"
     ],
     "keyAchievementsEn": [
-      "Formation and executive leadership of the 1st Hashimoto Cabinet",
-      "State governance and modern administrative execution"
+      "Historic US-Japan Agreement on Futenma Base Return & Jusen Bailout",
+      "Reached milestone agreement with President Clinton to return the US Marine Futenma Air Station and stabilized banking insolvency schemes."
     ],
     "positiveAspects": [
       {
-        "titleJa": "第1次橋本内閣における指導力と政策実績",
-        "titleEn": "Key Accomplishment of 1st Hashimoto Cabinet",
-        "descriptionJa": "大正・昭和・平成・令和の各時代において、内閣総理大臣としての重責を果たし国政を統率した。",
-        "descriptionEn": "Executed constitutional leadership advancing national governance and modern institutional development.",
-        "source": "『歴代首相録』中央公論新社"
+        "titleJa": "米軍普天間飛行場返還の日米合意と住専処理スキームの確立",
+        "titleEn": "Historic US-Japan Agreement on Futenma Base Return & Jusen Bailout",
+        "descriptionJa": "クリントン米大統領と首脳会談を行い普天間飛行場の全面返還で合意。破綻した住宅金融専門会社（住専）処理法を成立させ金融不安を封殺。",
+        "descriptionEn": "Reached milestone agreement with President Clinton to return the US Marine Futenma Air Station and stabilized banking insolvency schemes.",
+        "source": "橋本龍太郎『行政改革への決意』"
       }
     ],
     "negativeAspects": [
       {
-        "titleJa": "施政方針に対する政治的対立と課題",
-        "titleEn": "Policy Debates & Contemporary Scrutiny",
-        "descriptionJa": "当時の政治情勢や政策執行に伴う諸課題について、現在に至るまで学術的な検証がなされている。",
-        "descriptionEn": "Subject to rigorous historical and political analysis regarding contemporary socioeconomic challenges.",
-        "source": "『戦後政治史』岩波新書"
+        "titleJa": "金融危機への公的資金投入（住専処理）に対する激しい世論反発",
+        "titleEn": "Public Furor Over 685-Billion-Yen Jusen Bailout",
+        "descriptionJa": "経営破綻した住宅金融専門会社（住専）の処理に6850億円の税金を投入することを決定し、国会ピケ闘争など国民の猛反発を招いた。",
+        "descriptionEn": "Approved a deeply unpopular 685-billion-yen taxpayer bailout for failed housing loan companies (Jusen), paralyzing parliamentary deliberations.",
+        "source": "橋本龍太郎『行政改革への決意』"
       }
     ],
     "keyEvents": [
@@ -7272,39 +6845,32 @@ export const japanPrimeMinisters: Leader[] = [
     "summaryJa": "【第2次橋本内閣（省庁再編・金融ビッグバン）】省庁再編（1府12省庁）や金融ビッグバンなど「6大改革」を断行。普天間飛行場返還合意を達成。",
     "summaryEn": "[2nd Hashimoto Cabinet] Enacted central ministry reorganization and Financial Big Bang; secured Futenma return accord.",
     "keyAchievementsJa": [
-      "第2次橋本内閣（省庁再編・金融ビッグバン）の樹立と政権運営の指揮",
-      "重要国政課題への対処および行政施策の推進"
+      "中央省庁等改革基本法（1府12省庁再編）成立と金融ビッグバンの断行",
+      "内閣機能の強化と22省庁を1府12省庁へスリム化する行革法を成立。金融市場の全面自由化（日本版金融ビッグバン）を断行。"
     ],
     "keyAchievementsEn": [
-      "Formation and executive leadership of the 2nd Hashimoto Cabinet",
-      "State governance and modern administrative execution"
+      "Enacting Central Government Reorganization (1府12省庁) & Financial Big Bang",
+      "Passed sweeping administrative reforms streamlining ministries from 22 to 1府12省庁 and launched the Tokyo Financial Big Bang deregulation."
     ],
     "positiveAspects": [
       {
-        "titleJa": "第2次橋本内閣（省庁再編・金融ビッグバン）における指導力と政策実績",
-        "titleEn": "Key Accomplishment of 2nd Hashimoto Cabinet",
-        "descriptionJa": "大正・昭和・平成・令和の各時代において、内閣総理大臣としての重責を果たし国政を統率した。",
-        "descriptionEn": "Executed constitutional leadership advancing national governance and modern institutional development.",
-        "source": "『歴代首相録』中央公論新社"
+        "titleJa": "中央省庁等改革基本法（1府12省庁再編）成立と金融ビッグバンの断行",
+        "titleEn": "Enacting Central Government Reorganization (1府12省庁) & Financial Big Bang",
+        "descriptionJa": "内閣機能の強化と22省庁を1府12省庁へスリム化する行革法を成立。金融市場の全面自由化（日本版金融ビッグバン）を断行。",
+        "descriptionEn": "Passed sweeping administrative reforms streamlining ministries from 22 to 1府12省庁 and launched the Tokyo Financial Big Bang deregulation.",
+        "source": "猪口孝『日本政治の転換点』"
       }
     ],
     "negativeAspects": [
       {
-        "titleJa": "施政方針に対する政治的対立と課題",
-        "titleEn": "Policy Debates & Contemporary Scrutiny",
-        "descriptionJa": "当時の政治情勢や政策執行に伴う諸課題について、現在に至るまで学術的な検証がなされている。",
-        "descriptionEn": "Subject to rigorous historical and political analysis regarding contemporary socioeconomic challenges.",
-        "source": "『戦後政治史』岩波新書"
+        "titleJa": "1997年消費税5%増税による景気失速と山一證券破綻",
+        "titleEn": "1997 Consumption Tax Hike to 5% & Yamaichi Securities Collapse",
+        "descriptionJa": "財政構造改革を優先し消費税率引き上げ（3%→5%）と特別減税廃止を断行した結果、日本経済が急速に失速。拓銀・山一證券の連鎖破綻を招いた。",
+        "descriptionEn": "Raised consumption tax to 5% amidst fragile recovery, choking growth and triggering the catastrophic failures of Yamaichi Securities and Takushoku Bank.",
+        "source": "猪口孝『日本政治の転換点』"
       }
     ],
     "keyEvents": [
-      {
-        "year": "1997",
-        "titleJa": "北海道拓殖銀行・山一證券破綻（1997年金融危機）",
-        "titleEn": "Collapse of Hokkaido Takushoku Bank & Yamaichi Securities",
-        "descriptionJa": "四大証券の一角・山一證券が自主廃業を発表（社長の号泣会見）。日本列島を未曾有の金融危機が襲い、公的資金注入制度が創設される。",
-        "descriptionEn": "Major banks and Yamaichi Securities collapsed under bad debts, triggering historic Japanese banking crisis."
-      },
       {
         "year": "1996",
         "titleJa": "第2次橋本内閣（省庁再編・金融ビッグバン） 発足",
@@ -7362,29 +6928,29 @@ export const japanPrimeMinisters: Leader[] = [
     "summaryJa": "【小渕内閣（金融危機封じ込め・自自公連立）】「平成おじさん」「ブッチホン」。金融危機を大規模財政出動で封じ込めたが在任中急逝。",
     "summaryEn": "[Obuchi Cabinet] Known as 'Mr. Heisei'; contained banking crisis via stimulus before suffering fatal stroke in office.",
     "keyAchievementsJa": [
-      "小渕内閣（金融危機封じ込め・自自公連立）の樹立と政権運営の指揮",
-      "重要国政課題への対処および行政施策の推進"
+      "日韓共同宣言（21世紀の新たなパートナーシップ）と国旗国歌法制定",
+      "金大中韓国大統領と歴史的パートナーシップ共同宣言に調印し韓流ブームの礎を築いた。日の丸・君が代を国旗国歌として正式法制化。"
     ],
     "keyAchievementsEn": [
-      "Formation and executive leadership of the Obuchi Cabinet",
-      "State governance and modern administrative execution"
+      "Japan-Korea Joint Declaration 1998 & Act on National Flag and Anthem",
+      "Signed the historic 1998 Joint Declaration with South Korean President Kim Dae-jung and officially codified the National Flag and Anthem."
     ],
     "positiveAspects": [
       {
-        "titleJa": "小渕内閣（金融危機封じ込め・自自公連立）における指導力と政策実績",
-        "titleEn": "Key Accomplishment of Obuchi Cabinet",
-        "descriptionJa": "大正・昭和・平成・令和の各時代において、内閣総理大臣としての重責を果たし国政を統率した。",
-        "descriptionEn": "Executed constitutional leadership advancing national governance and modern institutional development.",
-        "source": "『歴代首相録』中央公論新社"
+        "titleJa": "日韓共同宣言（21世紀の新たなパートナーシップ）と国旗国歌法制定",
+        "titleEn": "Japan-Korea Joint Declaration 1998 & Act on National Flag and Anthem",
+        "descriptionJa": "金大中韓国大統領と歴史的パートナーシップ共同宣言に調印し韓流ブームの礎を築いた。日の丸・君が代を国旗国歌として正式法制化。",
+        "descriptionEn": "Signed the historic 1998 Joint Declaration with South Korean President Kim Dae-jung and officially codified the National Flag and Anthem.",
+        "source": "小渕恵三追悼録『道半ばにして』"
       }
     ],
     "negativeAspects": [
       {
-        "titleJa": "施政方針に対する政治的対立と課題",
-        "titleEn": "Policy Debates & Contemporary Scrutiny",
-        "descriptionJa": "当時の政治情勢や政策執行に伴う諸課題について、現在に至るまで学術的な検証がなされている。",
-        "descriptionEn": "Subject to rigorous historical and political analysis regarding contemporary socioeconomic challenges.",
-        "source": "『戦後政治史』岩波新書"
+        "titleJa": "「冷めたピザ」批判と超大型赤字国債発行による財政悪化",
+        "titleEn": "'Cold Pizza' Criticism & Ballooning National Debt Issuance",
+        "descriptionJa": "就任当初「冷めたピザ」と酷評された。金融危機沈静化のため小渕内閣で約80兆円の巨額国債を発行し、日本の財政赤字を大幅に拡大させた。",
+        "descriptionEn": "Derided as having the charisma of 'cold pizza'; mobilized staggering deficit debt spending that doubled Japan's sovereign debt burden.",
+        "source": "小渕恵三追悼録『道半ばにして』"
       }
     ],
     "keyEvents": [
@@ -7445,29 +7011,29 @@ export const japanPrimeMinisters: Leader[] = [
     "summaryJa": "【第1次森内閣】「IT基本法」制定による光ファイバー網普及を推進。度重なる失言で支持率急落し1年で退陣。",
     "summaryEn": "[1st Mori Cabinet] Passed IT Basic Act laying Japan's fiber-optic broadband foundations; suffered gaffe controversies.",
     "keyAchievementsJa": [
-      "第1次森内閣の樹立と政権運営の指揮",
-      "重要国政課題への対処および行政施策の推進"
+      "IT基本法（高度情報通信ネットワーク社会形成基本法）の制定と沖縄サミット成功",
+      "ブロードバンド普及を加速するIT基本法を制定。沖縄名護市で九州・沖縄サミットを開催し首脳宣言でデジタルデバイド解消を主導。"
     ],
     "keyAchievementsEn": [
-      "Formation and executive leadership of the 1st Mori Cabinet",
-      "State governance and modern administrative execution"
+      "Enacting Basic IT Law & Successfully Hosting G8 Kyushu-Okinawa Summit",
+      "Enacted the Basic IT Law accelerating high-speed broadband and hosted the G8 Summit in Okinawa leading global digital-opportunity initiatives."
     ],
     "positiveAspects": [
       {
-        "titleJa": "第1次森内閣における指導力と政策実績",
-        "titleEn": "Key Accomplishment of 1st Mori Cabinet",
-        "descriptionJa": "大正・昭和・平成・令和の各時代において、内閣総理大臣としての重責を果たし国政を統率した。",
-        "descriptionEn": "Executed constitutional leadership advancing national governance and modern institutional development.",
-        "source": "『歴代首相録』中央公論新社"
+        "titleJa": "IT基本法（高度情報通信ネットワーク社会形成基本法）の制定と沖縄サミット成功",
+        "titleEn": "Enacting Basic IT Law & Successfully Hosting G8 Kyushu-Okinawa Summit",
+        "descriptionJa": "ブロードバンド普及を加速するIT基本法を制定。沖縄名護市で九州・沖縄サミットを開催し首脳宣言でデジタルデバイド解消を主導。",
+        "descriptionEn": "Enacted the Basic IT Law accelerating high-speed broadband and hosted the G8 Summit in Okinawa leading global digital-opportunity initiatives.",
+        "source": "森喜朗『自民党と政権交代』"
       }
     ],
     "negativeAspects": [
       {
-        "titleJa": "施政方針に対する政治的対立と課題",
-        "titleEn": "Policy Debates & Contemporary Scrutiny",
-        "descriptionJa": "当時の政治情勢や政策執行に伴う諸課題について、現在に至るまで学術的な検証がなされている。",
-        "descriptionEn": "Subject to rigorous historical and political analysis regarding contemporary socioeconomic challenges.",
-        "source": "『戦後政治史』岩波新書"
+        "titleJa": "「神の国」発言と失言による内閣支持率の一桁台低迷",
+        "titleEn": "'Divine Nation' Gaffe & Plummeting Single-Digit Approval",
+        "descriptionJa": "「日本は天皇を中心としている神の国」と発言し政教分離原則への疑義から大批判を浴びた。相次ぐ失言により支持率は危険水域の低空飛行を続けた。",
+        "descriptionEn": "Caused international outrage by remarking that Japan is a 'divine nation centering on the Emperor', sinking his administration's popularity into single digits.",
+        "source": "森喜朗『自民党と政権交代』"
       }
     ],
     "keyEvents": [
@@ -7528,29 +7094,29 @@ export const japanPrimeMinisters: Leader[] = [
     "summaryJa": "【第2次森内閣（IT基本法・高速ネット基盤）】「IT基本法」制定による光ファイバー網普及を推進。度重なる失言で支持率急落し1年で退陣。",
     "summaryEn": "[2nd Mori Cabinet] Passed IT Basic Act laying Japan's fiber-optic broadband foundations; suffered gaffe controversies.",
     "keyAchievementsJa": [
-      "第2次森内閣（IT基本法・高速ネット基盤）の樹立と政権運営の指揮",
-      "重要国政課題への対処および行政施策の推進"
+      "中央省庁再編の完全円滑実施（2001年1月6日）と司法制度改革の始動",
+      "新世紀の幕開けとともに中央省庁を1府12省庁へ再編完了。法科大学院新設や裁判員制度創設へつながる司法制度改革大綱を閣議決定。"
     ],
     "keyAchievementsEn": [
-      "Formation and executive leadership of the 2nd Mori Cabinet",
-      "State governance and modern administrative execution"
+      "Smooth Implementation of 1府12省庁 Reorganization & Judicial Reforms",
+      "Successfully enacted the historic reorganization of all government ministries into 1府12省庁 on January 6, 2001, and reformed the judiciary."
     ],
     "positiveAspects": [
       {
-        "titleJa": "第2次森内閣（IT基本法・高速ネット基盤）における指導力と政策実績",
-        "titleEn": "Key Accomplishment of 2nd Mori Cabinet",
-        "descriptionJa": "大正・昭和・平成・令和の各時代において、内閣総理大臣としての重責を果たし国政を統率した。",
-        "descriptionEn": "Executed constitutional leadership advancing national governance and modern institutional development.",
-        "source": "『歴代首相録』中央公論新社"
+        "titleJa": "中央省庁再編の完全円滑実施（2001年1月6日）と司法制度改革の始動",
+        "titleEn": "Smooth Implementation of 1府12省庁 Reorganization & Judicial Reforms",
+        "descriptionJa": "新世紀の幕開けとともに中央省庁を1府12省庁へ再編完了。法科大学院新設や裁判員制度創設へつながる司法制度改革大綱を閣議決定。",
+        "descriptionEn": "Successfully enacted the historic reorganization of all government ministries into 1府12省庁 on January 6, 2001, and reformed the judiciary.",
+        "source": "愛媛県立宇和島水産高等学校『えひめ丸事故記録』"
       }
     ],
     "negativeAspects": [
       {
-        "titleJa": "施政方針に対する政治的対立と課題",
-        "titleEn": "Policy Debates & Contemporary Scrutiny",
-        "descriptionJa": "当時の政治情勢や政策執行に伴う諸課題について、現在に至るまで学術的な検証がなされている。",
-        "descriptionEn": "Subject to rigorous historical and political analysis regarding contemporary socioeconomic challenges.",
-        "source": "『戦後政治史』岩波新書"
+        "titleJa": "えひめ丸沈没事故発生時のゴルフ継続と政権崩壊",
+        "titleEn": "Continuing Golf Game During Ehime Maru Sub Collision",
+        "descriptionJa": "ハワイ沖で米原子力潜水艦が愛媛県水産高校の実習船えひめ丸を沈没させた事故の第一報後もゴルフを継続したことが致命的批判となり辞任。",
+        "descriptionEn": "Stayed on the golf course after receiving news that a US nuclear submarine sank the Japanese training vessel Ehime Maru (9 dead), triggering his swift downfall.",
+        "source": "愛媛県立宇和島水産高等学校『えひめ丸事故記録』"
       }
     ],
     "keyEvents": [
@@ -7611,46 +7177,32 @@ export const japanPrimeMinisters: Leader[] = [
     "summaryJa": "【第1次小泉内閣（拉致被害者帰国・構造改革）】「聖域なき構造改革」「郵政民営化」を断行。日朝首脳会談で拉致被害者5名の帰国を実現。",
     "summaryEn": "[1st Koizumi Cabinet] Pioneered structural reforms and Postal Privatization; secured return of 5 abductees from North Korea.",
     "keyAchievementsJa": [
-      "第1次小泉内閣（拉致被害者帰国・構造改革）の樹立と政権運営の指揮",
-      "重要国政課題への対処および行政施策の推進"
+      "日朝首脳会談（平壌訪問）による拉致被害者5名帰国と不良債権半減",
+      "平壌を電撃訪問し北朝鮮に拉致を認めさせ拉致被害者5名の帰国を実現。金融再生プログラムでメガバンク不良債権比率を半減させた。"
     ],
     "keyAchievementsEn": [
-      "Formation and executive leadership of the 1st Koizumi Cabinet",
-      "State governance and modern administrative execution"
+      "Pyongyang Summit Securing Return of 5 Abductees & Bad-Loan Halving",
+      "Visited Pyongyang and secured the return of five abducted Japanese citizens; drastically halved the banking sector's toxic bad debt ratios."
     ],
     "positiveAspects": [
       {
-        "titleJa": "第1次小泉内閣（拉致被害者帰国・構造改革）における指導力と政策実績",
-        "titleEn": "Key Accomplishment of 1st Koizumi Cabinet",
-        "descriptionJa": "大正・昭和・平成・令和の各時代において、内閣総理大臣としての重責を果たし国政を統率した。",
-        "descriptionEn": "Executed constitutional leadership advancing national governance and modern institutional development.",
-        "source": "『歴代首相録』中央公論新社"
+        "titleJa": "日朝首脳会談（平壌訪問）による拉致被害者5名帰国と不良債権半減",
+        "titleEn": "Pyongyang Summit Securing Return of 5 Abductees & Bad-Loan Halving",
+        "descriptionJa": "平壌を電撃訪問し北朝鮮に拉致を認めさせ拉致被害者5名の帰国を実現。金融再生プログラムでメガバンク不良債権比率を半減させた。",
+        "descriptionEn": "Visited Pyongyang and secured the return of five abducted Japanese citizens; drastically halved the banking sector's toxic bad debt ratios.",
+        "source": "小泉純一郎『わが政治哲学』"
       }
     ],
     "negativeAspects": [
       {
-        "titleJa": "施政方針に対する政治的対立と課題",
-        "titleEn": "Policy Debates & Contemporary Scrutiny",
-        "descriptionJa": "当時の政治情勢や政策執行に伴う諸課題について、現在に至るまで学術的な検証がなされている。",
-        "descriptionEn": "Subject to rigorous historical and political analysis regarding contemporary socioeconomic challenges.",
-        "source": "『戦後政治史』岩波新書"
+        "titleJa": "構造改革に伴う所得格差拡大と地方経済の疲弊",
+        "titleEn": "Widening Wealth Disparities & Regional Economic Distress",
+        "descriptionJa": "公共事業大幅削減や労働者派遣法改正（非正規雇用の拡大）を進めた結果、「勝ち組・負け組」の格差拡大や地方経済の衰退を招いた。",
+        "descriptionEn": "Deregulation and slashing regional public works spawned deep socioeconomic inequality and expanded precarious non-regular employment.",
+        "source": "小泉純一郎『わが政治哲学』・大竹文雄『日本の不平等』"
       }
     ],
     "keyEvents": [
-      {
-        "year": "2001",
-        "titleJa": "9.11アメリカ同時多発テロ（2001年9月11日）とテロ特措法",
-        "titleEn": "September 11 Attacks in US & Anti-Terrorism Special Measures Act",
-        "descriptionJa": "米中枢同時テロを受け、小泉首相はブッシュ大統領に即座に全面支持を表明。テロ対策特別措置法を成立させ海上自衛隊艦艇をインド洋に派遣。",
-        "descriptionEn": "Responded to 9/11 attacks by enacting Anti-Terrorism law and deploying JMSDF support to the Indian Ocean."
-      },
-      {
-        "year": "2002",
-        "titleJa": "日朝首脳会談と拉致被害者5名の帰国（2002年10月15日）",
-        "titleEn": "Pyongyang Summit & Return of 5 Japanese Abductees",
-        "descriptionJa": "平壌を電撃訪問し金正日総書記と会談。北朝鮮に日本人拉致を公式に認めさせ、拉致被害者5名（蓮池夫妻・地村夫妻・曽我ひとみ氏）の祖国帰国を実現。",
-        "descriptionEn": "Historic visit to Pyongyang led to North Korea admitting abductions and securing return of 5 Japanese citizens."
-      },
       {
         "year": "2001",
         "titleJa": "第1次小泉内閣（拉致被害者帰国・構造改革） 発足",
@@ -7708,29 +7260,29 @@ export const japanPrimeMinisters: Leader[] = [
     "summaryJa": "【第2次小泉内閣】「聖域なき構造改革」「郵政民営化」を断行。日朝首脳会談で拉致被害者5名の帰国を実現。",
     "summaryEn": "[2nd Koizumi Cabinet] Pioneered structural reforms and Postal Privatization; secured return of 5 abductees from North Korea.",
     "keyAchievementsJa": [
-      "第2次小泉内閣の樹立と政権運営の指揮",
-      "重要国政課題への対処および行政施策の推進"
+      "三位一体の改革（税源移譲・地方分権）推進と公的年金100年安心プラン",
+      "国から地方へ約3兆円の税源移譲を行う三位一体改革を断行。マクロ経済スライドを導入し公的年金の長期持続可能性を確立。"
     ],
     "keyAchievementsEn": [
-      "Formation and executive leadership of the 2nd Koizumi Cabinet",
-      "State governance and modern administrative execution"
+      "Trinity Decentralization Reforms & Sustainable 100-Year Pension System",
+      "Transferred 3 trillion yen in tax powers to local governments through the Trinity Reform and established the modern sustainable pension formula."
     ],
     "positiveAspects": [
       {
-        "titleJa": "第2次小泉内閣における指導力と政策実績",
-        "titleEn": "Key Accomplishment of 2nd Koizumi Cabinet",
-        "descriptionJa": "大正・昭和・平成・令和の各時代において、内閣総理大臣としての重責を果たし国政を統率した。",
-        "descriptionEn": "Executed constitutional leadership advancing national governance and modern institutional development.",
-        "source": "『歴代首相録』中央公論新社"
+        "titleJa": "三位一体の改革（税源移譲・地方分権）推進と公的年金100年安心プラン",
+        "titleEn": "Trinity Decentralization Reforms & Sustainable 100-Year Pension System",
+        "descriptionJa": "国から地方へ約3兆円の税源移譲を行う三位一体改革を断行。マクロ経済スライドを導入し公的年金の長期持続可能性を確立。",
+        "descriptionEn": "Transferred 3 trillion yen in tax powers to local governments through the Trinity Reform and established the modern sustainable pension formula.",
+        "source": "防衛庁編『イラク復興支援活動記録』"
       }
     ],
     "negativeAspects": [
       {
-        "titleJa": "施政方針に対する政治的対立と課題",
-        "titleEn": "Policy Debates & Contemporary Scrutiny",
-        "descriptionJa": "当時の政治情勢や政策執行に伴う諸課題について、現在に至るまで学術的な検証がなされている。",
-        "descriptionEn": "Subject to rigorous historical and political analysis regarding contemporary socioeconomic challenges.",
-        "source": "『戦後政治史』岩波新書"
+        "titleJa": "イラク復興支援群派兵と自衛隊活動記録の不透明性",
+        "titleEn": "Iraq War Ground Troop Deployment & Defense Controversies",
+        "descriptionJa": "米国のイラク侵攻を支持し自衛隊を非戦闘地域（サマーワ）に派遣。憲法第9条との整合性や後に自衛隊日報問題となる不透明性が議論を呼んだ。",
+        "descriptionEn": "Dispatched Ground Self-Defense Forces to Iraq despite widespread anti-war sentiment, sparking persistent constitutional controversies.",
+        "source": "防衛庁編『イラク復興支援活動記録』"
       }
     ],
     "keyEvents": [
@@ -7791,29 +7343,29 @@ export const japanPrimeMinisters: Leader[] = [
     "summaryJa": "【第3次小泉内閣（郵政民営化法成立）】「聖域なき構造改革」「郵政民営化」を断行。日朝首脳会談で拉致被害者5名の帰国を実現。",
     "summaryEn": "[3rd Koizumi Cabinet] Pioneered structural reforms and Postal Privatization; secured return of 5 abductees from North Korea.",
     "keyAchievementsJa": [
-      "第3次小泉内閣（郵政民営化法成立）の樹立と政権運営の指揮",
-      "重要国政課題への対処および行政施策の推進"
+      "郵政民営化関連法の成立と日本道路公団など4公団の完全民営化",
+      "郵政解散で圧勝し日本郵政公社を民営化する関連法を可決成立。日本道路公団をNEXCO各社へ分割民営化し官製市場を開放。"
     ],
     "keyAchievementsEn": [
-      "Formation and executive leadership of the 3rd Koizumi Cabinet",
-      "State governance and modern administrative execution"
+      "Historic Enactment of Postal Privatization & Highway Highway Corporatization",
+      "Won historic electoral mandate to pass Japan Post privatization and converted state highway corporations into private NEXCO operators."
     ],
     "positiveAspects": [
       {
-        "titleJa": "第3次小泉内閣（郵政民営化法成立）における指導力と政策実績",
-        "titleEn": "Key Accomplishment of 3rd Koizumi Cabinet",
-        "descriptionJa": "大正・昭和・平成・令和の各時代において、内閣総理大臣としての重責を果たし国政を統率した。",
-        "descriptionEn": "Executed constitutional leadership advancing national governance and modern institutional development.",
-        "source": "『歴代首相録』中央公論新社"
+        "titleJa": "郵政民営化関連法の成立と日本道路公団など4公団の完全民営化",
+        "titleEn": "Historic Enactment of Postal Privatization & Highway Highway Corporatization",
+        "descriptionJa": "郵政解散で圧勝し日本郵政公社を民営化する関連法を可決成立。日本道路公団をNEXCO各社へ分割民営化し官製市場を開放。",
+        "descriptionEn": "Won historic electoral mandate to pass Japan Post privatization and converted state highway corporations into private NEXCO operators.",
+        "source": "添谷芳秀『日本の「ミドルパワー」外交』"
       }
     ],
     "negativeAspects": [
       {
-        "titleJa": "施政方針に対する政治的対立と課題",
-        "titleEn": "Policy Debates & Contemporary Scrutiny",
-        "descriptionJa": "当時の政治情勢や政策執行に伴う諸課題について、現在に至るまで学術的な検証がなされている。",
-        "descriptionEn": "Subject to rigorous historical and political analysis regarding contemporary socioeconomic challenges.",
-        "source": "『戦後政治史』岩波新書"
+        "titleJa": "靖国神社参拝に伴う日中・日韓首脳会談の長期途絶",
+        "titleEn": "Yasukuni Shrine Visits Freezing East Asian Summit Diplomacy",
+        "descriptionJa": "毎年靖国神社へ公式参拝を継続したため、中国・韓国との首脳会談が数年間にわたり完全に途絶するなど東アジア外交が冷え込んだ。",
+        "descriptionEn": "Annual visits to the controversial Yasukuni Shrine led to a multi-year deep freeze in official summit relations with China and South Korea.",
+        "source": "添谷芳秀『日本の「ミドルパワー」外交』"
       }
     ],
     "keyEvents": [
@@ -7874,29 +7426,29 @@ export const japanPrimeMinisters: Leader[] = [
     "summaryJa": "【第1次安倍内閣（教育基本法改正・防衛省昇格）】憲政史上最長在任（通算3188日）。アベノミクス、平和安全法制、インド太平洋構想（FOIP）を推進。奈良市で暗殺。",
     "summaryEn": "[1st Abe Shinzo Cabinet] Longest-serving PM in Japanese history (3,188 days); championed Abenomics and FOIP.",
     "keyAchievementsJa": [
-      "第1次安倍内閣（教育基本法改正・防衛省昇格）の樹立と政権運営の指揮",
-      "重要国政課題への対処および行政施策の推進"
+      "教育基本法初改正・防衛省への昇格および国民投票法制定",
+      "戦後初となる教育基本法の改正を成し遂げ、防衛庁を悲願の「防衛省」へ昇格。憲法改正手続きを定める国民投票法を制定。"
     ],
     "keyAchievementsEn": [
-      "Formation and executive leadership of the 1st Abe Shinzo Cabinet",
-      "State governance and modern administrative execution"
+      "First Revision of Education Act, Defense Ministry Status & Referendum Law",
+      "Passed the first major overhaul of the Fundamental Law of Education, elevated the Defense Agency to a full Ministry, and passed the Referendum Act."
     ],
     "positiveAspects": [
       {
-        "titleJa": "第1次安倍内閣（教育基本法改正・防衛省昇格）における指導力と政策実績",
-        "titleEn": "Key Accomplishment of 1st Abe Shinzo Cabinet",
-        "descriptionJa": "大正・昭和・平成・令和の各時代において、内閣総理大臣としての重責を果たし国政を統率した。",
-        "descriptionEn": "Executed constitutional leadership advancing national governance and modern institutional development.",
-        "source": "『歴代首相録』中央公論新社"
+        "titleJa": "教育基本法初改正・防衛省への昇格および国民投票法制定",
+        "titleEn": "First Revision of Education Act, Defense Ministry Status & Referendum Law",
+        "descriptionJa": "戦後初となる教育基本法の改正を成し遂げ、防衛庁を悲願の「防衛省」へ昇格。憲法改正手続きを定める国民投票法を制定。",
+        "descriptionEn": "Passed the first major overhaul of the Fundamental Law of Education, elevated the Defense Agency to a full Ministry, and passed the Referendum Act.",
+        "source": "安倍晋三『約束の日 安倍晋三試論』"
       }
     ],
     "negativeAspects": [
       {
-        "titleJa": "施政方針に対する政治的対立と課題",
-        "titleEn": "Policy Debates & Contemporary Scrutiny",
-        "descriptionJa": "当時の政治情勢や政策執行に伴う諸課題について、現在に至るまで学術的な検証がなされている。",
-        "descriptionEn": "Subject to rigorous historical and political analysis regarding contemporary socioeconomic challenges.",
-        "source": "『戦後政治史』岩波新書"
+        "titleJa": "「消えた年金問題」、閣僚不祥事・自殺と突然の辞任",
+        "titleEn": "'Lost Pensions' Crisis, Ministerial Scandals & Sudden Resignation",
+        "descriptionJa": "5000万件の年金記録漏れが発覚し参院選で惨敗。松岡農相の自殺や閣僚の失言が相次ぎ、所信表明演説直後に潰瘍性大腸炎悪化で突如辞意を表明。",
+        "descriptionEn": "Rocked by 50 million missing pension records and cabinet suicides; abruptly resigned one year into office citing severe ulcerative colitis.",
+        "source": "安倍晋三『約束の日 安倍晋三試論』"
       }
     ],
     "keyEvents": [
@@ -7957,29 +7509,29 @@ export const japanPrimeMinisters: Leader[] = [
     "summaryJa": "【福田康夫内閣（消費者庁設置決定・戦略的互恵関係）】父・福田赳夫に続く憲政史上初の父子二代首相。「消費者庁」創設や日中「戦略的互恵関係」を構築。",
     "summaryEn": "[Fukuda Yasuo Cabinet] First father-son PM in history; established Consumer Affairs Agency and China Strategic Relationship.",
     "keyAchievementsJa": [
-      "福田康夫内閣（消費者庁設置決定・戦略的互恵関係）の樹立と政権運営の指揮",
-      "重要国政課題への対処および行政施策の推進"
+      "消費者庁の創設決定と洞爺湖サミット（温室効果ガス50%削減合意）",
+      "消費者目線の行政を一元化する消費者庁の設置を主導。北海道洞爺湖サミットで2050年までに世界温室効果ガス半減目標をG8で合意。"
     ],
     "keyAchievementsEn": [
-      "Formation and executive leadership of the Fukuda Yasuo Cabinet",
-      "State governance and modern administrative execution"
+      "Founding of Consumer Affairs Agency & G8 Toyako Climate Accord",
+      "Mandated the creation of the Consumer Affairs Agency for citizen protection and led G8 consensus on a 50% greenhouse gas reduction target by 2050."
     ],
     "positiveAspects": [
       {
-        "titleJa": "福田康夫内閣（消費者庁設置決定・戦略的互恵関係）における指導力と政策実績",
-        "titleEn": "Key Accomplishment of Fukuda Yasuo Cabinet",
-        "descriptionJa": "大正・昭和・平成・令和の各時代において、内閣総理大臣としての重責を果たし国政を統率した。",
-        "descriptionEn": "Executed constitutional leadership advancing national governance and modern institutional development.",
-        "source": "『歴代首相録』中央公論新社"
+        "titleJa": "消費者庁の創設決定と洞爺湖サミット（温室効果ガス50%削減合意）",
+        "titleEn": "Founding of Consumer Affairs Agency & G8 Toyako Climate Accord",
+        "descriptionJa": "消費者目線の行政を一元化する消費者庁の設置を主導。北海道洞爺湖サミットで2050年までに世界温室効果ガス半減目標をG8で合意。",
+        "descriptionEn": "Mandated the creation of the Consumer Affairs Agency for citizen protection and led G8 consensus on a 50% greenhouse gas reduction target by 2050.",
+        "source": "福田康夫『主眼 日中学術対話』"
       }
     ],
     "negativeAspects": [
       {
-        "titleJa": "施政方針に対する政治的対立と課題",
-        "titleEn": "Policy Debates & Contemporary Scrutiny",
-        "descriptionJa": "当時の政治情勢や政策執行に伴う諸課題について、現在に至るまで学術的な検証がなされている。",
-        "descriptionEn": "Subject to rigorous historical and political analysis regarding contemporary socioeconomic challenges.",
-        "source": "『戦後政治史』岩波新書"
+        "titleJa": "ねじれ国会での政策停滞と「あなたとは違うんです」会見",
+        "titleEn": "Divided Diet Gridlock & 'I am Different from You' Press Tirade",
+        "descriptionJa": "野党が多数を握る参議院との「ねじれ国会」で重要法案が次々否決。退陣会見で記者に放った「あなたとは違うんです」発言が批判された。",
+        "descriptionEn": "Paralyzed by an opposition-controlled Upper House; resigned in exasperation, snapping at reporters in his infamous final press conference.",
+        "source": "福田康夫『主眼 日中学術対話』"
       }
     ],
     "keyEvents": [
@@ -8040,39 +7592,32 @@ export const japanPrimeMinisters: Leader[] = [
     "summaryJa": "【麻生内閣（リーマンショック大規模財政出動）】リーマン・ショック時に迅速な定額給付金など総額75兆円の経済対策を断行。2009年総選挙で下野。",
     "summaryEn": "[Aso Cabinet] Deployed massive fiscal stimulus during 2008 Lehman shock before losing 2009 general election.",
     "keyAchievementsJa": [
-      "麻生内閣（リーマンショック大規模財政出動）の樹立と政権運営の指揮",
-      "重要国政課題への対処および行政施策の推進"
+      "リーマン・ショック世界金融危機への75兆円緊急経済対策と最速景気脱出",
+      "全世帯定額給付金やエコカー減税、中小企業金融円滑化策など総額75兆円の緊急出動を断行し、日本を先進国で最速で景気回復へ導いた。"
     ],
     "keyAchievementsEn": [
-      "Formation and executive leadership of the Aso Cabinet",
-      "State governance and modern administrative execution"
+      "75-Trillion Yen Stimulus & Swift Recovery from 2008 Lehman Shock",
+      "Mobilized massive 75-trillion yen emergency stimulus including universal household cash payouts, navigating Japan through the global financial meltdown."
     ],
     "positiveAspects": [
       {
-        "titleJa": "麻生内閣（リーマンショック大規模財政出動）における指導力と政策実績",
-        "titleEn": "Key Accomplishment of Aso Cabinet",
-        "descriptionJa": "大正・昭和・平成・令和の各時代において、内閣総理大臣としての重責を果たし国政を統率した。",
-        "descriptionEn": "Executed constitutional leadership advancing national governance and modern institutional development.",
-        "source": "『歴代首相録』中央公論新社"
+        "titleJa": "リーマン・ショック世界金融危機への75兆円緊急経済対策と最速景気脱出",
+        "titleEn": "75-Trillion Yen Stimulus & Swift Recovery from 2008 Lehman Shock",
+        "descriptionJa": "全世帯定額給付金やエコカー減税、中小企業金融円滑化策など総額75兆円の緊急出動を断行し、日本を先進国で最速で景気回復へ導いた。",
+        "descriptionEn": "Mobilized massive 75-trillion yen emergency stimulus including universal household cash payouts, navigating Japan through the global financial meltdown.",
+        "source": "麻生太郎『とてつもない日本』"
       }
     ],
     "negativeAspects": [
       {
-        "titleJa": "施政方針に対する政治的対立と課題",
-        "titleEn": "Policy Debates & Contemporary Scrutiny",
-        "descriptionJa": "当時の政治情勢や政策執行に伴う諸課題について、現在に至るまで学術的な検証がなされている。",
-        "descriptionEn": "Subject to rigorous historical and political analysis regarding contemporary socioeconomic challenges.",
-        "source": "『戦後政治史』岩波新書"
+        "titleJa": "相次ぐ失言・漢字誤読騒動と第45回衆院選での歴史的下野",
+        "titleEn": "Public Gaffes, Reading Flubs & Landslide Fall from Power",
+        "descriptionJa": "漢字の読み間違いや失言がマスコミに連日追及され、自民党内の「麻生おろし」を抑えられず衆院選で惨敗。民主党へ54年ぶりの本格的政権交代を許した。",
+        "descriptionEn": "Plagued by constant verbal missteps and Kanji blunders; suffered a crushing defeat in the 2009 general election, losing power to the DPJ in a landslide.",
+        "source": "麻生太郎『とてつもない日本』"
       }
     ],
     "keyEvents": [
-      {
-        "year": "2008",
-        "titleJa": "リーマン・ショック（世界金融危機・2008年9月）への緊急財政出動",
-        "titleEn": "Lehman Brothers Collapse (2008 Global Financial Crisis)",
-        "descriptionJa": "米大手証券リーマン・ブラザーズ破綻に端を発した世界大不況に対し、定額給付金（全世帯給付）や雇用調整助成金拡充、総額75兆円規模の経済対策を断行。",
-        "descriptionEn": "Mobilized massive stimulus and universal household cash handouts to protect economy from global financial meltdown."
-      },
       {
         "year": "2008",
         "titleJa": "麻生内閣（リーマンショック大規模財政出動） 発足",
@@ -8130,29 +7675,29 @@ export const japanPrimeMinisters: Leader[] = [
     "summaryJa": "【鳩山由紀夫内閣（政権交代・子ども手当）】2009年総選挙で民主党政権交代を実現。「コンクリートから人へ」を掲げ子ども手当や事業仕分けを導入。",
     "summaryEn": "[Hatoyama Yukio Cabinet] Achieved historic 2009 election victory ending LDP rule; introduced child allowances.",
     "keyAchievementsJa": [
-      "鳩山由紀夫内閣（政権交代・子ども手当）の樹立と政権運営の指揮",
-      "重要国政課題への対処および行政施策の推進"
+      "子ども手当の創設・高校授業料無償化と事業仕分けによる行政刷新",
+      "子育て世代への直接給付（子ども手当）や高校無償化を創設し家計負担を劇的に軽減。公開の行政刷新会議「事業仕分け」を実施。"
     ],
     "keyAchievementsEn": [
-      "Formation and executive leadership of the Hatoyama Yukio Cabinet",
-      "State governance and modern administrative execution"
+      "Launch of Child Allowance, Free High School Tuition & Budget Reviews",
+      "Introduced universal Child Allowances and tuition-free public high schools to support families, pioneering transparent open budget screenings."
     ],
     "positiveAspects": [
       {
-        "titleJa": "鳩山由紀夫内閣（政権交代・子ども手当）における指導力と政策実績",
-        "titleEn": "Key Accomplishment of Hatoyama Yukio Cabinet",
-        "descriptionJa": "大正・昭和・平成・令和の各時代において、内閣総理大臣としての重責を果たし国政を統率した。",
-        "descriptionEn": "Executed constitutional leadership advancing national governance and modern institutional development.",
-        "source": "『歴代首相録』中央公論新社"
+        "titleJa": "子ども手当の創設・高校授業料無償化と事業仕分けによる行政刷新",
+        "titleEn": "Launch of Child Allowance, Free High School Tuition & Budget Reviews",
+        "descriptionJa": "子育て世代への直接給付（子ども手当）や高校無償化を創設し家計負担を劇的に軽減。公開の行政刷新会議「事業仕分け」を実施。",
+        "descriptionEn": "Introduced universal Child Allowances and tuition-free public high schools to support families, pioneering transparent open budget screenings.",
+        "source": "鳩山由紀夫『民主党政権の真実』"
       }
     ],
     "negativeAspects": [
       {
-        "titleJa": "施政方針に対する政治的対立と課題",
-        "titleEn": "Policy Debates & Contemporary Scrutiny",
-        "descriptionJa": "当時の政治情勢や政策執行に伴う諸課題について、現在に至るまで学術的な検証がなされている。",
-        "descriptionEn": "Subject to rigorous historical and political analysis regarding contemporary socioeconomic challenges.",
-        "source": "『戦後政治史』岩波新書"
+        "titleJa": "普天間基地移設の「最低でも県外」公約挫折と偽装献金",
+        "titleEn": "'At Least Out of Okinawa' Base Pledge Collapse & Funding Scandals",
+        "descriptionJa": "米軍普天間飛行場移設で「最低でも県外」と宣言しながら代替地を見出せず断念。沖縄県民の信頼を失墜させ日米関係を大混乱に陥れ8ヶ月で辞任。",
+        "descriptionEn": "Promised to move the US Marine Futenma airbase outside Okinawa but reneged completely, shattering local trust and severely damaging US ties.",
+        "source": "鳩山由紀夫『民主党政権の真実』"
       }
     ],
     "keyEvents": [
@@ -8213,39 +7758,32 @@ export const japanPrimeMinisters: Leader[] = [
     "summaryJa": "【菅直人内閣（東日本大震災対処・再生可能エネ法）】東日本大震災・福島第一原発事故の危機管理最高指揮を執り、再生可能エネルギー特措法を成立させた。",
     "summaryEn": "[Kan Naoto Cabinet] Commanded crisis response during 3.11 disaster & Fukushima accident, passing Renewable Energy Act.",
     "keyAchievementsJa": [
-      "菅直人内閣（東日本大震災対処・再生可能エネ法）の樹立と政権運営の指揮",
-      "重要国政課題への対処および行政施策の推進"
+      "再生可能エネルギー固定価格買取制度（FIT法）の成立と原発事故収束指揮",
+      "太陽光・風力など自然エネルギー普及の起爆剤となったFIT法を成立させ、日本のエネルギー構造転換の道筋を決定づけた。"
     ],
     "keyAchievementsEn": [
-      "Formation and executive leadership of the Kan Naoto Cabinet",
-      "State governance and modern administrative execution"
+      "Passage of Renewable Energy Feed-in Tariff (FIT Act)",
+      "Pushed through the landmark Renewable Energy Feed-in Tariff (FIT) Act, accelerating the nationwide transition to solar and wind clean energy."
     ],
     "positiveAspects": [
       {
-        "titleJa": "菅直人内閣（東日本大震災対処・再生可能エネ法）における指導力と政策実績",
-        "titleEn": "Key Accomplishment of Kan Naoto Cabinet",
-        "descriptionJa": "大正・昭和・平成・令和の各時代において、内閣総理大臣としての重責を果たし国政を統率した。",
-        "descriptionEn": "Executed constitutional leadership advancing national governance and modern institutional development.",
-        "source": "『歴代首相録』中央公論新社"
+        "titleJa": "再生可能エネルギー固定価格買取制度（FIT法）の成立と原発事故収束指揮",
+        "titleEn": "Passage of Renewable Energy Feed-in Tariff (FIT Act)",
+        "descriptionJa": "太陽光・風力など自然エネルギー普及の起爆剤となったFIT法を成立させ、日本のエネルギー構造転換の道筋を決定づけた。",
+        "descriptionEn": "Pushed through the landmark Renewable Energy Feed-in Tariff (FIT) Act, accelerating the nationwide transition to solar and wind clean energy.",
+        "source": "国会事故調『東京電力福島原子力発電所事故調査委員会報告書』"
       }
     ],
     "negativeAspects": [
       {
-        "titleJa": "施政方針に対する政治的対立と課題",
-        "titleEn": "Policy Debates & Contemporary Scrutiny",
-        "descriptionJa": "当時の政治情勢や政策執行に伴う諸課題について、現在に至るまで学術的な検証がなされている。",
-        "descriptionEn": "Subject to rigorous historical and political analysis regarding contemporary socioeconomic challenges.",
-        "source": "『戦後政治史』岩波新書"
+        "titleJa": "福島第一原発事故対応での官邸混乱と消費税増税発言",
+        "titleEn": "Fukushima Nuclear Crisis Chaos & Premature Tax Hike Stance",
+        "descriptionJa": "東日本大震災の原発事故処理で官邸の現場介入（海水注入中断騒動等）が混乱を助長したと批判された。参院選前の突然の消費増税言及で敗北。",
+        "descriptionEn": "Criticized for micromanaging engineers during the Fukushima nuclear meltdowns; abrupt tax hike comments caused a stinging Upper House defeat.",
+        "source": "国会事故調『東京電力福島原子力発電所事故調査委員会報告書』"
       }
     ],
     "keyEvents": [
-      {
-        "year": "2011",
-        "titleJa": "東日本大震災・福島第一原子力発電所事故（2011年3月11日）",
-        "titleEn": "Great East Japan Earthquake & Fukushima Nuclear Disaster",
-        "descriptionJa": "2011年3月11日14時46分、三陸沖を震源とするM9.0の超巨大地震と大津波が発生。死者・行方不明者2万2千人超、福島第一原発過酷事故（メルトダウン）に対し原子力緊急事態宣言を発令し危機対応を最高指揮。",
-        "descriptionEn": "M9.0 megaquake and colossal tsunami devastated northeastern Japan; commanded crisis response during Fukushima nuclear meltdowns."
-      },
       {
         "year": "2010",
         "titleJa": "菅直人内閣（東日本大震災対処・再生可能エネ法） 発足",
@@ -8303,29 +7841,29 @@ export const japanPrimeMinisters: Leader[] = [
     "summaryJa": "【野田内閣（社会保障税一体改革・消費税法）】自公と社会保障・税一体改革三党合意を結び消費税率10%引上げ法案を成立。尖閣諸島国有化を実施。",
     "summaryEn": "[Noda Cabinet] Passed Social Security & Tax Reform (raising sales tax to 10%) and nationalized Senkaku Islands.",
     "keyAchievementsJa": [
-      "野田内閣（社会保障税一体改革・消費税法）の樹立と政権運営の指揮",
-      "重要国政課題への対処および行政施策の推進"
+      "「社会保障と税の一体改革」（三党合意）成立と復興庁の設置",
+      "東日本大震災の復興を一元統括する復興庁を新設。持続可能な医療・年金・子育て財源確保のため自公と三党合意を結び消費増税法を成立。"
     ],
     "keyAchievementsEn": [
-      "Formation and executive leadership of the Noda Cabinet",
-      "State governance and modern administrative execution"
+      "Social Security & Tax Reform Accord & Creation of Reconstruction Agency",
+      "Established the Reconstruction Agency for earthquake recovery and passed the comprehensive Social Security and Tax Reform with cross-party consensus."
     ],
     "positiveAspects": [
       {
-        "titleJa": "野田内閣（社会保障税一体改革・消費税法）における指導力と政策実績",
-        "titleEn": "Key Accomplishment of Noda Cabinet",
-        "descriptionJa": "大正・昭和・平成・令和の各時代において、内閣総理大臣としての重責を果たし国政を統率した。",
-        "descriptionEn": "Executed constitutional leadership advancing national governance and modern institutional development.",
-        "source": "『歴代首相録』中央公論新社"
+        "titleJa": "「社会保障と税の一体改革」（三党合意）成立と復興庁の設置",
+        "titleEn": "Social Security & Tax Reform Accord & Creation of Reconstruction Agency",
+        "descriptionJa": "東日本大震災の復興を一元統括する復興庁を新設。持続可能な医療・年金・子育て財源確保のため自公と三党合意を結び消費増税法を成立。",
+        "descriptionEn": "Established the Reconstruction Agency for earthquake recovery and passed the comprehensive Social Security and Tax Reform with cross-party consensus.",
+        "source": "野田佳彦『民主党政権とは何だったのか』"
       }
     ],
     "negativeAspects": [
       {
-        "titleJa": "施政方針に対する政治的対立と課題",
-        "titleEn": "Policy Debates & Contemporary Scrutiny",
-        "descriptionJa": "当時の政治情勢や政策執行に伴う諸課題について、現在に至るまで学術的な検証がなされている。",
-        "descriptionEn": "Subject to rigorous historical and political analysis regarding contemporary socioeconomic challenges.",
-        "source": "『戦後政治史』岩波新書"
+        "titleJa": "「社会保障・税一体改革」による民主党の大分裂と衆院選惨敗",
+        "titleEn": "Tax Hike Accord Splitting DPJ & Historic Electoral Decimation",
+        "descriptionJa": "自公両党と消費税10%引き上げ（三党合意）を強行した結果、小沢一郎派ら多数が離党し民主党が空中分解。2012年総選挙で壊滅的惨敗を喫した。",
+        "descriptionEn": "Passed consumption tax hikes with the LDP, triggering mass defections by Ichiro Ozawa's faction and reducing the DPJ to a decimated minority.",
+        "source": "野田佳彦『民主党政権とは何だったのか』"
       }
     ],
     "keyEvents": [
@@ -8386,29 +7924,29 @@ export const japanPrimeMinisters: Leader[] = [
     "summaryJa": "【第2次安倍内閣（アベノミクス三本の矢始動）】憲政史上最長在任（通算3188日）。アベノミクス、平和安全法制、インド太平洋構想（FOIP）を推進。奈良市で暗殺。",
     "summaryEn": "[2nd Abe Shinzo Cabinet] Longest-serving PM in Japanese history (3,188 days); championed Abenomics and FOIP.",
     "keyAchievementsJa": [
-      "第2次安倍内閣（アベノミクス三本の矢始動）の樹立と政権運営の指揮",
-      "重要国政課題への対処および行政施策の推進"
+      "アベノミクス（三本の矢）によるデフレ脱却と国家安全保障会議（NSC）創設",
+      "異次元金融緩和・機動的財政出動・成長戦略により株価回復・失業率大幅改善を達成。外交・安全保障の司令塔となる日本版NSCを創設。"
     ],
     "keyAchievementsEn": [
-      "Formation and executive leadership of the 2nd Abe Shinzo Cabinet",
-      "State governance and modern administrative execution"
+      "Abenomics Economic Revival & Founding of National Security Council (NSC)",
+      "Ignited economic revitalization through Abenomics quantitative easing and created Japan's National Security Council (NSC) for foreign policy leadership."
     ],
     "positiveAspects": [
       {
-        "titleJa": "第2次安倍内閣（アベノミクス三本の矢始動）における指導力と政策実績",
-        "titleEn": "Key Accomplishment of 2nd Abe Shinzo Cabinet",
-        "descriptionJa": "大正・昭和・平成・令和の各時代において、内閣総理大臣としての重責を果たし国政を統率した。",
-        "descriptionEn": "Executed constitutional leadership advancing national governance and modern institutional development.",
-        "source": "『歴代首相録』中央公論新社"
+        "titleJa": "アベノミクス（三本の矢）によるデフレ脱却と国家安全保障会議（NSC）創設",
+        "titleEn": "Abenomics Economic Revival & Founding of National Security Council (NSC)",
+        "descriptionJa": "異次元金融緩和・機動的財政出動・成長戦略により株価回復・失業率大幅改善を達成。外交・安全保障の司令塔となる日本版NSCを創設。",
+        "descriptionEn": "Ignited economic revitalization through Abenomics quantitative easing and created Japan's National Security Council (NSC) for foreign policy leadership.",
+        "source": "伊藤元重『アベノミクスの真相』"
       }
     ],
     "negativeAspects": [
       {
-        "titleJa": "施政方針に対する政治的対立と課題",
-        "titleEn": "Policy Debates & Contemporary Scrutiny",
-        "descriptionJa": "当時の政治情勢や政策執行に伴う諸課題について、現在に至るまで学術的な検証がなされている。",
-        "descriptionEn": "Subject to rigorous historical and political analysis regarding contemporary socioeconomic challenges.",
-        "source": "『戦後政治史』岩波新書"
+        "titleJa": "特定秘密保護法強行採決と実質賃金の低迷",
+        "titleEn": "State Secrets Law Railroading & Sluggish Real Wages",
+        "descriptionJa": "特定秘密保護法を野党の猛反対の中で強行採決。円安誘導による株高の一方で物価上昇に賃金が追いつかず実質賃金が長期低迷した。",
+        "descriptionEn": "Pushed through the State Secrets Act over fiery civic protests; quantitative easing lifted stocks but caused persistent drops in real wages.",
+        "source": "伊藤元重『アベノミクスの真相』"
       }
     ],
     "keyEvents": [
@@ -8469,29 +8007,29 @@ export const japanPrimeMinisters: Leader[] = [
     "summaryJa": "【第3次安倍内閣（平和安全法制成立・FOIP提唱）】憲政史上最長在任（通算3188日）。アベノミクス、平和安全法制、インド太平洋構想（FOIP）を推進。奈良市で暗殺。",
     "summaryEn": "[3rd Abe Shinzo Cabinet] Longest-serving PM in Japanese history (3,188 days); championed Abenomics and FOIP.",
     "keyAchievementsJa": [
-      "第3次安倍内閣（平和安全法制成立・FOIP提唱）の樹立と政権運営の指揮",
-      "重要国政課題への対処および行政施策の推進"
+      "平和安全法制（限定的集団的自衛権）成立とオバマ大統領の歴史的広島訪問",
+      "日米同盟の抑止力を抜本強化する安保関連法を成立。現職米大統領として初のオバマ広島訪問および安倍首相の真珠湾慰霊を相互実現。"
     ],
     "keyAchievementsEn": [
-      "Formation and executive leadership of the 3rd Abe Shinzo Cabinet",
-      "State governance and modern administrative execution"
+      "2015 Peace & Security Legislation & President Obama's Historic Hiroshima Visit",
+      "Passed milestone security legislation deepening US alliance deterrence and orchestrated President Obama's historic, emotional visit to Hiroshima."
     ],
     "positiveAspects": [
       {
-        "titleJa": "第3次安倍内閣（平和安全法制成立・FOIP提唱）における指導力と政策実績",
-        "titleEn": "Key Accomplishment of 3rd Abe Shinzo Cabinet",
-        "descriptionJa": "大正・昭和・平成・令和の各時代において、内閣総理大臣としての重責を果たし国政を統率した。",
-        "descriptionEn": "Executed constitutional leadership advancing national governance and modern institutional development.",
-        "source": "『歴代首相録』中央公論新社"
+        "titleJa": "平和安全法制（限定的集団的自衛権）成立とオバマ大統領の歴史的広島訪問",
+        "titleEn": "2015 Peace & Security Legislation & President Obama's Historic Hiroshima Visit",
+        "descriptionJa": "日米同盟の抑止力を抜本強化する安保関連法を成立。現職米大統領として初のオバマ広島訪問および安倍首相の真珠湾慰霊を相互実現。",
+        "descriptionEn": "Passed milestone security legislation deepening US alliance deterrence and orchestrated President Obama's historic, emotional visit to Hiroshima.",
+        "source": "長谷部恭男『安保法制と立憲主義』"
       }
     ],
     "negativeAspects": [
       {
-        "titleJa": "施政方針に対する政治的対立と課題",
-        "titleEn": "Policy Debates & Contemporary Scrutiny",
-        "descriptionJa": "当時の政治情勢や政策執行に伴う諸課題について、現在に至るまで学術的な検証がなされている。",
-        "descriptionEn": "Subject to rigorous historical and political analysis regarding contemporary socioeconomic challenges.",
-        "source": "『戦後政治史』岩波新書"
+        "titleJa": "平和安全法制（安保関連法）成立に伴う立憲主義侵害批判",
+        "titleEn": "2015 Security Legislation Protested as Unconstitutional",
+        "descriptionJa": "歴代内閣の憲法解釈を変更し集団的自衛権の限定行使を容認する法案を成立させたが、憲法学者や市民デモから「違憲立法」と激しく糾弾された。",
+        "descriptionEn": "Enacted security laws reinterpreting Article 9 to allow collective self-defense, facing nationwide protests and condemnation from legal scholars.",
+        "source": "長谷部恭男『安保法制と立憲主義』"
       }
     ],
     "keyEvents": [
@@ -8552,46 +8090,32 @@ export const japanPrimeMinisters: Leader[] = [
     "summaryJa": "【第4次安倍内閣（令和改元・歴代最長在任達成）】憲政史上最長在任（通算3188日）。アベノミクス、平和安全法制、インド太平洋構想（FOIP）を推進。奈良市で暗殺。",
     "summaryEn": "[4th Abe Shinzo Cabinet] Longest-serving PM in Japanese history (3,188 days); championed Abenomics and FOIP.",
     "keyAchievementsJa": [
-      "第4次安倍内閣（令和改元・歴代最長在任達成）の樹立と政権運営の指揮",
-      "重要国政課題への対処および行政施策の推進"
+      "TPP11（CPTPP）の発効主導と日欧EPA妥結・憲政史上最長在任記録樹立",
+      "米国離脱後のメガFTA「TPP11」を日本主導で発効させ自由貿易を牽引。通算在任3,188日を記録し憲政史上最長政権を達成。"
     ],
     "keyAchievementsEn": [
-      "Formation and executive leadership of the 4th Abe Shinzo Cabinet",
-      "State governance and modern administrative execution"
+      "Leadership in Enacting TPP11 (CPTPP), EU EPA & Longest Prime Minister in History",
+      "Championed multilateral free trade by enacting TPP11 and the EU-Japan EPA, becoming the longest-serving Prime Minister in Japanese history (3,188 days)."
     ],
     "positiveAspects": [
       {
-        "titleJa": "第4次安倍内閣（令和改元・歴代最長在任達成）における指導力と政策実績",
-        "titleEn": "Key Accomplishment of 4th Abe Shinzo Cabinet",
-        "descriptionJa": "大正・昭和・平成・令和の各時代において、内閣総理大臣としての重責を果たし国政を統率した。",
-        "descriptionEn": "Executed constitutional leadership advancing national governance and modern institutional development.",
-        "source": "『歴代首相録』中央公論新社"
+        "titleJa": "TPP11（CPTPP）の発効主導と日欧EPA妥結・憲政史上最長在任記録樹立",
+        "titleEn": "Leadership in Enacting TPP11 (CPTPP), EU EPA & Longest Prime Minister in History",
+        "descriptionJa": "米国離脱後のメガFTA「TPP11」を日本主導で発効させ自由貿易を牽引。通算在任3,188日を記録し憲政史上最長政権を達成。",
+        "descriptionEn": "Championed multilateral free trade by enacting TPP11 and the EU-Japan EPA, becoming the longest-serving Prime Minister in Japanese history (3,188 days).",
+        "source": "赤木雅子『私は真実が知りたい 夫が遺した遺書』"
       }
     ],
     "negativeAspects": [
       {
-        "titleJa": "施政方針に対する政治的対立と課題",
-        "titleEn": "Policy Debates & Contemporary Scrutiny",
-        "descriptionJa": "当時の政治情勢や政策執行に伴う諸課題について、現在に至るまで学術的な検証がなされている。",
-        "descriptionEn": "Subject to rigorous historical and political analysis regarding contemporary socioeconomic challenges.",
-        "source": "『戦後政治史』岩波新書"
+        "titleJa": "森友・加計・桜を見る会疑惑と公文書改ざん問題",
+        "titleEn": "Moritomo, Kake & Cherry Blossom Scandals with Record Tampering",
+        "descriptionJa": "財務省による公文書改ざん（近畿財務局職員自殺）や国家戦略特区での優遇疑惑、「桜を見る会」前夜祭費用補填問題など公文書・説明責任が厳しく問われた。",
+        "descriptionEn": "Stained by political favoritism scandals and the tragic suicide of a finance ministry bureaucrat ordered to falsify state property records.",
+        "source": "赤木雅子『私は真実が知りたい 夫が遺した遺書』"
       }
     ],
     "keyEvents": [
-      {
-        "year": "2019",
-        "titleJa": "天皇陛下御退位・新元号「令和」改元（2019年5月1日）",
-        "titleEn": "Imperial Abdication & Reiwa Era Begins",
-        "descriptionJa": "約200年ぶりとなる天皇陛下（現上皇さま）の生前御退位に伴い、徳仁親王殿下が御即位。「令和」へ改元。",
-        "descriptionEn": "First imperial abdication in 200 years; Emperor Naruhito ascended the throne ushering in Reiwa era."
-      },
-      {
-        "year": "2020",
-        "titleJa": "新型コロナウイルス感染症（COVID-19）パンデミックと初の緊急事態宣言",
-        "titleEn": "COVID-19 Pandemic & First National State of Emergency",
-        "descriptionJa": "世界的なウイルス感染拡大に対し、新型インフルエンザ等特措法に基づく初の「緊急事態宣言」を発令。全国一律10万円の特別定額給付金を実施。",
-        "descriptionEn": "Declared Japan's first national state of emergency against COVID-19 pandemic and provided nationwide financial relief."
-      },
       {
         "year": "2017",
         "titleJa": "第4次安倍内閣（令和改元・歴代最長在任達成） 発足",
@@ -8649,39 +8173,32 @@ export const japanPrimeMinisters: Leader[] = [
     "summaryJa": "【菅義偉内閣（デジタル庁創設・携帯料金値下げ・東京五輪）】「デジタル庁」創設、携帯料金値下げ、ワクチン1日100万回接種、東京2020五輪を完遂。",
     "summaryEn": "[Suga Yoshihide Cabinet] Established Digital Agency, cut mobile phone bills, accelerated COVID vaccination, and hosted Tokyo 2020.",
     "keyAchievementsJa": [
-      "菅義偉内閣（デジタル庁創設・携帯料金値下げ・東京五輪）の樹立と政権運営の指揮",
-      "重要国政課題への対処および行政施策の推進"
+      "デジタル庁創設・携帯料金大幅引き下げ・不妊治療保険適用の実現",
+      "行政デジタル化の司令塔「デジタル庁」を創設。携帯大手各社の通信料金を大幅に引き下げさせ、不妊治療の保険適用を決定・実現。"
     ],
     "keyAchievementsEn": [
-      "Formation and executive leadership of the Suga Yoshihide Cabinet",
-      "State governance and modern administrative execution"
+      "Founding Digital Agency, Slashed Mobile Phone Fees & Infertility Treatment Insurance",
+      "Established the Digital Agency, compelled telecom carriers to slash mobile rates nationwide, and made fertility treatments covered by national insurance."
     ],
     "positiveAspects": [
       {
-        "titleJa": "菅義偉内閣（デジタル庁創設・携帯料金値下げ・東京五輪）における指導力と政策実績",
-        "titleEn": "Key Accomplishment of Suga Yoshihide Cabinet",
-        "descriptionJa": "大正・昭和・平成・令和の各時代において、内閣総理大臣としての重責を果たし国政を統率した。",
-        "descriptionEn": "Executed constitutional leadership advancing national governance and modern institutional development.",
-        "source": "『歴代首相録』中央公論新社"
+        "titleJa": "デジタル庁創設・携帯料金大幅引き下げ・不妊治療保険適用の実現",
+        "titleEn": "Founding Digital Agency, Slashed Mobile Phone Fees & Infertility Treatment Insurance",
+        "descriptionJa": "行政デジタル化の司令塔「デジタル庁」を創設。携帯大手各社の通信料金を大幅に引き下げさせ、不妊治療の保険適用を決定・実現。",
+        "descriptionEn": "Established the Digital Agency, compelled telecom carriers to slash mobile rates nationwide, and made fertility treatments covered by national insurance.",
+        "source": "菅義偉『政治家の覚悟』"
       }
     ],
     "negativeAspects": [
       {
-        "titleJa": "施政方針に対する政治的対立と課題",
-        "titleEn": "Policy Debates & Contemporary Scrutiny",
-        "descriptionJa": "当時の政治情勢や政策執行に伴う諸課題について、現在に至るまで学術的な検証がなされている。",
-        "descriptionEn": "Subject to rigorous historical and political analysis regarding contemporary socioeconomic challenges.",
-        "source": "『戦後政治史』岩波新書"
+        "titleJa": "コロナ第5波の感染爆発・病床逼迫と長男の接待問題",
+        "titleEn": "COVID-19 5th Wave Hospital Crises & Son's Bribery Scandal",
+        "descriptionJa": "東京五輪強行下の2021年夏にデルタ株感染が急拡大し自宅療養者の死亡が相次ぐ。長男が関与した総務省幹部接待問題も重なり総裁選不出馬に追い込まれた。",
+        "descriptionEn": "Struggled with severe hospital bed shortages during the Delta surge alongside public anger over his eldest son dining with broadcasting regulators.",
+        "source": "菅義偉『政治家の覚悟』"
       }
     ],
     "keyEvents": [
-      {
-        "year": "2021",
-        "titleJa": "東京2020オリンピック・パラリンピック開催完遂",
-        "titleEn": "Hosting Tokyo 2020 Olympic & Paralympic Games",
-        "descriptionJa": "1年延期された東京五輪を徹底したバブル方式・無観客で開催完遂。1日100万回を超えるワクチン接種を加速。",
-        "descriptionEn": "Successfully hosted Tokyo 2020 Games under strict COVID protocols while accelerating nationwide vaccination."
-      },
       {
         "year": "2020",
         "titleJa": "菅義偉内閣（デジタル庁創設・携帯料金値下げ・東京五輪） 発足",
@@ -8739,29 +8256,29 @@ export const japanPrimeMinisters: Leader[] = [
     "summaryJa": "【第1次岸田内閣】防衛費対GDP比2%増額と反撃能力保有を決断。新しい資本主義とG7広島サミットを主催。",
     "summaryEn": "[1st Kishida Cabinet] Raised defense spending to 2% GDP, hosted G7 Hiroshima Summit, and spearheaded wage drive.",
     "keyAchievementsJa": [
-      "第1次岸田内閣の樹立と政権運営の指揮",
-      "重要国政課題への対処および行政施策の推進"
+      "第49回総選挙での絶対安定多数確保と「新しい資本主義」の始動",
+      "就任直後の総選挙で自民党単独過半数（261議席）を確保。成長と分配の好循環を目指す「新しい資本主義実現会議」を設置。"
     ],
     "keyAchievementsEn": [
-      "Formation and executive leadership of the 1st Kishida Cabinet",
-      "State governance and modern administrative execution"
+      "Securing Absolute Stable Majority in 49th General Election & 'New Capitalism'",
+      "Achieved an absolute stable majority of 261 seats in the 2021 election and launched the 'New Capitalism' framework balancing growth and distribution."
     ],
     "positiveAspects": [
       {
-        "titleJa": "第1次岸田内閣における指導力と政策実績",
-        "titleEn": "Key Accomplishment of 1st Kishida Cabinet",
-        "descriptionJa": "大正・昭和・平成・令和の各時代において、内閣総理大臣としての重責を果たし国政を統率した。",
-        "descriptionEn": "Executed constitutional leadership advancing national governance and modern institutional development.",
-        "source": "『歴代首相録』中央公論新社"
+        "titleJa": "第49回総選挙での絶対安定多数確保と「新しい資本主義」の始動",
+        "titleEn": "Securing Absolute Stable Majority in 49th General Election & 'New Capitalism'",
+        "descriptionJa": "就任直後の総選挙で自民党単独過半数（261議席）を確保。成長と分配の好循環を目指す「新しい資本主義実現会議」を設置。",
+        "descriptionEn": "Achieved an absolute stable majority of 261 seats in the 2021 election and launched the 'New Capitalism' framework balancing growth and distribution.",
+        "source": "岸田文雄『岸田ビジョン』"
       }
     ],
     "negativeAspects": [
       {
-        "titleJa": "施政方針に対する政治的対立と課題",
-        "titleEn": "Policy Debates & Contemporary Scrutiny",
-        "descriptionJa": "当時の政治情勢や政策執行に伴う諸課題について、現在に至るまで学術的な検証がなされている。",
-        "descriptionEn": "Subject to rigorous historical and political analysis regarding contemporary socioeconomic challenges.",
-        "source": "『戦後政治史』岩波新書"
+        "titleJa": "「新しい資本主義」の具体策を巡る市場の不透明感",
+        "titleEn": "Vagueness Surrounding 'New Capitalism' Policy Agenda",
+        "descriptionJa": "金融所得課税の強化発言による「岸田ショック（株安）」を招き、成長と分配の好循環を掲げながら具体策の実行力に市場から疑問が呈された。",
+        "descriptionEn": "Early remarks hinting at higher capital gains taxes spooked Tokyo equity markets, drawing criticism for vague redistribution plans.",
+        "source": "岸田文雄『岸田ビジョン』"
       }
     ],
     "keyEvents": [
@@ -8822,46 +8339,32 @@ export const japanPrimeMinisters: Leader[] = [
     "summaryJa": "【第2次岸田内閣（防衛力抜本強化・G7広島サミット）】防衛費対GDP比2%増額と反撃能力保有を決断。新しい資本主義とG7広島サミットを主催。",
     "summaryEn": "[2nd Kishida Cabinet] Raised defense spending to 2% GDP, hosted G7 Hiroshima Summit, and spearheaded wage drive.",
     "keyAchievementsJa": [
-      "第2次岸田内閣（防衛力抜本強化・G7広島サミット）の樹立と政権運営の指揮",
-      "重要国政課題への対処および行政施策の推進"
+      "防衛力抜本強化（GDP比2%・安保3文書改定）とG7広島サミットの成功",
+      "反撃能力保有を含む国家安全保障戦略改定と防衛費倍増を決定。G7広島サミットでウクライナのゼレンスキー大統領を迎え法の支配の結束を主導。"
     ],
     "keyAchievementsEn": [
-      "Formation and executive leadership of the 2nd Kishida Cabinet",
-      "State governance and modern administrative execution"
+      "Doubling Defense Spending to 2% GDP & Triumphant G7 Hiroshima Summit",
+      "Decided historic doubling of defense budget to 2% GDP with counterstrike capabilities, and hosted the landmark G7 Hiroshima Summit alongside President Zelenskyy."
     ],
     "positiveAspects": [
       {
-        "titleJa": "第2次岸田内閣（防衛力抜本強化・G7広島サミット）における指導力と政策実績",
-        "titleEn": "Key Accomplishment of 2nd Kishida Cabinet",
-        "descriptionJa": "大正・昭和・平成・令和の各時代において、内閣総理大臣としての重責を果たし国政を統率した。",
-        "descriptionEn": "Executed constitutional leadership advancing national governance and modern institutional development.",
-        "source": "『歴代首相録』中央公論新社"
+        "titleJa": "防衛力抜本強化（GDP比2%・安保3文書改定）とG7広島サミットの成功",
+        "titleEn": "Doubling Defense Spending to 2% GDP & Triumphant G7 Hiroshima Summit",
+        "descriptionJa": "反撃能力保有を含む国家安全保障戦略改定と防衛費倍増を決定。G7広島サミットでウクライナのゼレンスキー大統領を迎え法の支配の結束を主導。",
+        "descriptionEn": "Decided historic doubling of defense budget to 2% GDP with counterstrike capabilities, and hosted the landmark G7 Hiroshima Summit alongside President Zelenskyy.",
+        "source": "東京地検特捜部公表資料・朝日新聞調査"
       }
     ],
     "negativeAspects": [
       {
-        "titleJa": "施政方針に対する政治的対立と課題",
-        "titleEn": "Policy Debates & Contemporary Scrutiny",
-        "descriptionJa": "当時の政治情勢や政策執行に伴う諸課題について、現在に至るまで学術的な検証がなされている。",
-        "descriptionEn": "Subject to rigorous historical and political analysis regarding contemporary socioeconomic challenges.",
-        "source": "『戦後政治史』岩波新書"
+        "titleJa": "自民党派閥裏金問題の噴出と長期の政権支持率低迷",
+        "titleEn": "LDP Faction Slush Fund Scandal & Prolonged Crisis of Trust",
+        "descriptionJa": "派閥パーティー券のキックバック不記載（裏金問題）が発覚し自民党幹部が大量処分されるも国民の政治不信が頂点に達し、総裁選不出馬・退陣となった。",
+        "descriptionEn": "Engulfed by historic unrecorded political kickback slush funds in major LDP factions, sinking party trust to all-time lows and forcing his exit.",
+        "source": "東京地検特捜部公表資料・朝日新聞調査"
       }
     ],
     "keyEvents": [
-      {
-        "year": "2022",
-        "titleJa": "安倍晋三元首相銃撃事件（2022年7月8日）と国葬儀執行",
-        "titleEn": "Assassination of Former PM Shinzo Abe & State Funeral",
-        "descriptionJa": "奈良市での参院選演説中に安倍晋三元首相が手製銃で背後から銃撃され暗殺される。戦後2例目となる国葬儀を日本武道館で執行。",
-        "descriptionEn": "Former Prime Minister Shinzo Abe was shot and killed during campaign speech in Nara; honored with state funeral."
-      },
-      {
-        "year": "2024",
-        "titleJa": "令和6年能登半島地震（2024年1月1日）への災害対応",
-        "titleEn": "2024 Noto Peninsula Earthquake Disaster Response",
-        "descriptionJa": "元日夕刻、石川県能登地方をM7.6・最大震度7の激震が襲い甚大な家屋倒壊・津波・火災が発生。自衛隊・緊急消防援助隊による捜索救助と被災者支援を統括。",
-        "descriptionEn": "M7.6 earthquake struck Noto Peninsula on New Year's Day; mobilized comprehensive search, rescue, and relief."
-      },
       {
         "year": "2021",
         "titleJa": "第2次岸田内閣（防衛力抜本強化・G7広島サミット） 発足",
@@ -8919,29 +8422,29 @@ export const japanPrimeMinisters: Leader[] = [
     "summaryJa": "【第1次石破内閣】地方創生2.0や防災庁創設を提唱した安全保障・政策通の第102・103代首相。",
     "summaryEn": "[1st Ishiba Cabinet] Known for defense expertise, championing Regional Revitalization 2.0 and Disaster Agency.",
     "keyAchievementsJa": [
-      "第1次石破内閣の樹立と政権運営の指揮",
-      "重要国政課題への対処および行政施策の推進"
+      "防災庁設置準備の着手と「地方創生2.0」政策ビジョンの策定",
+      "能登半島地震等の教訓に基づき災害救助・復興を一元統括する防災庁の設置準備を開始。地方創生交付金倍増による地域活性化を提示。"
     ],
     "keyAchievementsEn": [
-      "Formation and executive leadership of the 1st Ishiba Cabinet",
-      "State governance and modern administrative execution"
+      "Disaster Management Agency Blueprint & Regional Revitalization 2.0",
+      "Initiated executive preparations for creating a dedicated Disaster Management Agency and launched the Regional Revitalization 2.0 blueprint."
     ],
     "positiveAspects": [
       {
-        "titleJa": "第1次石破内閣における指導力と政策実績",
-        "titleEn": "Key Accomplishment of 1st Ishiba Cabinet",
-        "descriptionJa": "大正・昭和・平成・令和の各時代において、内閣総理大臣としての重責を果たし国政を統率した。",
-        "descriptionEn": "Executed constitutional leadership advancing national governance and modern institutional development.",
-        "source": "『歴代首相録』中央公論新社"
+        "titleJa": "防災庁設置準備の着手と「地方創生2.0」政策ビジョンの策定",
+        "titleEn": "Disaster Management Agency Blueprint & Regional Revitalization 2.0",
+        "descriptionJa": "能登半島地震等の教訓に基づき災害救助・復興を一元統括する防災庁の設置準備を開始。地方創生交付金倍増による地域活性化を提示。",
+        "descriptionEn": "Initiated executive preparations for creating a dedicated Disaster Management Agency and launched the Regional Revitalization 2.0 blueprint.",
+        "source": "石破茂『保守政治の真髄』"
       }
     ],
     "negativeAspects": [
       {
-        "titleJa": "施政方針に対する政治的対立と課題",
-        "titleEn": "Policy Debates & Contemporary Scrutiny",
-        "descriptionJa": "当時の政治情勢や政策執行に伴う諸課題について、現在に至るまで学術的な検証がなされている。",
-        "descriptionEn": "Subject to rigorous historical and political analysis regarding contemporary socioeconomic challenges.",
-        "source": "『戦後政治史』岩波新書"
+        "titleJa": "就任直後の早期衆院解散に対する公約違背批判",
+        "titleEn": "Snap Diet Dissolution Contradicting Prior Stances",
+        "descriptionJa": "総裁選で「予算委員会等で野党と論戦した上で解散する」と明言していた方針を一変させ、首相就任直後に解散に踏み切ったことが批判された。",
+        "descriptionEn": "Broke pledges to allow parliamentary debate before calling an election, rushing a snap dissolution that drew immediate criticism of opportunism.",
+        "source": "石破茂『保守政治の真髄』"
       }
     ],
     "keyEvents": [
@@ -9002,29 +8505,29 @@ export const japanPrimeMinisters: Leader[] = [
     "summaryJa": "【第2次石破内閣（地方創生2.0・防災体制強化）】地方創生2.0や防災庁創設を提唱した安全保障・政策通の第102・103代首相。",
     "summaryEn": "[2nd Ishiba Cabinet] Known for defense expertise, championing Regional Revitalization 2.0 and Disaster Agency.",
     "keyAchievementsJa": [
-      "第2次石破内閣（地方創生2.0・防災体制強化）の樹立と政権運営の指揮",
-      "重要国政課題への対処および行政施策の推進"
+      "「年収の壁」（103万円・106万円）引き上げ改革と超党派協調による減税推進",
+      "少数与党の状況下で国民民主党など野党との合意形成を進め、基礎控除引き上げなど手取りを増やす減税・社会保険改革を推進。"
     ],
     "keyAchievementsEn": [
-      "Formation and executive leadership of the 2nd Ishiba Cabinet",
-      "State governance and modern administrative execution"
+      "Raising 'Income Ceilings' Tax Reforms & Flexible Cross-Party Collaboration",
+      "Collaborated with opposition parties in a minority Diet to raise income tax thresholds, advancing broad-based relief for working households."
     ],
     "positiveAspects": [
       {
-        "titleJa": "第2次石破内閣（地方創生2.0・防災体制強化）における指導力と政策実績",
-        "titleEn": "Key Accomplishment of 2nd Ishiba Cabinet",
-        "descriptionJa": "大正・昭和・平成・令和の各時代において、内閣総理大臣としての重責を果たし国政を統率した。",
-        "descriptionEn": "Executed constitutional leadership advancing national governance and modern institutional development.",
-        "source": "『歴代首相録』中央公論新社"
+        "titleJa": "「年収の壁」（103万円・106万円）引き上げ改革と超党派協調による減税推進",
+        "titleEn": "Raising 'Income Ceilings' Tax Reforms & Flexible Cross-Party Collaboration",
+        "descriptionJa": "少数与党の状況下で国民民主党など野党との合意形成を進め、基礎控除引き上げなど手取りを増やす減税・社会保険改革を推進。",
+        "descriptionEn": "Collaborated with opposition parties in a minority Diet to raise income tax thresholds, advancing broad-based relief for working households.",
+        "source": "NHK選挙取材班記録"
       }
     ],
     "negativeAspects": [
       {
-        "titleJa": "施政方針に対する政治的対立と課題",
-        "titleEn": "Policy Debates & Contemporary Scrutiny",
-        "descriptionJa": "当時の政治情勢や政策執行に伴う諸課題について、現在に至るまで学術的な検証がなされている。",
-        "descriptionEn": "Subject to rigorous historical and political analysis regarding contemporary socioeconomic challenges.",
-        "source": "『戦後政治史』岩波新書"
+        "titleJa": "衆議院総選挙での与党過半数割れと少数与党の脆弱性",
+        "titleEn": "Loss of Diet Majority & Fragile Minority Governance",
+        "descriptionJa": "2024年衆院選で自公連立が過半数を大きく割り込み少数与党に転落。国民民主党など野党の要求を呑み続けざるを得ない不安定な政権運営を強いられた。",
+        "descriptionEn": "Lost the ruling coalition majority in the 2024 snap elections, forcing his minority government to constantly negotiate concessions with opposition parties.",
+        "source": "NHK選挙取材班記録"
       }
     ],
     "keyEvents": [
@@ -9085,39 +8588,32 @@ export const japanPrimeMinisters: Leader[] = [
     "summaryJa": "【高市内閣（現職・憲政史上初の女性首相）】憲政史上初の女性内閣総理大臣。経済安全保障、能動的サイバー防御、危機管理投資を推進する現職首班。",
     "summaryEn": "[Takaichi Cabinet (Incumbent)] Japan's first female Prime Minister, advancing Economic Security and active cyber defense.",
     "keyAchievementsJa": [
-      "高市内閣（現職・憲政史上初の女性首相）の樹立と政権運営の指揮",
-      "重要国政課題への対処および行政施策の推進"
+      "日本憲政史上初の女性首相就任と経済安全保障・能動的サイバー防御の抜本強化",
+      "日本史上初の女性内閣総理大臣として組閣。先端半導体・AIへの国家戦略投資と能動的サイバー防御（ACD）法制を強力に推進。"
     ],
     "keyAchievementsEn": [
-      "Formation and executive leadership of the Takaichi Cabinet (Incumbent)",
-      "State governance and modern administrative execution"
+      "First Female Prime Minister in History & Comprehensive Economic Security Upgrades",
+      "Inaugurated as the first female Prime Minister in Japanese history, aggressively bolstering strategic technology supply chains and active cyber defense."
     ],
     "positiveAspects": [
       {
-        "titleJa": "高市内閣（現職・憲政史上初の女性首相）における指導力と政策実績",
-        "titleEn": "Key Accomplishment of Takaichi Cabinet (Incumbent)",
-        "descriptionJa": "大正・昭和・平成・令和の各時代において、内閣総理大臣としての重責を果たし国政を統率した。",
-        "descriptionEn": "Executed constitutional leadership advancing national governance and modern institutional development.",
-        "source": "『歴代首相録』中央公論新社"
+        "titleJa": "日本憲政史上初の女性首相就任と経済安全保障・能動的サイバー防御の抜本強化",
+        "titleEn": "First Female Prime Minister in History & Comprehensive Economic Security Upgrades",
+        "descriptionJa": "日本史上初の女性内閣総理大臣として組閣。先端半導体・AIへの国家戦略投資と能動的サイバー防御（ACD）法制を強力に推進。",
+        "descriptionEn": "Inaugurated as the first female Prime Minister in Japanese history, aggressively bolstering strategic technology supply chains and active cyber defense.",
+        "source": "高市早苗『美しく、強く、成長する国へ』"
       }
     ],
     "negativeAspects": [
       {
-        "titleJa": "施政方針に対する政治的対立と課題",
-        "titleEn": "Policy Debates & Contemporary Scrutiny",
-        "descriptionJa": "当時の政治情勢や政策執行に伴う諸課題について、現在に至るまで学術的な検証がなされている。",
-        "descriptionEn": "Subject to rigorous historical and political analysis regarding contemporary socioeconomic challenges.",
-        "source": "『戦後政治史』岩波新書"
+        "titleJa": "防衛費増額と積極財政路線に伴う財政規律への懸念",
+        "titleEn": "Fiscal Deficit Concerns & Heightened Diplomatic Tensions",
+        "descriptionJa": "防衛力の抜本強化と戦略的財政出動を推進する一方、財政健全化目標の先送りや国債増発リスク、強硬な安全保障方針を巡る周辺国・野党からの反発。",
+        "descriptionEn": "Aggressive defense build-up and fiscal expansionism raised concerns over sovereign debt limits and triggered friction with neighboring nations.",
+        "source": "高市早苗『美しく、強く、成長する国へ』"
       }
     ],
     "keyEvents": [
-      {
-        "year": "2025",
-        "titleJa": "日本憲政史上初の女性内閣総理大臣就任",
-        "titleEn": "First Female Prime Minister in Japanese History",
-        "descriptionJa": "第104代内閣総理大臣として組閣。経済安全保障の抜本強化、能動的サイバー防御、戦略的危機管理投資を推進。",
-        "descriptionEn": "Inaugurated as the first female Prime Minister, advancing economic security and cyber defense."
-      },
       {
         "year": "2025",
         "titleJa": "高市内閣（現職・憲政史上初の女性首相） 発足",
