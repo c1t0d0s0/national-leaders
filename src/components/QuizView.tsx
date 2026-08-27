@@ -20,6 +20,15 @@ interface QuizViewProps {
   onSelectLeader: (leader: Leader) => void;
 }
 
+function shuffleArray<T>(array: T[]): T[] {
+  const arr = [...array];
+  for (let i = arr.length - 1; i > 0; i--) {
+    const j = Math.floor(Math.random() * (i + 1));
+    [arr[i], arr[j]] = [arr[j], arr[i]];
+  }
+  return arr;
+}
+
 export const QuizView: React.FC<QuizViewProps> = ({
   language,
   onSelectLeader,
@@ -27,24 +36,30 @@ export const QuizView: React.FC<QuizViewProps> = ({
   const t = translations[language];
 
   const [selectedCategory, setSelectedCategory] = useState<LeaderCategory | 'all'>('all');
+  const [quizSeed, setQuizSeed] = useState(0);
   const [currentIndex, setCurrentIndex] = useState(0);
   const [selectedOptionId, setSelectedOptionId] = useState<string | null>(null);
   const [isAnswered, setIsAnswered] = useState(false);
   const [score, setScore] = useState(0);
   const [quizFinished, setQuizFinished] = useState(false);
 
-  // Filter questions based on selected category
+  // Filter and randomly shuffle questions and their options for each quiz run
   const activeQuestions = useMemo(() => {
-    if (selectedCategory === 'all') {
-      return quizQuestions;
-    }
-    return quizQuestions.filter((q) => q.category === selectedCategory);
-  }, [selectedCategory]);
+    const base = selectedCategory === 'all'
+      ? quizQuestions
+      : quizQuestions.filter((q) => q.category === selectedCategory);
+
+    return shuffleArray(base).map((q) => ({
+      ...q,
+      options: shuffleArray(q.options),
+    }));
+  }, [selectedCategory, quizSeed]);
 
   const currentQ = activeQuestions[currentIndex] || activeQuestions[0];
 
   const handleSelectCategory = (cat: LeaderCategory | 'all') => {
     setSelectedCategory(cat);
+    setQuizSeed((prev) => prev + 1);
     setCurrentIndex(0);
     setSelectedOptionId(null);
     setIsAnswered(false);
@@ -83,6 +98,7 @@ export const QuizView: React.FC<QuizViewProps> = ({
   };
 
   const handleRestartQuiz = () => {
+    setQuizSeed((prev) => prev + 1);
     setCurrentIndex(0);
     setSelectedOptionId(null);
     setIsAnswered(false);

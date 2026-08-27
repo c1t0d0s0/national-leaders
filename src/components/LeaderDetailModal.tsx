@@ -79,64 +79,69 @@ export const LeaderDetailModal: React.FC<LeaderDetailModalProps> = ({
   ];
 
   return (
-    <div className="fixed inset-0 z-50 flex items-center justify-center p-2 sm:p-4 bg-black/60 backdrop-blur-sm animate-fadeIn overflow-y-auto">
+    <div className="fixed inset-0 z-50 flex items-center justify-center p-0 sm:p-4 bg-black/60 backdrop-blur-sm animate-fadeIn overflow-hidden">
       <div 
-        className="relative w-full max-w-4xl max-h-[92vh] bg-white dark:bg-slate-900 rounded-3xl shadow-2xl border border-slate-200 dark:border-slate-800 flex flex-col overflow-hidden my-auto animate-scaleUp"
+        className="relative w-full sm:max-w-4xl h-full sm:h-auto sm:max-h-[90vh] bg-white dark:bg-slate-900 sm:rounded-3xl shadow-2xl border-0 sm:border border-slate-200 dark:border-slate-800 flex flex-col overflow-hidden animate-scaleUp"
         onClick={(e) => e.stopPropagation()}
       >
         {/* Header Hero Banner */}
-        <div className={`relative p-6 bg-gradient-to-r ${colors.bg} border-b border-slate-200 dark:border-slate-800`}>
-          {/* Close & Compare Floating Buttons */}
-          <div className="absolute top-4 right-4 flex items-center gap-2">
-            <button
-              onClick={() => onToggleCompare(leader)}
-              className={`flex items-center gap-1 px-3 py-1.5 rounded-xl text-xs font-semibold shadow-sm transition ${
-                isCompared
-                  ? 'bg-amber-500 text-white'
-                  : 'bg-white/80 dark:bg-slate-800/80 backdrop-blur-md text-slate-700 dark:text-slate-200 hover:bg-white dark:hover:bg-slate-800'
-              }`}
-            >
-              {isCompared ? <Check className="w-3.5 h-3.5" /> : <Plus className="w-3.5 h-3.5" />}
-              <span>{isCompared ? t.leaderCard.removeFromCompare : t.leaderCard.addToCompare}</span>
-            </button>
+        <div className={`p-4 sm:p-6 bg-gradient-to-r ${colors.bg} border-b border-slate-200 dark:border-slate-800 shrink-0`}>
+          {/* Header Top Controls Row */}
+          <div className="flex items-center justify-between gap-2 mb-3">
+            {/* Category & Order Badge */}
+            <div className="flex items-center gap-1.5 sm:gap-2 flex-wrap">
+              <span className={`px-2.5 sm:px-3 py-0.5 sm:py-1 rounded-full text-[11px] sm:text-xs font-bold border ${colors.badgeBg}`}>
+                {getCategoryLabel()} {leader.termDisplayJa && language === 'ja' ? leader.termDisplayJa : `${t.leaderCard.orderPrefix}${leader.order}${t.leaderCard.orderSuffix}`}
+              </span>
+              {leader.eraNameJa && (
+                <span className="px-2 sm:px-2.5 py-0.5 sm:py-1 rounded-full text-[11px] sm:text-xs font-medium bg-slate-200/70 dark:bg-slate-800 text-slate-700 dark:text-slate-300">
+                  {language === 'ja' ? leader.eraNameJa : leader.eraNameEn || leader.eraNameJa}
+                </span>
+              )}
+            </div>
 
-            <button
-              onClick={onClose}
-              className="p-2 rounded-xl bg-white/80 dark:bg-slate-800/80 backdrop-blur-md text-slate-500 dark:text-slate-400 hover:text-slate-900 dark:hover:text-white transition shadow-sm"
-              aria-label="Close modal"
-            >
-              <X className="w-5 h-5" />
-            </button>
+            {/* Action Buttons: Compare & Close */}
+            <div className="flex items-center gap-1.5 sm:gap-2 shrink-0">
+              <button
+                onClick={() => onToggleCompare(leader)}
+                className={`flex items-center gap-1 px-2.5 sm:px-3 py-1 sm:py-1.5 rounded-xl text-xs font-semibold shadow-sm transition ${
+                  isCompared
+                    ? 'bg-amber-500 text-white'
+                    : 'bg-white/80 dark:bg-slate-800/80 backdrop-blur-md text-slate-700 dark:text-slate-200 hover:bg-white dark:hover:bg-slate-800'
+                }`}
+              >
+                {isCompared ? <Check className="w-3.5 h-3.5" /> : <Plus className="w-3.5 h-3.5" />}
+                <span className="hidden xs:inline sm:inline">{isCompared ? t.leaderCard.removeFromCompare : t.leaderCard.addToCompare}</span>
+              </button>
+
+              <button
+                onClick={onClose}
+                className="p-1.5 sm:p-2 rounded-xl bg-white/80 dark:bg-slate-800/80 backdrop-blur-md text-slate-500 dark:text-slate-400 hover:text-slate-900 dark:hover:text-white transition shadow-sm"
+                aria-label="Close modal"
+              >
+                <X className="w-4 h-4 sm:w-5 sm:h-5" />
+              </button>
+            </div>
           </div>
 
-          {/* Leader Hero Profile */}
-          <div className="flex flex-col sm:flex-row items-center sm:items-start gap-5 pt-2">
-            <LeaderAvatar leader={leader} language={language} size="lg" className="shadow-lg shrink-0" />
+          {/* Leader Profile Info */}
+          <div className="flex items-center sm:items-start gap-3.5 sm:gap-5">
+            <LeaderAvatar leader={leader} language={language} size="md" className="shadow-lg shrink-0 sm:w-24 sm:h-24 md:w-28 md:h-28" />
 
-            <div className="flex-1 text-center sm:text-left">
-              {/* Category & Order Badge */}
-              <div className="flex items-center justify-center sm:justify-start gap-2 flex-wrap mb-1.5">
-                <span className={`px-3 py-0.5 rounded-full text-xs font-bold border ${colors.badgeBg}`}>
-                  {getCategoryLabel()} {leader.termDisplayJa && language === 'ja' ? leader.termDisplayJa : `${t.leaderCard.orderPrefix}${leader.order}${t.leaderCard.orderSuffix}`}
-                </span>
-                {leader.eraNameJa && (
-                  <span className="px-2.5 py-0.5 rounded-full text-xs font-medium bg-slate-200/70 dark:bg-slate-800 text-slate-700 dark:text-slate-300">
-                    {language === 'ja' ? leader.eraNameJa : leader.eraNameEn || leader.eraNameJa}
-                  </span>
-                )}
-              </div>
-
-              {/* Names */}
-              <h2 className="text-2xl sm:text-3xl font-extrabold text-slate-900 dark:text-white tracking-tight">
+            <div className="flex-1 min-w-0">
+              <p className="text-[11px] sm:text-xs text-slate-500 dark:text-slate-400 font-medium truncate mb-0.5">
+                {language === 'ja' ? leader.nameRuby : leader.nameEn}
+              </p>
+              <h2 className="text-xl sm:text-2xl md:text-3xl font-extrabold text-slate-900 dark:text-white tracking-tight truncate leading-tight">
                 {language === 'ja' ? leader.nameJa : leader.nameEn}
               </h2>
-              <p className="text-sm text-slate-500 dark:text-slate-400">
-                {language === 'ja' ? `${leader.nameRuby} / ${leader.nameEn}` : `${leader.nameJa} (${leader.nameRuby})`}
+              <p className="text-xs sm:text-sm text-slate-500 dark:text-slate-400 truncate mt-0.5">
+                {language === 'ja' ? leader.nameEn : `${leader.nameJa} (${leader.nameRuby})`}
               </p>
 
               {/* Image Attribution */}
               {(leader.imageCaptionJa || leader.imageCaptionEn) && (
-                <p className="text-[11px] text-slate-400 dark:text-slate-500 mt-1 italic">
+                <p className="text-[10px] sm:text-[11px] text-slate-400 dark:text-slate-500 mt-1 italic truncate">
                   📷 {language === 'ja' ? leader.imageCaptionJa : leader.imageCaptionEn}
                 </p>
               )}
@@ -145,16 +150,16 @@ export const LeaderDetailModal: React.FC<LeaderDetailModalProps> = ({
         </div>
 
         {/* Tab Navigation */}
-        <div className="flex items-center overflow-x-auto no-scrollbar border-b border-slate-200 dark:border-slate-800 bg-slate-50/50 dark:bg-slate-900/50 px-4 sm:px-6 gap-2">
+        <div className="flex items-center overflow-x-auto no-scrollbar border-b border-slate-200 dark:border-slate-800 bg-slate-50/80 dark:bg-slate-900/80 px-3 sm:px-6 gap-1 sm:gap-2 shrink-0">
           {tabs.map((tab) => {
             const isActive = activeTab === tab.id;
             return (
               <button
                 key={tab.id}
                 onClick={() => setActiveTab(tab.id)}
-                className={`flex items-center gap-1.5 py-3 px-3 text-xs sm:text-sm font-semibold border-b-2 transition whitespace-nowrap ${
+                className={`flex items-center gap-1.5 py-3 sm:py-3.5 px-3 sm:px-4 text-xs sm:text-sm font-bold border-b-2 transition whitespace-nowrap shrink-0 ${
                   isActive
-                    ? 'border-slate-900 dark:border-white text-slate-900 dark:text-white'
+                    ? 'border-amber-500 text-amber-600 dark:text-amber-400 bg-white/50 dark:bg-slate-800/50'
                     : 'border-transparent text-slate-500 hover:text-slate-800 dark:hover:text-slate-200'
                 }`}
               >
@@ -166,7 +171,7 @@ export const LeaderDetailModal: React.FC<LeaderDetailModalProps> = ({
         </div>
 
         {/* Tab Content Body */}
-        <div className="p-6 overflow-y-auto flex-1 space-y-6">
+        <div className="p-4 sm:p-6 overflow-y-auto flex-1 space-y-5 sm:space-y-6">
           {/* TAB 1: Profile & Physical */}
           {activeTab === 'profile' && (
             <div className="space-y-6">
