@@ -56,6 +56,8 @@ export const translations = {
       removeFromCompare: '比較から外す',
       compareLimitReached: '最大3名まで比較できます',
       currentInOffice: '現職',
+      positiveCount: '功績/評価',
+      negativeCount: '批判/課題',
     },
     modal: {
       tabs: {
@@ -198,6 +200,8 @@ export const translations = {
       removeFromCompare: 'Remove from Compare',
       compareLimitReached: 'Maximum 3 leaders can be compared',
       currentInOffice: 'Incumbent',
+      positiveCount: 'Achievements',
+      negativeCount: 'Critiques',
     },
     modal: {
       tabs: {

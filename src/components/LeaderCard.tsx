@@ -175,12 +175,12 @@ export const LeaderCard: React.FC<LeaderCardProps> = ({
         <div className="flex items-center gap-2 pt-2 border-t border-slate-100 dark:border-slate-800 text-[11px]">
           <div className="flex items-center gap-1 text-emerald-600 dark:text-emerald-400 font-medium">
             <CheckCircle2 className="w-3 h-3" />
-            <span>{leader.positiveAspects.length} 功績/評価</span>
+            <span>{leader.positiveAspects.length} {t.leaderCard.positiveCount}</span>
           </div>
           <span className="text-slate-300 dark:text-slate-700">•</span>
           <div className="flex items-center gap-1 text-rose-600 dark:text-rose-400 font-medium">
             <AlertCircle className="w-3 h-3" />
-            <span>{leader.negativeAspects.length} 批判/課題</span>
+            <span>{leader.negativeAspects.length} {t.leaderCard.negativeCount}</span>
           </div>
         </div>
       </div>

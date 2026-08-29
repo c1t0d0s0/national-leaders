@@ -419,7 +419,7 @@ export const LeaderDetailModal: React.FC<LeaderDetailModalProps> = ({
                       </p>
                       {item.source && (
                         <p className="text-[11px] text-emerald-800 dark:text-emerald-400 font-medium">
-                          📚 根拠・出典: {item.source}
+                          {language === 'ja' ? '📚 根拠・出典: ' : '📚 Source / Citation: '}{item.source}
                         </p>
                       )}
                     </div>
@@ -448,7 +448,7 @@ export const LeaderDetailModal: React.FC<LeaderDetailModalProps> = ({
                       </p>
                       {item.source && (
                         <p className="text-[11px] text-rose-800 dark:text-rose-400 font-medium">
-                          📚 根拠・出典: {item.source}
+                          {language === 'ja' ? '📚 根拠・出典: ' : '📚 Source / Citation: '}{item.source}
                         </p>
                       )}
                     </div>
