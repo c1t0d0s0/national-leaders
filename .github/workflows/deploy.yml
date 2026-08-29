@@ -43,7 +43,12 @@ jobs:
           mkdir -p public
           if [ -n "$GTM_ID" ]; then
             echo "Injecting GTM_ID from repository variable/secret into config.js"
-            printf "const GTM_ID = '%%s';\nif (typeof window !== 'undefined') {\n  window.GTM_ID = GTM_ID;\n}\n" "$GTM_ID" > public/config.js
+            printf "const GTM_ID = '%s';\nif (typeof window !== 'undefined') {\n  window.GTM_ID = GTM_ID;\n}\n" "$GTM_ID" > public/config.js
+          elif [ -f public/config.js ]; then
+            echo "Keeping existing public/config.js"
+          elif [ -f config.js ]; then
+            echo "Using existing root config.js"
+            cp config.js public/config.js
           else
             echo "No GTM_ID variable found in GitHub Actions, creating default config.js"
             printf "const GTM_ID = '';\nif (typeof window !== 'undefined') {\n  window.GTM_ID = GTM_ID;\n}\n" > public/config.js

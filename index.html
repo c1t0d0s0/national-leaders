@@ -14,7 +14,7 @@
     <script>
       (function() {
         var gtmId = window.GTM_ID || (typeof GTM_ID !== 'undefined' ? GTM_ID : '');
-        if (!gtmId) return;
+        if (!gtmId || gtmId === '%s') return;
 
         window.dataLayer = window.dataLayer || [];
 
