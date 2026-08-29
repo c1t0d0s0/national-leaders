@@ -117,6 +117,12 @@ export const App: React.FC = () => {
     return detectBrowserLanguage();
   });
 
+  // Synchronize document.title and html lang dynamically
+  useEffect(() => {
+    document.title = language === 'ja' ? '歴史リーダー事典' : 'National Leaders Archive';
+    document.documentElement.lang = language;
+  }, [language]);
+
   // 2. Dark Mode state: Default to light theme
   const [isDarkMode, setIsDarkMode] = useState<boolean>(() => {
     const saved = localStorage.getItem('nl_dark_mode');

@@ -3,7 +3,7 @@ import { Language, LeaderCategory, ViewMode } from '../types';
 export const translations = {
   ja: {
     app: {
-      title: '歴代指導者アーカイブ',
+      title: '歴史リーダー事典',
       subtitle: '徳川将軍・歴代首相・歴代大統領の功績・身体データ・客観的両面評価を学ぶ',
       badge: '客観的史料・公的記録準拠',
     },
