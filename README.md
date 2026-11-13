@@ -157,7 +157,11 @@ You can configure `GTM_ID` via GitHub repository variables or secrets to inject 
 2. Click **New repository variable** and set:
    - **Name**: `GTM_ID`
    - **Value**: `GTM-XXXXXXX` (GTM container ID) or `G-XXXXXXXXXX` (GA4 Measurement ID)
-3. When pushing a `v*` tag, GitHub Actions will dynamically inject this `GTM_ID` into `config.js` prior to building and publishing the site.
+3. When pushing a `v*` tag, GitHub Actions reads this `GTM_ID` at build time and embeds the matching tag into `index.html` before publishing the site.
+   - Starts with `GTM-`: Google Tag Manager snippet (a `<script>` in `<head>` and a `<noscript>` right after `<body>`)
+   - Starts with `G-` etc.: Google tag (gtag.js / GA4) snippet
+
+If `GTM_ID` is not set, the build falls back to the `GTM_ID` value in `public/config.js`, then `config.js` (see `config.example.js`), and applies the same rules. This also applies to a local `npm run build`.
 
 ---
 

@@ -36,26 +36,13 @@ jobs:
       - name: Install dependencies
         run: npm ci || npm install
 
-      - name: Create or Inject GTM_ID into config.js
+      - name: Build project
+        # GTM_ID is read by vite.config.ts at build time.
+        #   GTM-XXXXXXX  -> Google Tag Manager snippet
+        #   G-XXXXXXXXXX -> Google tag (gtag.js / GA4) snippet
+        # If empty, public/config.js or config.js is used as a fallback.
         env:
           GTM_ID: ${{ vars.GTM_ID || secrets.GTM_ID }}
-        run: |
-          mkdir -p public
-          if [ -n "$GTM_ID" ]; then
-            echo "Injecting GTM_ID from repository variable/secret into config.js"
-            printf "const GTM_ID = '%s';\nif (typeof window !== 'undefined') {\n  window.GTM_ID = GTM_ID;\n}\n" "$GTM_ID" > public/config.js
-          elif [ -f public/config.js ]; then
-            echo "Keeping existing public/config.js"
-          elif [ -f config.js ]; then
-            echo "Using existing root config.js"
-            cp config.js public/config.js
-          else
-            echo "No GTM_ID variable found in GitHub Actions, creating default config.js"
-            printf "const GTM_ID = '';\nif (typeof window !== 'undefined') {\n  window.GTM_ID = GTM_ID;\n}\n" > public/config.js
-          fi
-          cp public/config.js config.js 2>/dev/null || true
-
-      - name: Build project
         run: npm run build
 
       - name: Setup Pages

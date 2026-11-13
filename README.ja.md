@@ -157,7 +157,11 @@ GitHub リポジトリの変数またはシークレットに `GTM_ID` を登録
 2. **New repository variable** をクリックし、以下を設定します：
    - **Name**: `GTM_ID`
    - **Value**: `GTM-XXXXXXX`（GTMコンテナID）または `G-XXXXXXXXXX`（GA4測定ID）
-3. `v*` タグをプッシュすると、GitHub Actions が自動的にこの `GTM_ID` を `config.js` に注入してビルド・公開します。
+3. `v*` タグをプッシュすると、GitHub Actions がビルド時にこの `GTM_ID` を読み取り、`index.html` にタグを埋め込んで公開します。
+   - `GTM-` で始まる場合: Google Tag Manager のタグ（`<head>` 内のスクリプトと `<body>` 直後の `<noscript>`）
+   - `G-` などで始まる場合: Google タグ（gtag.js / GA4）
+
+`GTM_ID` が設定されていない場合は、`public/config.js` → `config.js` の順に `GTM_ID` の値を読み取り、同じルールでタグを埋め込みます（`config.example.js` を参照）。ローカルの `npm run build` でも同様です。
 
 ---
 
